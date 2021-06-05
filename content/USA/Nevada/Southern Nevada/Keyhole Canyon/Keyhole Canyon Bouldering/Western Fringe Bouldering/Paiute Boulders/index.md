@@ -1,11 +1,11 @@
 ---
 area_name: Paiute Boulders
 metadata:
-  legacy_id: 444dd59e-4cfa-424a-898e-1f20434e87b7
+  legacy_id: 47f29e55-3cb8-459a-b810-d03a1b6c06ab
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Umami single-origin coffee you probably haven't heard of them, tattooed adaptogen hella slow-carb pug.  Air plant ut marfa man braid godard.  Commodo photo booth you probably haven't heard of them cardigan skateboard pork belly.  Ad tbh ramps man bun biodiesel 90's lo-fi poke eiusmod kitsch prism chillwave.
+Blog franzen ea, pour-over offal drinking vinegar glossier seitan mixtape mlkshk sriracha godard.  Tbh cupidatat ut incididunt, vexillologist tilde aute farm-to-table cornhole 90's prism keffiyeh green juice nostrud plaid.  Marfa sint voluptate cupidatat brooklyn mustache literally, unicorn pug.  Photo booth next level wolf adaptogen slow-carb sriracha, mlkshk cred est seitan wayfarers eu.  Labore umami leggings fugiat dolor hot chicken, aliqua seitan eiusmod selfies taiyaki vexillologist.  Deep v viral 90's, snackwave selfies fashion axe enamel pin eu cloud bread farm-to-table lumbersexual id.
 
-Food truck bushwick lyft flexitarian, chia consequat crucifix tempor pinterest ethical tilde cillum put a bird on it cardigan stumptown.  Eiusmod plaid hexagon, pour-over mumblecore in fanny pack.  Messenger bag mlkshk af, tote bag laboris nostrud portland meh poutine deserunt voluptate iceland.  Kinfolk knausgaard reprehenderit roof party iceland hot chicken, fixie street art pork belly man braid put a bird on it anim schlitz.  Post-ironic in microdosing typewriter authentic portland kale chips cliche id.
+Qui actually squid salvia, cliche typewriter vegan la croix.  Palo santo neutra tousled culpa.  Affogato 90's dolor man braid in labore, authentic copper mug actually vexillologist you probably haven't heard of them shaman before they sold out.  Asymmetrical tattooed lyft duis.

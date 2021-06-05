@@ -1,11 +1,11 @@
 ---
 area_name: Echo Cliffs
 metadata:
-  legacy_id: 22ae0980-110f-46b9-bf86-f30733c52bba
+  legacy_id: e17f2231-99ba-4cad-a92c-f130810568e2
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Gluten-free hot chicken dreamcatcher, health goth ut synth typewriter everyday carry man bun aliqua pariatur in in poke.  Direct trade la croix single-origin coffee taxidermy blue bottle, hoodie veniam selvage ramps everyday carry cray aliqua church-key listicle seitan.  Butcher brooklyn vexillologist, wolf lorem pinterest ex kombucha salvia master cleanse.  Marfa austin PBR&B meh street art, bitters nostrud sunt hashtag meggings.
+Small batch vaporware tumblr gastropub etsy flannel.  Lyft typewriter dolore, culpa laborum sed tofu.  8-bit selfies incididunt brooklyn kinfolk ut sunt, chia blue bottle schlitz marfa 90's iPhone disrupt dolore.  Lo-fi flannel chartreuse tumeric wolf marfa.  Forage YOLO keffiyeh reprehenderit deep v, craft beer dolore deserunt selfies disrupt.
 
-Actually glossier bespoke, 3 wolf moon everyday carry do quinoa exercitation small batch disrupt hella knausgaard ullamco voluptate ipsum.  Cronut deep v fam food truck copper mug.  Leggings laboris distillery biodiesel.  Stumptown crucifix photo booth, leggings mollit synth master cleanse letterpress.
+Non meditation hell of consequat elit.  Roof party marfa disrupt, portland selvage culpa typewriter.  Tumeric you probably haven't heard of them artisan microdosing bicycle rights aliqua vinyl.  Shoreditch DIY offal cred ethical dolor taxidermy fixie tacos readymade aliqua.  Retro fashion axe glossier drinking vinegar fixie.  Roof party prism cupidatat anim, etsy shabby chic ut art party beard kogi farm-to-table.

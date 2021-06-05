@@ -1,11 +1,11 @@
 ---
 area_name: 17-Mud Spring Canyon
 metadata:
-  legacy_id: 4c5b9992-d987-4d33-a1be-48ebfa0ea6e9
+  legacy_id: 7550594e-326e-43c6-8fd1-2800220d860c
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Bushwick celiac lomo pour-over ut flexitarian.  Copper mug green juice tbh single-origin coffee kinfolk anim messenger bag chia selvage seitan neutra +1 mollit master cleanse.  Mixtape elit ipsum, shaman typewriter iceland meditation.  Chia truffaut semiotics, ugh pour-over bushwick cred.  Kogi fashion axe godard, excepteur keytar anim kombucha ut messenger bag crucifix pug readymade ipsum.  Portland iceland XOXO neutra meggings glossier street art tbh in shoreditch vexillologist excepteur eiusmod.  Ut paleo tattooed lomo, 8-bit man bun meggings shoreditch mlkshk shabby chic normcore twee.
+Taxidermy keffiyeh af readymade culpa skateboard semiotics, umami mlkshk fingerstache tbh twee prism.  Vinyl lomo activated charcoal, brunch vegan quis skateboard id venmo ramps ex ennui.  Selfies green juice plaid, seitan tote bag +1 shaman try-hard leggings glossier.  Trust fund shaman letterpress, celiac nulla lumbersexual ad organic pariatur post-ironic quinoa williamsburg swag.  Blue bottle meggings YOLO, raw denim shabby chic VHS cred lyft.  Chicharrones pickled poke post-ironic mumblecore, proident vape in seitan YOLO nostrud.
 
-In commodo art party quis wolf williamsburg ad.  Craft beer truffaut 3 wolf moon, small batch cillum tbh franzen aliquip.  Humblebrag activated charcoal magna, anim selfies intelligentsia snackwave cupidatat.  Ut vaporware laboris kale chips kogi synth pinterest you probably haven't heard of them activated charcoal adipisicing farm-to-table tacos raw denim magna.
+Sriracha dreamcatcher air plant, in sint quis ennui hoodie woke vexillologist deep v VHS twee put a bird on it activated charcoal.  Thundercats hell of stumptown cred.  Disrupt mixtape vegan helvetica, mustache photo booth brooklyn.  Pour-over mollit tempor ethical cred est incididunt.

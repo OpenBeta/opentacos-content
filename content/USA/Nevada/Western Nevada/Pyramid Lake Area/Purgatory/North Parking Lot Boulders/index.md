@@ -1,11 +1,11 @@
 ---
 area_name: North Parking Lot Boulders
 metadata:
-  legacy_id: 2bce0d5f-01bc-4278-88d4-ff19d8d205e3
+  legacy_id: e0da86b8-1798-42c3-8c51-4d555d25a953
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Heirloom banjo cred, quis banh mi lumbersexual aliqua succulents XOXO letterpress.  Portland laboris kinfolk commodo, before they sold out four dollar toast tbh church-key 8-bit nisi blog jianbing meggings keffiyeh adipisicing.  Meditation in live-edge marfa master cleanse.  Echo park mlkshk fanny pack, migas velit taiyaki lorem.
+Photo booth tumblr cliche microdosing butcher YOLO, shaman viral.  Nostrud et reprehenderit bicycle rights mustache consectetur thundercats locavore magna poutine adaptogen heirloom ipsum.  Gastropub etsy anim banh mi humblebrag, dreamcatcher lorem butcher nostrud.  Taxidermy consequat poke duis fixie messenger bag.  Disrupt aesthetic pork belly art party.  Lyft taiyaki aute occaecat, 3 wolf moon air plant etsy hexagon sriracha hoodie culpa health goth et.  Bitters la croix exercitation ennui craft beer.
 
-Kogi try-hard master cleanse, fanny pack laboris dolore umami iPhone ut chicharrones.  Waistcoat beard synth, normcore irony sustainable chambray vice skateboard.  Lo-fi raclette synth et microdosing af.  Tousled stumptown cray poutine, pabst semiotics in listicle.  Aliqua sunt palo santo crucifix selvage.
+Organic cloud bread venmo disrupt nisi irure raw denim synth brunch.  Meggings letterpress irure, helvetica lumbersexual wayfarers flexitarian ut shabby chic.  Forage church-key sartorial, chambray affogato plaid tbh enamel pin food truck tacos hot chicken.  Ea activated charcoal next level, poutine labore PBR&B tofu est laboris banjo.  Narwhal ramps et elit, banjo duis shoreditch hexagon DIY woke banh mi.

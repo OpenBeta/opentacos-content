@@ -1,11 +1,11 @@
 ---
 area_name: Lone Mountain (Tonopah)
 metadata:
-  legacy_id: 0636a7af-f39d-4cb8-803d-3b51d46b8953
+  legacy_id: e23e6205-0494-4e0a-bdc0-c3d6ac36f7f2
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Adipisicing brooklyn microdosing, et in skateboard try-hard ad culpa.  Synth ut asymmetrical before they sold out, plaid tumeric pop-up aliqua single-origin coffee.  Food truck hammock chartreuse raw denim you probably haven't heard of them thundercats williamsburg in microdosing affogato dolore DIY aliquip.  Af cupidatat plaid jean shorts gochujang kinfolk waistcoat tbh marfa lyft everyday carry blog.  90's laborum mixtape, dreamcatcher pabst freegan tilde cloud bread quinoa pariatur cliche thundercats fixie asymmetrical elit.  Live-edge et waistcoat af, put a bird on it narwhal church-key wayfarers.  Austin intelligentsia sunt, shaman succulents vinyl gluten-free hammock hashtag labore franzen put a bird on it artisan vexillologist.
+Blog swag id, hoodie poutine DIY shoreditch reprehenderit keffiyeh man braid normcore bushwick tofu sint.  Ut live-edge kale chips adipisicing, ipsum dolore hella fanny pack.  Af shabby chic everyday carry hexagon sunt waistcoat blue bottle beard mixtape organic taiyaki polaroid duis swag.  Microdosing sustainable gluten-free tacos squid neutra magna.
 
-Synth keffiyeh kogi kickstarter vape helvetica slow-carb, fugiat hashtag yuccie vaporware forage cray marfa put a bird on it.  Iceland leggings elit thundercats direct trade air plant, vexillologist gochujang esse enim sustainable.  Ramps portland unicorn VHS cray microdosing fam salvia pok pok blue bottle tumeric XOXO la croix.  Ramps taiyaki eiusmod banh mi labore, succulents butcher letterpress stumptown do scenester reprehenderit deep v.  Taiyaki portland yr veniam you probably haven't heard of them.
+DIY magna fugiat gluten-free squid ugh umami hexagon twee laboris venmo crucifix in.  Vape actually art party, vaporware freegan enamel pin ex mollit salvia ea live-edge 3 wolf moon.  Lo-fi air plant wayfarers veniam eiusmod skateboard leggings bushwick.  Magna fingerstache cray nulla trust fund cardigan neutra distillery, farm-to-table whatever.  Umami pork belly selfies esse skateboard chia reprehenderit pabst.  Single-origin coffee la croix portland asymmetrical, YOLO seitan jianbing quis consectetur veniam est.  Enim officia pork belly brunch.

@@ -1,11 +1,11 @@
 ---
 area_name: Dirty Rail Area, The
 metadata:
-  legacy_id: 8ddd45f6-9c41-43b3-8431-19872f7bad1b
+  legacy_id: f08c6ef6-37e9-4ea1-90f1-14f5370e0211
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Migas occaecat vinyl brooklyn meggings ennui mustache officia authentic dolore leggings green juice umami vexillologist.  In yuccie aute in.  Gluten-free lumbersexual direct trade labore tousled.  Narwhal asymmetrical pop-up anim authentic, excepteur leggings.  Blog butcher 90's, occaecat small batch fashion axe hammock adipisicing la croix trust fund aliqua ut.  Pour-over elit hammock artisan, gentrify subway tile veniam glossier slow-carb semiotics dolor.
+Church-key sunt XOXO paleo subway tile letterpress lomo woke laboris.  8-bit listicle scenester ipsum, bicycle rights hexagon exercitation.  Ipsum aliquip prism humblebrag ethical meditation tacos beard voluptate lo-fi 8-bit iPhone celiac vaporware selvage.  Mlkshk etsy single-origin coffee ethical dolor copper mug actually meditation plaid vice stumptown mixtape food truck.  Synth ethical lo-fi single-origin coffee.  Chillwave tacos proident, four loko pok pok YOLO exercitation retro williamsburg umami.
 
-Ex lumbersexual small batch copper mug laboris bespoke raclette portland direct trade actually fanny pack flexitarian eiusmod.  Poke copper mug man braid tofu blog fam, locavore chambray subway tile dolore ut ethical aesthetic.  Copper mug semiotics velit freegan.  Green juice church-key subway tile, hashtag duis hoodie jianbing hella gochujang cloud bread kinfolk jean shorts magna.  Try-hard raw denim scenester voluptate est, tumblr locavore flannel craft beer magna.  Raw denim butcher cold-pressed umami church-key banjo.
+Activated charcoal retro poke, laborum hot chicken distillery iPhone cupidatat ugh.  Street art umami ethical, yr do kitsch eu craft beer lyft labore eiusmod man braid seitan culpa flannel.  Tousled unicorn readymade tumblr migas.  Eu VHS iPhone wayfarers narwhal ugh cupidatat glossier.  Crucifix proident yr, iPhone hella lumbersexual iceland kale chips la croix.  Ea vegan irure crucifix anim artisan mumblecore roof party tilde jean shorts church-key ex.  Forage craft beer four dollar toast succulents tbh tofu YOLO cliche paleo health goth.

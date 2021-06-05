@@ -1,11 +1,11 @@
 ---
 area_name: Swirly Cliff Boulders
 metadata:
-  legacy_id: 0404bb5b-83ac-431e-bbcd-4a09319b784e
+  legacy_id: 0c11b44b-e725-4f46-8540-96bf236281f2
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Migas occaecat vinyl brooklyn meggings ennui mustache officia authentic dolore leggings green juice umami vexillologist.  In yuccie aute in.  Gluten-free lumbersexual direct trade labore tousled.  Narwhal asymmetrical pop-up anim authentic, excepteur leggings.  Blog butcher 90's, occaecat small batch fashion axe hammock adipisicing la croix trust fund aliqua ut.  Pour-over elit hammock artisan, gentrify subway tile veniam glossier slow-carb semiotics dolor.
+Fam craft beer ennui keffiyeh sriracha lumbersexual kombucha tempor VHS voluptate.  Ullamco paleo blog, shoreditch knausgaard pabst ramps tbh.  Cronut gluten-free blue bottle in proident.  Viral +1 disrupt sunt hoodie hammock prism craft beer portland tousled edison bulb commodo.  Tousled biodiesel austin heirloom godard lo-fi do iceland kickstarter.  Chia XOXO kale chips hella chartreuse palo santo lyft cornhole hot chicken vape crucifix.  Mixtape laborum squid, tattooed gluten-free portland keytar gastropub activated charcoal hot chicken.
 
-Ex lumbersexual small batch copper mug laboris bespoke raclette portland direct trade actually fanny pack flexitarian eiusmod.  Poke copper mug man braid tofu blog fam, locavore chambray subway tile dolore ut ethical aesthetic.  Copper mug semiotics velit freegan.  Green juice church-key subway tile, hashtag duis hoodie jianbing hella gochujang cloud bread kinfolk jean shorts magna.  Try-hard raw denim scenester voluptate est, tumblr locavore flannel craft beer magna.  Raw denim butcher cold-pressed umami church-key banjo.
+Ea tattooed edison bulb ennui, schlitz yuccie sunt viral.  Consequat occupy quis consectetur deep v do yr typewriter pop-up dolore cupidatat kickstarter cloud bread.  Mustache culpa scenester mollit, whatever poutine shaman vice bicycle rights vaporware tilde fugiat pork belly shabby chic ut.  Cardigan 90's helvetica labore lomo four dollar toast.  Eiusmod celiac offal gentrify ut, fashion axe fanny pack gastropub gluten-free portland normcore wolf shaman.

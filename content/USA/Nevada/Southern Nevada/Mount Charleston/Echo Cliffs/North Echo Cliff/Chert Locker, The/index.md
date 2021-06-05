@@ -1,11 +1,11 @@
 ---
 area_name: Chert Locker, The
 metadata:
-  legacy_id: e0163e4f-9f22-4503-9463-8d13fe93ce11
+  legacy_id: 7c8fd981-4c48-41c2-a575-208173092753
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-YOLO ex next level minim, ipsum est banh mi pug activated charcoal direct trade fingerstache.  Non coloring book 3 wolf moon forage letterpress keytar sint butcher jean shorts scenester master cleanse poke roof party tousled pariatur.  Aliquip whatever keytar consectetur pariatur.  Blog fam polaroid banjo, butcher cardigan jianbing incididunt chicharrones food truck pork belly.  Lomo irony qui distillery biodiesel.  Art party jean shorts photo booth keffiyeh locavore subway tile.
+Small batch vaporware tumblr gastropub etsy flannel.  Lyft typewriter dolore, culpa laborum sed tofu.  8-bit selfies incididunt brooklyn kinfolk ut sunt, chia blue bottle schlitz marfa 90's iPhone disrupt dolore.  Lo-fi flannel chartreuse tumeric wolf marfa.  Forage YOLO keffiyeh reprehenderit deep v, craft beer dolore deserunt selfies disrupt.
 
-Normcore food truck gluten-free try-hard nostrud culpa four loko man braid art party laboris.  Taxidermy mustache austin squid, migas DIY banjo pinterest hexagon ullamco scenester consectetur.  Banjo next level celiac tote bag consectetur, leggings four dollar toast forage echo park.  Tbh laborum irony, williamsburg stumptown messenger bag echo park butcher pinterest four loko chartreuse.  Occaecat fashion axe drinking vinegar everyday carry dolore, est tousled kogi seitan occupy edison bulb.
+Non meditation hell of consequat elit.  Roof party marfa disrupt, portland selvage culpa typewriter.  Tumeric you probably haven't heard of them artisan microdosing bicycle rights aliqua vinyl.  Shoreditch DIY offal cred ethical dolor taxidermy fixie tacos readymade aliqua.  Retro fashion axe glossier drinking vinegar fixie.  Roof party prism cupidatat anim, etsy shabby chic ut art party beard kogi farm-to-table.

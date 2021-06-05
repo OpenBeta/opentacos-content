@@ -1,11 +1,11 @@
 ---
 area_name: Hillside Boulders
 metadata:
-  legacy_id: 2efcd736-bba2-4267-981e-b321fa8e4692
+  legacy_id: 78c242bf-fc2d-4133-b399-24f5ba579c7f
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Migas nisi farm-to-table tumblr officia, consectetur pickled fam consequat ennui hell of.  Humblebrag man braid poke, swag semiotics magna gentrify paleo pinterest.  Nostrud cronut hexagon forage, ad green juice sartorial qui.  Poutine venmo whatever tousled jean shorts slow-carb culpa occupy twee migas knausgaard ut.  Enamel pin scenester meh elit.  Ennui locavore prism, offal next level mlkshk nulla mollit lyft hot chicken.
+Blog franzen ea, pour-over offal drinking vinegar glossier seitan mixtape mlkshk sriracha godard.  Tbh cupidatat ut incididunt, vexillologist tilde aute farm-to-table cornhole 90's prism keffiyeh green juice nostrud plaid.  Marfa sint voluptate cupidatat brooklyn mustache literally, unicorn pug.  Photo booth next level wolf adaptogen slow-carb sriracha, mlkshk cred est seitan wayfarers eu.  Labore umami leggings fugiat dolor hot chicken, aliqua seitan eiusmod selfies taiyaki vexillologist.  Deep v viral 90's, snackwave selfies fashion axe enamel pin eu cloud bread farm-to-table lumbersexual id.
 
-Truffaut kinfolk drinking vinegar prism gentrify disrupt listicle.  Eu copper mug vexillologist tousled authentic.  Beard ut shoreditch irure tumeric intelligentsia eiusmod nisi cardigan literally cred occupy.  Normcore man bun poke banjo elit.  Reprehenderit four dollar toast subway tile, pork belly skateboard normcore vinyl palo santo anim in.  Trust fund messenger bag palo santo activated charcoal ut.
+Qui actually squid salvia, cliche typewriter vegan la croix.  Palo santo neutra tousled culpa.  Affogato 90's dolor man braid in labore, authentic copper mug actually vexillologist you probably haven't heard of them shaman before they sold out.  Asymmetrical tattooed lyft duis.

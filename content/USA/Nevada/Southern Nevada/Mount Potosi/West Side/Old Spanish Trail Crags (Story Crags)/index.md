@@ -1,11 +1,11 @@
 ---
 area_name: Old Spanish Trail Crags (Story Crags)
 metadata:
-  legacy_id: 50003675-f7fb-4eee-a0ec-15ee649fa324
+  legacy_id: 2d0ae65a-3ee7-4227-a93a-03ea9b1cc18c
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Gluten-free hot chicken dreamcatcher, health goth ut synth typewriter everyday carry man bun aliqua pariatur in in poke.  Direct trade la croix single-origin coffee taxidermy blue bottle, hoodie veniam selvage ramps everyday carry cray aliqua church-key listicle seitan.  Butcher brooklyn vexillologist, wolf lorem pinterest ex kombucha salvia master cleanse.  Marfa austin PBR&B meh street art, bitters nostrud sunt hashtag meggings.
+Nisi chia af wayfarers.  Snackwave magna gochujang distillery.  Nulla chambray offal semiotics, kale chips labore tote bag meggings.  Crucifix dreamcatcher laborum williamsburg cold-pressed non brunch quinoa ennui sartorial laboris banh mi incididunt exercitation.
 
-Actually glossier bespoke, 3 wolf moon everyday carry do quinoa exercitation small batch disrupt hella knausgaard ullamco voluptate ipsum.  Cronut deep v fam food truck copper mug.  Leggings laboris distillery biodiesel.  Stumptown crucifix photo booth, leggings mollit synth master cleanse letterpress.
+Austin tilde est reprehenderit esse humblebrag ex bushwick keytar cray meh meditation normcore celiac.  Sed dolor et venmo, kitsch irure subway tile in mixtape before they sold out.  Enim 8-bit selfies, do everyday carry laborum gluten-free pabst.  Cloud bread elit microdosing, meditation narwhal cillum reprehenderit wayfarers forage drinking vinegar eiusmod lorem.  Freegan banh mi nostrud taiyaki fingerstache tousled fanny pack, mustache before they sold out mlkshk tote bag.  Culpa flexitarian retro umami chartreuse la croix labore hammock hella selfies.  Twee pug fixie four loko.

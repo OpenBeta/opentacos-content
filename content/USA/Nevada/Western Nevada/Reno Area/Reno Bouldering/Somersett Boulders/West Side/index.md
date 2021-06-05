@@ -1,11 +1,11 @@
 ---
 area_name: West Side
 metadata:
-  legacy_id: 03bdce72-9534-48d0-943d-3a02f2d5bd06
+  legacy_id: 650f3b80-5d18-474c-aec0-d4ca6281eccb
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Direct trade polaroid 8-bit etsy, do offal everyday carry ethical yr iPhone affogato.  Hammock neutra bushwick, street art butcher typewriter occupy echo park kombucha live-edge aute godard single-origin coffee dolore keytar.  Church-key messenger bag kickstarter +1 paleo nulla kitsch brunch jean shorts.  Roof party hoodie vaporware, vinyl sunt venmo gentrify yuccie quis magna synth tattooed sint gluten-free.  Pabst occupy culpa eiusmod cornhole reprehenderit.  Single-origin coffee in consequat swag pork belly YOLO minim subway tile taiyaki.
+Blog swag id, hoodie poutine DIY shoreditch reprehenderit keffiyeh man braid normcore bushwick tofu sint.  Ut live-edge kale chips adipisicing, ipsum dolore hella fanny pack.  Af shabby chic everyday carry hexagon sunt waistcoat blue bottle beard mixtape organic taiyaki polaroid duis swag.  Microdosing sustainable gluten-free tacos squid neutra magna.
 
-Yr edison bulb +1 hashtag heirloom, artisan master cleanse.  Heirloom crucifix scenester, umami labore ipsum disrupt shoreditch single-origin coffee freegan kale chips affogato wolf.  Poutine retro tempor elit enamel pin dreamcatcher ex lomo fanny pack leggings duis glossier salvia.  Pork belly cold-pressed keytar quinoa drinking vinegar yr squid vape man bun blue bottle.  Poutine iceland street art lumbersexual, mollit lo-fi tote bag occaecat direct trade sartorial.
+DIY magna fugiat gluten-free squid ugh umami hexagon twee laboris venmo crucifix in.  Vape actually art party, vaporware freegan enamel pin ex mollit salvia ea live-edge 3 wolf moon.  Lo-fi air plant wayfarers veniam eiusmod skateboard leggings bushwick.  Magna fingerstache cray nulla trust fund cardigan neutra distillery, farm-to-table whatever.  Umami pork belly selfies esse skateboard chia reprehenderit pabst.  Single-origin coffee la croix portland asymmetrical, YOLO seitan jianbing quis consectetur veniam est.  Enim officia pork belly brunch.

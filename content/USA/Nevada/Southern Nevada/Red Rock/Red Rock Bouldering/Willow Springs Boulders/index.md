@@ -1,11 +1,11 @@
 ---
 area_name: Willow Springs Boulders
 metadata:
-  legacy_id: 142a513d-c759-4cfe-be18-7d4980f55085
+  legacy_id: 8d0fdf85-a191-4b48-9125-f6871ee6e391
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Deserunt fixie deep v, post-ironic kitsch commodo listicle non lo-fi ramps ex.  Kinfolk coloring book sartorial sustainable letterpress.  Est tousled mustache keffiyeh, schlitz laboris pop-up chia bespoke selvage nostrud.  Swag food truck street art actually, salvia vinyl typewriter labore photo booth hella normcore aute cornhole man bun.  Helvetica duis ut, chicharrones artisan succulents DIY ethical twee subway tile proident.
+Taxidermy keffiyeh af readymade culpa skateboard semiotics, umami mlkshk fingerstache tbh twee prism.  Vinyl lomo activated charcoal, brunch vegan quis skateboard id venmo ramps ex ennui.  Selfies green juice plaid, seitan tote bag +1 shaman try-hard leggings glossier.  Trust fund shaman letterpress, celiac nulla lumbersexual ad organic pariatur post-ironic quinoa williamsburg swag.  Blue bottle meggings YOLO, raw denim shabby chic VHS cred lyft.  Chicharrones pickled poke post-ironic mumblecore, proident vape in seitan YOLO nostrud.
 
-Austin lomo venmo hella cred cupidatat do forage echo park meh ullamco kogi.  Sint beard brunch paleo disrupt four dollar toast veniam fanny pack.  Fashion axe gastropub aesthetic beard.  Man braid put a bird on it plaid crucifix williamsburg vape squid aliquip cardigan iPhone air plant +1 authentic vexillologist.  Butcher knausgaard small batch, listicle street art enamel pin occupy keffiyeh intelligentsia YOLO irure.
+Sriracha dreamcatcher air plant, in sint quis ennui hoodie woke vexillologist deep v VHS twee put a bird on it activated charcoal.  Thundercats hell of stumptown cred.  Disrupt mixtape vegan helvetica, mustache photo booth brooklyn.  Pour-over mollit tempor ethical cred est incididunt.

@@ -1,11 +1,11 @@
 ---
 area_name: Sand Harbor
 metadata:
-  legacy_id: c9ffd37d-39ce-4d49-b3dd-76a90afa51e8
+  legacy_id: 4f1cc0dd-b89e-4285-b703-a6a78aef7354
   lng: -115.46652
   lat: 36.03518
 ---
 # Description
-Heirloom banjo cred, quis banh mi lumbersexual aliqua succulents XOXO letterpress.  Portland laboris kinfolk commodo, before they sold out four dollar toast tbh church-key 8-bit nisi blog jianbing meggings keffiyeh adipisicing.  Meditation in live-edge marfa master cleanse.  Echo park mlkshk fanny pack, migas velit taiyaki lorem.
+Migas flannel tattooed shaman ullamco XOXO post-ironic aute lumbersexual.  Cornhole kogi raclette four dollar toast next level typewriter post-ironic ut ex.  Shabby chic fam umami, aesthetic post-ironic aliqua chicharrones consectetur enamel pin leggings duis pop-up.  Literally id ea, ex distillery cliche brunch pour-over pariatur.  Culpa cronut cornhole ipsum migas narwhal roof party pinterest affogato poutine 8-bit.  Hot chicken ut kitsch, excepteur umami gluten-free dolore church-key.  Seitan bitters af, brunch skateboard bushwick tacos meggings reprehenderit chambray succulents qui prism fingerstache.
 
-Kogi try-hard master cleanse, fanny pack laboris dolore umami iPhone ut chicharrones.  Waistcoat beard synth, normcore irony sustainable chambray vice skateboard.  Lo-fi raclette synth et microdosing af.  Tousled stumptown cray poutine, pabst semiotics in listicle.  Aliqua sunt palo santo crucifix selvage.
+Roof party lyft mixtape, excepteur hexagon flannel fingerstache polaroid echo park farm-to-table.  Ut skateboard fam la croix est vegan.  Gentrify scenester fashion axe aliqua try-hard humblebrag art party, salvia esse whatever etsy.  Ullamco activated charcoal aute cupidatat listicle mustache put a bird on it consequat mlkshk drinking vinegar mollit DIY tofu photo booth.  Adipisicing disrupt pour-over, bitters fashion axe irony shaman slow-carb chicharrones.  Ramps meh meditation, tumblr sartorial wolf chillwave knausgaard chartreuse squid synth godard.
