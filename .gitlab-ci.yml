@@ -25,12 +25,13 @@ pages:
   before_script:
   - apt-get update && apt-get install -y git
   - ls -la
-  - mkdir -p open-tacos && cd open-tacos && ls -la
+  - mkdir -p open-tacos 
+  - ln -s $CI_PROJECT_DIR open-tacos/content
+  - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
   - git pull --depth=1 origin develop
   - git checkout develop
   - yarn install --no-progress
-  - ln -s $CI_PROJECT_DIR open-tacos/content
 
   script:
   - ./node_modules/.bin/gatsby build
