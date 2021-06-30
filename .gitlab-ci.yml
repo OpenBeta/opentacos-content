@@ -26,8 +26,8 @@ pages:
   - apt-get update && apt-get install -y git
   - ls -la
   - mkdir -p open-tacos 
-  - ln -s $CI_PROJECT_DIR/content open-tacos/content
-  - ln -s $CI_PROJECT_DIR/public open-tacos/public
+  - ln -s content open-tacos/content
+  - ln -s open-tacos/public public
   - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
   - git pull --depth=1 origin develop
@@ -36,9 +36,6 @@ pages:
 
   script:
   - ./node_modules/.bin/gatsby build
-  
-  after_script:
-  - mv build $CI_PROJECT_DIR
 
   artifacts:  # Use by GitLab pages
     paths:
