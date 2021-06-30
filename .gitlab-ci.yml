@@ -37,4 +37,4 @@ pages:
 
   artifacts:  # Use by GitLab pages
     paths:
-    - opentacos/public
+    - open-tacos/public
