@@ -1,0 +1,41 @@
+cache:
+  paths:
+    - open-tacos/node_modules/
+    - open-tacos/.cache
+    - public
+
+image: node:16.3-buster-slim
+
+variables:
+  GIT_DEPTH: 1
+  DOCKER_DRIVER: overlay2
+
+# Job name must be 'pages' in order for GitLab to deploy build to static site
+pages:
+  only: # Only run for these branches
+  - develop
+  - main
+  - gitlab-debug
+
+  stage: build
+
+  tags:
+  - docker
+
+  before_script:
+  - apt-get update && apt-get install -y git
+  - mkdir -p open-tacos 
+  - ln -s $CI_PROJECT_DIR/content open-tacos/content
+  - cd open-tacos && ls -la
+  - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
+  - git pull --depth=1 origin develop
+  - git checkout develop
+  - yarn install --no-progress
+
+  script:
+  - ./node_modules/.bin/gatsby build
+  - mv public $CI_PROJECT_DIR
+
+  artifacts:  # Use by GitLab pages
+    paths:
+    - public
