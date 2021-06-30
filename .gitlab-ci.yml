@@ -2,7 +2,7 @@ cache:
   paths:
     - open-tacos/node_modules/
     - open-tacos/.cache
-    - open-tacos/public
+    - public
 
 image: node:16.3-buster-slim
 
@@ -26,7 +26,6 @@ pages:
   - apt-get update && apt-get install -y git
   - mkdir -p open-tacos 
   - ln -s $CI_PROJECT_DIR/content open-tacos/content
-  - ln -s $CI_PROJECT_DIR/open-tacos/public public
   - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
   - git pull --depth=1 origin develop
@@ -35,6 +34,7 @@ pages:
 
   script:
   - ./node_modules/.bin/gatsby build
+  - mv public $CI_PROJECT_DIR
 
   artifacts:  # Use by GitLab pages
     paths:
