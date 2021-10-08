@@ -6,3 +6,5 @@ metadata:
 ---
 # Description
 Keep going left of K9 Shangai for about 150 yards. The faint trail follows the edge of the wall until you get to the next group of scrubbed routes.
+
+The trail is on slopping very soft dirt and it does not take much to trigger a slide. Thread lightly.
