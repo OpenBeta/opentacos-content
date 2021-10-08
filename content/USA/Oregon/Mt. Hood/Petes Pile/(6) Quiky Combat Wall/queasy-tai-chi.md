@@ -8,7 +8,7 @@ fa: 'Yannick Gingras and Max Huecksteadt, Sept. 2021'
 metadata:
   lng: -121.56851433
   lat: 45.40571735
-  left_right_index: '5'
+  left_right_index: '2'
 ---
 # Description
 Start with a section of perfect hands, then switch to a thin fingers crack that narrows to a seam and overcome the challenge using a mix of stemming and crack technique.

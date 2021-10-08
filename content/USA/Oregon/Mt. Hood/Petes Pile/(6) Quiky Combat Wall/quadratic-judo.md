@@ -9,7 +9,7 @@ metadata:
   legacy_id: '119339889'
   lng: -121.5680734
   lat: 45.4055654
-  left_right_index: '4'
+  left_right_index: '3'
 ---
 # Description
 This cracks offers plenty of wide jamming and some decent mandatory offwidth.  

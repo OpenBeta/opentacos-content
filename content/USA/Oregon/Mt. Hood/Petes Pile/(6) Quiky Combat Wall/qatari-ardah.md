@@ -8,7 +8,7 @@ fa: 'Yannick Gingras and Max Huecksteadt, Sept. 2021'
 metadata:
   lng: -121.56844748
   lat: 45.40548210
-  left_right_index: '2'
+  left_right_index: '5'
 ---
 # Description
 Sustained thin finger crack sequence followed by a full pitch of glorious hand jams.

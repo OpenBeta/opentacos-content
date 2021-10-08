@@ -9,7 +9,7 @@ metadata:
   legacy_id: '119339794'
   lng: -121.5680734
   lat: 45.4055654
-  left_right_index: '3'
+  left_right_index: '4'
 ---
 # Description
 This cracks offers plenty of satisfying jams of all sizes from fingers to fists.  There is one small offwidth pod that can easily be passed by using side features if you don't fancy wedging yourself that deep inside the crack.

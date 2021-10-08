@@ -9,7 +9,7 @@ metadata:
   legacy_id: '119438923'
   lng: -121.568433
   lat: 45.405378
-  left_right_index: '1'
+  left_right_index: '6'
 ---
 # Description
 Good mix of stemming and bomber finger jams on solid rock.

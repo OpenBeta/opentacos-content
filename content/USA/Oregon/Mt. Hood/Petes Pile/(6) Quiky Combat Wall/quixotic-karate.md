@@ -8,7 +8,7 @@ fa: 'Yannick Gingras and Max Huecksteadt, Sept. 2021'
 metadata:
   lng: -121.56846801
   lat: 45.40596155
-  left_right_index: '7'
+  left_right_index: '0'
 ---
 # Description
 A good mix of tight stemming and hands. Avoid touching the hugh chockstone by stemming around it.
