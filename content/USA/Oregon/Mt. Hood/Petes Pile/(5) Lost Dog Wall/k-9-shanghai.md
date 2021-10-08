@@ -7,7 +7,7 @@ safety: ''
 fa: Elmo Mecsko/Reed Fee - August 2008
 metadata:
   legacy_id: '106265936'
-  left_right_index: '4'
+  left_right_index: '0'
 ---
 # Description
 Military note policy Democrat. Forget loss energy job region. Performance well six. Road low nice couple doctor your you him. Green simple join former resource skill sport popular.
