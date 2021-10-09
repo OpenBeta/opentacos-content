@@ -1,5 +1,5 @@
 ---
-route_name: Quiet Ninja
+route_name: Qatari Ardah
 type:
   trad: true
 yds: 5.11a
@@ -9,6 +9,7 @@ metadata:
   lng: -121.56844748
   lat: 45.40548210
   left_right_index: '5'
+  legacy_id: c89d1225-e8ee-4592-829c-e814d7b803b3
 ---
 # Description
 Sustained thin finger crack sequence followed by a full pitch of glorious hand jams.

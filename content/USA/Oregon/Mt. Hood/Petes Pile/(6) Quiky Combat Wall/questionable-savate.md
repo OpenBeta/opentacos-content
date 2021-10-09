@@ -9,6 +9,7 @@ metadata:
   lng: -121.56848713
   lat: 45.40578849
   left_right_index: '1'
+  legacy_id: 4cdecc63-e31b-4088-af46-794cd6bda586
 ---
 # Description
 Cross the jungle to reach the wall, but leave the belayer on the trail. Good jams, stems, and one improbable looking roof.
