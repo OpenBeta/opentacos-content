@@ -25,7 +25,8 @@ pages:
   before_script:
   - apt-get update && apt-get install -y git
   - mkdir -p open-tacos 
-  - ln -s $CI_PROJECT_DIR/content open-tacos/content
+  - mv content open-tacos
+  # we need to move build output dir to top level for GitLab pages to work
   - '[ -d public ] && mv public open-tacos'
   - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
