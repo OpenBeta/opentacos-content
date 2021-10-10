@@ -6,5 +6,6 @@ metadata:
   lat: 36.03518
 ---
 # Description
-Photo booth hoodie knausgaard pok pok man braid vinyl raw denim dolor messenger bag scenester retro squid roof party normcore try-hard.  Mollit green juice labore, bicycle rights tempor intelligentsia nulla enamel pin slow-carb pork belly.  Health goth anim est, schlitz la croix yr synth fugiat raw denim everyday carry microdosing id affogato craft beer.  Locavore 3 wolf moon four dollar toast veniam, pug drinking vinegar vinyl lomo four loko asymmetrical deserunt 90&#39;s activated charcoal +1 you probably haven&#39;t heard of them.  Eu iPhone hexagon street art craft beer, cliche neutra viral venmo paleo offal aesthetic.
-Brooklyn iceland hexagon yr cray, etsy meggings.  Raclette semiotics austin try-hard mixtape trust fund officia.  DIY listicle irure, prism you probably haven&#39;t heard of them synth nostrud sartorial disrupt single-origin coffee.  Cupidatat next level literally snackwave selvage.  Pour-over ipsum thundercats austin.  Heirloom direct trade ramps air plant esse, tbh occupy deep v lorem cornhole put a bird on it craft beer selvage ugh nulla.  Franzen shabby chic aute edison bulb readymade in ut tattooed adaptogen flannel in.
+Large basalt/rhyolite wall located on the East side of Mount Hood with 35+ traditional routes ranging from 5.6 to 5.11+.
+There are lots of nice cracks here that take protection very well. A standard rack will do the trick on most all the routes.
+Pay attention to the wood signs that point out the Non-Climbing areas. DO NOT CLIMB IN THESE AREAS! This is due to an endangered plant species and there is a good relationship between the NFS and the climbing community.
