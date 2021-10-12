@@ -25,3 +25,7 @@ About 20 yards left of Quiet Ninja. The huge first roof is impossible to miss.
 
 # Protection
 Doubles from Black Totem to C4 #2, singles of C4 #3 and #4, single Metolius #0, offset nuts. Triples of blue and yellow Totems useful.
+
+# Pictures
+![Pitch #1](qatari-ardah-p1.jpg)
+![Pitch #2](qatari-ardah-p2.jpg)
