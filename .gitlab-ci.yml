@@ -30,8 +30,9 @@ pages:
   - '[ -d public ] && mv public open-tacos'
   - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
-  - git pull --depth=5 origin develop
+  - git pull origin develop
   - git checkout develop
+  - cat gatsby-config.js
   - yarn install --no-progress
 
   script:
