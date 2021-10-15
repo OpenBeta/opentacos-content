@@ -33,6 +33,8 @@ pages:
   - git pull origin develop
   - git checkout develop
   - cat gatsby-config.js
+  - yarn remove gatsby-plugin-postcss
+  - yarn add gatsby-plugin-postcss
   - yarn install --no-progress
 
   script:
