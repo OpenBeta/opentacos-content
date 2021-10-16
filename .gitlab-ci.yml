@@ -7,7 +7,7 @@ cache:
 image: registry.gitlab.com/openbeta/openbeta-nodejs-docker:16.3
 
 variables:
-  GIT_DEPTH: 5
+  GIT_DEPTH: 1
   DOCKER_DRIVER: overlay2
 
 # Job name must be 'pages' in order for GitLab to deploy build to static site
@@ -23,18 +23,15 @@ pages:
   - docker
 
   before_script:
-  # - apt-get update && apt-get install -y git
   - mkdir -p open-tacos 
   - mv content open-tacos
-  # we need to move build output dir to top level for GitLab pages to work
+  # we need to move build output dir back down 1 level for GitLab pages to work
   - '[ -d public ] && mv public open-tacos'
   - cd open-tacos && ls -la
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
-  - git pull origin develop
+  - git pull --depth $GIT_DEPTH origin develop
   - git checkout develop
-  - cat gatsby-config.js
-  - yarn remove gatsby-plugin-postcss
-  - yarn add gatsby-plugin-postcss
+  - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
 
   script:
