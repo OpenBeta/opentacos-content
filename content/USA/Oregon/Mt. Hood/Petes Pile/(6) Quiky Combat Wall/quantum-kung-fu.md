@@ -24,3 +24,6 @@ Enter the woods by following the trail left of Qatari Ardah. The huge pillar for
 # Protection
 Doubles to C4 #4, one tiny 10mm cam for the first move (Blue Alien or Green C3). Optional: C4 #5.
 
+# Pictures
+![Start of the route](judo-kung-fu-start.jpg)
+![Go right at the roof](quantum-kung-fu-1.jpeg)
