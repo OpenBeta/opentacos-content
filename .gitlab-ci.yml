@@ -33,6 +33,7 @@ pages:
   - git checkout develop
   - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
+  - if [ "$FORCE_CLEAN" == "true" ]; then ./node_modules/.bin/gatsby clean; fi;
 
   script:
   - ./node_modules/.bin/gatsby build
