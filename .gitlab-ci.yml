@@ -1,4 +1,5 @@
 cache:
+  key: $CI_COMMIT_REF_SLUG
   paths:
     - open-tacos/node_modules/
     - open-tacos/.cache
@@ -49,6 +50,9 @@ docker-build:
   - gitlab-debug
 
   stage: build
+
+  tags:
+    - docker
 
   needs: [gatsby-build]
 
