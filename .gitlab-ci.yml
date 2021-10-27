@@ -57,10 +57,10 @@ docker-build:
 
   needs: [gatsby-build]
 
-  image: docker:19.03.0
+  image: docker:20.10.10
 
   services:
-     - docker:19.03.0-dind
+     - docker:20.10.10-dind
 
   before_script:
      - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
