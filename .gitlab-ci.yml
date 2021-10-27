@@ -9,9 +9,12 @@ image: registry.gitlab.com/openbeta/openbeta-nodejs-docker:16.3
 variables:
   GIT_DEPTH: 1
   DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+  IMAGE_CURRENT: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
+  IMAGE_LATEST:  $CI_REGISTRY_IMAGE:latest
 
 # Job name must be 'pages' in order for GitLab to deploy build to static site
-pages:
+gatsby-build:
   only: # Only run for these branches
   - develop
   - main
@@ -39,6 +42,26 @@ pages:
   - ./node_modules/.bin/gatsby build
   - mv public $CI_PROJECT_DIR
 
-  artifacts:  # Use by GitLab pages
-    paths:
-    - public
+docker-build:
+  only: # Only run for these branches
+  - develop
+  - main
+  - gitlab-debug
+
+  stage: build
+
+  needs: [gatsby-build]
+
+  image: docker:19.03.0
+
+  services:
+     - docker:19.03.0-dind
+
+  before_script:
+     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+  script:
+     - docker pull $IMAGE_LATEST || true
+     - docker build --cache-from $IMAGE_LATEST --tag $IMAGE_CURRENT --tag $IMAGE_LATEST .
+     - docker push $IMAGE_CURRENT
+     - docker push $IMAGE_LATEST
