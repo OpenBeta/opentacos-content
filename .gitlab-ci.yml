@@ -12,8 +12,8 @@ variables:
   DOCKER_DRIVER: overlay2
   DOCKER_TLS_CERTDIR: ""
   DOCKER_HOST: tcp://docker:2375
-  IMAGE_CURRENT: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
-  IMAGE_LATEST:  $CI_REGISTRY_IMAGE:latest
+  IMAGE_CURRENT: opentacos-full:$CI_COMMIT_SHORT_SHA
+  IMAGE_LATEST:  opentacos-full:latest
 
 # Job name must be 'pages' in order for GitLab to deploy build to static site
 gatsby-build:
