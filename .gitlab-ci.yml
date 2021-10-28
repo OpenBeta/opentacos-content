@@ -1,4 +1,5 @@
 cache:
+  key: $CI_COMMIT_REF_SLUG
   paths:
     - open-tacos/node_modules/
     - open-tacos/.cache
@@ -9,9 +10,13 @@ image: registry.gitlab.com/openbeta/openbeta-nodejs-docker:16.3
 variables:
   GIT_DEPTH: 1
   DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+  DOCKER_HOST: tcp://docker:2375
+  IMAGE_CURRENT: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
+  IMAGE_LATEST:  $CI_REGISTRY_IMAGE:latest
 
 # Job name must be 'pages' in order for GitLab to deploy build to static site
-pages:
+gatsby-build:
   only: # Only run for these branches
   - develop
   - main
@@ -33,11 +38,65 @@ pages:
   - git checkout develop
   - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
+  - if [ "$FORCE_CLEAN" == "true" ]; then ./node_modules/.bin/gatsby clean; fi;
 
   script:
   - ./node_modules/.bin/gatsby build
   - mv public $CI_PROJECT_DIR
 
-  artifacts:  # Use by GitLab pages
-    paths:
-    - public
+docker-build:
+  only: # Only run for these branches
+  - develop
+  - main
+  - gitlab-debug
+
+  stage: build
+
+  tags:
+    - docker
+
+  needs: [gatsby-build]
+
+  image: docker:20.10.10
+
+  services:
+     - docker:20.10.10-dind
+
+  before_script:
+     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+  script:
+     - docker pull $IMAGE_LATEST || true
+     - docker build --cache-from $IMAGE_LATEST --tag $IMAGE_CURRENT --tag $IMAGE_LATEST .
+     - docker push $IMAGE_CURRENT
+     - docker push $IMAGE_LATEST
+
+deploy:
+
+  stage: deploy
+
+  tags:
+    - docker
+
+  needs: [docker-build]
+
+  image:
+    name: bitnami/git:latest
+
+  before_script:
+  - mkdir -p ~/.bin
+  - curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash -s -- ~/.bin
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  - mkdir -p ~/.ssh
+  - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+  script:
+  - git clone git@gitlab.com:openbeta/devops/opentacos-k8s.git
+  - cd opentacos-k8s
+  - ~/.bin/kustomize edit set image $IMAGE_CURRENT
+  - git config --global user.name $GITLAB_USER_NAME
+  - git config --global user.email $GITLAB_USER_EMAIL
+  - git commit -am "Update version to $CI_COMMIT_SHORT_SHA"
+  - git push
