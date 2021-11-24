@@ -36,6 +36,7 @@ gatsby-build:
   - git init .  && git remote add origin https://github.com/OpenBeta/open-tacos
   - git pull --depth $GIT_DEPTH origin develop
   - git checkout develop
+  - git show --summary
   - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
   - if [ "$FORCE_CLEAN" == "true" ]; then ./node_modules/.bin/gatsby clean; fi;
