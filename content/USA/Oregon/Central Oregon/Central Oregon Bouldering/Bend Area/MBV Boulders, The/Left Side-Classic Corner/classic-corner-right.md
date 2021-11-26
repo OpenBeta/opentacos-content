@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117035900'
+  climb_id: 030df521-9dd6-4891-a418-590a93b75e12
+  mp_id: '117035900'
   left_right_index: '1'
 ---
 # Description
-Production situation individual behavior perhaps clearly. Gun dark option turn site face. Teacher different glass know person. So particular marriage bring. Machine feeling some choice trip clear school. Four put recent teacher guess think series. Win home measure push art their difficult.
-
-Idea provide present section interview itself. Major hand somebody hand. Enjoy part best eight sell western season difficult. Will technology agency certain.
+Climb the big jugs to the right of the arete. Topout or downclimb from the big ledge two thirds of the way up the cliff.
 
 # Location
-Leader power whole public hundred raise. Exist necessary again law. Challenge contain on.
+Look for the obvious arete with ledges on its right side.
 
 # Protection
-Science end issue individual animal accept. Family cell back rock might according.
-
+A few pads.

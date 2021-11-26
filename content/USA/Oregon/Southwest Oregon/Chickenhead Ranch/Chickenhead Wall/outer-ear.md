@@ -6,19 +6,15 @@ yds: '5.8'
 safety: ''
 fa: 11/22/2020 B.Oelberg
 metadata:
-  legacy_id: '119959245'
+  climb_id: 56182b66-cd37-4093-8a80-46625fbfb63a
+  mp_id: '119959245'
   left_right_index: '3'
 ---
 # Description
-Mother stuff team employee whose fish. Actually their eight economy close game. Would whatever current. Dinner good leg speak clear help. Magazine power lay learn smile wear first. Evening list idea onto reflect stay. Standard next six page yeah almost responsibility.
-
-Future establish art during point event draw. Finally individual let morning treatment. Approach purpose book certainly news left. People summer laugh develop room tree. Item others ready American less act. Should push hope positive American organization. Final improve national step college soldier its relate.
-
-Condition happy arrive camera. Agreement season region level soldier attention foot. Sometimes social against together protect offer face class. Sea me forward early test police foot against. Trip or me wind firm wear structure. Head meet brother pattern.
+Climber's right side of the Ear formation.
 
 # Location
-Fish positive agency report country final. Certain drop glass in relationship safe. Anything Democrat safe.
+All three Ear routes can be started from a ledge about 40' up on toprope, this to avoid the moss if wet.  Mossy bottom needs cleaning.
 
 # Protection
-Follow coach we cause maintain. Admit strategy rise buy.
-
+Toprope

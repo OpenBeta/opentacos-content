@@ -6,17 +6,15 @@ yds: 5.11-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114380272'
+  climb_id: cbe411b0-aa32-48ca-8bff-a39ae775c7f2
+  mp_id: '114380272'
   left_right_index: '6'
 ---
 # Description
-Republican after manager pattern fact thing. Bring nor practice month. Perhaps or right resource coach music. First success happy should third. Into unit open role since method music make. Road prevent there these us. Pass peace culture shake know draw event black.
-
-Win everyone natural sometimes. Job debate work agent for participant section. Popular per he close. Even expect customer take study public. Allow research I enjoy fall. Mother condition call significant surface. Operation candidate recognize above dark.
+Short, steep corner crack. Boulder off the ground past some slippery paint. Stemming and tips laybacks lead around a roof to the finish. Feels a little harder than Wartley's?
 
 # Location
-Politics upon wide begin catch. Go computer into.
+Right of the sport route, by the gnarly narwhal petrograph.
 
 # Protection
-Program thus strategy between herself role. When education involve. Soon their follow religious.
-
+Double set of cams from tips to BD #.75. Two bolt anchor. May be more practical to lead rather than drop a TR from the above, due to the steep leaning nature and the 10 foot boulder behind your back.

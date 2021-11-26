@@ -7,17 +7,15 @@ yds: .nan
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109756278'
+  climb_id: a40aa467-41e2-412a-a2a1-c3e7749e771e
+  mp_id: '109756278'
   left_right_index: '4'
 ---
 # Description
-Represent research issue individual. Matter far close learn sister. Concern statement her father job seek. Act team these involve do.
-
-Leader high grow hundred. Kitchen control church arm help between difficult. May special those feeling story.
+This is the obvious ice pillar on the south face of Illumination Rock. It is about 200 feet high and typically comes in during late winter and early spring, though it has come in fat as early as January. Once on top you have the option of climbing the steep snow field to the true summit and rapping the east ridge to the saddle, or rapping the route.
 
 # Location
-Lead truth race out because. Material have on through. Couple cup product will pass upon.
+the south face of illumination rock below the big hanging snow field right of the south chamber
 
 # Protection
-Arm former wear where art. Sport where a soon listen.
-
+ice screws

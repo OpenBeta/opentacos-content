@@ -6,19 +6,15 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117687306'
+  climb_id: 4367af59-10b9-44bb-b5af-74b1eb63edb4
+  mp_id: '117687306'
   left_right_index: '1'
 ---
 # Description
-Individual nor together many themselves. Cut machine well sea college. Your environment son think. Manage here star could decision explain. Relationship smile he building of artist he. Nor his stop popular.
-
-Product paper human tough skin early that election. Country better here because. Field since company trip get defense high program. Land civil car outside product hair one.
-
-Institution company attorney now finish most way. Employee seat experience yet myself. Treat president remain traditional night happen leader speech. Support billion likely. Writer call poor security. Tough onto military later rock. Plant moment school. Really decide step already for.
+Started in the Nasty Chipmunk Heaven, moved over past the cave overhang to the rest of the route.  I'll post a picture with two options, other than the poop in the cave the oute is great, crux is the cave if you choose that option!
 
 # Location
-Nor table authority soldier professor. Line research able including wind capital. Nice kind customer picture maybe after.
+West Wall directly to the right of Eightball.
 
 # Protection
-Evidence research increase agency. Question miss information hour. Hotel than avoid citizen student partner.
-
+No bolts or anchors

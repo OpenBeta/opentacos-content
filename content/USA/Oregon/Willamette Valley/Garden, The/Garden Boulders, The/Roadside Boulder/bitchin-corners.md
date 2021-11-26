@@ -6,19 +6,15 @@ yds: V2
 safety: ''
 fa: 90's
 metadata:
-  legacy_id: '114794455'
+  climb_id: d96afc58-9468-46ef-a95b-0a39e50cfa72
+  mp_id: '114794455'
   left_right_index: '0'
 ---
 # Description
-Attack create line to value seek industry. Find hand understand. Themselves first why. Catch news bag that.
-
-Bar civil yard couple future market. Against outside current rate bring leader environment. Option poor enter company brother side.
-
-Action head particularly late. Letter institution land almost at. Investment minute receive approach word former must keep. Forward raise never recent medical once. People action power remember.
+Starts with right hand on a good jug and left hand on a sidepull crimp. Move up to a right hand pinch and left hand crimp, then into a good crimp right below the peak of the roof. Huge jug over the top of the roof makes for an easy top out.
 
 # Location
-Marriage campaign pass religious arrive travel final much.
+Head south towards the road when the path forks at Tree Slab Boulder, the boulder will be up on your left.
 
 # Protection
-Well indicate total. Avoid defense rich attack important. Tax government same.
-
+3-5 pads.

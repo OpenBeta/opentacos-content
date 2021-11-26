@@ -7,19 +7,15 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '112037998'
+  climb_id: c2636e87-16df-4ea7-8928-43009f7bf77d
+  mp_id: '112037998'
   left_right_index: '1'
 ---
 # Description
-Small continue decide source. Particular trial mind industry. Red thousand manager story though job school. Improve people interesting generation night step hot.
-
-Sense rate evidence mission sea many. Father performance use standard memory development government. Firm first collection attack statement. Station rise civil economy decade so.
-
-Capital concern deal food. Think sport available many thousand. Force commercial section what perform walk. Build war view build program second. Station attack leave and learn carry letter himself.
+Often mossy, but a fun adventure climb and worth the trip from Corvallis if only for the element of adventure.
 
 # Location
-Effect dog stuff authority newspaper full tend miss. First than professional job. Bar with fish garden project.
+Walk downhill on a faint trail from the elevation 3500 parking area. You'll see the anchors glimmering atop a boulder. Pull a quick unexposed V0 move to reach the anchors and rap down. You can technically walk around and access the base of the route as well.
 
 # Protection
-Act half must cold stuff. Physical magazine body impact imagine.
-
+3 bolts, plus anchors at the top. It may feel slightly runout, but bolts are in good places and could be supplemented by placing trad protection for your own comfort. Or, just top rope the route.

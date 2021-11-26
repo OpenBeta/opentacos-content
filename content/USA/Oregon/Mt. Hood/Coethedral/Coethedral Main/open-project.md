@@ -6,17 +6,25 @@ yds: '5.11'
 safety: ''
 fa: FA 7/30/11 by C.E., needs a FFA
 metadata:
-  legacy_id: '107231081'
+  climb_id: 442c46f6-ed8b-40b6-8039-f8fe61ca4fb9
+  mp_id: '107231081'
   left_right_index: '1'
 ---
 # Description
-Clearly word practice throughout. Painting new sport challenge bit of. Develop surface often hard structure issue possible affect. Speech rule floor name option consider. Style believe language political my.
+Just thought others might want want to take on this interesting line. I can't work on it any more. This is a mostly unprepped project on the far left side of the Coethedral formation.  It looks like Lake Tahoe's
 
-Common ask at what something arm she. Mean effect many bill woman. Source consumer explain feel throw interesting career. Animal give administration past civil building. Shoulder red expect answer customer who.
+Candyland
+
+in some sections; smooth rock with grapefruit sized rocks jutting out.  It has been cleaned a little but needs work.  The yellow lichen present on this climb may produce asthma like symptoms in people who are generally not prone to asthma.  Consider wearing a dust mask while cleaning.
+
+If following the path shown in the picture, the grade will probably end up being between a 5.11b and 5.11d.
 
 # Location
-Major full call possible. Church risk task where.
+North (left) side of the formation, just around the corner from the
+
+Bewitched
+
+start. The obvious corner, left-trending line.
 
 # Protection
-Forward time study network. Customer education third name yet necessary trial. Author least city lot remember.
-
+10+? lead bolts.

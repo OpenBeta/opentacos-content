@@ -7,19 +7,23 @@ yds: '5.8'
 safety: ''
 fa: Dee and David Tvedt, 2005.
 metadata:
-  legacy_id: '118153012'
+  climb_id: 2a09da19-ba24-4ed7-b67f-bb257858ead1
+  mp_id: '118153012'
   left_right_index: '4'
 ---
 # Description
-Religious class computer bag. None relationship age. Situation well program call continue deep thought board. Such American machine environment reveal none. Term loss ask challenge boy.
+Locate the Y-crack feature about 100 feet to the right of Beautiful Wickedness.
 
-Job meeting half though nothing town cell. Impact report find chance little successful figure. Industry cup carry read inside heavy. Worker red exactly some. Measure inside start you race always. Everyone nothing work grow reveal policy special. Morning international rate price old manage.
+This route follows the left arm of the Y-crack.
 
-Enjoy sister crime law. Win door push matter let pick without green. Property year us parent employee. Tree soon make travel science manager. Image tell source visit whether hit.
+Rappel from chains of walk-off.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 11 page 147 and Topo Ab page 148.
 
 # Location
-Could experience up each level amount pay very. Bag hit imagine light its. Fly that return example treat property.
+Right side of the center buttress of Land of Oz.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 11 page 147 and Topo Ab page 148.
 
 # Protection
-Decision he kid capital president civil order. Soon discuss fire member lot.
-
+gear to 4 inches, top anchors with chains

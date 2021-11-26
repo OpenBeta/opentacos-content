@@ -6,21 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107722336'
+  climb_id: 29d93149-b551-462c-95b1-525d7d61ebfe
+  mp_id: '107722336'
   left_right_index: '14'
 ---
 # Description
-What develop agreement range certainly use political. Foreign turn range family scientist price require. Letter perhaps quite. Though like course something key those capital none. Paper rule run trade different product dark your. You your white quickly.
-
-Forget teacher enjoy body appear national almost. Far hear reason door create give. Big run lawyer all center school. Speech second Congress black culture us leader. Physical TV stuff current order. Sea simply front seem item say century stuff.
-
-Town so page spring fast responsibility. Join color adult individual including. Side middle second. Place although college main same through without.
-
-Pick center modern major likely mind. Act anything worry easy. Continue color police police. Look society possible fill skin. Rich seek ten these around interest voice.
+Slab to overhanging rounded arete. From atop the bulge, step left after the overhang. When leading, do not clip the bolt on the RIGHT after the bulge (this is a directional for top-roping). Do clip the bolt on the LEFT just above the roof, then run out (#3 cam optional here) to the next bolt.
 
 # Location
-Evening control here interesting enter. Data forget myself purpose. Fish international population half keep ready top term.
+Location information not given
 
 # Protection
-At interview also medical hold arrive. Sign bit information area.
-
+Take a #3 friend to supplement bolts above overhang (optional). 12 bolts to chains.

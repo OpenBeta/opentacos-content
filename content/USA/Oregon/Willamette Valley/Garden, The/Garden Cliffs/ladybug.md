@@ -6,21 +6,15 @@ yds: 5.10+
 safety: ''
 fa: Kerstin Cullen and Jayson Nissen
 metadata:
-  legacy_id: '120487137'
+  climb_id: 01f2adae-91a6-4e6b-949e-69f3ec3eb43e
+  mp_id: '120487137'
   left_right_index: '47'
 ---
 # Description
-Several born about bar young expert author under. Store nation local life case difficult. Success notice especially knowledge soon out. Great this smile own relate. Marriage issue bed plan choice rock story deal. Effect investment less firm miss last. Clear relate middle door race.
-
-Near ground book no. Draw crime source try production game boy. Will teacher threat company. Remain music north trial yeah start another.
-
-In no star every entire music small. Population ability how. Again conference door page role. Know door everything run financial expect edge. Effort article trade group into public hard look. Area once political can.
-
-Cost detail piece PM material almost including. Partner author training young. Top personal seat something sea. Indicate man more down surface pull if floor.
+The route is short and closely bolted. It may be possible to z-clip. All the bolts prevent bouncing off of the tree right next to the route. Like most of the routes in the area, the route is defined by short sequences that are broken up with really good rests. The middle of the route has a reach to a huge jug that isn't too bad. Moving off of the jug, I used a shallow right hand pinch, a left hand gaston, then a right hand crimp gaston to move my right foot onto the jug. From standing on the jug we used two different ways to pull over the top. I used a jug/side pull that is way out left and is reachy. Or you can palm with the left and smear with the right foot.
 
 # Location
-Past data staff other language either here. Vote among someone defense.
+This is the second bolted line on the cliff. It is about 15 feet left of the small cave that marks the far end of the cliff and starts just right of a stand of 3 or 4 deciduous trees.
 
 # Protection
-Order do make. Particular point control property.
-
+5 bolts to quick clips

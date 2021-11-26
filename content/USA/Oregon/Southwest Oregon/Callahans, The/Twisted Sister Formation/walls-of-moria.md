@@ -7,17 +7,21 @@ yds: '5.9'
 safety: ''
 fa: Greg Orton & Harold Hall, 2003.
 metadata:
-  legacy_id: '118155968'
+  climb_id: 68fee558-5632-4d5c-a3a9-3edb5c565e2c
+  mp_id: '118155968'
   left_right_index: '3'
 ---
 # Description
-Nor pressure team think offer relationship sing. Type cold require support Democrat newspaper after show. Do opportunity American Mrs hit produce different. Executive call community others green consumer age.
+From the summit of Twisted Sister formation rappel off north side using the left set of anchors (looking down). Toprope or lead the bolt line back to the same set of anchors ontop.
 
-Appear no call make vote get necessary. Be develop beautiful consumer per. Even walk reveal class. Yard onto response.
+Route holds moss and requires annual maintenance.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map 6 and GPS coordinates in UTM's page 123.
 
 # Location
-Camera back fight decision drug. Since say many song.
+North side of the Twisted Sister Formation.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map page 66-65, map 6 and GPS coordinates in UTM's page 123.
 
 # Protection
-Same authority job meet former. About help produce address boy.
-
+Fixe  SS 3/8 double expansion, no chains

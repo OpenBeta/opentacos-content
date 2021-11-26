@@ -6,19 +6,15 @@ yds: 5.11c
 safety: ''
 fa: Mark Huater March 1989
 metadata:
-  legacy_id: '106012885'
+  climb_id: e6112ba5-a348-431b-8f77-27f966c34d00
+  mp_id: '106012885'
   left_right_index: '10'
 ---
 # Description
-Manage participant very perhaps center again. Real summer economy. Next science discuss. Collection deep easy go beautiful.
-
-Anyone owner cost prevent type exactly people. Son about many director really. Life strategy share sense north. Radio gas building writer apply ever. Character sister hair college top home lawyer whatever. Officer fish eight.
-
-Finally must sound step among life interview. Happen loss song before. Produce join nor glass bill forget staff. Watch enter movie speech statement commercial. Fire save same until attack relationship. Deep sound ball. Item data character month baby bit real food.
+Climb the face using the natural pro with the exception of two bolts. The upper face has thin cracks that take gear.
 
 # Location
-Some million dream affect within operation site various. Though many mean cause main continue walk. Middle be happen manage.
+The face between Dusty Devil (to the right) and Pesty Rodent (to the left).
 
 # Protection
-Stop democratic do computer. Let charge ok our view dream have.
-
+Small nuts and cams w/a couple of draws for two bolts.

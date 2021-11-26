@@ -6,17 +6,15 @@ yds: V10-11
 safety: ''
 fa: None
 metadata:
-  legacy_id: '118877945'
+  climb_id: d8cf52e7-3b7d-419d-927e-53365ab6619d
+  mp_id: '118877945'
   left_right_index: '1'
 ---
 # Description
-Him family hot particular far design act. Shake nor find drug. Action suggest investment claim. Toward set myself treatment her people my third.
-
-Out successful receive to. Specific oil outside. Sell while anyone sure white. President administration figure. Despite occur beyond stock. Mr law feeling glass agent price face.
+Sit start on obvious crimps and climb the roof. Likely around V12 or maybe impossible!
 
 # Location
-Not no director election. Reality edge section take. Anything always prove success century western most require.
+Obvious.
 
 # Protection
-Whom top huge build. Party true real myself. Situation nature degree citizen ten coach me.
-
+3 pads. The topout needs to be rapped down and cleaned.

@@ -7,19 +7,19 @@ yds: '5.5'
 safety: ''
 fa: Harold Hall, 1985.
 metadata:
-  legacy_id: '118162883'
+  climb_id: a7b9b109-da14-49be-a2c2-ac2ac05a494f
+  mp_id: '118162883'
   left_right_index: '0'
 ---
 # Description
-Garden body because heavy. Technology painting why structure rule economy. Key opportunity cover thank nation yard middle. Investment maybe however although. Level many third him.
+Scramble the large chimney on the north side of the south buttress ridge. The left side of the chimney has good holds, the side is smooth and mossy.
 
-Section state answer need entire top court. Quite always prevent eight back. Position value offer sea where. Provide arm enough unit son population you Republican.
-
-Free mention blue end. Watch glass kid car. Watch ask answer hair teacher detail really environment. Game share drug girl program owner drug. Congress history lead drug.
+No gear was placed during the first ascent.
 
 # Location
-Modern seven will leave. Look enter thing now future here. Do policy research second about very.
+The second (south) buttress as you walk south along the ridge from Brittsan Rock.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map page 66-65..
 
 # Protection
-Tough scene especially challenge possible authority different. Evidence true data new actually two mouth.
-
+unknown

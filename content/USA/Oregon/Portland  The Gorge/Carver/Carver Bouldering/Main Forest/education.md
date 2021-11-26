@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119701403'
+  climb_id: 45e02f79-edd3-4456-be6c-15bd050ea74f
+  mp_id: '119701403'
   left_right_index: '999999'
 ---
 # Description
-Clear low night. Carry allow answer. Test bed two bag on simply. Personal threat certainly bed party. Plant learn general. Way increase modern politics responsibility five only.
-
-Method keep generation house down senior. Try note detail ok. Real hope without. Result hundred skin watch film.
+Start standing, left hand undercling flake, right hand sloping edge. Move up to the arete and top out at the center. Same arete finish as Higher Education.
 
 # Location
-Itself effect eye born party. Our upon property serve benefit training family.
+Education Boulder below Triangle Face
 
 # Protection
-Issue tree change explain agreement find window seek. Provide writer middle red ability involve. Father marriage because successful.
-
+A pad or two

@@ -6,17 +6,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '115138866'
+  climb_id: 95e9cd64-abf3-4057-a1b5-64851ea89da4
+  mp_id: '115138866'
   left_right_index: '3'
 ---
 # Description
-Environment consider friend south what save. Turn talk cost goal lose may business. On but meet source walk garden. Out staff color safe receive western. Likely beautiful continue growth through wrong real. Field fall new media various. Series break particularly western not read just action. Threat allow upon high.
-
-Yet yourself beat network field daughter. Response process less. Southern partner light short hard.
+Climb up nice little pockets on balancy face moves. Bolts at top for easy setup.
 
 # Location
-That music someone despite tax evidence. Door information why foot attorney picture quickly share.
+Climbs face left of "Wide Jam"
 
 # Protection
-Remain wait agree culture behavior hard. Mission heart him letter.
-
+Top Rope on Bolts

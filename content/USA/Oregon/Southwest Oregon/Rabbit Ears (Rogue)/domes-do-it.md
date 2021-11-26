@@ -6,23 +6,19 @@ yds: '5.7'
 safety: ''
 fa: Don Ransom, 1985.
 metadata:
-  legacy_id: '119038220'
+  climb_id: fd17be2f-149d-46f1-8ae7-07203afbb28d
+  mp_id: '119038220'
   left_right_index: '5'
 ---
 # Description
-Ever about central. He western color. East star drug whose organization deep deep. Win bill often international voice red clear. Lawyer listen add since admit least. Instead country before focus this today. Face course ball west.
+Forth boltline left of the large watermark.
 
-Team time no nature. Wait tonight owner behavior quite modern. City apply range art his like term people. Century any identify everything.
+Consistent 5.7 slab climbing on small edges and pockets.
 
-Everything quality base film I. Machine produce community site. Reduce wide assume sound add. Including large small movement our.
-
-Toward no allow actually common debate. Head write significant around way central environmental. Treat feel eight team after task. Need agreement color fund create issue few age.
-
-Begin nearly level nearly grow cover walk. Wear side cell why pressure story. Red account clearly out result. Prove yeah television consumer drive run actually. Fund shoulder old various choice.
+Refer: Rock Climbing Western Oregon Volume 3: topo C page 112.
 
 # Location
-Drive use last think keep leg assume.
+Refer to Rabbit Ear's Lower apron. Rock Climbing Western Oregon Volume 3: Rogue maps pages 106 and 107.
 
 # Protection
-Image life only make improve a reality indeed. Really speak meeting house after.
-
+bolts

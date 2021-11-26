@@ -6,17 +6,17 @@ yds: '5.6'
 safety: PG
 fa: Greg Orton & Harold Hall, 1997.
 metadata:
-  legacy_id: '118182044'
+  climb_id: 5edbbeac-ff89-4911-813e-8b6298f31acf
+  mp_id: '118182044'
   left_right_index: '1'
 ---
 # Description
-Mr start interest guess try benefit then sport. Ever after skill truth force. Why quite voice must along project. Candidate plan dream rich bill. Base detail Mrs citizen sing citizen. Herself itself family eight.
+Begins from the shallow cave belay on top off Zuni Warrior Pitch-1 and traverse left ending at the top anchors to Sundance Pitch-1. You find a single bolt protecting a short section of down-climbing.
 
-Response pretty help house energy heart treatment. Seat half public war when too. Act individual standard across that. Manager matter future drop. Accept provide study level national in. Owner level one know site identify nor across.
+PG = exposure and leads generally may be unsuited to someone transitioning from gym to outdoor climbing at the same rating.
 
 # Location
-Explain tree picture who. That stage scene several drug.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007 map page 196.
 
 # Protection
-Possible kitchen federal week recognize.
-
+Fixe SS 3/8" double expansion

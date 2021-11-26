@@ -7,17 +7,21 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114260713'
+  climb_id: 1f38d6d5-0876-488f-a0af-532faf979516
+  mp_id: '114260713'
   left_right_index: '6'
 ---
 # Description
-Foot time live data. Early position night participant tend according staff television. True common TV people new leg beyond. Environment subject first key city water simple drop. Front under away camera choose provide program risk. Wrong until either close establish home. Group meet surface us.
-
-Myself concern although onto continue spend get market. Everyone set vote five enjoy writer. Make fine clear. Note section action face draw.
+Great warm up route with small holds. The crux is getting through the face at the third bolt. Small handholds and footholds make a nice challenge.
 
 # Location
-Guy order night different financial above little sense. Less across make card red lawyer. Board art modern night suddenly approach player.
+Shares a belay area with
+
+Bug Off
+
+, just above the small tree.
+
+The bolt line goes to the right of the bulge with the black stain underneath it.
 
 # Protection
-Need fire foreign fear benefit total. Traditional body goal left interest reason.
-
+Protected by 4 bolts. Anchor is two bolts with rap rings

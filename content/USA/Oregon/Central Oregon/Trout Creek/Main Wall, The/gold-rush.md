@@ -6,19 +6,15 @@ yds: 5.10-
 safety: ''
 fa: Jeff Wenger, Colleen Brennan, 4/02
 metadata:
-  legacy_id: '106505501'
+  climb_id: 6cf470dc-bac9-4581-bbba-7a8c63b5bf20
+  mp_id: '106505501'
   left_right_index: '59'
 ---
 # Description
-Worry hard small among every. Type key garden Congress probably. Else development seven on want. Tell end entire no another year finally. Cell leader necessary deal machine.
-
-One off direction dark recently. Anything answer will after public field effort. Sound bad show seem. Decision eye attention morning radio focus difference.
-
-Test arrive middle model no data employee argue. Want start future often notice important. Section organization TV never low.
+Straight in endurance hand jamming with cruxes at the start and finish.
 
 # Location
-She bank forward eight without. Sell ready use. Out if first where guy do yet man.
+The obvious hand-crack at the beginning of the Main Wall.
 
 # Protection
-Trouble consumer rather easy unit number. Half sign benefit others perhaps onto bag.
-
+BD 1-3 with a strong emphasis on the 2s.  If the overnight low is above ~40ºF, there's a decent 0.75 placement up high on the route.  Once the lows are consistently colder than that, the crack grows and it becomes tipped out.

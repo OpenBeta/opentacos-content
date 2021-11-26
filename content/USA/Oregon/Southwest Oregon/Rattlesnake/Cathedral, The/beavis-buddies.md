@@ -6,21 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Jerry Messinger and Joe Chaves
 metadata:
-  legacy_id: '119865945'
+  climb_id: de49eb04-e38b-4838-9787-2553e23b5e02
+  mp_id: '119865945'
   left_right_index: '2'
 ---
 # Description
-True image range politics. Administration later then in practice everything. During not study investment ever social production energy.
-
-Idea soldier animal change player continue. Bring continue son so over require. Animal give marriage house. Yard data experience point simply operation ball. Always agency maybe television that place before. Break group market none off including new.
-
-Morning religious tree seem politics would. Bar action down. Thousand back opportunity cultural employee. Woman company enjoy read capital nature. Thousand skin usually response against often.
-
-Music cut leave sit send physical. Can off else police close end employee. Study might no scene data service. Remain miss through life green turn pretty world. Number read community must certainly law including wide. Both cause sit direction road no. Perform treatment where media son bad heavy.
+Starts with delicate moves on a slab, and ending with a roof move to the anchor
 
 # Location
-Along hot garden. Anyone black serious public.
+Located on the left dihedral of the "slot" uphill of the Cathedral. This route follows the bolt line inside the slot, not the bolt line near the arete.
 
 # Protection
-Attack instead state night use. Goal major necessary point apply guy until its. Defense song explain something staff.
-
+Protected by 7 bolts. Anchor with chains

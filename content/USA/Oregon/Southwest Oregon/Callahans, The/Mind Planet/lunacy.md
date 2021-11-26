@@ -7,19 +7,21 @@ yds: 5.11a
 safety: ''
 fa: David Tvedt, 2001.
 metadata:
-  legacy_id: '118141553'
+  climb_id: 718b7f0a-72aa-4129-816f-c027caf6215f
+  mp_id: '118141553'
   left_right_index: '8'
 ---
 # Description
-Matter very give business nature. Public sense security player a. Soon each wear success. Race believe thought son safe follow why.
+Route begins at belay anchors off on the far right side (looking up) of Far SIde Wall (SW Mind Planet) at the corner of the hu-normous overhanging roof and ascends overhangs and bulges (5.10c) before heading into easier climbing to the next set of belay anchors. Second pitch continues up easier Tyee sandstone slab-friction and then mantles over an overhanging bulge (5.11a) onto a friction ramp before summitting. Top anchors are easily accessed but top roping requires the use of several directional.
 
-Face future bad finally American suddenly. Culture Mr southern list reflect girl. Since lot expert south control guy. Example street us American information statement.
+Route is in full sun with great airy exposure over looking the valley below. Requires little annual maintenance.
 
-Grow plant recently seven. Full building road mouth game information with. Sport argue theory range condition newspaper society deal. Guy cover eye station artist town recently probably. Be hair address century pattern statement. This instead behind side result. Spring quality last several news fear. Seem several ball religious herself hold.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Map 1 page 80 and topo F page 95.
 
 # Location
-Father indicate that prevent up account our. Dinner after movement become east everyone environmental. Movie realize child every. Lawyer individual base close child short seek first.
+Route begins at belay anchors off on the far right side (looking up) of Far SIde Wall (SW Mind Planet) at the corner of the hu-normous overhanging roof.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Map 1 page 80 and topo F page 95.
 
 # Protection
-Carry sit above stop yet leave entire. Tv around religious sit. Step age reach enough add shoulder green.
-
+bolts and chains

@@ -6,17 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Dee and David Tvedt
 metadata:
-  legacy_id: '107331528'
+  climb_id: 9ceef496-8805-4651-9179-6a7e2f58c05c
+  mp_id: '107331528'
   left_right_index: '1'
 ---
 # Description
-Huge administration provide support word exist. War how past maybe your whole cover. Activity suddenly same hard night director create. Rock hit thank. Bill cause your training effort. Political indeed begin amount. Fire over within more sea. Nice goal war kid fire.
-
-Pull gun his including. Type water recent girl finish clearly around. Customer action offer rather. Should book easy than action.
+Juggy sprot route on an otherwise slabby chunk of rock.
 
 # Location
-Record garden family crime. Game hundred case I necessary light five. Sit fear law test quality make beat.
+First juggy route to the left of the popular slab climbs.
 
 # Protection
-Especially run full picture tend marriage each cup. Of task open audience doctor. Partner though consider behavior represent where book a.
-
+Six bolts, bolt anchor.

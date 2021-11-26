@@ -1,11 +1,9 @@
 ---
 area_name: Eagles Rest
 metadata:
-  legacy_id: 50303725-04ce-4b76-990a-2e82154f6113
-  lng: -115.46652
-  lat: 36.03518
+  area_id: 3e0911f8-0594-4387-ac59-4f11f28110f5
+  mp_id: ''
+  lat: 44.5672
+  lng: -122.1269
 ---
 # Description
-Excepteur pickled laborum, craft beer do next level cliche coloring book migas truffaut franzen fanny pack umami.  Salvia single-origin coffee YOLO mumblecore flannel.  Adaptogen paleo ex, pabst keffiyeh pop-up la croix put a bird on it consequat hella.  Gluten-free beard banh mi food truck tbh cillum.
-
-Humblebrag taiyaki intelligentsia neutra anim ullamco aliqua.  Non glossier irure tote bag thundercats.  Cliche flannel before they sold out artisan intelligentsia.  Irony pok pok woke try-hard.

@@ -6,17 +6,19 @@ yds: 5.13a
 safety: ''
 fa: Phillip Hranicka (Bolted by Dave Sowerby)
 metadata:
-  legacy_id: '106814076'
+  climb_id: e65dc6a9-a730-4699-9781-530804241e88
+  mp_id: '106814076'
   left_right_index: '28'
 ---
 # Description
-Later staff service technology. News a forward recent point. Prevent fund staff together stuff father truth. Recently approach week environmental doctor huge.
+A true power-endurance route, Psoriasis lacks the huge "thank god" jugs that appear on other French's Dome routes.  After clipping the third bolt, the business begins and you'll have to get your shakes/rests wherever you can find them!  While the crux is between the fourth and fifth bolts, the route remains pumpy to the anchor.
 
-Hard especially tonight explain. Listen help month side should. Ago example process participant suffer summer. Among evening several court hope side. But guy modern design type song computer. Tonight me national forward receive rich.
+This route has been extensively cleaned, but the friable nature of the rock means that holds occasionally crumble slightly.  Also, any rock to either side of the route should be considered suspect- belayers should probably wear a helmet.
+
+Despite the less-than-ideal rock, Psoriasis is a great route with fun, challenging movement.
 
 # Location
-Quickly behind authority. Push about court anything various approach commercial. Across true benefit must traditional door.
+On the backside of French's are two bolt lines that share a start. The original line is an 11- listed in Portland Rock Climbs as Low Voltage.  Psoriasis stays left and climbs straight up the steep wall.
 
 # Protection
-Sure our seven young writer. Try approach nation live. Road material above class.
-
+Six bolts and an anchor with (currently) fixed carabiners.

@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113843695'
+  climb_id: 70e210b1-93d4-4ba5-9d6c-e0dca1343adc
+  mp_id: '113843695'
   left_right_index: '2'
 ---
 # Description
-Writer realize blue general capital. Country culture prepare million democratic something. Effort field discover at. Us may business guess strong describe statement. Heart take clear professional become. Officer most administration face century.
-
-Letter difference strong pass miss here. Expert as at local detail around brother majority. Find card street partner growth company country. Toward spring southern my idea he. Quite law natural goal far before begin. Talk data figure life.
+Sit/crouch start low and move up the most obvious and chalked line on the boulder.
 
 # Location
-Push anyone adult purpose page civil. Size close imagine simple vote.
+Perhaps the most recognizable boulder problem in Central Oregon 20 feet from the car. If you're too drunk to find it you probably shouldn't be climbing.
 
 # Protection
-Learn detail section take really memory senior. Note point finally investment important after course see.
-
+Pads

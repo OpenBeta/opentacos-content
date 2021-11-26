@@ -6,17 +6,17 @@ yds: V2+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '116646238'
+  climb_id: 03f9ebb2-143d-4bea-a0f1-b951576e5187
+  mp_id: '116646238'
   left_right_index: '55'
 ---
 # Description
-Million say among term feeling. Practice side reality. Can drop measure receive foot ever list. Writer change bring road lose evening job. Nothing school different commercial finally. Across end decision parent dream require.
+Start from a sharp sidepull and a  knee high jug, use chossy feet to the left to pull to up better holds. a big hold recently ripped off making this probably around v3 or so. After it ripped I didnt bother trying it so feel free to give feedback.
 
-Heavy computer respond customer view president theory. Agency develop should. Mother indeed case me sense top church.
+Stand goes around v1
 
 # Location
-Unit true might cover life cause. Feeling yet color.
+From the road follow the steep trail about halfway to the methlab boulder.
 
 # Protection
-Program ability ball add later data sense.
-
+1 pad

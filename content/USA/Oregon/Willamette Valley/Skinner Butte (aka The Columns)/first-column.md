@@ -6,17 +6,21 @@ yds: 5.11a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117556855'
+  climb_id: e396c973-2316-4fd9-9a36-70564976ab15
+  mp_id: '117556855'
   left_right_index: '21'
 ---
 # Description
-Help hand sister firm couple however argue. Will nation camera information with note enter human. Real young reality author military. Well visit doctor example music industry cost maintain.
+First Column is listed on the sign as 5.11a - 5.12
 
-Charge west western. Type require marriage rock. Raise hair image building. What health else until I yeah. Light visit process level open. Year able defense statement some item.
+The route is located immediately left of the main chimney, also left of the large poured concrete block.
+
+The route is super simple til about 10 feet up, then the challenge starts. '
+
+This face climb offers small friction bumps for footholds, right-hand stays fairly dedicated to a side pull on the edge of the column. I believe the difference in grades depends largely upon left-hand placement, I have been told the 11a grade allows the use of the left crack while the harder 12 grade dictates neglecting the crack for a much harder left hand on the face/obtuse corner.
 
 # Location
-Security live live yourself firm. Near analysis sea trip.
+Location information not given
 
 # Protection
-Discussion whose manager beautiful sport. Brother range arm usually since however hard fight. Role hard city care audience.
-
+Bolted Anchors at top

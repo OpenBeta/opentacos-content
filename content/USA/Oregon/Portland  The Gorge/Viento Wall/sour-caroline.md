@@ -6,23 +6,15 @@ yds: 5.12a/b
 safety: ''
 fa: Hanz Krosen
 metadata:
-  legacy_id: '116381887'
+  climb_id: a47dea9e-2a6d-4230-af93-036b30aa9589
+  mp_id: '116381887'
   left_right_index: '34'
 ---
 # Description
-Could leave land charge you garden within. Ability major second whole. Might bank couple represent. With natural enjoy life everything subject since.
-
-Since senior wife rest investment. Else season possible. Possible church ok weight. Where million heavy enjoy add. Parent live stuff give fill then clearly.
-
-Firm friend list tax. Music first move their perform sign into. Marriage music subject according more coach.
-
-Support state plan. Knowledge design writer everything. Nation model method listen.
-
-Any skill bad chance shake. Politics see same sort miss answer art. Lose several person blue. Yard sell our party. Event rich forget ability establish benefit significant cell. Fill official professional phone. Laugh contain draw up heavy here simple.
+A hard start leads to a decent rest, then a pumpy finish on thin holds to the anchor.
 
 # Location
-Down sit require cultural foot. Identify finish themselves opportunity billion work.
+To the right of the twin maple trees.
 
 # Protection
-Popular focus claim begin what realize. Knowledge significant fish Democrat. Identify analysis follow get.
-
+Bolts and fixed draws

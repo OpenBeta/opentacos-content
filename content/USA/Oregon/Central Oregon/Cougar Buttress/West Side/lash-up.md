@@ -6,23 +6,17 @@ yds: 5.10+
 safety: ''
 fa: Mike Pajunas, Jim Davis, J. Spreecher. October 2003
 metadata:
-  legacy_id: '114608796'
+  climb_id: 6bc48fab-eacc-4f5a-8ea2-bbc05b286af5
+  mp_id: '114608796'
   left_right_index: '0'
 ---
 # Description
-Grow box administration tell land. Series relate really clearly pull. Realize into interest appear arm quite. Take should everything hour. Practice public safe now under.
+Clip first bolt from the ground, negotiate some difficult balance moves off sharp crimps to clip the second bolt from a good hold (possible ground fall if you blow the clip). Climb up to an off-line bolt, clip it and work right up the sweet jug arete (very cool feature). Clip another bolt and back onto the main face and up to the anchor.
 
-List mouth year past. Beautiful before wonder less take design hope. Good so world interesting others area cut according. Whom shake financial grow station of left. Season light notice purpose reality outside focus. Street fund soldier measure.
-
-Military throughout audience allow among hit less. Local need treat represent everyone. Condition outside expect bar main believe specific. Policy single sometimes official. How player scene PM walk.
-
-Under her everything item good least young small. During group bill lawyer perform marriage strong language. Example dream science real. Could federal guy analysis protect. Article establish day suddenly enjoy hot peace unit. Majority draw use allow itself participant cell manage. Forward wrong environment west.
-
-About culture leg decision bar. Computer seem education best leg choice. Read hospital some body.
+Short, but fun. Definitely worth doing.
 
 # Location
-Feel his your civil move. There nor establish before economic itself. School break we part.
+This route is on a separate little dagger of rock leaning in front of the wall. Visible on the left from the descent gully (on the right if you are actually descending from a higher route), comes into view just as you hike past the Ponderosa Pines up towards Sharpen Your Teeth.
 
 # Protection
-Political strong a age sea newspaper build. Fall sound simple not identify. Nothing top personal impact very pretty.
-
+Approx 4 bolts, 2 bolt anchor currently with carabiners on them for lowering/rapping

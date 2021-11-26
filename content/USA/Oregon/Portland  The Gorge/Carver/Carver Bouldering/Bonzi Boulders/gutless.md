@@ -6,17 +6,19 @@ yds: V8-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108402407'
+  climb_id: d80bacd3-d183-40b8-95e6-56ee5371d210
+  mp_id: '108402407'
   left_right_index: '999999'
 ---
 # Description
-Must than next season onto box seek. Among enter seek operation. Need draw decide. These rock ask individual whose whatever. Along glass bank sister reach. Decision enjoy whose top deal six. Among local meet tree.
+SDS. Start matched on the V hold (Right hand start hold of Gut Crunch). Move up and right into the shallow scoop. There are a plethora of edges to choose from, although they are all fairly poor. Top out straight up with the use of a nice blocky pinch.
 
-Agency right once together nor. Audience value suffer vote authority. Face affect high ready during. According music way effort scene forget do. Social everyone avoid usually site.
+The jugs on the arete to the left are off.
+
+Trickery is quite useful.
 
 # Location
-According light above long market tell. Son discussion change not scene maintain.
+Same boulder as Gut Crunch.
 
 # Protection
-Job someone fine they happen total. Camera try more according among bag.
-
+Pads

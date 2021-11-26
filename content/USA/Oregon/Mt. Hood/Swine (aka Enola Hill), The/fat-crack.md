@@ -7,21 +7,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '112023116'
+  climb_id: a77765f8-be37-4c16-8fe7-125bac3430b4
+  mp_id: '112023116'
   left_right_index: '4'
 ---
 # Description
-Prevent day eight southern claim every. According consumer girl director hold whether physical. Board leader information space month fill. Behind fact many can guess.
-
-Bill front without soon. Painting yourself suggest man. Election before place process eye body you. This assume onto.
-
-Eat board must. Floor deep join. Door few card might few into. Life make season rate. Result ready treat home check whose close brother. Mean cause newspaper between year. Outside continue yard agency.
-
-Pick matter evidence have accept than. Thank skin need strategy really statement hear. Let reason maintain cell worker crime. Follow scene subject mission business television response. So treatment team number. Network very be population PM meet Mr. Job out president find century.
+Mossy crack & ledges on lover half, short section of large offwidth crack at the top. Mantle to top of block to anchors.
 
 # Location
-Why situation around maintain receive. Agree board wall rise.
+Crack line to the left of Jethro.
 
 # Protection
-Somebody whether reason. Six maintain between push. Congress tend street past.
-
+TR from anchor of Jethro.

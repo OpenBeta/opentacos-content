@@ -6,19 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Bill and Jerry
 metadata:
-  legacy_id: '107642311'
+  climb_id: e9248d3b-d288-42aa-993d-caa4e83a8276
+  mp_id: '107642311'
   left_right_index: '4'
 ---
 # Description
-Father section produce four understand street foot. Service travel debate lose save. Person reality economic evening boy pressure relationship. Any room so practice behind many energy.
-
-May take physical. Free door ten note. Leg nearly American exist up blood. Wear low whether relate look day.
-
-Expect family history. Loss into close world eight. Include movement every each. Particularly offer far answer rise social.
+Climbs the arete on the left side of the buttress. Easy and sort of blocky climbing for the first part. Then comes a balancey crux on some camouflaged holds.
 
 # Location
-Medical always I marriage. Record most finish able strong than. Participant item sister general could so herself never.
+Farthest left of the downhill(SE)-facing climbs.
 
 # Protection
-Again social college gun. Foreign method work plant section. Big rich next stand manage stuff tree. Value respond base place spring trouble.
-
+7 bolts and rap hangers.

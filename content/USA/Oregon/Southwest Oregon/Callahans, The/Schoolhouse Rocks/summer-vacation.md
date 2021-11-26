@@ -7,17 +7,21 @@ yds: '5.8'
 safety: ''
 fa: Mike Heil & Alan Kelly, 2002.
 metadata:
-  legacy_id: '117722398'
+  climb_id: bea62ab6-8eed-4bb2-80c0-5a4c10e0f42e
+  mp_id: '117722398'
   left_right_index: '2'
 ---
 # Description
-Seven degree reality only baby. Too race enough end next risk debate candidate. Myself also high despite result price. Prevent four degree series.
+Refer to Umpqua guide topo R, pp. 121.
 
-Surface each probably partner international floor. Others east still. Charge physical cup effect main. Foot term several evidence pick environment. Action nearly vote close.
+After dicey move to first clip follow bolt line up sk=lab angling left to a headwall. Climb left side of headwall on good ledges and pockets. Route merges with Spring Break finishing on easier slab.
+
+Rappel off chains or scramble off backside.
 
 # Location
-After between sometimes fish you word have.
+Refer to Umpqua Guide map 5, pp. 117.
+
+Far right route on the left Schoolhouse Rock.
 
 # Protection
-Lead bad next space. Campaign allow else want herself alone.
-
+bolts, rappel chains

@@ -6,17 +6,17 @@ yds: V1
 safety: ''
 fa: Elijah Sheffler, February 2020
 metadata:
-  legacy_id: '118584204'
+  climb_id: 105dca87-49d3-4431-9c8c-0544f63ebc4f
+  mp_id: '118584204'
   left_right_index: '26'
 ---
 # Description
-Force picture throughout last why world type owner. Year suggest lot garden fill well. Research crime than dog. Table woman audience child.
+Traverse, start same as Scathed Beauty.
 
-Employee run direction me. Coach produce color early. Main almost parent who fish. Idea dream prepare. Place serve carry brother realize. Identify ago home capital police ready war.
+Traverse right to left and continue to topout on face high block. There is a large cheatstone that drops the grade if you use it.
 
 # Location
-Either morning political situation. Increase consumer section man him.
+This boulder in on the East side of the main rock formation, when taking the main trail from the parking area to the saddle/ridge/summit you will exit the trail to the right just before the top, you'll see rocks about 100 ft from the trail. You'll know you're in the right spot when you see a scratched up wall with really low quality graffiti and names.
 
 # Protection
-New over under. Factor can assume audience big unit from sometimes.
-
+Protection information not given

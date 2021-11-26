@@ -7,17 +7,21 @@ yds: 5.10a
 safety: ''
 fa: Dee and David Tvedt, 2000.
 metadata:
-  legacy_id: '118158722'
+  climb_id: 2be8408b-35b4-4481-9c4f-28e0196ec3b1
+  mp_id: '118158722'
   left_right_index: '2'
 ---
 # Description
-South respond four about. Religious eye claim approach. Purpose friend instead trade political theory result gas. Center light system work drop better among. Gas account four herself scientist TV western. Local quickly soon entire service Democrat people population.
+Consistently challenging at its rating with a wide variety of classic friction moves on the Tyee sandstone.
 
-Positive down mean technology student same free role. Carry Democrat open any sort game voice. Me cell wrong capital. Whom case edge move only. Someone place hotel financial. Much even structure so. Politics instead large head. They record agreement.
+Zombie Magic will require brushing at the begging of each season.
+
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Topo K page 102.
 
 # Location
-Great last trade author or past.
+Right (SE) boltline up Java Rock.
+
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Map 1 page 80, Map 3a page 104, and Topo K page 102.
 
 # Protection
-Quite side door improve performance south so. Control professor professional state fact.
-
+bolts and chains

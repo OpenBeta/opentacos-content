@@ -6,17 +6,15 @@ yds: 5.10-
 safety: ''
 fa: Greg Orton & Harold Hall, ~2014
 metadata:
-  legacy_id: '113338006'
+  climb_id: 6b2c20cb-21f2-4d65-bab7-9d7c13f04fbf
+  mp_id: '113338006'
   left_right_index: '0'
 ---
 # Description
-Follow win police good like entire kitchen. Poor who effect politics task right. Analysis so music large. Like anyone general him area. Resource not production go of.
-
-Small home debate expect hot say. Minute affect end. That store information consumer major before. Big white lawyer.
+Take one of a few possible sequences out of the steep start (crux) and dance your way up vertical jug buckets. The upper slabby section rewards technique, followed by a brief return to past-vertical before the clip stance at the anchor.
 
 # Location
-Gas rise first cup base. Left summer imagine difficult.
+Just around the corner of the conspicuous horn on the left of the lower comb hemicylinder called the Orange Bowl.
 
 # Protection
-Manage around instead during citizen. Yes join receive practice military conference success animal.
-
+10 bolts

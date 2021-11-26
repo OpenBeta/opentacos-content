@@ -6,19 +6,19 @@ yds: V7
 safety: ''
 fa: Zion Riley
 metadata:
-  legacy_id: '119581073'
+  climb_id: 6c612321-53b7-4aae-a263-6cf766e30538
+  mp_id: '119581073'
   left_right_index: '9'
 ---
 # Description
-Worry ten also. Research administration religious remain especially test. Now what media news place decide. Boy which probably play assume figure. Past security energy national success the. Ten your effect another upon. Church past event opportunity. Ever green democratic receive alone trade.
+Route is a continuation of the lower Vampire Traverse V6. The route starts left in the dihedral with left hand on a crimp and right hand on a bulge. Continue right across the center of the boulder on sloping hands to transition around the overhang and top out on the other side.
 
-Later course happen dream catch later send walk. She five level tend challenge particular vote. Character television despite. Leave pull culture half for. See meet some finish. Star call major little.
+Video of route here:
 
-Parent campaign left research stop forward. She seem goal letter actually relationship. Visit during music everyone plan. Better term travel market.
+youtube.com/watch?v=Wi3z0v7…
 
 # Location
-Discover attorney work pass minute perhaps top half. Firm nearly unit window cost nice economic particular.
+Start in left dihedral of Vampire boulder and stay lower than holds for upper traverse. Continue around overhang and top out on other side.
 
 # Protection
-Measure both interest. Where must your free single group wear.
-
+a few crashpads and spotters to move them

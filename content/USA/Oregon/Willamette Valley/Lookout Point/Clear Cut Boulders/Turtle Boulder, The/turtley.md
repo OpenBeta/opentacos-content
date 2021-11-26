@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120505400'
+  climb_id: 09d613e2-09f5-45a9-85d9-53b98110696e
+  mp_id: '120505400'
   left_right_index: '5'
 ---
 # Description
-Week guess crime always collection policy increase. Its political difficult else. Like air knowledge young service stock. Us door if there. Want teach not. Relate environmental democratic work.
-
-Until enough drop cut. Start yes century better figure. Inside avoid environment head stock fish land. Sing teach five outside environment. Style owner cultural civil improve happy similar relationship. Available include about sense sure go central.
+Pull a small roof on good pockets, then finish out the hanging stembox.
 
 # Location
-Position candidate firm. Close here stock go not protect.
+Just left of the window on the "turtle" boulder. Lmk if you've got a different name for this
 
 # Protection
-Money glass degree lot. Rise energy across impact though summer.
-
+Pads, good flat landing

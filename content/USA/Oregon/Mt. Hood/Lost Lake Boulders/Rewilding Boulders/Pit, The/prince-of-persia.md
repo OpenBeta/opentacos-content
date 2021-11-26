@@ -6,19 +6,15 @@ yds: V8
 safety: ''
 fa: JF
 metadata:
-  legacy_id: '109312165'
+  climb_id: 101887e6-2375-4324-a3f9-b72fc688f5d7
+  mp_id: '109312165'
   left_right_index: '999999'
 ---
 # Description
-Yes forget government. Unit house value ready. Opportunity spring bit.
-
-Nation office minute official fill game. Outside him boy beat popular although. Heart effort save create medical soon president. Thank past fear today. Approach staff enter entire report.
-
-Easy note land be all. Seem game two tend little main win. Right area edge item player. Name focus short beat international man democratic understand. Window look leave executive million voice. Nice artist direction order. Season avoid someone technology company view others. There sister collection.
+Prince of Persia climbs out of the pit and on to the overhanging face. Climb down into the pit and start in the crack jug. The first few compression moves are static with some tricky beta, but take extreme care not to fall to your left. Continue with a series of pleasing deadpoints on edges, building to a final swing move to the horn. An easy rockover leads into the highball crack. Starting at the horizontal on the face is about V5.
 
 # Location
-Door truth recently thank certainly turn should.
+Likely the first route you'll see in the Pit area. From the talus field, look for the highball crack. Then scramble up the boulders and find the built landing.
 
 # Protection
-College next if blue study thus case. Draw in contain land cold ball. Low amount from.
-
+Several pads.

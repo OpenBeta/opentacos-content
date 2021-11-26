@@ -6,17 +6,23 @@ yds: '5.8'
 safety: PG
 fa: Harold Hall and Greg Orton, 1998.
 metadata:
-  legacy_id: '118084382'
+  climb_id: 2d37ea1a-c567-49e4-bdf5-0ffeaac6e3b7
+  mp_id: '118084382'
   left_right_index: '2'
 ---
 # Description
-Us mention nothing seven clear great night. Between believe note successful away general. Ball nature senior per without strong. Traditional particular himself arm.
+P1: Begins up thin crack up downhill side of west face of Split Tooth Pinnacle, joining with Split Personality following bolt line climbing left across slab under pronounce overhang to large belay ledge and tree at center of west face (5.8).
 
-Grow surface push modern explain movie lose. Seat significant politics any learn factor. Right important nature today group make fact sound. Name pressure this at.
+P2: From belay ledge at tree scramble to right side of the ledge to the right side of an obvious large crack feature. From here traverse up onto a wide arete (5.7) following bolts to the summit (5.8).
+
+Rappel ~95 feet off top anchors (two bolts, no chains).
+
+Refer to Rock Climbing Western Oregon, volume 2: Umpqua, Orton (ed) 2007. Topo C page 224.
 
 # Location
-Score really four loss perhaps understand hold couple. History activity unit note prepare red. Economic that point forget. These entire art wait.
+West face of Split Tooth pinnacle. From the road, uphill and left of Buddha Tooth pinnacle.
+
+Refer to Rock Climbing Western Oregon, volume 2: Umpqua, Orton (ed) 2007. Maps 2 and 3, pp. 218-219.
 
 # Protection
-Reason defense stop purpose modern significant actually. Expect likely defense enough community. Program knowledge politics nearly.
-
+mostly bolted, crack at bottom takes nuts and cams, PG = exposure and leads generally may be unsuited to someone transitioning from gym to outdoor climbing at the same rating.

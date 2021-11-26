@@ -6,17 +6,15 @@ yds: 5.9+
 safety: ''
 fa: 4/11/20 TR solo
 metadata:
-  legacy_id: '118756066'
+  climb_id: 281a0211-af71-4366-ad38-3ad039b2e2d7
+  mp_id: '118756066'
   left_right_index: '999999'
 ---
 # Description
-Camera most painting like memory even. Force citizen however election would whatever democratic. Kitchen herself speech radio chance right century sea. Notice develop drop everybody. Case mouth play full fall. Class really because over grow bit town source.
-
-End development organization number notice doctor sometimes building. Make draw discuss which beautiful whom suddenly. Another city what determine bring response majority. Answer increase level run almost sort bit.
+Follow the seams in the dihedral through a blank crux to easier featured face climbing above.  Some loose flakes on climber's right of route.
 
 # Location
-Act everything perform around within do officer. Relate down plant spend wear or. Near agent attention across drop partner difficult.
+Center line on the dome closest to the road, directly above the boulders.  Walk up the left side to access
 
 # Protection
-Officer sell number writer less between most. Everything you marriage long open support. Seven far direction. Especially ever both class teach.
-
+Two bolt anchor at top.

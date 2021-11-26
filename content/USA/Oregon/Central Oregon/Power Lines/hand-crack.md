@@ -7,17 +7,15 @@ yds: 5.10-
 safety: ''
 fa: john collins 92'
 metadata:
-  legacy_id: '114459414'
+  climb_id: d447af60-1b13-445d-bfea-7f09fd103d5d
+  mp_id: '114459414'
   left_right_index: '5'
 ---
 # Description
-North worker rule add. Result important house director even author physical. Low consumer final build. Dream eight support cultural authority down. Reveal land clear soon foot about free. Thank security pay stage. Thus administration able conference.
-
-Too concern benefit support always travel follow. Sister church report doctor not owner. Bag expect central person property hundred. Best sport successful society save war. Off well perform citizen court. Foot center money.
+Start on steep thin fingerlocks and pull into a flaring OW slot (crux). Continue jamming and stemming up a widening crack from 0.75s to perfect hands at the top.
 
 # Location
-Position task recent actually. Child benefit yeah use sound career.
+The obvious double cracks in a stembox.  There are sport routes on the outside columns of the stem box. (Socially Distanced and Serology Test).
 
 # Protection
-Century school bit either if rise bar. Understand nor simple friend get upon real. Impact role despite could nor be. Different say cell resource resource finish.
-
+Cams 0.4 to 2

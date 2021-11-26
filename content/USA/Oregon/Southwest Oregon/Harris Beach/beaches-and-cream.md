@@ -6,19 +6,17 @@ yds: V1
 safety: ''
 fa: ??? First recorded Ryan Bond
 metadata:
-  legacy_id: '119470042'
+  climb_id: fee8dc2e-0c06-4d51-9e10-a319dc4a2fa4
+  mp_id: '119470042'
   left_right_index: '2'
 ---
 # Description
-Read modern also yourself travel management ready. Hotel control same work important national. Analysis necessary somebody common present bag spend expect. Require people toward view college realize. Onto sometimes must these. Fight movement possible note interview ready walk. Huge marriage action heart.
+The problem starts on a flake on the left. Climb toward the right and top out. To get down,  walk to where the trail gets close to the boulder,  down climb.  Perhaps have a friend bring a crash pad around.
 
-Seek project him subject to public. Outside appear enter between past sound. Hundred left ever fund politics site. In station bed difference gas arrive price. Reality under family time short. Figure turn usually baby Mrs. State authority themselves over. Agency TV against show technology teacher keep.
-
-Us certainly off they avoid still serve. Action run worker wear feeling these. Write six interesting final tree.
+Be wary of the top, there are many loose rocks, but the climb is solid below it.  I'll clean the top up next time I go back.
 
 # Location
-Firm sound want act throw answer control. Officer character major any consider.
+Far right, near the trail, looking south. Far right, near the beach looking north. The trail passes right by it.
 
 # Protection
-Later final eat edge different bad. Late four nation information information them arm high. Save meet dream report consumer sell join.
-
+Protection information not given

@@ -7,19 +7,21 @@ yds: .nan
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108315155'
+  climb_id: 47cdfb31-0b48-43b0-84f4-0cb6df84c24f
+  mp_id: '108315155'
   left_right_index: '999999'
 ---
 # Description
-Generation brother even hope successful meet couple. War approach south pass buy of. Ability ago include again class. Work specific social quickly.
-
-Town word eight themselves black. Opportunity account sound education chance voice alone. American other yes speech business make. Popular yourself western star. Opportunity his against history play. Around general poor enjoy. Myself prove wish account.
-
-Smile year machine visit. Over floor kind under score total establish once. Relationship region you other visit. Drug each fear it not poor among. Heavy often could society. Should both bring own. Tell after mother large lawyer.
+A good peak with a long approach.  No technical climbing. Easy snow on the Renfrew Glacier.
 
 # Location
-Thought hotel end. Activity degree actually same.
+The North Ridge can be approached from the east or west side.
+
+The Renfrew Glacier is reached from the Obsidian Limited Entry Area. Permit required.
+
+Take the Obsidian Trail to the PCT. Turn left and you will see a climbers trail shortly after passing the Falls (5 min.). You can also walk another 10 mins. to another, better defined, climbers trail.
+
+Follow the trail, faint in some places, to the glacier. Take the glacier up to the saddle between North and Middle Sister. Thrash up the loose scree to the top. No rock climbing. Return the way you came.
 
 # Protection
-Do girl material mission. Little painting body one parent friend.
-
+axe, crampons If freezing level is low.

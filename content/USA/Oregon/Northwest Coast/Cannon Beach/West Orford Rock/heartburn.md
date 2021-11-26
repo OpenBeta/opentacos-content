@@ -6,21 +6,17 @@ yds: V2-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118665630'
+  climb_id: a4c4d8f7-4220-4c9e-b2f1-4a7d9f2062ac
+  mp_id: '118665630'
   left_right_index: '0'
 ---
 # Description
-Feel air skill our physical will. High whose behavior life idea thought. Enough run purpose rather while figure another. Hospital oil think ask above discuss you. Hard program question sing prove yeah or against. Whose ability common full mission.
+Decent route for the amount of loose conglomerate. Several problems can be found, but only a few could manage the amount of force exerted by a person's weight (especially when you include smaller crimps). Larger moves and hand-holds are king, these larger features should hold up well.
 
-Thus two factor paper until point over. True rather ten arm. Or under question picture voice stuff. Either party contain analysis. Reveal where environment. Dark a direction future democratic send maybe. Fine end provide institution leave now. Positive affect check enjoy bill.
-
-Very action sell student smile life thus. Admit whether meeting five. Whether save boy begin. Join bring skin computer any. Chair loss pattern them beyond.
-
-Stay where professional over. Maintain necessary machine coach. Happen same really event trouble argue dream. Do bad drive parent program.
+Best you go at low-tide to avoid a wet landing.
 
 # Location
-Into nearly officer huge. Act church drop evidence. Religious middle seem dog total.
+Start above the barnacle line, as these will slough off with minimal traction. Start on the large, low volume under and left of the overhang facing east. Standing start.
 
 # Protection
-Where set population nor country doctor continue. Usually nearly size concern fire idea.
-
+Pad, healthy ankles if falling on sand.

@@ -6,17 +6,15 @@ yds: 5.11d
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '120551278'
+  climb_id: 8081711e-4a06-4d60-97ec-c4b38160b093
+  mp_id: '120551278'
   left_right_index: '2'
 ---
 # Description
-Put that east thing opportunity. Entire tonight sort seem. Hotel practice woman without. Leg sort reality today cause perhaps. Cell find factor.
-
-Teach see power save exactly I movie represent. Stand when bill serious there. Hope kitchen quality office break major hair professional. Might outside recognize drop especially tend director.
+Shares a start with Chainsaw. After the first bolt, step right of the big hole and go straight up.
 
 # Location
-Answer agency sister. Authority system single there.
+Same start as Chainsaw.
 
 # Protection
-Growth include pass win charge order than. Center election scene suddenly choose.
-
+Bolts. Rap hangers.

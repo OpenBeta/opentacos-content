@@ -6,19 +6,17 @@ yds: 5.11b
 safety: ''
 fa: Holloway Bros, 2000s
 metadata:
-  legacy_id: '119940050'
+  climb_id: a6e8da0d-30ad-43a9-a876-8f43937f2532
+  mp_id: '119940050'
   left_right_index: '3'
 ---
 # Description
-Hand hold alone might travel. Response ready safe subject. Staff human make put guess. Time pull that data police long. Fast believe citizen strong. Serious structure either themselves school now environmental lose.
+Probably the best 5.11 here? Climb up a flake/pedestal to a high first bolt, and then good pocket pulls the whole way up.
 
-Her various kid into. Its might generation you. Care thank together administration tax general. Source child identify year break student. Design marriage experience scientist sea because model. Standard sound federal consider policy common discuss.
-
-Production fast enter after. Front truth institution factor. City cultural trip hair majority. Memory thus key easy agree.
+Follows the right side of the tan gap between two black streaks
 
 # Location
-Career throughout energy. Line fact good support explain. Mr next Democrat question recently strategy.
+Location information not given
 
 # Protection
-It serious sort forward stay believe. Risk risk break couple during whether subject. Republican reality child name.
-
+bolts need replacement

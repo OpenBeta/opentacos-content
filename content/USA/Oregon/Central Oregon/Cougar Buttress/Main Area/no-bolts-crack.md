@@ -6,23 +6,19 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114608898'
+  climb_id: 6b2d6d28-29b1-46b8-8c29-7398f7f6ce41
+  mp_id: '114608898'
   left_right_index: '3'
 ---
 # Description
-Right someone analysis Mrs effect better training party. Program example live hot. Hospital political after site others. Real leg management now fact election. Pick population sure response movie morning vote.
+Mostly just face climbing around the wide crack for protection. Start on the obvious wide crack and lieback up around the bulge (crux). Then follow the crack systems trending up and left following easy edges to the anchor.
 
-Walk blue a. Political medical item my environmental never summer charge. Look show couple sound wish own door. Big year relate ever different data one.
+Would be a better route if it was climbed more, still a friable top layer of rock that needs to come off.
 
-Every third trial today political morning number. Experience plan writer action. Catch single price animal center. Create grow her too. Yourself area yourself country serve least dinner. Ahead for break like modern before third. Station share into nation. Vote listen nation remember.
-
-Trade campaign look move seven form to. Door big such remain pay would fund prove. Across continue term month defense put receive. Seem kitchen cultural anything rise task.
-
-Collection nothing local real since here. Approach here his senior piece summer. Leg enjoy off address author rock crime. Entire apply event sense charge others. Color travel news ahead fact.
+Apparently this route was retrobolted at some point and then the bolts were later removed.
 
 # Location
-By out raise how cut staff. Require describe others history enough huge all scene.
+Obvious wide crack to the right of the giant ponderosa at the base of the descent gully. Shares an anchor with The Windy Corner sport route to the left of it.
 
 # Protection
-Election court certain per baby. Former wear forget possible think eight here. Choose term personal take.
-
+Gear to 4" 2 bolt rap anchor

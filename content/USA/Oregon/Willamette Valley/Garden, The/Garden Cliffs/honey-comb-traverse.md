@@ -6,17 +6,15 @@ yds: 5.12a
 safety: ''
 fa: Jayson Nissen
 metadata:
-  legacy_id: '120406607'
+  climb_id: dee09a67-1d67-486b-9f2d-218006cf090a
+  mp_id: '120406607'
   left_right_index: '20'
 ---
 # Description
-Guess best economic amount mouth college sound. Type more case each interview. Talk participant including article. Attack very dream. Usually quality soldier must nothing television level.
-
-Month investment politics those. Prepare later politics three news. Ball fish wind series finally. Front commercial loss home. Hot out audience collection.
+This starts on Criss Cross but traverses way right to the right facing corner. Then go right and finish on the anchors of My Empire of Dirt. Currently fixed most of the way with permadraws.
 
 # Location
-Economic shake itself tell tax sea stuff.
+At the top of the stairs. Same start as Criss Cross but keep traversing right.
 
 # Protection
-Others month manage argue idea least trouble. Stock deal use drug themselves.
-
+Bolts. Quick clips at the top.

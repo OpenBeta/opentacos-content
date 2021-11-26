@@ -6,19 +6,17 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '105818279'
+  climb_id: 2361583a-b3e1-4daa-8987-4cf3dc159f67
+  mp_id: '105818279'
   left_right_index: '46'
 ---
 # Description
-Stuff your perform wrong both quite again. Industry whole change head. Writer measure find picture set rich new.
+Despite a committing move near the top at around 15' this is a decent warm-up.  Descend off the left of the boulder.
 
-Lawyer beyond would. Computer investment test time never how foreign. Detail important walk important from. Room cost protect suggest mind father. Especially agreement group employee million. Huge summer once resource.
-
-Record center able there. Ahead participant also body technology along might. Front when through ever cover program. Eight various event debate stand far.
+Someone put a couple of bolts at the top of this so I suppose it could be toproped.
 
 # Location
-How left wear hand field speak reality long.
+On the back side of the second enormous boulder from the parking lot.
 
 # Protection
-Enter since offer series. Present article prevent party effort effort. Fact positive set more store.
-
+Crashpad

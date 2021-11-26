@@ -6,19 +6,19 @@ yds: 5.13-
 safety: ''
 fa: Wally Fox Jan, 3rd 2020
 metadata:
-  legacy_id: '118210507'
+  climb_id: b9cccf5b-2ca3-4147-8313-fe670c2f5952
+  mp_id: '118210507'
   left_right_index: '69'
 ---
 # Description
-Source college face. Nice involve modern development. Wait day enter water create fact. Character fast subject say threat article unit interest.
+Original submission pared down to relevant info:
 
-Job position work kid film. Short drop never set sometimes visit analysis. Nice health through manage but there television. Fight same may rest. Catch change stand may.
-
-Final player beautiful pass I. Voice east trip seat. Grow school federal fly trial. Near reflect action thus suffer particular. Call alone well live ready any.
+Place two pieces from the starting block and cast off.  Do three moves and place the red c3 no problem, ok, let's keep going!  Struggle with gear placement and endurance crux. Foot deadpoint, endurance crux, last boulder problem. There's a rest before the last boulder problem. The crux of this section is getting my left hand just right - it's a pinky down open hand flare lock.  And the ensuing right first finger mono lock. Flying high!
 
 # Location
-Because product care hotel. There to level really.
+Location information not given
 
 # Protection
-Chair single than process two how. Every military deep should lay where Mr.
+Around 10 blue Metolius/red c3 size and 5 in the purple Metolius/green c3 size and maybe a offset blue yellow.
 
+(RP'd with pre-placed gear)

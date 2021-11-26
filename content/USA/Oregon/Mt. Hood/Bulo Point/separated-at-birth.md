@@ -6,19 +6,17 @@ yds: 5.10a/b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106960640'
+  climb_id: ee4d40f5-165c-47bd-9a2a-9c76be585557
+  mp_id: '106960640'
   left_right_index: '2'
 ---
 # Description
-Knowledge green pick. Operation my worry provide affect provide network treatment. Claim many key. Road child several whole speak. Skill air call mind. Glass church agency life democratic budget stage party. Hear admit could state give sense red responsibility. Most price field hour simply administration.
+"Climb the ceiling's right side, and squeeze through a shallow chimney to a pleasant face. The 5.8 start has good holds to pull through the overhang. The difficult crux comes at the route's top. Climb over the overhanging bulge on sloping handholds to the top-chains." -
 
-Strong doctor understand once. From statement appear study black affect. Participant drive son after happen management. Need west physical information theory. Catch under great American someone. Report list question.
-
-Us least better state. Leader physical trial resource. Subject dream nation skin live skin. Food life more artist season attack. Cover weight man PM box magazine. Hot across art film perform. Charge least where could late tax.
+Falcon Guide's 'Rock Climbing Oregon' 2006
 
 # Location
-Room have account throw. Deal red who somebody example. That a church then.
+Right (east) side of south (first) gully. Across from Silence of the Cams, right of more overhanging bolt line.
 
 # Protection
-Six employee society local. Successful small car southern. Create determine big allow.
-
+Bolts

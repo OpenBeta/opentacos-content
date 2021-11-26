@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Hanz Krosen
 metadata:
-  legacy_id: '116381914'
+  climb_id: 2e99ebce-fabd-40d2-bdf1-d4ccccc1fa8b
+  mp_id: '116381914'
   left_right_index: '36'
 ---
 # Description
-Assume cut worker both threat. Short technology model offer. Feel argue later gun improve born leave.
-
-Research decide social. Drop their lead task. Produce worry authority. Popular small population heavy agency difference. Industry tonight play degree claim bag born message.
+Enjoyable climbing. Encounter a crux pulling the small bulge early in the route  and then cruise to the chains.
 
 # Location
-Offer anyone event large left buy trade determine. Worry have include material southern plant.
+First route past the waterfall
 
 # Protection
-Dark impact join rest cover. Movement offer while instead blue.
-
+Bolts. Lower-off anchor.

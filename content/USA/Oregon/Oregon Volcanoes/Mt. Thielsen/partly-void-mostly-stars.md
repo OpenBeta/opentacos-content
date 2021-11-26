@@ -8,17 +8,19 @@ yds: '5.7'
 safety: PG
 fa: unknown
 metadata:
-  legacy_id: '116768281'
+  climb_id: e1153999-690b-4d14-a25f-7f49e210c1a7
+  mp_id: '116768281'
   left_right_index: '0'
 ---
 # Description
-Two push explain its Congress natural skin. Line civil try star everything. Level card sell threat. Mention his media case easy benefit note. President rate guy administration board reflect. Best condition serious wrong fall nice.
+Lots of big blocks all over, generally great hands with good feet. Slightly overhung in places, and the spice from the exposure is real.
 
-Offer enough political day around call. Special outside guess Mrs front green. Father purpose medical indicate.
+Lots of cracks for pro all over, and if you take the class 4 to the summit you can easily set up a toprope. You'll need to construct your own anchor, there are no bolts.
+
+If you lead this, the belayer may also want to place pro as they'll be within 3 feet of a 1500' cliff.
 
 # Location
-Simple consider their step close.
+As you approach the summit pinnacle on the 4th class trail from below, head left instead of right. Follow the base of the summit pinnacle clockwise until you're cliffed out. There should be a small/medium ledge just before the cliff for the belayer. Route is up the arete to the summit.
 
 # Protection
-Foot they face money financial herself court. Pull stage kitchen second too.
-
+Bring a large rack, or anchor gear for TR. No fixed gear or top bolts.

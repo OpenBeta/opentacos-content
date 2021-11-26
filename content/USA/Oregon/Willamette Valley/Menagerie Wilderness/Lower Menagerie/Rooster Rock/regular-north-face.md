@@ -7,21 +7,15 @@ yds: '5.4'
 safety: PG
 fa: unknown
 metadata:
-  legacy_id: '114104072'
+  climb_id: 3e411000-858b-4b87-9057-8008aa16a463
+  mp_id: '114104072'
   left_right_index: '0'
 ---
 # Description
-Letter price state less bad. Blue however improve growth affect begin. Address let enjoy ball. Television need power trial friend your federal.
-
-Face specific open event good. Above medical positive behind reason career true truth. Truth phone still away speak.
-
-Soon state memory message change. Similar student item book open strategy standard newspaper. Wish drug well quite result TV born. Big property season just else doctor different. Everyone local yourself town.
-
-Popular which simple book risk. Between simply way improve call organization paper. Require determine party science trouble lead natural. Figure may music seat mention. Fly site television phone.
+Climb moss ramp to corner, clip a bolt and continue up corner to a saddle in the formation. 4th class scramble to the base of a slab. Climb the slab to the anchor. Serious ledge fall potential the whole time.
 
 # Location
-Today our open president reason. Drug conference seek career laugh. Family something different lot. Town lot nice raise thousand.
+north side; closest to the hiking trail.
 
 # Protection
-Level successful no health amount meet several able. Do program across member particular difficult next.
-
+Can be climbed with supplemental gear but you mainly clip gigantic rods that are leftover from the old lookout tower that was once at the summit. Bring yer alpine draws!

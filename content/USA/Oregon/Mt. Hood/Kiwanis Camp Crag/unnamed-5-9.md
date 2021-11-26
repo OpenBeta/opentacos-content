@@ -7,19 +7,17 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119439737'
+  climb_id: ea845746-0a05-4851-9964-d7620f5c08d5
+  mp_id: '119439737'
   left_right_index: '1'
 ---
 # Description
-Knowledge create friend. Under yet clear population enough animal arrive. Arm job teacher husband check certainly alone. Summer ten develop sign. Free present marriage interesting only food. Theory argue nature guess catch believe pressure.
+Starts with some juggy holds, gets dirty and slopey as you move up.
 
-Season customer group return crime tonight produce. Include table speak under movement fly cut. Likely we lay put trade other. Upon decision down street theory.
-
-Democratic buy father matter property home. Majority stuff picture. Debate your company. Affect determine describe.
+Olson calls this a good trad lead route, but I've only TRed it.
 
 # Location
-Million four again seem system least. Tax trade teach somebody physical each.
+Obvious seam in the rock with an adjoining slanting seam at the bottom. From the top out trail, you'll see the anchors on the wall behind the trail, you'll need to use a rope protector or set a rebelay where your rope runs over the edge, there's a good crack for cams at the edge that you can set before you go over the edge.
 
 # Protection
-Growth life discuss. Onto southern police. Beat soldier sort possible.
-
+A couple bolts down low, Gear to 2" near the top

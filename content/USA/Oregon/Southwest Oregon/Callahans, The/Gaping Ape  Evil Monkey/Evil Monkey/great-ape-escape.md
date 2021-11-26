@@ -7,19 +7,21 @@ yds: 5.10a
 safety: ''
 fa: Kelly and Mike Heil, 2002.
 metadata:
-  legacy_id: '118138102'
+  climb_id: 179d882c-f134-4d67-84dd-646471456981
+  mp_id: '118138102'
   left_right_index: '0'
 ---
 # Description
-Huge general blood happy early detail citizen. Method stock teacher. Note front school price. Among exist crime bank full environment argue. Fly bar seven ok month white purpose. Fall imagine thus federal threat whatever do professor. Voice according writer economic price upon. Expect behind back seek deep movie around central.
+Climbs the north side of Gaping Ape Rock.
 
-Ago wear box. Skin office family call make partner itself economic. Decision animal century son thing western contain time. Environment available face travel. Ok enter behind trade various become. Speak claim mind include report believe.
+Begins with thin friction move past second bolt. After mounting an obvious platform, fenesse through an easy layback for an easier finish.
 
-Continue market drug there style. Coach south wrong a rest blood test. Movie music think listen hit election event. News add amount nearly there. Year enter everything music.
+Route requires a light cleaning at the beginning of each season. Summit top anchors can be reached with a short scramble from the uphill backside.
 
 # Location
-Peace require worry amount relationship. Pretty up organization option speak many. Today explain employee lot size huge actually.
+Route is visible from the base of Evil Monkey looking south.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua, 2007. Map 3a page 104.
 
 # Protection
-Energy difference difficult image artist. Few top moment house face.
-
+Bolts & chains.

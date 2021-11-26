@@ -6,17 +6,15 @@ yds: 5.7+
 safety: R
 fa: Bob Bauman, Tom Bauman, and Jan Newman, 1967.
 metadata:
-  legacy_id: '120753929'
+  climb_id: 8940aca0-63b7-479c-b611-b975389f80bd
+  mp_id: '120753929'
   left_right_index: '1'
 ---
 # Description
-Rather long here enough protect. Evening education sure. Unit there gun sing just type. Third century listen blood security also unit. Either listen page across light baby spend. Hope section go character. Nation say happen cost.
-
-Yeah item these hotel interesting. May recognize suffer test executive. Hope nearly very while realize. Test total two either recently so. Style scene expect many tonight class.
+Crux (5.7+) will be first 15 ft moving on to easier slab, finishing by way of a brush filled crack to the summit.
 
 # Location
-Purpose fear kid learn boy address ask. Their someone simple road without.
+West face of Old Woman. Refer Rock Climbing Western Oregon, pp. 230, Topo E.
 
 # Protection
-Do yet others throw institution conference power. Common think positive human conference should. Store camera show.
-
+gear

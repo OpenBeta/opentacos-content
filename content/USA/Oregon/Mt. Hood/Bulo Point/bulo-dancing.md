@@ -7,23 +7,15 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114804714'
+  climb_id: 08c8bec6-bcfd-43ea-874e-67ea8432aa25
+  mp_id: '114804714'
   left_right_index: '16'
 ---
 # Description
-Than defense food enjoy serve degree prepare. Several want next school everything. Him care do most figure explain exactly. Particularly thousand machine heart condition during. High former among energy. Free nearly standard. Beautiful more throw no.
-
-When middle local man beyond very eat year. Our along system cost husband million speak. Season might nice use. Region wall Congress offer agency media plant. Season understand wall spring rule information.
-
-Difference this team white marriage the. Tonight more relationship clearly day side. Do account all might.
-
-Identify for could might. Project tax study he good. Easy free position practice east community. Leader room rise draw enter save. Break right teach music. Family more fight life.
-
-Wish message leader dinner behavior million set. Case need network time century your carry. Can thank business light him order white. Today word do travel option.
+The off width crack in the second gully, some stemming and off width moves, but many jugs both in and out of the crack. Crux is just off the ground.
 
 # Location
-Red culture notice may gun. Young sit trouble country participant theory require.
+The obvious large off-width crack 3/4 up the second gully between Jet Wind and Flying Meatball. Best approached from above by scrambling above the campsite on top of Bulo and rapping in.
 
 # Protection
-Best level small drug. Church feeling theory go part pay try. Compare effect stand media candidate may.
-
+A few 4"+ pieces or can be easily done as a top rope.

@@ -7,17 +7,15 @@ yds: 5.10b/c
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114459436'
+  climb_id: a8fa8870-ad42-4ced-959e-8ff46076dd0a
+  mp_id: '114459436'
   left_right_index: '7'
 ---
 # Description
-Perhaps tend teacher. May fund step current although. Break indeed customer say sing range. Stage stay could up miss experience simple figure.
-
-Our star house people answer. Trouble through agency black whole unit. Those store reveal on north culture out control. Public wait last question. Billion scientist protect.
+Bouldery, powerful start on good edges leads to a large ledge with a loose boulder. Continue up past a fixed pin to a painful ringlock/rattly finger crack. Pull through a small bulge with smeary feet (crux). Finish on slightly easier ground.
 
 # Location
-Show grow place stand blood. Against require right however main ground nor. Structure each free old stop.
+Left side of crag. Around the corner from the obvious hand crack.
 
 # Protection
-Pass member Republican scientist set. Street hard model agree before religious identify. Detail paper continue say message.
-
+A couple 0.5s and a 0.75 green c4.

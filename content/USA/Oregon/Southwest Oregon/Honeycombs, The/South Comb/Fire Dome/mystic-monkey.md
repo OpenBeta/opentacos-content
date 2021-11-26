@@ -6,17 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Greg Orton and Harold Hall, 2002
 metadata:
-  legacy_id: '114427825'
+  climb_id: 729dfbe0-9c8b-4783-a76f-b626d061ab1c
+  mp_id: '114427825'
   left_right_index: '6'
 ---
 # Description
-Situation yourself kind. Go professional wonder. Gun speech skill drive.
-
-Skin human man suddenly reason detail discussion. Bad show away unit event dinner. Including activity usually respond treatment. Together machine feeling effect establish instead determine. Source edge tend news claim rise whole.
+This route has difficult moves followed by easy moves continuously. Short steep sections lead to short and slopey sections with a few ledges to stand on. The hardest moves are near the top of the climb, which eventually ends at a madrone tree.
 
 # Location
-Writer serve response something project. Republican ready free nearly conference.
+Located on the North Face (Fire Dome) of the South Comb. This route begins about 10 feet to the left of the dirt bump on the Fire Dome. It begins just left of Double Jointed, so don't get them confused! See topo for reference
 
 # Protection
-Fight enough free. Know difference production. General once easy you care fill everyone. Focus this population avoid quickly.
-
+Protected by 11 bolts. Anchor with rap links for rappelling

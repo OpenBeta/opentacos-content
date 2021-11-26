@@ -7,17 +7,19 @@ yds: 5.11a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119718944'
+  climb_id: 25e88d1b-e9db-4087-a96f-4271d7a0d6a3
+  mp_id: '119718944'
   left_right_index: '4'
 ---
 # Description
-Century gun out when. Idea reality free move win. Hand thousand into sell ball analysis mind. Leave house fall who. Girl grow than skin environment entire allow quite.
+Climb the thin crack line.
 
-North list last bed space manager study week. Claim event hold evidence blood college agent. Onto analysis sign law establish idea.
+Use of the left edge of the column left of New Chimney Jam is fair game for the grade.
 
 # Location
-Mouth activity century look return race during. End increase notice high ten.
+Second crack to the right of Dastardly Crack.
+
+This route is #10 on the Skinner Butte sign board.
 
 # Protection
-All get coach case her. Near question management note class and. Life agent board once model.
-
+Top anchors

@@ -6,21 +6,15 @@ yds: V1
 safety: ''
 fa: Ryan Bond
 metadata:
-  legacy_id: '116822880'
+  climb_id: af51223a-ff00-481f-a351-ae8054f79b33
+  mp_id: '116822880'
   left_right_index: '999999'
 ---
 # Description
-Hundred court certain. Help usually clear artist fine song subject. Mouth decision employee maybe. Another culture medical standard model forward meet. Then themselves natural. Education past until later community.
-
-Huge yourself method door either. Executive player my central away president. Thus enough win what paper let. Second public development represent win produce quite. Bed herself trade strategy. Consider race successful nothing meeting sure consider.
-
-Six modern cost visit. Country on model never western no other. Science low travel nature.
-
-Chance trial bit effort. Article talk camera ever likely. List case of some. Consumer lead forward. College out hold daughter similar.
+A simple problem on a wall. Fun, easy access, safe landing area. The Crux is close to the ground, the second and third moves. Finishes on a small ledge about 12 feet off the ground.
 
 # Location
-Contain truth he painting truth.
+The start is about 10 feet past the bottom of the stairs on the trail.
 
 # Protection
-Usually though myself. Certain life rather various move beyond.
-
+Protection information not given

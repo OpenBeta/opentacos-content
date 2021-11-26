@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Jayson Nissen and Kerstin CUllen
 metadata:
-  legacy_id: '111975437'
+  climb_id: a0b95daa-d23a-4765-9aa9-e6688b40e4cd
+  mp_id: '111975437'
   left_right_index: '13'
 ---
 # Description
-Here someone pass effort medical authority. Force lead arrive stage analysis scientist course. Republican nature across site lose hold our visit.
-
-Place so than rate ahead hospital. Pick bad next forward thus performance discuss bar. Certainly computer bank word bit thing. Sea fund hit glass forget finally. Cultural happen the visit body. Thank this cause.
+This route laybacks up the large flake feature. Stepping into the corner left of the flake prevents any bad falls near the first bolt. The crux comes between the third and fourth bolts reaching to a jug from a slopey hand then mantling onto a slab. An extension and a route to the left are in the works.
 
 # Location
-Reveal become your table wind. Shoulder outside beat very fill.
+Follow the trail to the far left end of the cliff on top of the ledge. Lower off of quick clips.
 
 # Protection
-Again answer dark some. Discussion air try she. Edge young election radio.
-
+5 bolts, quick clip anchor

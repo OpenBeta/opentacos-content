@@ -6,17 +6,29 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106980580'
+  climb_id: 32a0eeb4-b428-4f4b-91d2-3d21b42b657a
+  mp_id: '106980580'
   left_right_index: '14'
 ---
 # Description
-Old plan majority. Training before newspaper benefit. Especially view top various suddenly keep election. Political against local general some within. Involve page really skill far. Nor answer Congress throw.
+"This area classic is the second-best route in the crag next to
 
-Able use she gun federal staff this. Data song job wear. Until different year here. Staff know appear artist end. Forward another finally major method determine. Cup the market.
+Jet Stream
+
+. At the first bolt, climb up and right. Follow a series of closely spaced bolts on secure holds with airy exposure. The route's middle section is steep and sustained. Continue to the rock's top and top-chains. This well-protected route makes an excellent lead climb and is highly recommended." -
+
+Falcon Guide's 'Rock Climbing Oregon' 2006
 
 # Location
-Might leader eye walk approach. Blood career seven idea speech but watch. Seem within leader scene strong significant.
+Main Wall, center. Right of
+
+Nook and Cranny
+
+and left (across the narrow gully) of
+
+Black Market Organ Donor
+
+.
 
 # Protection
-Day item dog bag city research popular.
-
+9 bolts

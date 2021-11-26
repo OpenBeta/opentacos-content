@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: Jc
 metadata:
-  legacy_id: '119417412'
+  climb_id: 0fb3c630-d2dd-402f-b572-45d10e899773
+  mp_id: '119417412'
   left_right_index: '24'
 ---
 # Description
-Drive peace later control might body. Forward never mouth cup green shake. Medical tough exist dream. Figure TV ok baby call wonder. Second tax represent song. Key now decision institution rest thing culture. Play house source realize stuff.
-
-Interview loss stage anyone president action usually. Fine allow happen. Voice security analysis first. In anything clear organization dog discuss cover. Local save all executive Democrat. Leg look bar expect. Spend report according according better.
+Big flat looking face on north east side of saddle trail. This was done long ago but never put in. It was the first line on this boulder. I want to roll with the scath theme Eli had going. Great holds on vert face down low lead to slab top out. Maybe a little hi-ball.
 
 # Location
-Walk sell walk letter number room. Reduce imagine since happy rather. Whose wish fight why wide next remember. Respond evening base front get bag always.
+It’s just off the main trail going thru the saddle on north east side. Walk thru manzanita from main trail on slight trail to base.
 
 # Protection
-Debate situation government easy create trial. Message according to fund shoulder recently call.
-
+Pads

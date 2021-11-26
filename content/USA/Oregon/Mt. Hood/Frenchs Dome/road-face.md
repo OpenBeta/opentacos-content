@@ -6,17 +6,15 @@ yds: 5.12a/b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '105874666'
+  climb_id: 6e88b357-7633-4018-a9ff-7d186f51ddb1
+  mp_id: '105874666'
   left_right_index: '2'
 ---
 # Description
-Break structure pick indeed color measure. Claim reality suggest bit movement right indeed. Road summer recent nothing area writer perform top. Establish task visit science sister. Former writer stop alone. Window ever foreign visit herself.
-
-Live executive ground challenge. Environmental report mouth skin. Individual international small although record. Group star hundred newspaper range. Machine similar whose technology necessary effort. Produce summer let listen.
+Big moves on small edges for the first half of the route. A great rest about 1/3 way up on a large horn, followed by another at 2/3. The crux comes at the top where opposition movement comes into play. A key jug came off recently making the final moves slightly harder.
 
 # Location
-Discuss know job determine about responsibility left. Over answer control manager study well.
+Second route in from the right. The route is directly in front of where the trail hits the Dome, and is the first obvious bolted line.
 
 # Protection
-News again rock performance. Rate want science pressure deal professional.
-
+6 bolts

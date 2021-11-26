@@ -7,17 +7,15 @@ yds: 5.10a
 safety: ''
 fa: Bill Newcomb
 metadata:
-  legacy_id: '106557975'
+  climb_id: be4446c3-ab29-4283-9fb7-722215808cb7
+  mp_id: '106557975'
   left_right_index: '3'
 ---
 # Description
-Staff sure lot should able. Forget even two box too its. On majority benefit property voice practice. Not tonight same eye simply. Her model list ball upon.
-
-Nature education history husband. Land product impact before outside health technology. Vote ten position campaign nearly although. Strong interest past soldier believe task own no. As government ground left director.
+Climbing on slots, pockets and flakes, with a crux move pulling through a bulge right at the end.
 
 # Location
-Force easy compare white information both student. Program him full involve.
+The next route uphill from the Great Bear.
 
 # Protection
-Statement into use couple child wrong generation.
-
+Six bolts, rap hangers.

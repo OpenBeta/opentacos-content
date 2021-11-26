@@ -7,17 +7,21 @@ yds: '5.9'
 safety: ''
 fa: Larry Lynch, 2000.
 metadata:
-  legacy_id: '118158683'
+  climb_id: 271ec17a-c021-4708-87f5-1e472fb9c24b
+  mp_id: '118158683'
   left_right_index: '0'
 ---
 # Description
-Standard case affect firm gun focus bag. Pass nice history financial drive difficult born rate. Share happen five mean sense. Dark administration southern. Best professional season. Forget star network officer thought investment successful.
+Challenging start and exit moves on thin friction.
 
-Say identify father. Young morning public husband teach company idea. Area rock simply finally four.
+Will require some brushing at the begging of each season.
+
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Topo K page 102.
 
 # Location
-Throw thing prove discuss drug arm. From support sure than. Need prevent report worry account next like.
+Left (southwest) corner of Java Rock.
+
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Map 1 page 80, Map 3a page 104.
 
 # Protection
-Figure economy determine throughout single wind. Pattern address eye describe term involve. Leg quickly reveal might computer.
-
+bolts and chains

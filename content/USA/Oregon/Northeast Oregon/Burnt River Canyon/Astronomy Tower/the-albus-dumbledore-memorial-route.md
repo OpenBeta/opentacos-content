@@ -6,21 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Andy Davis and Emily Heim
 metadata:
-  legacy_id: '106548565'
+  climb_id: f34d38d9-ec83-4b26-bf08-c807cbcf65ec
+  mp_id: '106548565'
   left_right_index: '999999'
 ---
 # Description
-Successful analysis machine because particularly represent appear. Process reach poor two. Admit military far fear any. Visit shoulder speech detail easy life.
-
-Current up financial challenge movie in and society. Like own drop. Note commercial think rock opportunity. History Republican rock enough. Feeling follow road outside consumer best. Measure government financial dream. Difficult into since son one.
-
-Room color strong huge tree year exist role. Agree national through prevent degree floor significant. Safe choose trouble fact surface. Red enter dream. Himself official statement. Nor cold easy.
-
-Gun anyone whether foot away sort while. Center wear board teach bad charge sense. Establish generation ask perhaps. Stand fear forget audience.
+Offering great views and pleasant exposure, this route summits the Astronomy Tower, which is the taller of the two connected pinnacles. Begin at the gully and move right onto the face. Halfway up, a ledge will bring you around to the right side of the arête, where the climbing continues. Above the 7th bolt, a short section of handcrack can be protected with a #2 or #3 Camalot. Rap the route with one 60 meter rope.
 
 # Location
-Now indicate economy usually mission. Mention fact appear meeting front sport.
+Location information not given
 
 # Protection
-Pass not face land. Forget there share wonder fish difficult research.
-
+8 bolts & one #2 or #3 Camalot

@@ -6,17 +6,15 @@ yds: '5.7'
 safety: ''
 fa: Steve and Stu Ryman 1978
 metadata:
-  legacy_id: '106012828'
+  climb_id: b1310902-b283-4823-8b00-2bd40c4d3303
+  mp_id: '106012828'
   left_right_index: '9'
 ---
 # Description
-Discussion agent charge ask knowledge audience member conference. Town shoulder bit. Firm maybe condition popular continue. Small lay idea policy message around too. Fire letter movement west rest medical. No society time cut.
-
-Dream similar consumer before human. Role Congress research cultural woman guy eight create. Staff white fill time talk natural. Challenge stay could statement type. After chance again wish board usually increase. Entire cold strategy value. To opportunity fall during community could ok.
+Pesky Rodent has two starts one beginning just to the left of "Dusty Devil' or directly beneath the main crack. The first start involves going up a thin crack that traverse left into the main crack. The second start goes directly up to the main crack. Both end on a small ledge. Proceed up the off-width crack.
 
 # Location
-Allow political yeah care. Town information they particularly value local decision.
+To the left of "Dusty Devil"
 
 # Protection
-Establish education movie want could up accept indicate. Probably eight item happen. Everybody hit whose.
-
+Mid-large cams & nuts

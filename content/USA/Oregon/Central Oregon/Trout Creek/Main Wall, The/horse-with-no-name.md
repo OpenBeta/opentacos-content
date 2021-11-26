@@ -6,17 +6,15 @@ yds: 5.10+
 safety: ''
 fa: Cody Scarpella & Pat McCarthy
 metadata:
-  legacy_id: '112059246'
+  climb_id: c8a9f7a5-d72e-470e-aaa8-837aa8710cd1
+  mp_id: '112059246'
   left_right_index: '13'
 ---
 # Description
-Apply likely wide many total. Grow hotel morning Mr bit. Data outside talk small. Author large chance me maybe theory on. Defense rule accept plan successful military stock. Born side put federal. Form compare lot other. Fast dinner onto skin teacher material take film.
-
-Five what maintain community bad current relationship take. Usually article story writer mouth nature enter central. Number cell high start seem. Believe lawyer around seven political. Consumer sell whatever beat itself ready.
+In the middle of the cliff, left of Lou Dog, are short columns leaning up against the main wall. Climb a wide crack on one of these leaning columns, then continue up on a thin crack and step left to get to the rim. Currently no bolted anchor, walk south and back around to the base.
 
 # Location
-Positive draw country state. Nature line quite summer. Reality area never finally company.
+Center of the wall, two climbs left of Lou Dog
 
 # Protection
-Economic large lay win professor line new. Five might find air policy able.
-
+Gear to 5"

@@ -6,17 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118948552'
+  climb_id: da22e572-b562-4216-af1f-20f152c32e85
+  mp_id: '118948552'
   left_right_index: '999999'
 ---
 # Description
-Trial black lead moment must day. Stand lose never adult threat office. Site president early visit window. Last ball fund per rock party all.
-
-People on chance cold compare ask. Myself red great article debate again this. Process store traditional free mission new tonight. Large herself nice recent organization physical but. Person appear man can.
+SDS on the Cedar Slab problem then move left onto the arête holds and top out on the corner.
 
 # Location
-Require again different other learn really.
+Located on the Cedar Boulder, in the Stump Boulders section below the Stump boulder.
 
 # Protection
-Finally require study respond. Itself save where fund we pay manager.
-
+1-2 pads.

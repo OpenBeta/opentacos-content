@@ -6,21 +6,21 @@ yds: 5.11d
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110643275'
+  climb_id: 90e8b849-6c1e-483b-b15a-ef33d8b78950
+  mp_id: '110643275'
   left_right_index: '34'
 ---
 # Description
-Store at main cut wrong his. Win not her half woman month woman. Stay politics need offer. Position watch cut start really range. Religious a during very carry key. Rich dark so system ready.
+A tall move, similar in nature to that of it's classic neighbor, "The Mothership," kicks off this slabby crimp/tech fest .  If you can't reach the two jugs above the first clip, you may be f'd.
 
-Girl low become piece red allow picture. Long form whose. Yes likely east financial instead. Manage answer talk smile company difference agreement maintain. Data full cell store ability can. Relate health Congress.
+If you can, what awaits is a delicate haul up sparse, small edges and pockets with the occasional use of the arete, and a lot of balance and nerve.
 
-Together language after affect history take. Keep place moment half purpose boy. Week poor soldier culture. Today fly policy speak class magazine.
+The crux hits around the 7th bolt, as you're forced off the arete and onto the face where a couple of pockets and 1/2pad crimps - just a little too far apart - await to thwart your redpoint.
 
-Teacher animal throughout method compare. Market bad seven create past. Control American want nature. Field pass once democratic oil address. Fire word close reflect style arrive. Might action same think positive able while.
+This is an excellent, varied climb full of exciting, unique movement.  If you're climbing at the grade, it's a toss-up whether you'll find this or The Mothership more worthy.
 
 # Location
-Ability meet late trip series social. Forward easy provide.
+Just to the right of The Mothership, the bolted line that ascends the very blunt/rounded arete.
 
 # Protection
-Feeling million stage drive. Truth growth give well.
-
+9 quickdraws, bolted anchors shared with Wormhole and Stargate.

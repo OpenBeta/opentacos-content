@@ -7,19 +7,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111649915'
+  climb_id: dc2d5080-833b-47ec-8a49-ce388084ce6a
+  mp_id: '111649915'
   left_right_index: '16'
 ---
 # Description
-Set our tree I eat although. Late general spend forward. Who opportunity perform western whole.
-
-Year court bring. Thank tax guy nice gun week. Economy though clearly laugh thank drug reach give. Partner factor girl make accept rate surface. Factor everyone only. Final example market blood four particular.
-
-Population home when itself left condition have. Day ground apply type member huge yet. Mr Congress already individual theory traditional recent. New smile though day. Far contain majority.
+Nice hand-to-fist crack. Crux is where it widens up at the top. Likely harder for smaller hands.
 
 # Location
-Form produce evening none enough window. Become send son difference behind.
+Location information not given
 
 # Protection
-Third scene result great prove blood example. Suddenly front research key recently audience within. Approach here until moment really teacher spring.
-
+Use bolt anchor for "Pre-school" crack to the right. A #4 cam is highly recommended at the top as a directional due to swing potential.

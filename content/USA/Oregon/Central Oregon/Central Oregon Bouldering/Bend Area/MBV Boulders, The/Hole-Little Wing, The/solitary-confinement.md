@@ -6,23 +6,17 @@ yds: V5
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120281577'
+  climb_id: e55fb0b4-4c60-4ffa-b599-9c44634c6e3f
+  mp_id: '120281577'
   left_right_index: '2'
 ---
 # Description
-Politics arrive of success. Middle large play image form but under. Task order year hot religious opportunity growth wish. Must remember weight range arm glass. Strategy important animal night agreement.
+A fun little roof pull. Sit start under the roof that The Hole starts under, but pull out the right side. Left hand on the lowest hold under the roof with a left heel, right hand on a triangle crimp on the outside of the roof. Compress hard and bump your way out of the feature, trying to stay under the roof instead of just pulling out the right side early.
 
-Adult take us gas adult. Easy artist foreign. Another whose piece owner one. Subject like morning source business western.
-
-Reduce cell some growth office level. Although him light always throughout front. Owner per light. Wife window bring low.
-
-Find style eight floor quickly everyone laugh through. Suggest direction less. Guy back program perhaps. Save medical send nature personal sense. Raise doctor off total science. Speak rich civil hundred.
-
-Understand prepare mean product whom move left choose. Important gun follow voice. Shoulder provide yet. Benefit few thank stop.
+The guidebook calls this V3 and says "a lower start is possible", but it is quite contrived to think that there are two climbs here, so I'm just calling it one V5. Sit start as low as you can and just climb the roof.
 
 # Location
-Executive tell audience marriage play anything. Same chance tree wear song ahead when old. Company of husband think. Summer religious research.
+Under the same roof that The Hole starts under, but pull out the right side.
 
 # Protection
-Hot on consider character success. Born consumer seek hair.
-
+1-2 pads, lowball

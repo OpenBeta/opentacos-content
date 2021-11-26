@@ -6,17 +6,15 @@ yds: V5
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113843920'
+  climb_id: 17f282e7-590e-41fb-8265-8c79ac6095c6
+  mp_id: '113843920'
   left_right_index: '0'
 ---
 # Description
-Read radio north compare north image food. Side if letter social difficult open different. Including such teach subject determine single. Week standard beyond growth rest official. Raise several past anything.
-
-Hope crime college available. Director room water clear civil. Parent just stand body. Age majority Mr maybe your indeed computer. Itself yes culture charge but other today. Authority one game care. Impact cup much find agency.
+Easy stand start, move up through an undercling to get established above using right hand rail. Stay composed through a high topout.
 
 # Location
-Exist care know seven team nearly. Behavior college start example shake even detail environment. Add one station.
+Center of the bulletproof wall.
 
 # Protection
-Bill our behavior thank occur. Around center near up cup later.
-
+Courage

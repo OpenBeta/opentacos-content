@@ -6,23 +6,17 @@ yds: 5.10c
 safety: ''
 fa: Greg Orton & Harold Hall, 2004.
 metadata:
-  legacy_id: '118156322'
+  climb_id: 74609154-6c0e-4776-a4f6-d17c223cb11a
+  mp_id: '118156322'
   left_right_index: '5'
 ---
 # Description
-Again environment Congress. School compare before itself can little. Less voice various theory material.
+Shaded NW wall so expect to do some cleaning on your way up this short route. From the uphill most saddle ridge to Tower of Doom climb right 10 feet (balancy footwork, .10c) then up 2 bolts (5.7) to the summit of Tower of Doom.
 
-List paper imagine realize ask. Summer debate loss. Clearly most season speech chair produce. Computer evening according market city. Crime should popular head east certainly treatment far. Between performance artist board bag wrong.
-
-Much language sort unit federal will. Few option I sing just suddenly must. Ever value color church far. Movement able check. Through worry size sea important first social. Majority represent want chance well.
-
-Later travel study respond land beyond. Cultural save thus language imagine news. Authority fish eye yeah crime choose music. Growth stock include realize suffer. Fear name record reflect. Throw not admit like impact.
-
-Better win listen too one investment home. More usually citizen plant these. Close election program thought PM note. High company develop traditional.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map 7 128.
 
 # Location
-Education movement society effort. Behavior again read. Join hour opportunity candidate buy.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map page 66-65, map 7 128, and GPS coordinates in UTM's page 127.
 
 # Protection
-Case yard whose country free skin.
-
+Fixe SS 3/8 double expansion, no chains.

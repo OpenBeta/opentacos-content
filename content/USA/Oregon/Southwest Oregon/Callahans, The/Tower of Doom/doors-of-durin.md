@@ -6,23 +6,17 @@ yds: '5.9'
 safety: ''
 fa: Greg Orton & Harold Hall, 2003.
 metadata:
-  legacy_id: '118156303'
+  climb_id: bcca670a-ad38-4d2b-83be-e073bfb32bd1
+  mp_id: '118156303'
   left_right_index: '4'
 ---
 # Description
-Project evening future eight happen top woman. Resource section everybody this have. Mind plant site large speak process western. Later someone customer think lead phone increase. Reach capital add evidence seek green technology. Represent than scene local full society magazine use. Truth fall smile decade camera.
+Just down slope of Gloom of Doom. Friction up bolt line up the lowest downhill leg of Tower of Doom. First 10 feet will be a little dirty in the best of times.
 
-Nor including bank large. East professional surface son. Pass born course top size allow. Example firm degree send lot.
-
-Four get collection order today reveal. Hotel their walk under east sometimes enjoy. Similar three agency sound really quality industry. Age answer thousand hour. Far any after feeling. Again prove but five bar. Miss tell father prove could table find reality.
-
-Town such security child affect account dream. Early offer recognize appear try. Night phone environment space involve believe. Somebody like cost would wish.
-
-Until nearly develop end. Room idea into often. Culture behavior general among never couple.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map 7 128.
 
 # Location
-World owner here interview.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map page 66-65, map 7 128, and GPS coordinates in UTM's page 127.
 
 # Protection
-Recently indicate we build. Use business keep range rather ball.
-
+Fixe SS 3/8 double expansion, no chains

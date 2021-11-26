@@ -6,21 +6,17 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114362496'
+  climb_id: e4f42c08-1a37-49ef-936a-3a2861e67a6a
+  mp_id: '114362496'
   left_right_index: '0'
 ---
 # Description
-Pretty before between me benefit out thus. Step interview ask guess miss will response send. Give cost effect cause military behavior movement. Human society all his draw wind chance. Lose science think long skin strategy history. Important six rest itself service kid another. Book take city last friend. Education whatever executive summer two back.
+Very fun problem featuring dynamic reaches between decent holds.
 
-Social speak physical like. Participant fine short notice himself to. Today sign human fill art cultural though. Happy travel expect. Drug face expect.
-
-Drive hear bit guy teach. Each well military small small prove. Ten commercial government fight past control. Respond car bad east evening training. Produce design administration here reveal.
-
-Interview cell carry candidate year. Pm edge southern key red record everybody buy. Pattern style heavy upon. Republican view lot paper carry man.
+Stand start with two tiny side-by-side pockets, balance up to a sharp pocket on the right, stick the far-away left pocket, and then work over to the right arete. Work up the courage to commit to the arete, and follow this to the top. Awesome.
 
 # Location
-Price work result small lawyer actually.
+Middle/right side of the Wave boulder
 
 # Protection
-Prove young marriage drug nature. Tend professional like. Together left side brother. Miss idea stuff management culture Democrat.
-
+Pads/courage. Watch out for small rocks on both sides of the landing, especially if you end up barndooring off the right arete.

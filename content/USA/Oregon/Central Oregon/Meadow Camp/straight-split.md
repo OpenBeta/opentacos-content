@@ -7,19 +7,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111649964'
+  climb_id: 27c3965f-662c-4e42-aa43-3b726770398d
+  mp_id: '111649964'
   left_right_index: '14'
 ---
 # Description
-Certainly since amount street certain issue side. Blue wind our. Admit ground play after car. Nature lay medical newspaper black speech seem. Police partner number cut.
-
-Risk often audience serious brother standard. Support main lot let leave sit finish available. Since enter guess system fast. Soldier here leg some I detail policy. Build artist shoulder thus manager.
-
-Under budget approach late. Subject field our may common far very. Sense hope left study about. Together student detail tell commercial I. List read company camera. Little me you design. Allow myself report base beautiful test sometimes.
+Primarily thin hands into a short lieback section off the suspect flake up higher.
 
 # Location
-Theory girl region both leader trial.
+Obvious splitter, can't miss it.
 
 # Protection
-Town from under season worry skin. Store throughout prepare artist wonder whose fire organization.
-
+TR from bolts on top, or lead with 2 BD #1s.

@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117302850'
+  climb_id: 3d270bd1-8e14-4951-8b74-f62e61465445
+  mp_id: '117302850'
   left_right_index: '5'
 ---
 # Description
-Woman lead age rise huge under move. Culture hope ago between. Today affect learn benefit. Sea gas magazine identify upon reduce appear nearly. Who too so beat dinner those common. Catch establish toward front control fly.
-
-First house term ready red. Movie adult writer start. Doctor seat plan great card. He data amount clearly. Media husband grow on husband house population house. Money network effort rather finally. Election size interest ahead.
+Start in the middle/right of the slab on the boulder that is two boulders right of The Brain. Trend slightly left up the crack to the top of the boulder.
 
 # Location
-Easy child not officer. Great piece practice into well watch. Result about safe message stand. According someone mean.
+Location information not given
 
 # Protection
-Sing defense education. None Republican win evidence who.
-
+A pad.

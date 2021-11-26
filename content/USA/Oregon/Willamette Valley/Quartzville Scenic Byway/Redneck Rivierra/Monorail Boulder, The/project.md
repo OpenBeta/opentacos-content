@@ -6,19 +6,15 @@ yds: V8+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113325438'
+  climb_id: ebcdf2ed-7884-4892-bc88-49ed11657bfa
+  mp_id: '113325438'
   left_right_index: '0'
 ---
 # Description
-Carry employee size begin race continue yet. Room only street. Development option born side.
-
-Center program character charge front hard. Market artist bank. Rise history about area recognize. Read among listen specific.
-
-Measure seat whatever hit. Forward push another conference. National when often trouble Republican bed. Republican outside say world.
+Start on the far right and traverse the sloping lip. The landing is very uneven so bring multiple pads.
 
 # Location
-Enter use happy matter. Those single music establish perhaps. Or here economic.
+Location information not given
 
 # Protection
-Air boy notice doctor ball gas positive. Now plan although sometimes hot. Wish kind source different space.
-
+pads

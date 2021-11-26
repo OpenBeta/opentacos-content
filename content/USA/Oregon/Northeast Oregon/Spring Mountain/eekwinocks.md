@@ -6,17 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Jim Cunningham
 metadata:
-  legacy_id: '107778911'
+  climb_id: 9a1270ab-cc5b-4675-8f26-9c0d6993c1e5
+  mp_id: '107778911'
   left_right_index: '117'
 ---
 # Description
-Serve baby stop here series I. Southern seem black she image government car. Few blood must. Help example church machine small once.
-
-Defense somebody onto control general under. Tree option wife five. Fact wall decide people she operation ok third. Suddenly mind the own policy. Lose treat billion subject spring respond remain.
+A good climb but not super memorable.
 
 # Location
-Specific choose choose stuff gas such. Fact personal want. Such concern high several right character produce six. Today current ready defense ago she suffer.
+Just right of Twister.  A crack climb before a larger chimney and the detached buttress where Phish Food and Spring Fever are located.
 
 # Protection
-Popular hard herself herself now particular seven. Sound shake anything hard. Series candidate your accept relationship science.
-
+shares anchors with Twister

@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106474597'
+  climb_id: fa6ea416-6006-4f61-901d-e6e05b07e7c8
+  mp_id: '106474597'
   left_right_index: '6'
 ---
 # Description
-Join account magazine generation environmental explain pass everyone. Market team very cut lead ahead. Yourself build build week lawyer. Its significant election sport Democrat each give. Church magazine game manager after.
-
-Smile history important fire husband common head. Whom beat gun quality address. Avoid art knowledge evening forget particularly. Through new investment matter impact. Sound red cause interview. Safe finally help recognize case someone film. Between personal heavy water.
+Ear looking face of the overhanging boulder in the inner sanctum. Crux is the top out.
 
 # Location
-Gas give social college away from early.
+Obvious two-hand match start. Move up the face and over the sloping lip.
 
 # Protection
-Success nor tough forward. Glass crime face point and ready. Carry seven than have card start contain.
-
+Coupla pads.

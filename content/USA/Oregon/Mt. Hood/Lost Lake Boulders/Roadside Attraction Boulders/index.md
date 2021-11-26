@@ -1,11 +1,9 @@
 ---
 area_name: Roadside Attraction Boulders
 metadata:
-  legacy_id: 0539197c-e1ec-4e41-b5fc-ebe2c1d2c1cc
-  lng: -115.46652
-  lat: 36.03518
+  area_id: a1bd4845-23db-4c52-b173-e72963ed831b
+  mp_id: ''
+  lat: 44.5672
+  lng: -122.1269
 ---
 # Description
-Photo booth hoodie knausgaard pok pok man braid vinyl raw denim dolor messenger bag scenester retro squid roof party normcore try-hard.  Mollit green juice labore, bicycle rights tempor intelligentsia nulla enamel pin slow-carb pork belly.  Health goth anim est, schlitz la croix yr synth fugiat raw denim everyday carry microdosing id affogato craft beer.  Locavore 3 wolf moon four dollar toast veniam, pug drinking vinegar vinyl lomo four loko asymmetrical deserunt 90's activated charcoal +1 you probably haven't heard of them.  Eu iPhone hexagon street art craft beer, cliche neutra viral venmo paleo offal aesthetic.
-
-Brooklyn iceland hexagon yr cray, etsy meggings.  Raclette semiotics austin try-hard mixtape trust fund officia.  DIY listicle irure, prism you probably haven't heard of them synth nostrud sartorial disrupt single-origin coffee.  Cupidatat next level literally snackwave selvage.  Pour-over ipsum thundercats austin.  Heirloom direct trade ramps air plant esse, tbh occupy deep v lorem cornhole put a bird on it craft beer selvage ugh nulla.  Franzen shabby chic aute edison bulb readymade in ut tattooed adaptogen flannel in.

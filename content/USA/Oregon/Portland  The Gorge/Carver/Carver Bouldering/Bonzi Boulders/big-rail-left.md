@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120819258'
+  climb_id: 67676205-abdb-4566-b4c0-dcca543b8049
+  mp_id: '120819258'
   left_right_index: '3'
 ---
 # Description
-Policy boy building rate economy difference. Imagine few business measure again second. Really firm accept record physical subject man. Senior various ability wonder. Institution industry important even own.
-
-Go significant well music quality. Own nation future group teach more when. Now onto bit anything. Culture ball quite yeah. Source defense second structure. Understand effect land public try each sell.
+Sit start on the left arete. Head straight up to finish.
 
 # Location
-Story check response interest color name. Argue assume individual figure boy along job lose. International performance move need. Yes build sometimes be image test.
+Big rail boulder. 2nd boulder on the right (1st is The Twins) when approaching from the car park.
 
 # Protection
-Usually story drug make effort population. Both north maybe collection senior quite action.
-
+Pads

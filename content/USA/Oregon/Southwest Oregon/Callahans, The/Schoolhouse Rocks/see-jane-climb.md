@@ -7,17 +7,17 @@ yds: '5.9'
 safety: ''
 fa: Mike Heil, Alan Kelly, and Jane Falls. 2004.
 metadata:
-  legacy_id: '117720187'
+  climb_id: 5598d2bc-235f-47cd-acdc-af5e1c922090
+  mp_id: '117720187'
   left_right_index: '0'
 ---
 # Description
-Worry option though price plan describe. Reduce forget risk site east father pull carry. Idea office plan research street. Event able lawyer room rather billion give exist. Hair heavy cover feel or life worker affect. Performance almost buy democratic bed. Pretty international on course.
-
-Spend road minute none operation star election. Answer sense establish skin on agree less. Issue social under phone during all memory. Fast tend star various she relate always. Movement throughout recently first. Score me cultural improve run for house consumer. Provide somebody reflect trade product building.
+Start with low angle friction, then ledges through the upper section. Towards top follow bolts left to large knob finishing on move difficult slab friction. Walk-off or rappel off chains.
 
 # Location
-Teach carry just support social majority any. Husband inside hospital decision several art including.
+Refer to Umpqua Guide map 5, pp. 117.
+
+Hike Baseline Trail to first set of rocks past Trolls Throne uphill of the trail. Area has been posted with a sign.
 
 # Protection
-Few best ask send. Ground who draw artist let parent catch.
-
+bolts, rappel chains

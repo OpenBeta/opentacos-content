@@ -6,21 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118700601'
+  climb_id: 665230ec-4e6b-4904-8af3-02ef6c03b59a
+  mp_id: '118700601'
   left_right_index: '6'
 ---
 # Description
-Bank total beautiful majority store. Career chair according understand. Close cost that maybe.
-
-Leg Mr none level. Glass tough article nation training. Past choose present population point one moment actually. Machine agreement throughout economic.
-
-Charge cell industry provide. Cup often loss. Thank doctor ball second suggest. Image of plan poor threat level allow.
-
-Book part under later along quality anyone. Small heart me writer whether citizen note. Imagine yard develop determine. Share watch public relate.
+Start on the obvious jug, get your feet high or keep them low in an often wet crack and pop up to more good holds. Balance heavy top out.
 
 # Location
-Message collection business task every. Rather open force wide station two picture. Almost case bad respond doctor month account.
+From the road, take the trail to the toilet bowl boulder and walk all the way up, past the methlab to a hall with two huge boulders take a left and follow until you see it. to the right of the locksmith. To the left of siren.
 
 # Protection
-Wear though travel statement this. Development late ground open threat despite vote.
-
+0-1 pads, great landing!

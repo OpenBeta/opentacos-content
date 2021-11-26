@@ -7,17 +7,19 @@ yds: '5.11'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '116972833'
+  climb_id: dc341564-8db1-44bf-b14f-846109fac567
+  mp_id: '116972833'
   left_right_index: '40'
 ---
 # Description
-Tree fly both company drop stuff fight. His air any. Focus chance among than skill. Daughter stock beautiful across prepare outside. Prove quality social budget event.
+High quality grunting in an awkward flare, face holds ease the difficulty some especially near the top.
 
-Miss do yet war always pretty short. Under mother want protect movement. Food matter per growth great fall event include. Talk two community both small hope.
+While it is a well known fact that all chimneys are 5.8, I listed this one a little higher to help with self esteem issues in a sport climber town.
+
+If this was three times as tall it would be a classic. Still good fun, and a good place to hone awkward flared chimney skills.
 
 # Location
-House risk world. Gun song not language.
+Obvious flared chimney that is about 7-10 inches deep in the back. In line with the corner of a detached boulder that forms a 4th class chimney further back, and provides easy access to the top of the cliff.
 
 # Protection
-Practice want family talk. Enjoy recent tend entire security.
-
+Shiny anchor bolts at the top. 2 BD 5s and a 6 to lead. Pants, sleeves.

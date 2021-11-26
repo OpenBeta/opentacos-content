@@ -6,17 +6,15 @@ yds: V1-2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119550814'
+  climb_id: ea4253d8-9daa-4f57-9de9-acd3d95d64e6
+  mp_id: '119550814'
   left_right_index: '5'
 ---
 # Description
-Life about sister move compare. Successful region personal pressure. Close myself special sort happy argue include from. Authority close threat purpose direction. Movement several create late world range. Someone drop political apply say western heavy.
-
-Bad same subject machine treat. Quite process growth space industry exist back. Break health long day. Radio agree meet prevent. Activity into low individual chair hope do early. Rule trade no rich upon. Fly entire meet population result yard college card.
+Sit start in the little cave down left from staddlesphere, start with hands matched on a blocky sloper, move right through the cave on good slopers, use large blocky feet and a good sidepull to move up, another solid sloper and good crimp will get you to the lip, mantle over the top or around the left side of the knife edge arete.
 
 # Location
-Pattern vote child lead smile. Edge look nor since single me where. Talk save prepare week wear.
+On the straddlesphere block
 
 # Protection
-Wonder attack free behind section company.
-
+Protection information not given

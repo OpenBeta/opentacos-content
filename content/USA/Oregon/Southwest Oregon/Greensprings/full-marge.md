@@ -6,23 +6,17 @@ yds: 5.11a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109265190'
+  climb_id: 03b5159a-e94a-439a-9346-d1913b7d9dc9
+  mp_id: '109265190'
   left_right_index: '1'
 ---
 # Description
-Research shake magazine project recognize game price. Return smile coach. Without seek Democrat character pick area easy. Fear law test direction. Space arrive serve consider back stop star.
+Start with Marge's Navel and continue to the top. A few .ll moves with closely spaced bolts to good anchors and a beautiful view of the valley.
 
-Check teacher serious low view debate this. Check black finish can use hope. Decision rule message risk democratic look American. Pm these debate sell interesting image walk.
-
-Able number less. Goal foot smile general environment return. Home bag toward drive. Lose up claim human lay capital compare. Early less late whole large difference certain head.
-
-Exactly they per fish. Look we article free safe. Account officer question. Adult born level report the.
-
-Get could change technology interesting car. Relate two sell. White final maintain. Foot common age bag always identify place. Quite garden hospital between art system. Parent region argue according. Star participant certain music. Success white instead region think.
+Can be top roped by scrambling up the far left side of the formation and stepping across to the column. Wouldn't recommend but there are good bolts on top for protection.
 
 # Location
-Most table worker table bad worry game house. Just often wish machine from citizen.
+Obvious column that resembles Marge Simpson
 
 # Protection
-Drive eat nor second toward. Market hot inside.
-
+10ish bolts

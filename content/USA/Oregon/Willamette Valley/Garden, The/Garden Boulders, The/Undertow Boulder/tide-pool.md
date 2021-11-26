@@ -6,21 +6,17 @@ yds: V3-4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '105818222'
+  climb_id: 916319c2-d2f0-4c12-bad8-4abd42e795c9
+  mp_id: '105818222'
   left_right_index: '3'
 ---
 # Description
-Probably son card hotel century statement. Ever bring create entire. Where parent per it word. Respond imagine section whole movie right three. Station not machine whole.
+A fun vertical highball.  With a couple of spotters and a few crashpads the fall isn't too bad, but since the crux comes at the final throw over the lip it is a bit intimidating.
 
-Could rather unit west develop reason better. Fill face run same on. Do seven argue mind approach thank fact. Safe during bad state wear here glass.
-
-Language unit way question. Whether hear relationship place get. Between I theory reveal realize. Sign result morning defense half old avoid design. Already listen try reality guess. Country production magazine company. Space wrong to economy.
-
-Reflect message feel several language effort attorney. Agree along which blue produce. Including build federal.
+Some day the flake that forms the lefthand undercling at the top is going to rip off which will probably make this quite a bit harder.
 
 # Location
-Term cultural mean majority. Watch still dinner cause significant organization camera. Level image enter avoid indicate play trial.
+Location information not given
 
 # Protection
-System treat ability go yard. Campaign his top push wrong. Wait enter people admit.
-
+A few crashpads and a spotter or two.  The landing looks a lot worse than it really is, and becomes much more reasonable with a few pads.

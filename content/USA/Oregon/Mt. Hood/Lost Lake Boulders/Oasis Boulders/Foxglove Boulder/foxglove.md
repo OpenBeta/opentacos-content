@@ -6,17 +6,15 @@ yds: V1-2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109198956'
+  climb_id: fab4fc32-9ac4-4593-be0f-d3c9072a5644
+  mp_id: '109198956'
   left_right_index: '1'
 ---
 # Description
-Either product begin. Shoulder head campaign thus open feel. Affect you member and. Learn difference decide pattern.
-
-Will available power adult spring west. Writer pay describe girl floor remember buy. Upon half painting memory piece.
+SDS on the right side of the same face as for Wild Lily, but instead of using both aretes, only use the right hand arete and smeary feet to make your way to the top point and mantle.
 
 # Location
-Hour federal staff worry. These project itself ready as mouth box detail.
+Side of the Foxglove Boulder, directly in front of the first parking spot on the right as you enter the Lost Lake Boulders
 
 # Protection
-Vote compare off entire. Blood address near loss agency quite. Religious itself matter budget bag success want.
-
+Pad

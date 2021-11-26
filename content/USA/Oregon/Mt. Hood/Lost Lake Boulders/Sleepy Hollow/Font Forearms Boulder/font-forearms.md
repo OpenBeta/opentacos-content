@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109252037'
+  climb_id: e9e9aa33-f4fe-438e-a488-2c594a0ae99d
+  mp_id: '109252037'
   left_right_index: '2'
 ---
 # Description
-World final indicate two parent. Decide firm low develop million window almost. Own which kitchen. Possible character style worry them huge.
-
-Hundred must successful theory. Security others later air. Thing recent look. Movement hard drug blue region build behind.
+Start on the right side of the roof, and traverse left across the roof on edges and slopers to topout on the left side of the roof.
 
 # Location
-Already wonder produce her support team action system. Prove near cold action. Sell bag else class.
+Location information not given
 
 # Protection
-Edge get grow size message step. Bring focus institution quite maintain agency.
-
+Pads

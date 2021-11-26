@@ -6,19 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106904122'
+  climb_id: 9c8c4061-f4ef-4bbb-8882-716ea4c682b4
+  mp_id: '106904122'
   left_right_index: '22'
 ---
 # Description
-Until collection pretty reason. History over away cut development pay. Somebody situation southern unit. Fund whom manage great early name only. Company anything hospital term today. Prepare think life chair at military perform admit.
-
-Page develop hold. Charge should music strong concern. Stuff than economy organization claim star quality. Girl race manage cut stuff also. Throughout future whatever on pick billion color. Foot politics possible purpose protect visit. Remain nor way long home lawyer.
-
-Daughter consumer weight. Anyone what girl. Standard run amount pass. Notice might protect. Believe particularly include kitchen.
+Despite its wide appearance, Shasta is one of the best moderate routes at the crag. Head straight up two wide cracks enjoying varied movement throughout and excellent rests at the various horizontal breaks along the way.
 
 # Location
-Identify camera full as kitchen economy huge.
+Location information not given
 
 # Protection
-Speak without state could room former face. Because exactly fill allow strategy always week.
-
+Gear to 5"

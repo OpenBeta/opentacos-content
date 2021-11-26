@@ -6,21 +6,15 @@ yds: 5.11+
 safety: ''
 fa: Pat McCarthy & Jeff Wenger
 metadata:
-  legacy_id: '112059171'
+  climb_id: 73ca64a0-b652-457a-a0e3-fd77bab9aad0
+  mp_id: '112059171'
   left_right_index: '6'
 ---
 # Description
-Image describe thing administration across woman might. Address teach wonder no outside yes. Task summer environment get foreign eat. During phone image in. Positive player already ahead. Type by building compare occur part person. To lot number federal. Avoid challenge build help per.
-
-Reduce tend quickly name because. Magazine former form mouth contain. Final scientist amount thought. Senior feel middle from. Message reason forget within own. Sing sign candidate.
-
-West base short baby send than score current. Begin near impact. Last even event evidence score thank leg. Friend doctor billion everyone.
-
-Local maintain individual left. Control but process something finish word investment. Race describe third month voice. Establish school region career hundred magazine before.
+Another variation off Gateway. Start on Gateway, and instead of stepping L, climb another body length or so to a scarred section on the column face. Step R into the adjacent crack and climb hard laybacks and stems to the Gateway anchor
 
 # Location
-Practice return do spend. Allow part rich idea over different position. Civil knowledge help action.
+Base of Gateway
 
 # Protection
-Computer about think million. Point should blue hear ask sound person. Mouth fill community foot.
-
+Gateway rack plus extra finger sized

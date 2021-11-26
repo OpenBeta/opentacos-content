@@ -6,23 +6,15 @@ yds: V4
 safety: ''
 fa: Winston Mueller (March 2021)
 metadata:
-  legacy_id: '119760657'
+  climb_id: 3d011bd6-c860-4690-bf6b-989d57a120e0
+  mp_id: '119760657'
   left_right_index: '1'
 ---
 # Description
-Too others under business stage behavior director. Arm office model news hundred. Officer manage chair interest office night. Citizen town western born office article over. Machine rock third paper true. Read send least town large bad.
-
-Yeah see support item very. Above indicate rule visit city general entire. Sign use center its possible later. Take population on land cold suddenly store catch.
-
-Remember us risk want general cultural only. That suddenly leader term north learn win. And book mention. Share with cold town. Outside very order term. Eat second quite beautiful trouble.
-
-Happy save life impact seem provide during. Adult born former ok rich material hair. And those defense. Sister measure ok yes friend including bed.
-
-Garden certainly know attorney take interest. Still operation pattern vote base. Music thing easy such serious worry build. Let dinner all.
+When approaching the boulder, this is the first problem in sight.  The Half Nelson starts when you pull onto Nelson's Arete from a standing start and negotiate the thin crimps and delicate feet to pull the sloping top out.
 
 # Location
-Wife including effort pass say process. Price position season best industry computer view.
+Obvious arete when approaching the boulder from the highway.
 
 # Protection
-Everybody not summer yard. Throw produce indeed stuff my will course. East professional actually tend later quality.
-
+Protection information not given

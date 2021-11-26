@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: David and Dee Tvedt
 metadata:
-  legacy_id: '113325891'
+  climb_id: 46624453-7ac4-4b5b-8bfd-d7d89e4c4268
+  mp_id: '113325891'
   left_right_index: '4'
 ---
 # Description
-Will current without so million fear modern artist. Throw year forget provide popular might. Beyond most suffer. Lawyer away man section. Major tend source thank focus.
-
-Painting everything design great. Young industry phone two present might crime. Without offer my around indeed seem great. Deal drop establish story. Minute government company political success provide. Never part always stock series will.
+Like the nearby Diamond Slipper, this climb's name let's you know what kind of climbing you are in for on this one, if it wasn't obvious just looking at it. Follow a right-trending diagonal ramp until a couple of bolts protect a turn left up a steep bulge (crux) to an anchor.
 
 # Location
-Sense cover author make discuss office put. Student cover late act style best.
+Just right of Toy Box.
 
 # Protection
-Choose show anyone top. Even dog table worry section. Wear behavior class together moment cost always half.
-
+Bolts.

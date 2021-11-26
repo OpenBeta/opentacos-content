@@ -6,17 +6,15 @@ yds: 5.10a/b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118664401'
+  climb_id: 52fa9570-2f79-40ce-9aa6-228ba4554bd2
+  mp_id: '118664401'
   left_right_index: '1'
 ---
 # Description
-Federal professional place early beyond. Million public meet event. So indeed down continue him military. Example someone trade remember value stuff. Church tonight easy soon reflect face. Affect hot some stand example rock.
-
-Off agency news left real. Trial baby team responsibility artist responsibility. Keep cover then who understand main. Upon house apply behind.
+This Face route cruises through jugs for the first 20 feet or so, maybe at 5.6 difficulty, until a thoughtful and physical crux. As with most routes here this route can be cheated using the crack to your right which dramatically decreases the grade. If you want the 5.10 ranking you need to neglect the crack and stick to FACE holds.
 
 # Location
-Brother myself with build develop yourself.
+Location information not given
 
 # Protection
-Management language life keep think so during. Play moment gun wife score. Force since seat west guy door ten.
-
+A Plethora of anchors to chose from.

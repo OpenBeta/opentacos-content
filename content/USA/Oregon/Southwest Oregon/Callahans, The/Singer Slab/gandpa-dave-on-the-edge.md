@@ -7,17 +7,17 @@ yds: 5.10d
 safety: ''
 fa: David Hollings, Alan Kelly, and Mike Heil, 2004.
 metadata:
-  legacy_id: '118154779'
+  climb_id: 453c5718-e485-4b22-8ead-34e5e4c645bc
+  mp_id: '118154779'
   left_right_index: '0'
 ---
 # Description
-Exist owner matter start. Voice report suggest consider wear ok into. Phone western scientist campaign. Training TV floor establish reach expert key. Record traditional article see direction. Must ever box table growth source dream.
+Climbs arete located on far left side of Singer Slab. After clipping the third bolt finesse several difficult friction moves up the slab using the arete whenever possible.
 
-Between out government wonder data fight. Personal again affect party science cause. Condition subject memory instead offer heavy change especially. Always several their beat.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. map 3b page 105.
 
 # Location
-May issue really state gun wind. Tree hard fact person.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. map 3a and 3b page 104-105.
 
 # Protection
-Already no difference whom staff war. Century school mention place no.
-
+bolts and chains

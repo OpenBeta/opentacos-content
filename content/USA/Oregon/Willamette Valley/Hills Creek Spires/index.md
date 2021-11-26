@@ -1,11 +1,9 @@
 ---
 area_name: Hills Creek Spires
 metadata:
-  legacy_id: b4b67f0c-3aa8-441d-a12d-979189b1a583
-  lng: -115.46652
-  lat: 36.03518
+  area_id: 010ded96-e913-4d95-967e-fc8b9d6d058c
+  mp_id: ''
+  lat: 44.5672
+  lng: -122.1269
 ---
 # Description
-Excepteur pickled laborum, craft beer do next level cliche coloring book migas truffaut franzen fanny pack umami.  Salvia single-origin coffee YOLO mumblecore flannel.  Adaptogen paleo ex, pabst keffiyeh pop-up la croix put a bird on it consequat hella.  Gluten-free beard banh mi food truck tbh cillum.
-
-Humblebrag taiyaki intelligentsia neutra anim ullamco aliqua.  Non glossier irure tote bag thundercats.  Cliche flannel before they sold out artisan intelligentsia.  Irony pok pok woke try-hard.

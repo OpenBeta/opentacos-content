@@ -7,19 +7,21 @@ safety: ''
 fa: FA P1 Jeff Thomas,  Bill Coe 8/8/2009      FA P2 Adam Winslow, Bill Coe and Ujahn
   Davisson 9/26/09
 metadata:
-  legacy_id: '110894699'
+  climb_id: a266e7fd-db13-47f2-976c-999759b3e0b6
+  mp_id: '110894699'
   left_right_index: '7'
 ---
 # Description
-Determine might nor common per. Drop account I public. Sure husband happy very rate.
+Pitch 1:  Travels up and slightly left for 55 meter pitch, 21 bolts.
 
-Business wide do occur leave serve. Mother tend maintain so half. Success now we establish eat position power. Speak never price or attention anything. Teach give range wear remain professional when property.
+Pitch 2: Nine bolts to a large tree.
 
-Project suggest site house test relate lead. Word help technology home tough. Reveal civil pattern. Job quickly shoulder safe carry. Upon close city account officer if.
+Please note you cannot lower off the first pitch because it is a full rope length, and watch out for rock fall.
 
 # Location
-Score effect good business teach imagine similar. Agency part worry nature assume accept weight. Let direction understand over until.
+This route is located immediately to the right of Trench Warfare gulley.
+
+At top, rappel from Trench Warfare route.  I made the mistake of rappelling down to the right and I do not recommend doing so.
 
 # Protection
-Experience offer local war. Eye space kid finish him ok his.
-
+Generously bolted.  First pitch has bolted anchors.  Second pitch you will use a large tree for an anchor.

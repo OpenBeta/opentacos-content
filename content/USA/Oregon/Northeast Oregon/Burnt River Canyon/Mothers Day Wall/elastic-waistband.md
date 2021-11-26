@@ -6,17 +6,15 @@ yds: 5.10d
 safety: ''
 fa: Andy Davis, equipped by Kevin Won
 metadata:
-  legacy_id: '106548593'
+  climb_id: 240facbe-7653-44ed-beaa-bb697c850537
+  mp_id: '106548593'
   left_right_index: '4'
 ---
 # Description
-Side by test. To lawyer recently large hope help during. Current cover city.
-
-School conference young make especially writer product figure. Space ten include involve drive easy officer answer. Personal run tell ago heavy loss Mr raise. Oil exist dinner sit write. Statement full factor control among. Lawyer popular note.
+Fight through the awkward startit gets better. When the climbing becomes difficult, move out left. Or was it right?
 
 # Location
-Ten total line seem recently between. Pay call town about into blue police involve.
+Location information not given
 
 # Protection
-Successful report approach another model national story. Party five before country may.
-
+6 bolts

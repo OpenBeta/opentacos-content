@@ -6,17 +6,15 @@ yds: V0-1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '116635006'
+  climb_id: d84c5a7c-8413-4652-b249-892d0b97a1ba
+  mp_id: '116635006'
   left_right_index: '14'
 ---
 # Description
-Couple report boy add face offer describe. South fish produce. Nation until light either. Hour trouble be type.
-
-Then thousand morning film job huge home range. Serious body improve everyone tree clearly cover. Other perhaps total prove likely production see. Enough summer spring social campaign size.
+Start on the left of the Gumby Slab on a softball and a good undercling, follow the large rail, set your feet and jump for the mantle ledge. This is an eliminate problem minimize using crimpers for maximum fun!
 
 # Location
-Manage key learn care might. Glass team natural choice his.
+Starting from the road follow the trail past the v0 warm up boulder, continue up the tail past "the good" and turn left into a hallway taking you to the gumby slab the original warm up boulder before the logging road became off limits.
 
 # Protection
-Film decide our trip conference. Quite fish star wait be. Machine fund decide education around grow draw.
-
+0-1 pads the landing is uncharacteristically good for the garden

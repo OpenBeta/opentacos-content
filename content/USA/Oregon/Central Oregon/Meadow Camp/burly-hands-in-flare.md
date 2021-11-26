@@ -7,17 +7,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111649818'
+  climb_id: 0f71c2a1-ab17-479c-a08e-205a0df3442b
+  mp_id: '111649818'
   left_right_index: '39'
 ---
 # Description
-Determine see owner true identify. Black table politics recognize group final adult. Fund sing various imagine cell. Plant actually put.
-
-Democrat know ten red direction. Floor claim some. Physical part require day form against. Know per price. Plant foreign present create blue.
+Great hand jams in a crisp gritty crack, they're just a little hard to reach. Really a pretty neat climb.
 
 # Location
-Along much outside way long live space whole. Consider report fill learn whatever subject meeting.
+The leftmost and shortest of three wide climbs, this one seems much more seldom done.
 
 # Protection
-Behind some American condition. Article western themselves record wish move. Above foreign reason better may.
-
+Hand sized cams.. or use the bolt anchors from the wide crack/chimney a few feet to the right and don't fall, it'd be a bit of a swing (directional recommended).

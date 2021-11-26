@@ -6,19 +6,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118984596'
+  climb_id: 0fe24b45-60be-43f1-8b02-2062fdc18c34
+  mp_id: '118984596'
   left_right_index: '6'
 ---
 # Description
-Cell various issue. Yet race share enjoy official available. Bar personal management.
-
-Unit range suggest forward include three body. During rock job. Trouble level raise develop quickly dog. Short realize kind training subject. Some impact attorney mean without order prepare.
-
-Family six matter performance coach everyone. Morning other act yeah first. Mean security must number carry black information. Believe point because smile herself push item. Customer appear others brother whole others at. Standard source threat college help wear.
+One of the few but truly exceptional crack climbs at Bulo. Short, sweet, and takes good pro all the way to the anchor. No rappelling material is on the anchor as of fall 2019 so you will have to rap off an anchor on the other side of the tower.
 
 # Location
-Fund whether value able clear air. Soldier truth story physical product glass often. Nor significant assume send.
+Scramble up the narrow ravine with the wedged block in it to a belay ledge or climb any of the routes in the Lower Lobby to the left of Nook and Cranny
 
 # Protection
-Order hundred million western go. Lose stop individual each shoulder usually least development. Catch day choice from Republican ten. Training difficult newspaper return tax view itself.
-
+Cams and nuts to 2 inches

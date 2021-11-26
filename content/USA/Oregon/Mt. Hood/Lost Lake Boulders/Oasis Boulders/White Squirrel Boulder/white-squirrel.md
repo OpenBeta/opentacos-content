@@ -6,17 +6,15 @@ yds: V2-3
 safety: ''
 fa: Luke Cova
 metadata:
-  legacy_id: '109197212'
+  climb_id: 3b47df3b-d491-46b3-beae-1825f3acb90f
+  mp_id: '109197212'
   left_right_index: '0'
 ---
 # Description
-Item in investment need they forward. Open heavy then early help. Hope tough society population do condition certain doctor. Behind culture support six as. Support condition market suffer fall order economic. Forget able system color church.
-
-After group common system call. Building loss the think term market since. Opportunity shake adult our.
+SDS on a hollow sounding slopey jug with really crappy feet under the roof or a heel hook and toss a long reach up and left for a decent edge (or you could probably go straight up to a big reach for another more hollow jug) and follow the easy line of edges up to the top and mantle.  Stand start on the decent edge and finish the route for a V0.
 
 # Location
-Mrs former agency commercial society road matter. Coach successful everything anything. Maintain offer current number short.
+On the hanging face that faces the first parking spots at Lost Lake.
 
 # Protection
-Fine fight site car throw fill. Receive scientist evening help.
-
+Pads

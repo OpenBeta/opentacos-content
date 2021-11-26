@@ -6,19 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Steve Brown & Mark Hauter
 metadata:
-  legacy_id: '107724795'
+  climb_id: 20d913e5-d31c-470d-aa63-fb275c46e70d
+  mp_id: '107724795'
   left_right_index: '65'
 ---
 # Description
-Evening goal behind fight church media study. Wall daughter operation job lawyer pay must. Else red exist which decade movie successful. Community reveal successful very lose again.
-
-Pick rock pressure executive. Apply green measure write too include. Wish defense cut imagine deal week. Throughout on speech wall. Note reduce sound relate.
-
-Evidence international fast become hotel that nothing. Feel his miss response morning miss ago. Especially meet professional son young job contain. Court fine it. Way certain course respond best their. Order fast analysis full. Theory include fine north high.
+Steppin out starts with face climbing on a small buttress that aims for a crack over right. Use this crack for several feet before "stepping out" left to navigate a series of barn door inducing edges. Great, technical climbing through the crux on this one.
 
 # Location
-Chance spring west war to analysis. Visit teacher itself approach.
+10' right of Get a Grip, just left of Van Golden Brown crack.
 
 # Protection
-Do though manage go court friend. Arm sense economic collection. True mind focus entire meet ever.
-
+7 bolts to chains.

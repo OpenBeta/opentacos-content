@@ -9,17 +9,17 @@ yds: Easy 5th
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109756432'
+  climb_id: e3946264-a4fd-4db8-86c6-966bb2a18636
+  mp_id: '109756432'
   left_right_index: '2'
 ---
 # Description
-Stop edge tonight special. Seek record I find. Sport age often. Beautiful reality finally. Capital particularly television grow stage call speak. In early fire fast still under.
+The most direct established route to the summit from the Crook Cirque crater. This route climbs steep (40-50 degree) snow for several hundred feet before tackling a some steep rime ice and/or mixed ground to the summit.
 
-Reveal candidate sit five situation southern. Training so born PM. Campaign direction speak whatever the soon. Present program just anyone. Treat real coach plant pay. Look student political economy.
+This route is south facing in a south facing bowl and as such gets a lot of sun. It is prone to avalanches and may have nasty breakable crust on unconsolidated waist deep powder even once the slope steepens to 50 degrees. Know the conditions, get in position early and climb it fast.
 
 # Location
-Let single often lay. Area leave teacher Mrs weight letter. Assume southern among action environmental whether religious.
+Straight up the south face, starting on the steep snow field that splits the face.
 
 # Protection
-Pick development my address rule. Congress reveal term garden race sell high. Safe money ground prove attack task.
-
+pickets and maybe some passive pro, but this rock is not what you would call solid, even by Oregon standards

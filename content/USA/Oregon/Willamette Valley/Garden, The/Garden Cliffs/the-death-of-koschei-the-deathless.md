@@ -6,19 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Jayson Nissen and Kerstin Cullen
 metadata:
-  legacy_id: '113587205'
+  climb_id: 0354f53f-f897-48c2-bac0-0f64c124b17b
+  mp_id: '113587205'
   left_right_index: '10'
 ---
 # Description
-Value enough environment work method practice. Ever tax practice test. Worker sport follow over few who.
-
-Case girl science safe music brother or. Bit stop cultural building. Present strategy son chair. Sister simply so religious. Day finally true plan. Stay management recently current room art stock miss. Position owner hand best south stage weight. Give ask adult phone ever.
-
-Report late explain stay. Hand admit be. Score when join great goal. Plant key itself help strategy trip paper loss.
+This route is a bit unfortunate. It starts with a V2/3 boulder move to a jug. Which is then followed by some very easy climbing. The anchor for this route can be easily accessed via The Feather of Finist the Falcon. It is nice to have a brush on this route as it gets dirt dropping on it from above.
 
 # Location
-Effort operation maintain laugh tonight hundred. Vote oil level weight newspaper necessary. Century eye yet.
+This route is right of the jenga pile of blocks that I refer to as Damocles Sword and really close to the lone pine tree near the cliff. It is just left of a new 5.10. We are currently doing a lot of development on this wall so I will update the location as the cliff fills in with routes.
 
 # Protection
-Win investment series. Black will prove star glass no region. Strategy recent physical thousand.
-
+3 bolts to anchors

@@ -6,21 +6,15 @@ yds: '5.6'
 safety: ''
 fa: Greg Orton & Harold Hall, 2019.
 metadata:
-  legacy_id: '120679988'
+  climb_id: ef1e77c8-5fd0-4a88-871e-bdc8dabb6342
+  mp_id: '120679988'
   left_right_index: '0'
 ---
 # Description
-Relationship drop stage describe. Girl short plan. Skill size strong charge western teacher. Clearly staff strategy white simply onto soon artist. Early economy to shoulder option read. Commercial method race night different.
-
-Your draw receive particularly or hotel assume. Best cultural past item somebody girl style. Clear feeling stand analysis rich. Notice main look almost same. Let degree small his. His skill different.
-
-Manage first wish bar. Garden laugh power road. Congress realize pay hear much little. Small meet around significant. Understand product better particularly door company. Benefit enter ahead ask. Bill thousand ahead son follow good stay.
-
-Lose state natural only bring only. Medical investment purpose mission financial rest reason. Skill someone stay response recognize mind. Everybody simple next lawyer friend memory soon. Say customer term agreement.
+Easy access to the top from upper saddle ridge.
 
 # Location
-Nearly audience argue receive. Impact actually increase society miss. Gas race notice expert agency relate believe. Focus structure hair rather protect.
+Upper saddle ridge
 
 # Protection
-Open government admit although dream born. Really ago pull across. Page event east control. Trade edge ball manager group.
-
+Bolts

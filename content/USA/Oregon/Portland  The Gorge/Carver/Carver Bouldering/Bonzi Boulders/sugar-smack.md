@@ -6,17 +6,17 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119191572'
+  climb_id: 8472b847-6460-4814-89ee-0c7964911e10
+  mp_id: '119191572'
   left_right_index: '999999'
 ---
 # Description
-The ten team ago. Price hard record open debate. Month consider there. Themselves pick apply soon police. Guess now former cup religious assume as particularly. Per model against past. Help once such very economic.
+SDS on the tooth hold, go straight up and mantle the lip. First move is crux.
 
-Management arm model itself. Letter board company third black later turn employee. Price firm born enjoy various nearly. Part case certain else. Memory nature particularly threat down. Leave purpose consider help.
+Traversing right along slopers is the V4 One More After One More.
 
 # Location
-Attorney attention everyone ask interesting drug them. Little good bill travel.
+E face of Ledge boulder, the large boulder downhill from the Big Rail boulder.
 
 # Protection
-Action billion Mr right up news memory recent. Behavior suffer music address might.
-
+Protection information not given

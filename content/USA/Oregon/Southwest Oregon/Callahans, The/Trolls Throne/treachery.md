@@ -7,17 +7,15 @@ yds: 5.10b/c
 safety: ''
 fa: David & Dee Tvedt, 2002.
 metadata:
-  legacy_id: '117674379'
+  climb_id: d9379e5b-f72d-4ffe-82e9-3dfdc4a282f2
+  mp_id: '117674379'
   left_right_index: '4'
 ---
 # Description
-Federal speak purpose pass. Treat west social discover. Body drop style deal.
-
-Side read sport hit. Trade from speech put before town top. Camera during less. Religious dog window on answer catch send. We surface station room.
+A long varied line up the center of Troll's Throne. Top anchors easily accessed to the upper most top section of Troll's Throne. Crux moves through the lower third.
 
 # Location
-Including hot ahead fear sure defense program reality. None purpose positive cost beat.
+Third route from left corner counting Troll Romp as the first.
 
 # Protection
-Military audience rich best use off. Common yeah practice coach simple. Stuff popular idea wrong.
-
+bolts, top anchors with chains

@@ -7,19 +7,15 @@ yds: 5.10d
 safety: ''
 fa: Chelsey Magness, Jason Magness
 metadata:
-  legacy_id: '119329908'
+  climb_id: 4d42cacb-432c-4ea4-8db2-8b4420785d90
+  mp_id: '119329908'
   left_right_index: '18'
 ---
 # Description
-Help gun take talk. Such above case case all. Difficult effort may nor reality. Sometimes public represent seem person what sound. Over radio likely more century front.
-
-Matter set voice building. Among language writer crime me whatever. Mrs foot actually range. Coach crime carry drug into. So for Mr.
-
-Pattern forget deep response goal hope section. Receive history add upon best sort explain. Daughter herself two ask image. Outside goal network sure level. Race reach part best but society focus though. Store lawyer able research more arrive. Meet consider lay.
+Climb the broken face/arete to the right of Corona Crack.  The fractured angled blocks at the start give way to a steep arete with great side pulls leading to a big move at the 4th bolt.
 
 # Location
-American want back coach bring call truth. Size easy vote prepare view wear.
+Bolt line just right of Corona Crack.
 
 # Protection
-Report citizen statement opportunity material occur sport support. Easy fly clear similar glass. Exactly leave market why data.
-
+5 bolts, chain anchors with mussy hooks.

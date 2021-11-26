@@ -7,17 +7,15 @@ yds: '5.7'
 safety: ''
 fa: pj
 metadata:
-  legacy_id: '117957123'
+  climb_id: e7fb0252-e746-4304-b30c-6352a3776335
+  mp_id: '117957123'
   left_right_index: '0'
 ---
 # Description
-Imagine source radio us family really. Know big fear kid. Say machine car speech a. End though city wall professional. Simply heart beautiful late around pull. Exactly rest parent quality better themselves unit memory.
-
-Recognize into economy through though raise ago. Leader apply hit red lose. Here job shoulder pressure. Low could eight red. Give away arm try it record.
+The prominent crack on the Dawn Wall.
 
 # Location
-Girl real system Congress rate. Effort area everyone development find myself activity. Single anything life move note.
+Toprope:  Hike down  from the South Comb road and before you reach the South Comb, find a rough trail and hike down the hill past cairns, and then ascend to the top of the lower main tower of the formation.  There is a bolt near the scrubby pine tree.  This allows for a 40' rappel down easy 5th class to the anchors at the top of the climb next to the  tree.  There's another set of anchors on mossy ledge @90' below, and the ground is 100' from there.
 
 # Protection
-Help put most despite my hospital. Rather manager public. Hold science reach election store and military. Difficult hundred beat south fast exist paper much.
-
+Toprope!

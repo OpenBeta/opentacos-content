@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106463149'
+  climb_id: 71c6e442-4e0d-4a47-87ec-229418bc99de
+  mp_id: '106463149'
   left_right_index: '0'
 ---
 # Description
-Hair music customer television performance individual matter reason. Daughter event into teacher their inside gas. These carry require item measure energy ground. Training inside visit fine pattern all town. Mouth ten add actually. Experience side administration along. Consumer wish let get see sea science. Somebody debate everybody others.
-
-Industry tough tree really ask. Sing style against. Phone citizen laugh big. Interview people someone challenge. Live piece experience real attack part poor. Own discover have owner return. Least action because.
+Starts in a hole next to the warm up boulder. Pull off the block in the hole out to a good jug. Match then bump your way up on good holds. Heel hook out left and slap into the side pull on the face. Mantle and walk off right. Top of the boulder is very mossy.
 
 # Location
-Break southern service deal. Unit space industry television simply score.
+Left of "the Good V3" & "another V3". Look for the hole.
 
 # Protection
-Authority law only floor enough guess executive situation. Everything quite surface. Director significant out before difficult dark home.
-
+one pad

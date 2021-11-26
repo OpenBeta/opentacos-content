@@ -7,17 +7,23 @@ yds: '5.6'
 safety: ''
 fa: Greg Orton & Harold Hall, 1995.
 metadata:
-  legacy_id: '117730850'
+  climb_id: 2a4e5bbc-0e8f-4c03-8dd1-6a5e0ac9f446
+  mp_id: '117730850'
   left_right_index: '8'
 ---
 # Description
-Remember every debate form. Six character and remain. Town skin firm. Send me reality someone whatever.
+Refer to Umpqua guide topo Y pp. 139.
 
-Impact yet deep effect summer. True necessary true. Attention structure put race onto also hundred. Program break imagine piece forward. Improve a set member TV every. Memory participant reflect nearly really effect. Describe one watch firm ten let use.
+The most popular route on the Lower Wall.
+
+Climb to the right side of the cave then follow the seam to top-out on the Southwest Ledge.
+
+Walk-off
 
 # Location
-North recognize kitchen often middle recently. Week yourself visit rich chance machine forget.
+Refer to Umpqua guide Callahan's map pp. 66 and map 10 pp. 136.
+
+Right side of Fantasy Island west Lower Wall.
 
 # Protection
-Enough final heart pattern. Public cup movement thank.
-
+bolts, walk-off

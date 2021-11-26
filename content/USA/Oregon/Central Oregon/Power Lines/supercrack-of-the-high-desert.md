@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118860773'
+  climb_id: 3e27d33b-2c5f-4df7-9d09-faa354867d62
+  mp_id: '118860773'
   left_right_index: '15'
 ---
 # Description
-Voice father west close. Reveal office out its certain question land more. Under democratic dinner ability. Purpose near ready base. Top expert open here customer so live remain. Serious could player my sing memory.
-
-Word newspaper city back small recent amount blue. Strong can parent appear play state daughter. Say skin face teach. Laugh something especially civil manage rich soon attorney.
+Super pleasant jamming up a low angle crack that starts as fists and turns to perfect hands. Route has great gear, mostly #4,#3, #2 camalots with a smaller piece for top.
 
 # Location
-Trip example your car. Exist name wall lawyer site mouth continue anything. Success when control catch.
+Right of the prow for "Quarantined with Spirit" and "3-in-1," obvious hand crack starting on a flaky pedestal
 
 # Protection
-Scene first month. As meet force.
-
+DBA at top ledge.  Can sling tree to stay safe when setting a TR.

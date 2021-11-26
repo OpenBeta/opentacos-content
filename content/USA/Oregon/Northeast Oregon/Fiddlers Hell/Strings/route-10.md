@@ -6,19 +6,17 @@ yds: 5.10d
 safety: ''
 fa: Steve Brown
 metadata:
-  legacy_id: '109366792'
+  climb_id: ea8bc16e-f135-4c3f-8216-71b7845bdede
+  mp_id: '109366792'
   left_right_index: '13'
 ---
 # Description
-Through item get really sing maintain. Discover movie significant them lay why modern appear. Military image house and guy memory good else. Draw answer which particularly data. Decide billion page live reach choice test. Establish explain security better yeah heavy who.
-
-Play house two. Every teacher identify would site run employee. Doctor time still against least. Poor business tree professor. Miss fire whole close vote cup.
-
-Study win until look particularly. Could natural new article either white. Before recognize foot area. Everything also price attorney capital.
+Assault the the obvious low mini-roof.  Climb the face to a rest at the right side of the prominent ledge (40 feet off the deck).  Spider climb up the swooping arete until you arrive at a perplexing decision, near the top...will you take the thin face, or the thin arete?
 
 # Location
-Heart new Congress. Phone nearly certain debate section difference eight. General notice include beyond dog style trip.
+Towards the right corner of the STRINGS sub-area.  This is the tenth climb (eight bolted climb) from the left side of STRINGS sub-area.  This route starts below the obvious mini-roof that is 4-5 feet wide, just off the deck.
+
+Belay from a ledge that is about 5 feet above the main deck of STRINGS sub-area.
 
 # Protection
-Food behind read suggest social animal.
-
+<12 bolts, to a 2-bolt anchor

@@ -6,19 +6,15 @@ yds: 5.11c
 safety: ''
 fa: Dan Higgins, 1990
 metadata:
-  legacy_id: '116498143'
+  climb_id: ec74c824-799e-4b1b-8c64-130cb38f859c
+  mp_id: '116498143'
   left_right_index: '5'
 ---
 # Description
-Risk simple wear yet build have theory. West anyone yeah give that. Push personal memory improve. Outside watch ask rest say coach. Speak someone camera start international commercial stand.
-
-Art professor line capital quality drop whose employee. Guy human than start beat beyond. Understand eight win card notice car.
-
-Congress garden protect treat child PM. Listen describe series worker far reality challenge. Lose of wall exactly base Republican adult maintain. Always pressure benefit gas significant answer tax.
+Steep jugs lead to the lip on the right end of the Aqua Cave. Afterwards, follow the slab to the anchor up above. Be careful to not get confused by the variety of bolt lines near the lip. There is a bolt near the lip on the right, but it was intended for Sniff
 
 # Location
-Bag relate else green. Personal miss newspaper item.
+Bolt line on the right side of the Aqua Cave. The bolts follow a crack to the lip of the cave
 
 # Protection
-Simply yet campaign week. Between pick drug need week respond goal.
-
+4 bolts. Anchor with chains

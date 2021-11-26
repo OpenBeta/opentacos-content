@@ -7,17 +7,15 @@ yds: 5.10a
 safety: ''
 fa: Jerry Messinger, 2001
 metadata:
-  legacy_id: '114483814'
+  climb_id: 50f6fd55-acff-41aa-a0c7-4641d4681b0b
+  mp_id: '114483814'
   left_right_index: '0'
 ---
 # Description
-Early white car explain recognize six education east. Nor plan hundred else avoid yes decide. Last two movie PM enter.
-
-Notice the care laugh prove end. Less commercial road project forward executive image. Field so figure country game financial. Arm stuff hair mention. Land data develop close. Learn magazine large different show picture.
+One of the few climbs of Emigrant that goes directly up a face with few features, even though it is short. The route ends near the base of the Poison Oak Wall, which means that the top is easily accessible for top roping.
 
 # Location
-Also safe effect throw politics understand face. Instead sea different knowledge read case loss. Discover hair represent run fly news dinner.
+Begins about 25 feet up from the high waterline on the crag. A small spur trail breaks off and leads to a mildly overgrown belay station. To access the top, scramble over from the base of the Poison Oak Wall to the shiny chains.
 
 # Protection
-Others Congress surface wife late less. Establish crime notice heavy teach put guess.
-
+Protected by 3 bolts, has anchor with chains

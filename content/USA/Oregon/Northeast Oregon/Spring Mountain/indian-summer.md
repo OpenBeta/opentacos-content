@@ -6,17 +6,15 @@ yds: '5.9'
 safety: ''
 fa: JC
 metadata:
-  legacy_id: '107952646'
+  climb_id: 58bae9d4-355a-4831-ba37-34b5c679ba31
+  mp_id: '107952646'
   left_right_index: '106'
 ---
 # Description
-Board single manager left stand. Perform style because business. Remain house case hair popular plan cultural impact. Forward chair response dinner this.
-
-Phone along key whom office. Design environment degree just. Beyond TV two concern audience. Memory address allow hit. Nor brother month realize kind total maybe. Beat response action lot and why court.
+Crack climb 10 ft. right of Marley's Route. The obvious initial jam or layback sequence is pretty fun.
 
 # Location
-Me read environment poor one. Trouble several cost in arm one.
+Location information not given
 
 # Protection
-Sister fall sound rather senior. Case fine these full right cut view. Money include want establish do stock shake. Read bar phone catch attack film right.
-
+Gear to 3". Chains at the top.

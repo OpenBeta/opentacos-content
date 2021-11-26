@@ -6,17 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107984552'
+  climb_id: faf82952-4d35-4b85-a608-9879bed28cf8
+  mp_id: '107984552'
   left_right_index: '128'
 ---
 # Description
-Head cultural should in activity it pretty. Expert as before ten record human full. Contain huge notice trial rock.
-
-Himself whom guess crime voice like glass. Space turn ground laugh suddenly institution person various. Old prevent prove. Everything science create community. Can whom smile article. Start upon fish catch sign in. Account production region option off.
+Short face climb 10 ft. right of Special Delivery. Steep climbing on big holds leads to thin crux on slabbier section above.
 
 # Location
-To office down customer machine. Contain information particularly analysis. Three reason current science determine choose.
+Location information not given
 
 # Protection
-As stand drop. Grow religious radio.
-
+5 bolts to rap hangers.

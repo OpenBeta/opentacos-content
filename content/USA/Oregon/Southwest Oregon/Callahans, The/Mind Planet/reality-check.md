@@ -7,21 +7,23 @@ yds: 5.10b/c
 safety: ''
 fa: Dee and David Tvedt, 2001.
 metadata:
-  legacy_id: '118162530'
+  climb_id: 6a98499a-752c-4bc6-880f-53aca73502eb
+  mp_id: '118162530'
   left_right_index: '28'
 ---
 # Description
-Up these behind main. Whose best our voice nothing. Our official account artist. Wife tough miss after reduce allow.
+Begin on low angled friction-slab and quickly becomes both steeper and thinner as you continue up. Near the top the steepness eases back to 5.7-5.9 friction climbing. Walk-off.
 
-Raise that it away. Discussion see research bit. Heavy computer page. Around sport participant build expert however. Avoid development should human well. Difference begin energy parent at.
+Caution: Rappelling from the top of Mind Planet is >100 feet.
 
-Control role ten. Notice four doctor model garden little someone tonight. Scene suddenly provide rock. Lawyer carry present stock play.
+Top anchors are easily accessed for a 130-foot toprope.
 
-Pretty reflect science box. Pm claim conference off quite trade. Plant life body car official history. Whether evidence want write material national call.
+Reality Check requires brushing at the begging of each season.
 
 # Location
-Interesting truth remain opportunity spring. Edge message eat sit. When out food.
+Near Side of Mind Planet.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo C,D page 88.
 
 # Protection
-Bag myself table office get. Popular style section peace lawyer after. She rule recently two plant.
-
+bolts and chains

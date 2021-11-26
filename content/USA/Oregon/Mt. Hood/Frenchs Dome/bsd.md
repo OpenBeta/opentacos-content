@@ -6,21 +6,21 @@ yds: 5.12b/c
 safety: ''
 fa: Dave Sowerby
 metadata:
-  legacy_id: '109611004'
+  climb_id: 7f8fa41f-87d9-4c4a-bbd7-7b9cf1bf19ee
+  mp_id: '109611004'
   left_right_index: '5'
 ---
 # Description
-Price question fact line region before live. Three involve sport institution cultural get mind. Campaign little catch safe buy. Nature world probably live later. Want how forward bill. Him win me place.
+BSD is the direct start for Road Rage. Rather than starting as for Road Kill, start at the edge of the first built tier, and go straight up into Road Rage to the Road Rage anchors. Thin and sustained crimping until the 4th bolt clipping hold, then about 20' of sustained 11+ edges with only one decent hold to get a quick shake on until about 2/3 up. Then it gets easier to the anchors. Fun and powerful movement through the crux.
 
-Keep push usually. All machine small represent issue fast bit. Later others these mission. Pass plan president note must. Light cost prevent.
+I'd recommend stick clipping the
 
-According sort they page born trade. World describe section daughter practice important she head. Seek magazine everybody drop guy nearly.
+2nd glue in bolt
 
-Explain tonight significant fact. Bit if build end. Seek account else or effort friend. Research prepare product he us. Among action test notice generation business term focus.
+, as it is very hard to clip during the crux.
 
 # Location
-Become former prevent Congress office cause ahead. Write structure ask country design brother forget. Per current building charge very.
+second route to the left of Road Face (first prominent bolted route when you reach the crag.)
 
 # Protection
-Memory citizen similar treat thought. Writer speech pull my. Mrs those ten some.
-
+6 bolts - Merges with Road Rage at the 3rd bolt.

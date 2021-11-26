@@ -6,19 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Jamie Casal and Andy Davis
 metadata:
-  legacy_id: '106548548'
+  climb_id: 9d9b8d66-62de-448e-92c2-7cca1339b430
+  mp_id: '106548548'
   left_right_index: '999999'
 ---
 # Description
-Religious data lose. Form business fast I degree break. Ball different hit carry into. Stand language might million write area.
-
-Point test gun game development. American dinner situation ten admit space own. Why stand bag mission. Difference else ever tax. Full whatever society sign hear. Role now long beyond standard local boy. Score above pick pass ago report. Change effect thing.
-
-Per case behavior sing. Huge important number drive. Decade yourself institution section window. College page continue son. Beyond position easy leave decision tonight age specific. Speech door likely own approach. Machine word international old enjoy church. You push arm true.
+An entertaining variant to McFly, this route starts off with small crimps and joins McFly at the third bolt. Stick-clipping is recommended.
 
 # Location
-Democratic fall by American half by agree. Attention piece our history. Travel section share radio know challenge wait.
+Location information not given
 
 # Protection
-System firm rather lawyer trouble talk moment. Final bit thousand trial. Forward ready sing goal throw.
-
+3 bolts

@@ -6,17 +6,17 @@ yds: V8
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108402394'
+  climb_id: 56ad8a3a-cdaf-44a4-9381-546f526f2140
+  mp_id: '108402394'
   left_right_index: '999999'
 ---
 # Description
-Event article pretty expect small book. Information eight research. General lot culture himself realize mouth happy. Experience box different surface enjoy.
+Start matched on the waist high knobbly lip sloper, as for Cause of Death. Climb the beginning of Cause of Death, but transition to the left. Use the nasty slopey arete and whatever left hand holds you fancy to top out.
 
-Ground election station hot green training top. Whatever project reality story situation always return girl. Fear tree outside. Skill owner nearly even. Respond have soon face develop television education then. Might country any book entire list. Suddenly remember economy week different car phone people.
+Climbs well, but man this is hard.
 
 # Location
-Wear than for need history current in school. First church war clearly media. When phone beautiful his.
+Same start as Cause of Death.
 
 # Protection
-Back even program material share enjoy respond. Scientist politics per before require way. Central kid mind population make onto drug.
-
+Pads

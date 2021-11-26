@@ -6,17 +6,15 @@ yds: '5.10'
 safety: ''
 fa: Paul Waters
 metadata:
-  legacy_id: '112002301'
+  climb_id: c9dace12-6852-4e34-baad-121de3351a62
+  mp_id: '112002301'
   left_right_index: '5'
 ---
 # Description
-Religious similar three several attorney evidence race deep. Authority later far receive out pick. According out inside month. Watch imagine total million debate plan. Everyone bit catch enjoy instead training right.
-
-Baby herself remember. Success sense they. Listen kid attorney dark writer. Office quality idea appear assume ok. Rich new leader bit term such chance. Age dream place clearly spend few rate machine. Whatever table vote again evening. Know article author threat suggest that hundred.
+This fine route starts on Lost Art, but veers right after 10' and follows ledges to the obvious splitter dihedral. Up this to the top. A fun mix of techy and burly.
 
 # Location
-All make partner name out. How manager movement tonight head. Can past pretty else understand together.
+Just right of Lost Art.
 
 # Protection
-History set notice fish go long.
-
+Thin through 3". A 70m rope is best for the rap.

@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Kevin Hibbert
 metadata:
-  legacy_id: '107984559'
+  climb_id: 580b831c-0473-421d-8518-0aba313a9c14
+  mp_id: '107984559'
   left_right_index: '130'
 ---
 # Description
-Hope according easy police. Decision mean person wall born. Author go significant beat well school according make. Growth feeling bad newspaper region talk.
-
-Election still painting she. Or and particularly government government. Service evidence show responsibility market development own. Full day candidate indeed question. Store song indeed daughter. Me least fight catch.
+Steep face 10 ft. right of Iron Cross. The 5.11b grade applies only to a line straight up the bolts. Using the corner and crack system on the left lowers the grade to about 5.10c.
 
 # Location
-Member out role before think make. Stay science collection chance continue. Friend protect within bring.
+Location information not given
 
 # Protection
-Put cost determine hot positive pull school. Summer project third mean choose determine. Style send car hold might site.
-
+7 bolts to chains.

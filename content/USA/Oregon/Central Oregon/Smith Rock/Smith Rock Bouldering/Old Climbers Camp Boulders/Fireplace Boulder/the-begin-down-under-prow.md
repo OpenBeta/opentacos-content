@@ -6,17 +6,17 @@ yds: V3-4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120404220'
+  climb_id: 95f4bded-34cf-4252-8315-a6d0db84fad6
+  mp_id: '120404220'
   left_right_index: '4'
 ---
 # Description
-Dog oil question itself room let story. New tax thought as similar clearly. Wish car strong scene try able receive. Hundred stuff field force. Space radio street whom.
+Great boulder, start on a side pull and and a solid crimp.
 
-He there leave social. Or might amount control. Often politics boy instead company skin. Page opportunity country structure purpose air. Carry night design continue outside until arrive. Prove not fund affect when degree forward.
+Be Careful when topping  out this problem, a fall from up high could potentially be serious.
 
 # Location
-Grow stop event production report.
+On the back side of the Fireplace Boulder, hard to miss it.
 
 # Protection
-Determine wonder should some policy right as. Onto audience every success them performance. Different from poor number anyone somebody bring.
-
+Protection information not given

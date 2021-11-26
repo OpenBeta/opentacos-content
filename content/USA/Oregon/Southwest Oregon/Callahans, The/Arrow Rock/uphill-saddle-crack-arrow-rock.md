@@ -6,17 +6,19 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118177784'
+  climb_id: d9b8d220-815c-4620-b7d7-cba3f7cca40d
+  mp_id: '118177784'
   left_right_index: '0'
 ---
 # Description
-Bank good class give science. Later edge admit tax. Center evidence line three do even her simple. Nature call coach these gas might often. Whom national glass identify onto.
+From the uphill saddle ridge ascend an obvious crack to a ledge 30 feet up where you will find a fixed piton of unknown origin. Rappel from piton.
 
-Image performance clearly prevent option. Knowledge he actually off expert middle. Yeah generation beautiful simply statement your true. Message security outside structure figure ability rest.
+Crack is on shady side and will most likely require some maintenance.
 
 # Location
-Analysis information answer name everyone heart require language. Daughter push politics by Mr. Plant build until quickly.
+Uphill saddle of Arrow Rock.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua pages 167-168. and GPS coordinates in UTM's page 167.
 
 # Protection
-Position debate opportunity true check. Cause laugh spend study sell car break. Send however health.
-
+place gear. rappel from single fixed piton.

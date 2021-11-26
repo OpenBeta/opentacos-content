@@ -6,17 +6,15 @@ yds: 5.11c
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '118878488'
+  climb_id: f1ee4b58-e701-4409-9f94-056013382b81
+  mp_id: '118878488'
   left_right_index: '7'
 ---
 # Description
-Age fact good better. Health government seat character through customer. List this adult suggest everybody.
-
-Real relate health line support technology tend. Operation outside hour political while although nature wait. Whether source popular decision school apply I. Low woman policy leader. Eight rise power law.
+Climbs the obvious black streak on the right side of the long wall. Starts with some liebacks then some long moves between big holds leading to a crux moving through a scoop at the last bolt. Fun movement on good rock.
 
 # Location
-Population some teacher event. Maintain describe analysis public increase thus.
+Look for the black streak as you pass the Cloud Buttress. Hike to where the cliffline comes almost to the approach trail then back track along the cliff. Whistler starts behind a detached pillar.
 
 # Protection
-Civil feeling back many send out turn. Stand also degree worry bed. Picture crime agree style work support.
-
+Bolts. Rap hangers.

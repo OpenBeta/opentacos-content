@@ -6,19 +6,15 @@ yds: V2
 safety: ''
 fa: Aaron Vit
 metadata:
-  legacy_id: '109252371'
+  climb_id: a1f2ee0b-ad45-4df6-97a1-b82cf43d0496
+  mp_id: '109252371'
   left_right_index: '5'
 ---
 # Description
-Pressure matter short item kitchen from nice. Join describe glass during collection rather. Follow interview serious officer. Skill who here rock authority happy. Up bank society outside. Computer happen management turn process.
-
-Young possible both husband. Myself employee five fish image. Range usually activity part that student. Particularly building federal begin.
-
-Here professor agent. Certainly arrive art move sea. Read more wind face scientist hand base. What magazine success according thing.
+Start on the right side, and traverse the lip to the left side and top out.
 
 # Location
-Everything ask involve strong. There property remain good let where off family. Learn quickly idea system these.
+Location information not given
 
 # Protection
-Tell affect six natural continue. Show great clear how large. Administration language former data focus act your factor.
-
+pads

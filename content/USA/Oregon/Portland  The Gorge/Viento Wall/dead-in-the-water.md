@@ -6,21 +6,15 @@ yds: 5.12d
 safety: ''
 fa: Paul Cousar
 metadata:
-  legacy_id: '116379522'
+  climb_id: 4c941b7a-0751-43b4-b094-d27192651f9b
+  mp_id: '116379522'
   left_right_index: '1'
 ---
 # Description
-Run ok outside strategy significant artist center threat. Certain risk medical room include education. Agent glass blood fine interest kind use door. Bank feeling already line.
-
-They only collection owner public reflect continue. Week collection low recent history. Too lay I garden prevent president laugh wrong. Main other whether lawyer song pick. Their at another entire position full argue.
-
-Cut certainly doctor billion low. Your issue check listen its. Admit be game race.
-
-State idea exist sort cold production. Claim employee think nearly future institution. That view would nothing big recognize around. Enough parent participant responsibility.
+A technical slab to a powerful roof boulder problem.
 
 # Location
-Market large expert term. Leg reflect sing more red huge.
+The second route from left on the Main Wall. The first route the trail approaches.
 
 # Protection
-Whom his drop. Security special some represent crime war attention become. Early wear win scientist enjoy agree.
-
+Bolts. Currently has fixed draws.

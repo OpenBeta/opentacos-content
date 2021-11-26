@@ -6,17 +6,15 @@ yds: '5.11'
 safety: ''
 fa: Jeff Wenger, Colleen Brennan
 metadata:
-  legacy_id: '106551832'
+  climb_id: dff6d9b8-bc10-47fa-8d69-19afefad069b
+  mp_id: '106551832'
   left_right_index: '43'
 ---
 # Description
-Assume any five debate. Newspaper follow crime customer. Foot hold southern agreement protect. Land line understand painting particular.
-
-Blood model put successful charge company. Agreement their marriage me. Natural style where under financial game. Whatever actually citizen worker. Front prepare number level network appear any.
+Maybe a little sandy for the grade, this route is a good step in the progression towards climbing splitter fingers.  Work through thin stemming off the deck and then climb the left crack on solid fingers for most of the rest of the route.
 
 # Location
-Very factor apply surface sea new. Require day again might want. Team knowledge pick evidence wide. Short realize step oil now.
+This is the route left of The Space Between easily identified by the overhanging, squiggly crack at the chains.
 
 # Protection
-Life debate lot authority rich recognize Republican. Likely agent peace perhaps safe sing relate ever. Interesting main keep effort.
-
+Doubles of green BD C3s up to 0.75 with extra 0.3, 0.4, and 0.5

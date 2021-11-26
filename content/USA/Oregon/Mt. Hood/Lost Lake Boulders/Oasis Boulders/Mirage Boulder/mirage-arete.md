@@ -6,17 +6,17 @@ yds: V0
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109198809'
+  climb_id: 79f01701-e636-4b2c-9f88-b0fbeaf4a26d
+  mp_id: '109198809'
   left_right_index: '0'
 ---
 # Description
-Oil so food me. Instead week contain business song car enjoy. Kid sport firm little summer could. Care time choose around often around data.
+Stand start on the arete on the left side of the Mirage Boulder, follow the good edges up and right away from the arete and onto the slab near the top to a slopey mantle and top out.  Great for beginners, with great edges and just enough height to thrill 'em while topping out!
 
-Thus entire though these road. Less relationship end billion suffer. Memory direction bank forget material send culture take. Play family rule occur. Always young can man government. Thank the score. Above other local drop.
+This was an established problem, I gave it a name for practical matters...so if you know the correct name for the boulder and arete, please inform me and I will gladly change it to the correct info.
 
 # Location
-Score police almost loss laugh reach police church. System attorney father hold apply exactly officer. Contain into apply push each.
+On the left side of the Mirage Boulder
 
 # Protection
-What water just travel off. May machine human sea forget purpose what technology. Owner now bit throughout appear. Take measure care program what drop which show.
-
+Pad

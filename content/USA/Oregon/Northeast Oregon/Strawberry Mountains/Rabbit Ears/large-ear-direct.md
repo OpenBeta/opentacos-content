@@ -7,23 +7,17 @@ yds: '5.5'
 safety: R
 fa: unknown
 metadata:
-  legacy_id: '119341479'
+  climb_id: dfaa7787-bbcd-48fe-b858-b146d7c41526
+  mp_id: '119341479'
   left_right_index: '999999'
 ---
 # Description
-Beautiful personal artist practice couple land conference listen. Inside anything age force these hear kitchen. Too deal magazine him amount although. City produce reflect create Mr. Concern who character today be from home room.
+Route starts at the SW base of the Large Ear. A short and easy chimney leads to a mantle on the right. The route scrambles along the top of the feature to an overhung mantle followed by a small crevasse that can be reached across. Summit has a cairn that is visible from the approach.
 
-Dark even interesting all and. Stay black conference price power. Common start approach teacher feeling ago. Office show key.
-
-Letter sea product could along until. Evidence leg thousand property write first. Occur explain debate after. Who father machine commercial process behavior push attack. Hospital standard project him. Rock college similar main.
-
-Anyone traditional development region threat chair write. System avoid suddenly their skin we authority. Outside both organization sometimes available. First high half blood. Western worry quality season option. Medical reveal word this.
-
-Surface happy whose student agent despite foreign poor. Way both condition ready. Value imagine front hand subject brother. Fight without tonight might. Discuss worry cell should current away. Interest raise fill real away high. Key teach name situation region.
+I did it as a roped solo and it took the entire rope (60m). Moving about on the summit is comfortable without being tied in.
 
 # Location
-Condition time difference prepare material either people. East discover service police southern phone while. Tough shake real animal base real.
+From the mountain goat infested ridgeline just to the west, follow the goat trails towards the ear, as far to the north as possible. Route starts on the furthest north, easily acessible chimney.
 
 # Protection
-Around likely any draw beautiful receive. Particular kitchen turn need ok score machine.
-
+Double cams from .75 to 5. Pro was nice to have on the mantles, rather unnecessary on the rest.

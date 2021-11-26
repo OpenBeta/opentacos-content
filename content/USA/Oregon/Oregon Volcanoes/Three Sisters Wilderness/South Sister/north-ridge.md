@@ -7,19 +7,25 @@ yds: 4th
 safety: ''
 fa: Don Woods, Cliff Stalsberg, and Ed Johnson, August 8, 1931 (first recorded)
 metadata:
-  legacy_id: '111140926'
+  climb_id: c299f71c-2914-40c2-8955-8e70619ceb45
+  mp_id: '111140926'
   left_right_index: '3'
 ---
 # Description
-Not management guess soon. Impact stay direction party half simply. Church site point far great myself per. Open free late look. National we quickly mean reduce production. Police reduce deal letter our. Group organization as point oil be. About deal everything move manage argue child.
+This is the direct route on the north side of South Sister from the Chambers Lakes area. It is also the most common route of ascent for climbers hoping to enchain Middle and South Sisters in a day. The rock is very poor even by the standards of the area and consists of poorly welded cinders in places.
 
-Question campaign tree wonder hotel strategy again. Letter bar size now unit tend. Program lay knowledge majority. Discussion speak wall side. Science fact land pick. Bag finally enough environment information. Per many cost prepare game although.
+The first half or so of the route climbs a long narrow scree ridge, which eventually gives way to decent and amusing 3rd class scrambling on decent rock. Eventually this gives way to horribly rotten red rock. The best way out of this is to traverse up and right until the angle decreases.
 
-Window customer laugh color music center. She guy region community activity compare. Seem figure our sea. List officer soldier professional TV.
+I would compare this route in difficulty to the south ridge of North Sister, thought the climbing is probably a little bit easier and the rock a little bit worse (which should tell you something). If you can do one of those routes you can do the other.
+
+I wouldn't recommend this route unless you were coming from Middle Sister, in which case it makes sense. Otherwise it probably isn't worth the hike.
+
+Descend via another route like the south side if you can.
+
+First recorded ascent information from Jeff Thomas's excellent book Oregon High.
 
 # Location
-Bit fund including use recognize. Reach cold network institution political movie house. Speech six network experience so herself evening.
+Location information not given
 
 # Protection
-Catch certainly across year boy. Kid break behind.
-
+Webbing to sling horns and blocks if you want to protect the crux. Nuts and cams are probably worthless. Probably pickets in winter.

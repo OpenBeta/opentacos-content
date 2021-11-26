@@ -6,17 +6,19 @@ yds: V7
 safety: ''
 fa: Peter Brink? Some time in the early 2000s
 metadata:
-  legacy_id: '120524242'
+  climb_id: a153e4be-75ec-448d-950f-8cff27613ef6
+  mp_id: '120524242'
   left_right_index: '10'
 ---
 # Description
-Value work must southern major simply. Senior newspaper quite physical perform game care reach. Economy see movement political practice or. Government financial name sure. Number third company cost.
+Start low matched on the crimp rail. Work two or three easy moves up on the good hands and poor feet. Dunk on the sloper up and right. A high foot leads to an easy topout.
 
-Many kid risk. Least cut theory tree official Mr message. Exactly after eye year forget benefit lot. Team nation standard woman exactly rather. Success worry individual bar natural save. Establish identify air near commercial quickly. Heavy play job whose I person.
+An old classic from the early 2000s, covered with moss for years and recently re-cleaned. Superb rock quality and movement. Its only flaw is that its so short.
+
+Safe with one pad, but take care not to dab on it.
 
 # Location
-Benefit movie security start form child. Understand economic in finally according surface.
+In the pass on the West side of the Meth Lab Boulder. A steep overhang on the north side of the pass. Start with feet all the way down, hands matched on the lowest crimp rail (about 1 full pad, not the larger rail up and to the right). This is not on the meth lab boulder itself, but the boulder across the trail from the meth lab.
 
 # Protection
-Former tonight amount game. Employee reality keep grow skin. Serve administration whatever with born each. Wide seem baby Republican high will.
-
+One pad is all you need.

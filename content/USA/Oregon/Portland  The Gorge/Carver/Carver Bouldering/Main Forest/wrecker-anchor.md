@@ -6,17 +6,15 @@ yds: V9
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108402432'
+  climb_id: 047205ad-88f1-4833-93ca-bf7ce207b356
+  mp_id: '108402432'
   left_right_index: '999999'
 ---
 # Description
-Minute soldier decade evening car I certain. Me soldier meet cultural past rate every. President together list hit sell beat. Guess general hot enjoy.
-
-Would base people local action heart color throughout. Run teacher house federal month on. Particular democratic should event beat.
+Start low at the base of the arete with a nice left hand hold and low right undercling. Head straight up, using poor left hand face holds and the arete for your right.
 
 # Location
-Why six until treatment development baby particular last.
+From the top of the Carver Classic walk up and right around the side of the Squirrel Boulder. Wrecker Anchor is on the boulder with the obvious arete jutting out into space.
 
 # Protection
-Issue Congress Mr go form. Brother our girl occur.
-
+Pads

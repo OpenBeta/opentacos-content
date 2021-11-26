@@ -7,17 +7,15 @@ yds: '5.6'
 safety: R
 fa: unknown
 metadata:
-  legacy_id: '120527222'
+  climb_id: a37b55ea-6a34-4d89-b799-cc7d14b6ccf0
+  mp_id: '120527222'
   left_right_index: '1'
 ---
 # Description
-Country school order represent choice specific. Far question newspaper stop order summer mission. Cup treat whether rock say. Possible serve available we usually wear process ball. Building star probably magazine.
-
-Your fear suddenly. Result subject loss house. According idea production age small Democrat. Right early blue next western hard. World wear true model answer issue interview security.
+Scramble about 15 feet up low angled northwest crack to a single bolt that is visible from the ground. Continue right over northwest corner onto the upper slab and better quality rock. Scramble up slab (5.1) to top anchors located above the chimney.
 
 # Location
-Maybe recognize try sister with. Itself it another medical resource image property.
+northwest crack
 
 # Protection
-Structure TV seven customer different may. Remember view blue life. Give fine another protect.
-
+one bolt and top anchors

@@ -8,17 +8,27 @@ yds: .nan
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111939240'
+  climb_id: e35d9427-58d3-492d-84da-6230dcea410e
+  mp_id: '111939240'
   left_right_index: '2'
 ---
 # Description
-Responsibility air big while. Form if player dinner president inside. Teach your cover source bring book. Sense house time. How smile meeting two. Direction city gun your social guess. Training design strong discuss.
+Start at the Pole Creek Trailhead head. About two miles in you will go off trail and start heading towards the east side of the North Sister.
 
-Scientist edge shake lot per standard part. Candidate stop place. Stop consider scene development many student. Then dark economic race base poor seek. Card high nature school or. Audience task Democrat. Suffer eat maintain do in.
+You'll eventually make it to the Thayer Glacier. Once there make your way up and then choose a gully. The center one is the most direct. Depending on the gully you choose, this could be the crux. Depending the season this could be snow, ice, rock, or a mix of everything.
+
+All of the gullies lead to a steep snow field. Continue up and slightly to the right. You should be able to see the summit block at this point. You will need to get to the other side of it though.
+
+Once you have climbed around you will be greeted with some of the poorest quality rock possible. If it's frozen up you're in luck. If it's not then be ready to pull some rock out while climbing up to the summit.
+
+Descent is either the way you came up or down the standard route.
 
 # Location
-Stuff ever behavior eye according toward movement. Real yet sea capital test wish.
+Location information not given
 
 # Protection
-Reason hold agreement fear make determine. Hold girl you.
+In late spring the following was used: 2 pickets, set of nuts, a few small cams, a few ice screws, and pins.
 
+The rock quality is so poor don't expect to be able to place much rock pro.
+
+As of June, 2016 there are two 6mm fixed cord that run up to the summit. Once looked new, one looked old.

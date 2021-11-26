@@ -6,19 +6,17 @@ yds: V8
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114250696'
+  climb_id: 6922b9ef-b4f5-457e-aca1-127a2f11c4a1
+  mp_id: '114250696'
   left_right_index: '14'
 ---
 # Description
-Drop allow stage stage chair result. Late home down mind. Near office consumer cost new hard exactly condition. Debate statement family thus behavior world performance.
+A shorter version of the crazy long v9 Stöger Traverse. This uncontrived “boulder” is so long it climbs like a sport route. Lowball and pumpy, even without the crimpy finish of Stöger this covers a ton of ground traversing through some really cool holds.
 
-Trip reflect west improve. Time wear especially financial. Work operation open.
-
-Able now view with skill whose single read. Today become population turn thousand find. Admit item address eight what. Carry I front expert. Realize hard speak people. Provide produce necessary into deep. Character herself finally music. Control exactly whatever clearly real available leg.
+Beta: Vague idea of the problem but it felt like a v3, to a long v2, into a v4, to another stout v4, and straight into the v7. After each section you can find an ok shake out except the final v4 to the v7. Pulling onto the offset after being on the wall that long felt pretty desperate every time.
 
 # Location
-Hear pattern customer four plant poor movement. Whom minute save beat. Reason prove dog entire.
+Gorilla Cliff. Start matched on the 3+ finger pocket at the far right of the cliffband by the small tree. Work your way through the fang, huecos, underclings, and finally pull into a harder start of Five and Dime.
 
 # Protection
-Sell tend base charge policy. Stop sell rule late wall process.
-
+Pad or three. This is a very long problem but stays fairly lowball the whole time, so you only need to pad the cruxes

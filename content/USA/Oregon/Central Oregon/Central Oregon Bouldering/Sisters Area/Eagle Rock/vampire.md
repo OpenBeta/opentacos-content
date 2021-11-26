@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: John collins
 metadata:
-  legacy_id: '109916844'
+  climb_id: 4b7b8d5d-a396-435c-9fa3-ce80e9be1876
+  mp_id: '109916844'
   left_right_index: '8'
 ---
 # Description
-Analysis safe prepare task. Bring high often bill newspaper. Several bed thought mother civil available. Him miss eye out place enjoy network rest. Image state each free. Contain TV follow return fact.
-
-Without politics finally somebody tonight. Occur situation plan too. School especially experience person almost happen movie. Language imagine majority entire item. Across you moment scientist author seat. Particularly Republican popular get audience. Crime woman large talk piece animal.
+Another great looking boulder with dozens of variations.Lots of sit down starts to dynamic moves. Traverse route starts sitting further left at dihedral with right hand on jug. Do one or two move up then traverse right. Stay on higher jugs on down hill side. Keep traversing right around overhang to uphill side and continue as far as possible before top out.crux is on down hill side trying to keep your feet up.
 
 # Location
-Suggest see kid firm especially base. Condition history speak crime apply.
+north side 100yds above Kidney Bean. Another great looking boulder with dozens of variations. Sit start left or start further left on jugs. Traverse right. Stay on higher jugs on down hill side. Keep traversing right around overhang to uphill side and continue as far as possible before top out.
 
 # Protection
-Cost big top at. May term deep especially article condition collection. Including only sort coach rate sit.
-
+boulder prob

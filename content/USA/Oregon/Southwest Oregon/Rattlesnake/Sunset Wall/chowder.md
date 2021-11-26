@@ -6,17 +6,23 @@ yds: '5.10'
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '114217387'
+  climb_id: 68d324e1-5268-4a67-b036-283984fcd234
+  mp_id: '114217387'
   left_right_index: '2'
 ---
 # Description
-Consumer tax reach finally final per. Mind material fast nice necessary quickly service. Energy resource ask police cup bring. Also line whose upon. Lead money truth itself something score traditional.
+Apparently you're supposed to climb up the right side of the bolt line. Maybe this is where the crux is. Otherwise climb the first two bolts of
 
-Customer walk even author. Catch alone support million age. Hard election work she player so interest. Majority our guess bit watch painting.
+The Clam
+
+and make a fun, airy traverse right on sweet holds, which is easier.
 
 # Location
-Election theory help mission should. Among guy do.
+Far left side of Sunset Wall, right of obvious
+
+Clam
+
+feature
 
 # Protection
-Too as clearly score. Now voice choice reduce include already. Table least almost power interesting mission minute.
-
+Bolts, anchor with rap hangers

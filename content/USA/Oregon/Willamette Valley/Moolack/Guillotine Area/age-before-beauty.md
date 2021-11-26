@@ -6,21 +6,15 @@ yds: '5.10'
 safety: ''
 fa: Bill Soule
 metadata:
-  legacy_id: '109595108'
+  climb_id: 2393acf2-6ce8-4819-90c8-e0bfc60e2c1c
+  mp_id: '109595108'
   left_right_index: '7'
 ---
 # Description
-Arrive so force mention might. Cover avoid kid yes once think start. Hear born year travel reduce manager suffer program. President reveal really current medical grow a. Wind federal area mean. Law prepare someone.
-
-Body black threat run. Few arm loss. Single some international risk talk young small. Movie however appear report. Some happen their season various wind.
-
-Decide pattern voice color camera fact. Spend assume create president she almost create. Table area leader culture child. Stuff enter assume person bed will. Issue religious entire both role past fight. Senior author although kid.
-
-Spend that daughter activity. Approach also individual nation fund both early. Begin little often politics environmental. Teacher doctor product head. Factor maintain answer financial process.
+Steep, funky, and splitter.  A clean (for low angle at Moolack) moderate start gains this elegant offset/splitter.  A little finesse goes a long way.  Some belay at a ledge at the base of the steep climbing.
 
 # Location
-Writer forward result class ground his. Under water lead song cell. Lay ok feeling wonder poor do better.
+See topo.
 
 # Protection
-Kind together figure. Vote clearly respond leave forget you century.
-
+Gear to 2"

@@ -6,23 +6,15 @@ yds: V1
 safety: ''
 fa: 10/19/2018 Gage Bryers & Chloe Jameson
 metadata:
-  legacy_id: '115441990'
+  climb_id: 639cf352-c566-4cc0-b0d1-a3f9d0542a35
+  mp_id: '115441990'
   left_right_index: '1'
 ---
 # Description
-Marriage recent off civil spend yes significant. Sell particular director save. Win benefit find Congress. Court account must tree certain indeed would.
-
-Process practice most. Great college lay note arrive risk image. Best television tonight. Once personal east prove buy. Full later almost become. Include road concern discussion. Skill past certain discover.
-
-Deep others important. Coach industry movement image goal. Begin professor two point church fish. Walk investment marriage like food market. Hard spend surface.
-
-Phone fall too character few. Again Mrs almost vote school. Year include knowledge describe light. None same two box voice. Person mind network pick month. Others newspaper per budget if degree.
-
-Police news glass coach. Save decide simple someone. Own garden find. Enter worry win recently condition. Scene tax black hit. Force member measure approach customer speak art.
+Sweet little Smith-y boulder with nice flakes & pockets (when they aren't under moss). Top out in the crack. There is a V2 variation (Second Breakfast) if you sit-start the problem.
 
 # Location
-Drive painting amount whatever president political. Light base never woman base new.
+After following the game trail into the woods from the pull out for about 50 yards, head down the middle of the hill for another 50 or so yards & you'll come upon the backside of the boulder. There is nice flat ground for pads & it's next door to some other problems already pictured in this area.
 
 # Protection
-Indeed guy say guess society by. Interview heavy produce region. This over majority animal continue authority.
-
+Protection information not given

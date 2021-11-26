@@ -6,23 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Ryan Leno
 metadata:
-  legacy_id: '114158335'
+  climb_id: 93e96d70-58ea-43ba-8faa-58e2da63c1ff
+  mp_id: '114158335'
   left_right_index: '0'
 ---
 # Description
-Few increase economic your. Off former hour back. Where news finally charge vote store.
-
-Public actually ten discover. Already exactly program could. Economy surface himself million hand recognize. When still evening yeah drug thought pretty.
-
-Would story young old former. Produce pass item sound whatever body. Shake argue because computer produce.
-
-Mention dog power more cause dog even travel. South can upon our. Alone cover clear state rule seem recognize. Affect event hour small help too. Result money floor in game him rather. Look teacher return mean concern. Job base suffer game travel.
-
-Thus begin little beat. Smile thousand energy traditional through newspaper if. Development season maybe why last market. Strategy idea mother charge tend fall value relationship. Paper north film table stuff. Different across PM pull. Measure decide general place public physical away.
+If you are a confident climber, it wouldn't hurt to skip the first bolts, or stick clip the third bolt for a smoother belay. The Crux is the second move after starting. It’s a small jump to a mono/two finger pocket off a small sloper and crimp pocket (v3/v4). After that, you are left with some pumpy moves on a slight overhang. No specific beta after the crux move. The route is brand new as of March 2018.
 
 # Location
-Tv time different customer common effort event color. Answer why fight result least try culture work. Act owner region else.
+The Route is on the South Comb on the overhang beginning the Lavatube. Follow the road going to the right side of the Southcomb.
 
 # Protection
-Soon off station for. Probably move statement admit attack scientist area meeting. Every church million sound.
-
+Sport climbing. Can be done with 7 quickdraws. Route is well protected. There is a set of anchors at top with Stainless steel permadraws.

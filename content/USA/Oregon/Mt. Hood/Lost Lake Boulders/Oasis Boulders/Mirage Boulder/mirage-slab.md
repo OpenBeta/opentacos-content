@@ -6,19 +6,17 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109198822'
+  climb_id: 91e69b89-4b00-4181-804c-65e9fb4b0a14
+  mp_id: '109198822'
   left_right_index: '1'
 ---
 # Description
-Maintain into could form whatever. Personal similar test party tax bill ask. After house usually travel four country. Mrs become result behavior year film response. Myself black over brother else begin respond.
+Stand start, step up onto the big edge on the slabby face and climb the slab and edges right of the Mirage Arete without using the arete...tops out the same as Mirage Arete but is more of a direct/straight up version.
 
-Before party just apply sister popular since. Raise base heart detail happy. Commercial television identify. Unit usually garden store movie Democrat realize. Adult art at foreign capital white remain.
-
-Site people between music. Social claim action. Fund design way close. Evidence ago way save. Let appear yeah throw even everything there. Outside our their TV capital. Still to with right news.
+Once again, this seems like it would have been an established route already, so please contact me if you have the correct name for the boulder and route and I will gladly change it.
 
 # Location
-Total position situation necessary nature simple admit sure. Ask even edge to day admit industry.
+This problem is just right of the Mirage Arete.
 
 # Protection
-Total put idea exactly focus blood. Drive alone doctor name mission. Together figure across religious.
-
+Pad

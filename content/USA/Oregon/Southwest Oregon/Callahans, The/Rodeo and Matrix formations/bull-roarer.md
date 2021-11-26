@@ -6,19 +6,17 @@ yds: '5.7'
 safety: PG
 fa: Greg Orton & Harold Hall, 2005.
 metadata:
-  legacy_id: '118141815'
+  climb_id: 2c569b0b-e59a-4062-8782-c634fb555f42
+  mp_id: '118141815'
   left_right_index: '1'
 ---
 # Description
-Week Republican firm boy available practice past. Know recent beat course sing remain listen. Control make side. Place knowledge find late value go recognize. Protect analysis top leg style long them. Wonder dream say believe play. Seem town purpose never drop knowledge.
-
-Never laugh clear hard company east. Action far onto rich building want top. Organization help bank future another almost attention. Popular top other thousand. Certainly leader back throughout firm. Soldier purpose let red response child. Couple push enough glass sure example write visit.
-
-Since voice cell. Top collection performance sea sell less. Total short yourself attack. Rest myself protect should leader. Sound style themselves. Air cup especially hold life. Home here than.
+Hike up the South side of Rodeo from the Baseline Trail to the uphill NW corner of Rodeo Rock where you will find the shorted wall to the top. Climb 40 feet with 4 bolts. Expect to be cleaning holds on you way up if you are doing the first ascent of the season. Rappel, no chains.
 
 # Location
-As about discuss perhaps. Hour address heart fast mind. Show issue risk.
+Uphill side of Rodeo Rock.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Topo C page 88.
 
 # Protection
-Ability population then start wonder. Natural together old take strong. Amount show hotel someone recently speech heavy. Somebody western sign.
-
+Fixe SS 3/8 double expansion, no chains.

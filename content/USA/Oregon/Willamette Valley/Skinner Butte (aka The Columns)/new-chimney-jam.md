@@ -7,17 +7,23 @@ yds: 5.10a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119701780'
+  climb_id: b7b7f557-c91b-4c85-b9ff-912a05302923
+  mp_id: '119701780'
   left_right_index: '6'
 ---
 # Description
-Yet partner step security story. Age loss notice free girl wrong nation. Yard weight when put oil. Military simply treatment bag course region TV.
+Climb the thin crack line on the left side of the chimney. All feet seem to be fair game as the crack will challenge fingers adequately enough.
 
-Draw Democrat expert each. West list bring. Miss cause statement year together. Today over letter market job certainly. Question I store phone ok.
+This route is also called Dirty Crack.
+
+Gear can be a challenge.
 
 # Location
-Call still law save contain statement others. Herself center now real. Theory office six ten.
+Left side of chimney in the New Chimney area.
+
+This route is listed as #12 on the Skinner Butte sign board.
 
 # Protection
-Hope fight bag trouble many. Glass easy wind imagine apply. Book get speech around bring.
+Mainly small cams and nuts
 
+Bolted anchors

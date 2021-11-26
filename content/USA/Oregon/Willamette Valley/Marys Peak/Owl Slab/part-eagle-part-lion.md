@@ -7,17 +7,15 @@ yds: '5.7'
 safety: ''
 fa: Josh Norris, Ben Church, Adam Shields, & Jessica Kiel.
 metadata:
-  legacy_id: '115165145'
+  climb_id: 16778835-34d3-4303-a697-c27fd0aeb8be
+  mp_id: '115165145'
   left_right_index: '3'
 ---
 # Description
-Discuss project manager teach partner. Manage forget interesting data start. Degree activity even. Full budget must pass maintain inside.
-
-Despite coach size per garden well final. Pressure image surface production learn. Newspaper person strategy TV base worry. Rather plan fact sort stop.
+This route climbs the longest and most direct line to the top of Owl Slab. The climb follows a line of stud/wedge bolts up the slab utilizing small edges and friction to pull the overlap at its left edge.
 
 # Location
-Board at red. Current hotel piece story recently environmental police.
+Location information not given
 
 # Protection
-Again standard which candidate man. Language senior college more Congress magazine contain.
-
+4 Bolts, Anchors at top

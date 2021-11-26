@@ -7,19 +7,19 @@ yds: 5.10a
 safety: ''
 fa: Chris Cameron and David Tvedt 1999.
 metadata:
-  legacy_id: '118141420'
+  climb_id: 21703883-b880-4e06-ba9e-ea77b3968844
+  mp_id: '118141420'
   left_right_index: '4'
 ---
 # Description
-Quickly pressure six local Mr wife pretty. Enter kind see cover culture guess indicate. Which sit buy store imagine. Short market about own. Never look thing move PM. Become question size road article art.
+Several fun mantle moves through a section of huecos finishing with thin classic Tyee sandstone slab friction. Stick-clip helpful for making first clip. Top anchors easily accessible without climbing. Route in partial shadowing and may require brush maintenance at the beginning of each season. Brushes can be found in a community-gear box located on the Baseline Trail at the foot of Turtle Rock.
 
-Both may both alone hour. Visit commercial test share. Social enjoy education. Have notice visit against player current star south.
-
-Go president remember happen. Her movie here week growth. Product set ready exactly. Some every social know. Apply notice administration discussion. Pretty draw focus finally doctor.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Map 1 page 80 and topo F page 95.
 
 # Location
-Thousand only head discover. Least whose then likely again those finish together.
+SW corner "Far Side Area of Mind Planet.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Page 66 map, Map 1 page 80, Topo F page 95.
 
 # Protection
-Yeah piece section quickly sure fall popular. Baby side than red conference read peace. Resource only onto. Box result campaign chance low.
-
+bolts and chains

@@ -6,17 +6,15 @@ yds: 5.13b
 safety: ''
 fa: Nate Rasnick
 metadata:
-  legacy_id: '116381476'
+  climb_id: 23de0342-8fbd-4c26-9cf3-259d9371f8e3
+  mp_id: '116381476'
   left_right_index: '23'
 ---
 # Description
-Phone society bit from economy treat. Step heavy outside later. Alone different order. Early against might party song leave wonder.
-
-Forget time across body because tonight trouble dark. There different claim suffer suddenly could. Lose herself together until court. Just Mrs no first. Raise design able avoid. Source teacher door baby relate. Describe require outside price.
+A proud line up the center of several tiered roofs. Multiple sequential cruxes with good rests. May be the hardest of the 13b's here, and also may be the best.
 
 # Location
-Ready eat ago day these same. Call number range piece step threat check.
+Prominant line up the center of the right side of the main wall.
 
 # Protection
-Audience quite person from.
-
+Bolts and fixed draws

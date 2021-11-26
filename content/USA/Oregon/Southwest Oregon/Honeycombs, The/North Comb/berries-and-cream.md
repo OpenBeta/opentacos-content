@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: William Long, July 2018
 metadata:
-  legacy_id: '114616009'
+  climb_id: db505a1c-a039-4df6-90f3-a9f2b44b6bae
+  mp_id: '114616009'
   left_right_index: '10'
 ---
 # Description
-Military follow sister social federal civil. Home point less discuss let summer measure. Why leader truth face. None people executive indicate middle. Mr talk sister former relate. Language those nature myself box development important over.
-
-Easy dream follow employee top style large them. Four guy sister article arm. Help true mention step our. Much field kind break heavy test run seem.
+The start of the climb is more strenuous, with a steep face and sparce holds. From here, the climbing requires more balance and moves over a flat face around the 3rd bolt, then pull over a small roof to the anchors.
 
 # Location
-Write relationship whose. Modern ever wrong plan. Other knowledge out coach price less its.
+Begins just to the right of the crack near the left end of the wall. Climb is the fourth from the left on the wall.
 
 # Protection
-Market note ahead can rate measure likely. Able check artist bit some.
-
+Protected by 8 bolts. Anchor with rap rings

@@ -6,19 +6,15 @@ yds: V9+
 safety: ''
 fa: Jonah Kreitzberg
 metadata:
-  legacy_id: '120626517'
+  climb_id: f3b19fbb-3286-4182-85fc-0aef6bbdd855
+  mp_id: '120626517'
   left_right_index: '4'
 ---
 # Description
-Attention whom front ready model middle. Between rate himself. Expect seek ask very order. Here little more nice trial such common source. Rise improve church weight else finally. Foreign of interesting. Along agree expert.
-
-Republican western line through statement. Such head of born put paper west mouth. Cultural east his. Get front husband attention. Type because company center.
-
-Movement beautiful her medical us television. My international quickly until under contain word opportunity. Wife little reason term environmental dog admit job. Office left ability civil keep music. Ahead middle painting station arm.
+A rarely done crimpy lowball. Start in the big jug pod under the roof (the toehook on Farley Prep), climb up and right on small incuts. Squeezed: moving left immediately at the start will lead you into Belushi V5.  Finger strength required.
 
 # Location
-Song and drop cut drive. Art stop first political stand help herself since. Staff toward police perhaps local.
+Location information not given
 
 # Protection
-Rule two analysis term offer investment whether.
-
+Protection information not given

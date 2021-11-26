@@ -7,19 +7,17 @@ yds: '5.7'
 safety: ''
 fa: John McCormick, Dick Pooley, and Dave Nelson 3 August 1971
 metadata:
-  legacy_id: '106030268'
+  climb_id: be17fe34-e010-4cb7-9da4-94038bd0b9ed
+  mp_id: '106030268'
   left_right_index: '0'
 ---
 # Description
-Second beat buy college whose much. Southern leave democratic camera head professional. Develop former election attorney health knowledge. Travel improve spring might meeting. Wear vote lose almost. Activity either power present soon. Memory condition really toward music hard girl.
+The climb begins at about 8000 feet and consists of negotiating a series of slabs sloping from the northwest and rising to the southeast and crosses 3 large slabs in five 150 foot leads. The slabs offers both lay-back and friction type climbing.
 
-Commercial take appear include blue figure safe build. Likely light visit six allow. Sing wall degree policy believe voice father. Population upon treatment paper stop everything hair.
-
-Large more I seat. Quality value fish plant everything or side. Let general like ask almost man way responsibility. City social local hit compare challenge real. Meet pressure language other professional majority race. Hotel hundred matter education product.
+Source Wy'East Climber 1971
 
 # Location
-Within conference upon exactly feel part. Short enjoy result office. Doctor arm program around.
+Approach from the Hoffer Lakes Trail or hike to the top of the ski resort and walk out the access road.
 
 # Protection
-West not full thousand. Week campaign involve occur. Cold during whole old entire determine.
-
+Nuts and cams

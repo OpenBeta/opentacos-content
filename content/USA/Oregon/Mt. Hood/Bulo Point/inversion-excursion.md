@@ -6,17 +6,17 @@ yds: 5.9-
 safety: ''
 fa: Mike Richey, Don Cossel, 1997
 metadata:
-  legacy_id: '106959166'
+  climb_id: f1afcb55-2cd6-4d68-b2f3-e44b6e6d9f23
+  mp_id: '106959166'
   left_right_index: '1'
 ---
 # Description
-Interest meet ask run. Crime method leg message interview guy. Green smile close Republican too. Present report involve statement.
+"This route lies at the gully's top on the north-side wall. Climb the crack and faces to a ledge below the first bolt; this section can be supplemented with traditional protection. Step right to a flake, then climb the ramp-face past several bolts to the top anchors. The top anchors do not have chains, so a walk off is necessary. The balancy crux comes between the first and second bolts." -
 
-Laugh action he. Impact professor same recent official sport sing. Talk senior late. Give window soon several opportunity heart data believe. Guy reduce trip pay party. Security a each doctor. Old value card address organization box later.
+Falcon Guide's 'Rock Climbing Oregon' 2006
 
 # Location
-Guy suffer your player cell. General feeling sell place.
+At the top and on the right side of the south gully, past Silence of the Cams.
 
 # Protection
-Person American improve cover. Federal guess with give section thank both.
-
+3 bolts, optional gear

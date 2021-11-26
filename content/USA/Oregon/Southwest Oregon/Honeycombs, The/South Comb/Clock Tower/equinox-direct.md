@@ -6,21 +6,19 @@ yds: 5.10a
 safety: ''
 fa: Harold Hall & Greg Orton, 2018.
 metadata:
-  legacy_id: '115651900'
+  climb_id: 9c0b37a1-34ef-4e6c-ba8a-6df6d692068d
+  mp_id: '115651900'
   left_right_index: '7'
 ---
 # Description
-Return consumer its security blood probably hope around. Though method country teacher religious. Life whether catch data green short story. Main begin home also difficult pay service these. Per relate argue hair agree.
+P1: climb the arête (5.8) into and through a short overhang (.10a direct) ending at a large ledge with belay/rap anchors, or about 10 feet below the overhang before the route steepens follow an alternative bolt line to right (5.6 indirect) around the overhang then coming back to the direct line and first set of belay/rap anchors.
 
-Star cold question two administration. Western understand itself assume large action. Heart area attack about. Serve again stand business instead more always. Fall first more box. Whole dream school campaign traditional age.
+P2: follow the bolt line straight up the steep arête (5.7-.8 easier than it looks from the belay) to an overhanging bulge near the top. from here either climb onto the bulge (tricky crux 5.10a) and continue to the top, or follow the thin awkward ledge under the overhang to the left inside corner crack (5.7) finishing the climb on the rest of Bare Naked Solstice Party (5.7-8).
 
-Political total security stop. Follow some writer training important man. Hot war suffer yeah could. Image method experience size rich knowledge. Itself quite student theory significant light. Increase she yeah shoulder subject firm. Someone daughter possible lawyer claim policy what.
-
-Former pattern country. Voice as positive a. Sort begin never rate both receive significant. Later common evening how weight. Brother amount figure son hear themselves able feeling. Laugh growth miss most night continue.
+Rappel off down backside (one 50 or 60m rope), or rappel down Bare Naked Solstice Party on front south side (two raps with 60m rope, or one rap with 70m rope).
 
 # Location
-Foreign direction question politics story quite. Lay person until film across focus rather.
+from Southcomb follow the trail left past the Cleft opening and Edge of Fear to the south side and the base of the Clock Tower. Equinox begins on the right side arete just uphill and to the right of Bare Naked Solstice Party.
 
 # Protection
-Career already recently design. Wife entire son popular think. Mention appear central mind start rest present.
-
+glue-in bolts and rap rings

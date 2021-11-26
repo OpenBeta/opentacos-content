@@ -6,17 +6,15 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106517711'
+  climb_id: 80c5a1c3-f0c7-45db-a364-668597868669
+  mp_id: '106517711'
   left_right_index: '19'
 ---
 # Description
-Notice market wait professor music city thank. Different technology late care. Part property she try resource. Happen ball value close sea story true. Sign court worker while note. If morning myself environmental follow put. Maintain now another may half ever. American wife soldier catch up.
-
-Loss always throughout PM continue hear. Family important office director expert evening happen. Minute impact Democrat Mr born day. Certain he exactly listen between group. Report mention central challenge until brother. Off example light share.
+This is the best line on The Prow. A thin crack at the bottom with some stemming. After about 25 feet the rock leans back for easier climbing. Once one gets above the columns (~50'), the route becomes a bit more jumbled but everything is solid. Avoid obvious loose chunks.
 
 # Location
-Kind sit song deep accept fund.
+Middle of the prow. It's sort of an alcove 2-3 ft deep due to columns on either side.
 
 # Protection
-Tv prepare produce official push place. Agent later kind message well.
-
+Gear to 2"

@@ -6,17 +6,15 @@ yds: 5.13b
 safety: ''
 fa: DS
 metadata:
-  legacy_id: '105895653'
+  climb_id: 2d21e807-5799-4c0d-a418-a6608691433a
+  mp_id: '105895653'
   left_right_index: '0'
 ---
 # Description
-Free thousand organization nearly. Coach hair indeed on. Example myself how another require last computer technology. Arm space half campaign second foot describe meeting.
-
-Coach away lawyer job. Public would shoulder art. Situation small future company water foot.
+Another very engaging Rat Cave route. This route climbs through a series of stalactites to a small alcove. Very bouldery with great opposition movements, includes an optional kneebar as well.
 
 # Location
-Seek kitchen step up education need network. Of fear could process occur among traditional. Forward whether result true that.
+Furthest route left in the cave. Very hard to see the bolts (they are painted black)
 
 # Protection
-City read size another name along happy. Yourself skill may professional however. Mean accept issue interesting once.
-
+6 bolts, two bolt rap anchor

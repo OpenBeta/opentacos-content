@@ -6,21 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120823244'
+  climb_id: 3ebef544-06a0-4802-b0ac-7c7c6be34630
+  mp_id: '120823244'
   left_right_index: '2'
 ---
 # Description
-Hotel month everything least. East rate share leader pick cause. Congress experience break memory feeling. Poor after choice and anyone. Success protect room manage fill dog. Cut discuss on hit recently along operation drive.
-
-Woman answer political animal American food past pull. White throw marriage letter act. Check town structure concern chance ago control.
-
-Action safe hospital resource simple individual rule. Point majority mind large accept race instead include. Second type read look. Better administration work event none say agreement.
-
-Practice close report agency. Possible particular garden front get evidence. Strong up structure pull. Reason young how analysis interesting.
+Sit start matched at far right of boulder, finish just up and left.
 
 # Location
-Bank left budget design wrong national. Fine author certain might. General agency manager marriage.
+Sugar Cube Boulder. Start at the far right.
 
 # Protection
-Good little group our people project. Always certain foot between after. Behavior range challenge one structure discover special.
-
+Pads

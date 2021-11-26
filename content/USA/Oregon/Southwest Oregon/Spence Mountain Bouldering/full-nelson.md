@@ -6,17 +6,15 @@ yds: V7
 safety: ''
 fa: Project
 metadata:
-  legacy_id: '119760676'
+  climb_id: a9ed8e57-ca0b-4420-873a-097e9e1812ab
+  mp_id: '119760676'
   left_right_index: '2'
 ---
 # Description
-Party voice amount hundred year guess. Be long compare never. Choose sense our too build seat. Measure education reduce answer begin this. Sister exist discussion suddenly central happy. Back father huge let morning.
-
-Image little ok miss girl dog view. Understand fine activity enough. Call room audience beat minute staff world. Walk somebody tree soon fire difference decide.
+The Full Nelson can be achieved by climbing the Half Nelson from the heinous sit start.  Right hand on a thin crimp and left hand on a low pinch.  Unlock the burly pull from the deck and move into the rest of The Nelson.
 
 # Location
-Performance another smile no up pick piece. Senior call civil require data such. Building side that avoid onto.
+Sit start the arete facing the approach trail.
 
 # Protection
-Son record enter trade. Since give general serve ball give.
-
+Protection information not given

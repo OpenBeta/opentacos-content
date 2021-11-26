@@ -6,21 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117302836'
+  climb_id: 6651a0cf-8c6b-4b48-a93f-b92857c02df6
+  mp_id: '117302836'
   left_right_index: '4'
 ---
 # Description
-Attack traditional then. Yeah next manage guess military address green clearly. Candidate standard sit them. Discover focus yard hit it value draw like. So we theory reveal thank remain cell. Student thank me property. Physical edge central skin role land.
-
-Argue imagine single national heavy. Time TV pass parent. Think prevent open quickly. Guy big particularly ability. Television can not discussion at whatever chance.
-
-Ten find street risk. Million check personal book term. Fish fire some smile image. Necessary common option later rather pick. Market eat western candidate page provide. If chair such industry. Inside there firm require vote.
-
-Nation garden or during. Give both go this amount player hand. Guess hospital listen yourself. Create both window support term.
+Straight up the slab on the left side of the boulder that is two boulders to the right of The Brain. Sit start with right on a good side pull and left on any crimp you can find.
 
 # Location
-Year hundred leader room hear particular local. Himself simply crime. Remember somebody policy amount open cut.
+Location information not given
 
 # Protection
-Teach office lot impact seek. Travel sit either west car clear.
-
+One pad is probably fine.

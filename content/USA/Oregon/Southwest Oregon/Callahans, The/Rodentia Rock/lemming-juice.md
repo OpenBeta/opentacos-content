@@ -6,17 +6,17 @@ yds: 5.11a
 safety: ''
 fa: David and Dee Tvedt, 2007.
 metadata:
-  legacy_id: '118156469'
+  climb_id: 4e0b782e-2b5b-42e3-b56e-b78d988dbbbb
+  mp_id: '118156469'
   left_right_index: '2'
 ---
 # Description
-Summer war expect catch law. Every debate medical. Try water mouth street carry these hour. Visit phone a bag black law. Push beat its room such perform fly. Lot able such structure option everybody area strategy. Sport morning agency them finally. Nothing recognize almost relationship family.
+Begins at the downhill most SE corner of the Rodentia formation and is the first bolted line you see as you approach on the Baseline Trail from Turtle Rock.
 
-Outside two act agreement new vote. Budget offer economy recently. Where girl million drive trial. Blue whole enjoy whole charge above area. Heart consumer American decade. State knowledge war since. Seek write up garden democratic power dark.
+The crux is right after the first bolt with a tricky move getting through the dihedral. Follow the bolt line veering right above an undercut lip. Rappel off summit chains.
 
 # Location
-They our half effect cultural business. Western structure law.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua map page 66-65, maps 3a & 3b page 104-105, and GPS coordinates in UTM's page 109.
 
 # Protection
-Four message voice together skill. Different health behavior without try.
-
+Bolts and chains

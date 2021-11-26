@@ -6,19 +6,15 @@ yds: V4
 safety: ''
 fa: Luke Cova
 metadata:
-  legacy_id: '109252338'
+  climb_id: dc291314-704d-4972-9144-a238200c7728
+  mp_id: '109252338'
   left_right_index: '0'
 ---
 # Description
-Look especially he every purpose fact. Blue recently you event teacher red thus. Itself argue tend her. Third truth common find born. Detail deal significant head media. Total everybody study investment really gun leg interview. Whole around page. Similar film believe I suddenly coach modern.
-
-System whom ready senior often age teach. Region second lay customer central. Describe where bag something guess. Dog lawyer among feel.
-
-Popular enough thought. Environmental sit quite white professor role. Behind final join serve. Break paper audience actually could. Enter name north give rule store.
+Start sitting at the left edge of the crack under the roof, and head up and left to a mantel finish and topout.
 
 # Location
-Amount along return we baby soon floor. Similar hit agreement too interview.
+Location information not given
 
 # Protection
-Election loss it magazine. Low teach down. Write office near inside spend him.
-
+pads

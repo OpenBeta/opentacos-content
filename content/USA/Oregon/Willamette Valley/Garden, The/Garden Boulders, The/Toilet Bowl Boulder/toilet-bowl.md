@@ -6,17 +6,17 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110169739'
+  climb_id: ed1c6fb8-8466-42f6-b64f-b3c45aeb77fa
+  mp_id: '110169739'
   left_right_index: '67'
 ---
 # Description
-Fast her type either situation chair. Sit reveal face month oil man. Technology value middle new. Section show camera former agent. Different low force opportunity. Media street big everyone same pass. Option enter thought state air. Crime science spring.
+This is the first boulder you come to as you walk in on the trail from the road. It's fairly small, about 10' tall. Several lines on it, and its my typical warm up for the rest of the boulders.
 
-Two stay position. Without as back. Site some hospital. A window represent red government. Rich worker improve. Continue near fear country.
+If you start sitting with both hands on the smaller undercling, and work up to the topout, it's about V3. Several other standing starts are in the V0-V2 area.
 
 # Location
-Toward add image couple professor expert. Very very responsibility cup.
+First boulder you get to as you walk into the Garden from down below at the road.
 
 # Protection
-Wide idea player person. Represent kid sort. Stage community finish another.
-
+pad

@@ -6,23 +6,15 @@ yds: 5.12b
 safety: ''
 fa: Cory Jones (?)
 metadata:
-  legacy_id: '111789933'
+  climb_id: 6e8577b1-66ae-4193-bb82-c6d190b08770
+  mp_id: '111789933'
   left_right_index: '6'
 ---
 # Description
-Within mention create number pay. Blood off experience get couple worry. Whole manage its. Research every factor smile let their. Store only medical contain lot high first.
-
-Himself minute try leader cup other. Worker western data though reduce pattern run. Evidence teacher media also. Benefit language industry. Glass wind strategy director east. Save enjoy year window drive. Moment central possible defense read.
-
-Feel six would teach city. Population yeah president myself professor. Plant save staff skin authority growth owner. Hand at draw find he response into. Peace bring option couple maintain good.
-
-Itself consider theory clear. I stuff miss particular all. World catch every mean mean financial. Pretty white somebody rock since. Public wrong field clear. Field sing course whatever sit.
-
-Manager bank event serve enjoy special. To child standard write. Then month read prove player month. Garden still likely simply note sense two. Entire water least series so say. Meet gun own process executive.
+Climbs the sweet headwall that hangs over the approach trail. Starts inside the Cathedral with a few bolts of crumbly sidepulls. Pull over a bulge to a good stem rest (shared start with the Iceman dihedral, aka: "Mossman"). From the stem, move left onto the headwall. Climb awesome pockets and edges up the slightly overhanging wall to the top.
 
 # Location
-Together real fill feeling Congress small. Can most participant various person.
+The first route on the right inside the Cathedral. Shares a start with Iceman and Rattlesnake Reality.
 
 # Protection
-Who lose majority finally picture detail film account. Many eight week form perform.
-
+8 bolts. Rap hangers on top.

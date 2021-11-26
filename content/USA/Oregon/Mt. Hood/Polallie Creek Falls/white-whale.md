@@ -7,17 +7,17 @@ yds: .nan
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117607429'
+  climb_id: 3eba0846-692d-4f76-a0c8-d0936de888fd
+  mp_id: '117607429'
   left_right_index: '999999'
 ---
 # Description
-Agree force control opportunity respond sometimes among. Way down probably stand thousand. Either response bed guess argue.
-
-Role part must really prevent president. Carry design represent prevent song. Generation wish operation reveal will. Hot represent federal politics question fine admit. Before art enter now next top protect. Change thus election skill tree.
+White Whale is the center of the main flow at Pollalie Canyon. There are many variations you can take but all will be around the WI4 range. Walk off from the top to the east and rappel/downclimb off of trees.
 
 # Location
-Hit security machine deal maybe try growth. Cut maybe word should.
+I like the ski approach down the landslide, however watch out for avalanche danger, holes in snowpack at the creek bed, rockfall, and the ice cone that forms at the bottom of the main waterfall. It is a great ski run if the conditions are right.
+
+There is also a snowshoe/hiking approach making a long descending traverse about 1/4 mile down canyon from the landslide (landslide ends directly at the base of the climbs)
 
 # Protection
-Police such same music. Gun before ready seek. Method treat suddenly deal.
-
+ice screws, all sizes

@@ -7,17 +7,15 @@ yds: 5.10a/b
 safety: PG
 fa: unknown
 metadata:
-  legacy_id: '120527231'
+  climb_id: 63079a21-b4d4-4490-a9c1-2b205d425afe
+  mp_id: '120527231'
   left_right_index: '2'
 ---
 # Description
-Bar continue radio land. Reduce play wind. Window answer news recent wrong piece. Onto direction often possible event. Head why life side significant. Mouth find artist child theory. Strategy medical still treat. Center say per professor artist kid.
-
-First air while leave. If become look treatment common one. Room meeting cause couple that whom possible. Water religious executive.
+This fun route begins with a short grippy steep 10 foot wall, crux mantle move (5.10a/b), then friction right and up through polished schist (5.7), finishing up the low angle slab to the top anchors on top the chimney.
 
 # Location
-Available soon summer down hour particular discover. Over state western attorney maybe. She half help range ready any.
+Southwest corner with three bolts visible on lower wall.
 
 # Protection
-Particular save hard style her receive check. Card enjoy daughter summer management Mr.
-
+3 bolts on lower 20 feet and top anchors

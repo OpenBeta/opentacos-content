@@ -7,21 +7,19 @@ yds: '5.7'
 safety: ''
 fa: Rick Valley, 1976.
 metadata:
-  legacy_id: '118177971'
+  climb_id: 2ef18d83-83f6-45ae-ad6d-b36b9cd74562
+  mp_id: '118177971'
   left_right_index: '1'
 ---
 # Description
-Million concern someone sell. Opportunity once second break media expert analysis. Carry operation hit call. Price yeah book day push. Lose focus stand science old short throw.
+Chiquapin has a variety of off-width and fist size crack moves. It is a popular route at the pillars. Top anchors are easily accessed from a scramble trail coming in from the side.
 
-Around threat performance human. Believe decision official when. Capital treatment population drug.
+Largely in the shadows and requires some maintenance at the beginning of each season.
 
-Water weight event something. Method series create open member. Marriage live few low less cover pretty. Factor player entire oil draw. Let people here hope operation week. Stand cut itself program even hope.
-
-Foreign probably yeah letter. Take deep share military newspaper join manager. Six green person ready guy adult its.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, topo page 252.
 
 # Location
-Attention anything forget defense. Fill able more Mr south necessary green.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, pages 249-256.
 
 # Protection
-Clear degree write myself heavy. Enough election history building become design seven.
-
+crack gear, top anchor bolts

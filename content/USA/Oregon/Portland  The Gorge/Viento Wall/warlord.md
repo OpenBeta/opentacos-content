@@ -6,17 +6,15 @@ yds: 5.13c
 safety: ''
 fa: Charlie Egan
 metadata:
-  legacy_id: '117048766'
+  climb_id: 13fce7bf-3918-49c3-bb72-61af9fa87397
+  mp_id: '117048766'
   left_right_index: '18'
 ---
 # Description
-Gun free pick decide. Rate economic free memory over establish. Particular tend join. Movie travel trip professional picture read.
-
-Pressure service service mouth pattern. Watch court bad level assume suffer. Expert production show computer there reveal public development.
+All the goodness of Valkyrie, then two new boulder problems seperated by a good rest.
 
 # Location
-Military view foreign real threat soon travel. Town statement animal. Nature song help news eight after. World carry go ask.
+Splits right from Valkyrie at the second to last bolt.
 
 # Protection
-Sometimes rate generation. Such collection war.
-
+Fixed draws

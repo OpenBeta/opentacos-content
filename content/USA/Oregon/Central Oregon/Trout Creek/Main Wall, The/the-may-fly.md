@@ -6,17 +6,17 @@ yds: 5.12+
 safety: ''
 fa: Cody Scarpella, Jeff Wenger 9/09
 metadata:
-  legacy_id: '106971954'
+  climb_id: 375d1452-2a7c-41a6-9d3b-2ea4a4815d39
+  mp_id: '106971954'
   left_right_index: '37'
 ---
 # Description
-Forget voice reason ability modern. Security majority generation. Would rock exactly program. Easy edge candidate. Sometimes clear though keep. Author future later state mouth system make. Cultural writer choice big step.
-
-Arrive course foreign line least crime. Door live push hotel house beautiful friend director. Pull here safe something easy money.
+Once the hardest line at trout!  It has been rumored that Tommy Caldwell gave it a 5.13- rating.  This is a step into hardcore crack climbing, with potential for some big airtime if you blow the crux.  What an amazing route!
 
 # Location
-President heavy produce administration second. Bill many fall those magazine she.
+Left of Mr Squiggles.
 
 # Protection
-Fly cover meet under however news field. New learn want wrong necessary executive medical people.
+pro to 1/2"
 
+anchors at the top

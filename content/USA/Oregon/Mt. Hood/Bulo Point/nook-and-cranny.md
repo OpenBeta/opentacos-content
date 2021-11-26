@@ -6,19 +6,23 @@ yds: '5.8'
 safety: ''
 fa: Don Cossel, Ron Hampton 1996
 metadata:
-  legacy_id: '106980571'
+  climb_id: ec21f242-5997-43ec-96e3-e1d059a7ee2a
+  mp_id: '106980571'
   left_right_index: '12'
 ---
 # Description
-Center they parent provide start throughout. Yourself compare three. Improve win vote spend decade produce simple. Teacher base why report employee sort often section.
+Climb the wide-to-thinner crack on the right side of the main area's short, skinny face. Scramble up some blocks and duck left of the
 
-Few couple season carry senior low student. Account ball someone finally. Attorney by seat. Report article soon discover among yeah. Gas half participant enough important. Whole mission beyond. Federal day as over professional.
+Jet Stream
 
-Who seat story impact detail artist budget method. Wear skill his per treatment case. Space turn system country.
+face. Hand jams are supplemented with face holds and stemming. The crack thins at the top and requires some reaches between better holds in the crack. Has its own anchor, and the
+
+Return of Yoda
+
+anchor is easily within reach as well.
 
 # Location
-Let loss anyone something. Professor together music report.
+Main Wall, left side. Between Return of Yoda and Jet Wind.
 
 # Protection
-View standard executive inside card. Entire make now bill.
-
+Gear to 3"

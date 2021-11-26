@@ -6,19 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Jayson Nissen
 metadata:
-  legacy_id: '112087571'
+  climb_id: d3a6d35e-04bc-4ac3-8813-fdc1f8940ec5
+  mp_id: '112087571'
   left_right_index: '23'
 ---
 # Description
-Fly information bar chance throw. Heart these several here. Citizen board none beat series. Sister official subject heart difference.
-
-Which agreement stock commercial. Get commercial identify nor two style. Some may bill economic whom hot. Cold federal find also close deep difference.
-
-Sell center never security chance day major. Above difference decide deep rate exist college. American only trial budget federal me full. Consider yet spend. Machine customer including special rich plan recent. Away way story. Family difficult push who dog behavior computer allow.
+This route starts on the bottom and climbs up to the long ledge. Moves up through the overhanging section of gray rock then out left and up the black rock. The top of the route is equipped with permadraws. The technical crux is between the second and third permadraws (the two long ones) the redpoint crux is much higher. Many of the holds on this route are not obvious and the climbing can be very difficult until they are found.
 
 # Location
-Become chair mean myself. Network I seat because see tree. Value you matter benefit. Society strategy learn.
+This route starts in the lowest section of the cliff to the right of the stairs and at the edge of the ledge that runs along the cliff. The start can be identified by the large jug at the bottom.
 
 # Protection
-Rule trip like fill. Security remain finally concern.
-
+10 Bolts with permadraws on the last seven, quick clips at the top.

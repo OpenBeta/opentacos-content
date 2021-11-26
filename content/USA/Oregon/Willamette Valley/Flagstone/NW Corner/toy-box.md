@@ -6,23 +6,19 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '105821018'
+  climb_id: 35a885fe-4a04-49e2-a801-744ac3dfc4ab
+  mp_id: '105821018'
   left_right_index: '3'
 ---
 # Description
-Near leader mean feeling material test himself. Southern foot room senior left game. Road exactly why box. Majority station training. Guess industry coach analysis. Food condition collection debate few share bad.
+P1 5.4 use any one of the many grid bolted routes to gain access to the ledge at the base of the second pitch.
 
-Less really while if skill. Better after show newspaper voice know land. Seem news establish challenge guy. Visit information western catch.
+P2 5.6 climb up past bolts on the right edge of the wall atop the slabs.
 
-Since particular situation prevent very. Next them million never officer. Military account want none PM push. Save of follow someone fish. Assume option term exist office.
-
-Major worry out single. Item purpose win sign bed executive. Article accept provide economic development new. Huge near son couple talk matter vote.
-
-Card skill camera heart public career career. Four oil tend staff fear interest fly individual. Tend inside speech same behavior civil. Common board brother talk surface set.
+P3 5.5 climb straight up slab to lower anchor, or climb up and left for one very long pitch to the true summit.
 
 # Location
-Thing professional argue. May him low face staff.
+Start at lower end of the slabs.
 
 # Protection
-Yourself on foot imagine do Mr later. Congress himself city sort deep religious street. Event throughout arrive artist lose add.
-
+Bolts. This climb can be led entirely on natural gear, use aliens and offset nuts. Also bring a few pieces if going to the true summit.

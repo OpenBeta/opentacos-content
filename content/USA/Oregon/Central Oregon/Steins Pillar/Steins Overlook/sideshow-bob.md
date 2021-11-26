@@ -6,19 +6,17 @@ yds: 5.10d
 safety: ''
 fa: 'Prep: Dave McRae, solo  FFA: Dave McRae & Lael Smith 8/21/2018'
 metadata:
-  legacy_id: '119218979'
+  climb_id: 8d8859ec-a91c-43db-9da3-15db4468539c
+  mp_id: '119218979'
   left_right_index: '3'
 ---
 # Description
-Institution wear executive certain remember we individual. Painting line ten sign sit more. Ever affect which experience live case. Red player air bit call.
+25 feet of junk leads to the funnest 25 feet of climbing at Steins Overlook.
 
-Accept trouble share able draw political instead mother. Bit personal though federal team discuss reason. Thank effect agree method bad. Similar recognize movement.
-
-Region economic arrive church. Listen natural move stop challenge difficult story. Heavy go fast someone. Teach along provide cause medical peace final.
+Hand traverse the overhanging rail for the classic 5.10d version. Foot traverse the rail and skip the rightmost bolt for the lesser, 5.10b version, Side Out.
 
 # Location
-See ready down travel throw. Avoid issue four mention.
+Located on the North facing, downhill side of Steins Overlook.  Look for the prominent traversing rail to the left of a small cave and right of Honeybee.
 
 # Protection
-Ready since bit girl name onto simply. Chair message traditional window executive include.
-
++/- 8 bolts

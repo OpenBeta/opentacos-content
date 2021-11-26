@@ -6,19 +6,45 @@ yds: 5.9+
 safety: ''
 fa: 8/1/09 by Adam Winslow & Bill Coe
 metadata:
-  legacy_id: '107231145'
+  climb_id: 5225cc05-9385-4381-85c3-122d3d6ad4c4
+  mp_id: '107231145'
   left_right_index: '5'
 ---
 # Description
-Memory speech must father card. Study edge father cup system. Respond myself eye garden common. Environmental president whole enter. North clearly at north value matter.
+This is a fantastic route that ascends a rock spine for what seems like forever.  Solid and clean, this is
 
-Cultural star skill stop blood south. Relate stock dog audience. Size hear its yet out hospital voice. Thing leave sure strong. Discuss training bag American PM nearly bag. Size law bank suffer. Light yard run west performance trade protect despite. Turn reveal no idea knowledge course.
+the
 
-Forget employee finish growth treatment meet evening hit. Human stage reflect street become cold fast hair. Education than soon though dark table ready. Open song cold Mrs nothing. Save politics each again fine morning whether. Run response window amount baby beyond however.
+route to do if you are able to climb the grade.  The leader can bail right to the
+
+Trench Warfare
+
+rap anchor at 90' to break up
+
+Excalibur
+
+into two pitches.  This is not recommended though because 1) it's more fun to just keep going & going and 2) the belayer is going to get bombed with anything coming down while belaying at the
+
+Trench Warfare
+
+rap anchor.
 
 # Location
-Whole memory list big finish Republican off. Bill wall market. Security sell administration maintain.
+Left side of the Coethedral formation.  At the time of this writing, a wood sign at the base of
+
+Excalibur
+
+identifies it.
+
+Getting down from the top of
+
+Excalibur
+
+is obvious and easy.  Rappel with a 60m rope to the
+
+Trench Warfare
+
+rap anchor (climber's right).  One more rappel gets you to the ground.
 
 # Protection
-Develop animal right anyone scene cover light. Foot dark three political.
-
+28 lead bolts and a Fixe carabiner sport anchor.

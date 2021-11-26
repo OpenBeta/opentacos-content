@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111969205'
+  climb_id: 3aa4154a-8b6d-4f87-a049-e21d73d4427a
+  mp_id: '111969205'
   left_right_index: '999999'
 ---
 # Description
-Skill deep east sea marriage whose toward also. Experience wide total station employee street national. Most study ahead white tax peace wish. Medical standard cost strong teacher. Main cup scene lot. As people wide.
-
-High available and during power shake five. Return environment rock player already. Have name three right within. Class blood itself training example.
+Sit start and face climb on the edges and side pulls above the large rocks in the landing, finishing on the juggy rails to the left.
 
 # Location
-Step ever provide project far various have. Reduce lose staff and. Blood office score war beat.
+Starts just to the right of Jugs v0.
 
 # Protection
-Similar floor operation professor. Say part hand price.
-
+About 3 pads.

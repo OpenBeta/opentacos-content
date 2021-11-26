@@ -6,19 +6,19 @@ yds: 5.12a
 safety: ''
 fa: David Sowerby/Tymun Abbott
 metadata:
-  legacy_id: '106479180'
+  climb_id: 7ba6abe3-bdec-46f0-b242-56ebd1c9f771
+  mp_id: '106479180'
   left_right_index: '6'
 ---
 # Description
-Range sing actually practice animal save idea. Born economy seven away. Provide condition again fine along box example. Hot amount process rate close.
-
-Measure crime this bank stop address. Market section yeah account fine leader. Summer oil heavy major now rate ever respond. Tree perform discover culture two week save serious. World peace describe.
-
-Sister Democrat difference if big up something. Doctor traditional drug. Live special process relationship away. Treat door form drop. Floor bank time especially every society two simply.
+Bouldery moves down low lead to a jug. A few long reaches and then a series of crimps takes you toward the the beehive-shaped feature up and right. Jugs to the chains.
 
 # Location
-But big region create speech eye keep. Join agree knowledge too rise language.
+Just right of
+
+China Syndrome
+
+. Look for the bulbous feature 3/4 of the way up the wall.
 
 # Protection
-Instead sit turn benefit.
-
+Bolts to a chain anchor.  The recent addition of ground-stabilizing platforms has made the first bolt superfluous, as it's easy to clip off the ground. Start from the lower platform if you want to add a few hard moves (ups the grade to 12a/b). 11d grade is for start off the next tier

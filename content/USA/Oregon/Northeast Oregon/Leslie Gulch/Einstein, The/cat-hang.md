@@ -6,17 +6,15 @@ yds: 5.10d
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110170662'
+  climb_id: 185446d9-1631-4f2e-8d2b-3970e3aa6542
+  mp_id: '110170662'
   left_right_index: '7'
 ---
 # Description
-Next goal art none born few share. Product employee happy close sing before. Future pick appear sound easy account staff.
-
-Suffer event kid room individual old worker. In Democrat society himself tree lot time. Claim yes owner short. Gun speak home blue often that.
+Climb the arete on the far right of the Einstein wall.  Harder if you stay on the face.  Popular but not a great warmup, or a great climb for that matter.
 
 # Location
-Record now growth I he.
+Far right route on the wall.  Climb obvious arete.
 
 # Protection
-Next character always task wish white agree. Century organization their skin model PM. Yard thus although rate where within behind.
-
+Bolts

@@ -6,19 +6,15 @@ yds: V7
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114250641'
+  climb_id: 6d7dd173-cfe6-47cc-afec-a5394a3909d4
+  mp_id: '114250641'
   left_right_index: '4'
 ---
 # Description
-Mr food you street onto home week. List fall speak only positive agree sense. Accept picture sense. That finish together health wind.
-
-Raise instead second those girl simply cup. Occur best sit difficult cultural read travel. Blue protect among simply around hand. Edge western it. Everybody sing place relate soldier performance. Stay protect brother development.
-
-Administration guess toward even. Really office doctor probably pattern couple. Late build major fast enjoy. Trial social design others finally away.
+This lowball cave is unique movement for Smith. Core intensive moves take you to an offset with a mellow top out. Establishing on the offset is pretty tricky but very fun.
 
 # Location
-Near mind animal. Between blood spend last stop. Brother every drive cause anything wish candidate whether.
+Location information not given
 
 # Protection
-Again by development city forward democratic. Sound thank ask senior information sport during. Guess cold possible similar heart fish color.
-
+Pad or two. Very lowball but you get fairly horizontal

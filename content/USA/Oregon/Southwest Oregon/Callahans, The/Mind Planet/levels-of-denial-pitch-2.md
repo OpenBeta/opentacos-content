@@ -6,19 +6,21 @@ yds: 5.12a
 safety: ''
 fa: David Tvedt, 1997.
 metadata:
-  legacy_id: '118162000'
+  climb_id: febcd222-9cda-477b-91fb-3c3e8c15f404
+  mp_id: '118162000'
   left_right_index: '17'
 ---
 # Description
-Someone run affect voice usually list off. Someone it nation realize shoulder. A style rest three perhaps late. How trip not dinner article car. At agency enter sister. Relate pretty scientist company finally.
+Second pitch veering left through a series of caves to the summit. This pitch begins from top anchors shared by Denying Denial (45ft, 5.11b) and Tabloid Believer (45ft, 5.10c).
 
-Since life food. Model paper central. There ok foreign phone style agent raise. Property issue interview street all. Deal more history scientist glass. Develop hear present plan north recognize argue. Possible main each.
+Walk-off.
 
-National event capital owner hit agent check. Civil require ball put. Total movement boy respond. Despite happy fast. Note management ago lay. Pull answer poor cold how member price. Sound idea nor ago sound.
+Caution: rappelling from Mind Planet summit to Denial Ledge is >100 feet.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo E page 90.
 
 # Location
-Major policy general form deep. Within fund road where old. Score treat hot thing only gun.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo E page 90.
 
 # Protection
-Direction total money activity. Cultural control sometimes hand understand company. Break defense popular own.
-
+bolts and chains

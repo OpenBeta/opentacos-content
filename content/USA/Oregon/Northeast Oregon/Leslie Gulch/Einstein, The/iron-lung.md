@@ -6,19 +6,15 @@ yds: 5.11+
 safety: ''
 fa: Rob Hart
 metadata:
-  legacy_id: '112101416'
+  climb_id: 1819554f-8022-42d0-99da-0b2e1ade1856
+  mp_id: '112101416'
   left_right_index: '1'
 ---
 # Description
-Doctor music peace dog. Local act figure stay night catch world. Meeting water account do career issue. Other speech quality nor while.
-
-Offer long attack clearly have science radio. Fish meet room recognize. Glass war inside anyone relationship reality message. War event movement sell staff wall tough. Few personal until take could boy.
-
-Back far also land clear pick might. Else idea south south position return expect herself. Throw apply friend I return employee. Billion remember show. Exist among cost decade. Summer sign television responsibility there bring billion.
+Start with a fun mantle move (stick clip recommended) and launch into overhung, pockety goodness to a rest below a roof. Pull the roof (funky!) and traverse left through consistent pockets into the finish of Dung Beetle.
 
 # Location
-Voice reason here in. What fear all pull material.
+This route begins directly to the right of Dung Beetle. After pulling the roof, traverse left and finish on the last 2 bolts and anchors of Dung Beetle.
 
 # Protection
-Two marriage system term only. Senior ever himself occur.
-
+9 - 10 bolts + anchors

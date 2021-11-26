@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107722341'
+  climb_id: 6f0213b8-3e7b-4798-ad0b-a1e3419148e3
+  mp_id: '107722341'
   left_right_index: '15'
 ---
 # Description
-Somebody usually design front break stay. Value fight wear between government less hard include. Occur region us agency. Mrs could stock item.
-
-Concern effect determine push local. Arrive blue big owner say authority. Record letter three.
+Climb the steep, apparently well-featured slab just past the wide dirty crack right of Nurse Ratchet. Most of those nice looking holds vanish into thin air on close approach.
 
 # Location
-News Republican design young eight indicate. Tv tree spring together investment. Official time about trouble feeling guy.
+Location information not given
 
 # Protection
-According Mr across hotel without sometimes although. Final if PM degree education.
-
+11 bolts to rap hangers.

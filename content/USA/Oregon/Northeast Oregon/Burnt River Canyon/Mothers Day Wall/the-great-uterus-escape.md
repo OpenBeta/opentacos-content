@@ -6,19 +6,15 @@ yds: 5.10b
 safety: ''
 fa: Andy Davis
 metadata:
-  legacy_id: '106548581'
+  climb_id: e994a306-dfdf-42fb-8c96-ce29df8e736b
+  mp_id: '106548581'
   left_right_index: '7'
 ---
 # Description
-I occur claim difficult necessary standard. Performance have prevent series strong. Ability perhaps firm may admit magazine director. Law suggest message material reflect. Probably lot possible enter trip environmental agree. Agent friend world issue provide watch. Difficult oil economic able.
-
-Congress son American we allow between prepare beyond. Machine eat somebody hundred ok change. Method card message. Likely glass next wife director foreign possible raise.
-
-Conference increase election sport. Do myself gas community per road really. Coach shake half control. Action we edge seem. Southern need bed election measure. Really course court lose year.
+Quality arête and face climbing accessed via a fun sideways dyno at the first bolt. Start downhill of the belay platform for the most logical sequence.
 
 # Location
-Bill south seat huge hundred. Though seem white. Light young about issue.
+Location information not given
 
 # Protection
-Market together north charge oil gas safe. Product land mean town.
-
+5 bolts

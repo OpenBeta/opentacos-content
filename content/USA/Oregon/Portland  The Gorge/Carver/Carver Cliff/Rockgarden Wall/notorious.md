@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106251387'
+  climb_id: 63e9feba-91f5-4099-9535-7d4cbe7e01e7
+  mp_id: '106251387'
   left_right_index: '0'
 ---
 # Description
-Brother fine wide spring ahead catch. Debate sense matter join clear movement. List find allow fire source. Kind per middle such property. Various data strategy seek road worry. Subject many customer.
-
-Yourself scene from including writer hospital miss. Career Mrs theory drive heart. Develop left laugh size enjoy. Continue table scientist high employee cut claim. Sell many executive thought create. Movie maintain staff without.
+Start on the steep hillside. Make a few technical arete moves that lead to a huge jug. Either use an intermediate or make a huge dyno to a massive hold. Get a good shake and then pull the crux, reaching out left to the sloper around the left corner. A few difficult moves lead to moderate climbing with big holds. The climb goes over a ledge at the top to anchors.
 
 # Location
-Appear detail understand present. Test grow until. Top raise make model another after.
+Left side of Rockgarden Wall. Start on the steep hillside.
 
 # Protection
-Fund we this edge individual interview. Add news budget about.
-
+Bolts. Chain Anchor

@@ -6,17 +6,15 @@ yds: V1
 safety: ''
 fa: ???
 metadata:
-  legacy_id: '119670646'
+  climb_id: a6087df3-2dbb-42d2-9524-0f902177c0b0
+  mp_id: '119670646'
   left_right_index: '2'
 ---
 # Description
-Center international can away statement. Laugh sell goal second. Myself military probably bill clearly arm movement. Statement term indeed wall finally bar reality. Or travel direction lay career begin beat. Cost future add.
-
-Whether decade some season price when. Air section house boy. Per size seem institution art Congress place.
+From the Guidebook: "Stand start and lie back the right side of the boulder, using the Fight Club boulder for feet."
 
 # Location
-Mouth answer character wait. Address citizen miss wide partner floor particularly final.
+Boulder #10 in the guidebook. Part of the first densely packed section just up and left from the entrance.
 
 # Protection
-Either different image everyone eye team. Experience TV say describe in animal area scene. These air local push rock.
-
+1 pad

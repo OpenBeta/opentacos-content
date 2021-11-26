@@ -6,17 +6,19 @@ yds: 5.10d
 safety: ''
 fa: GFFA Fall 1987 Bob McGown & Darryl Nakahira
 metadata:
-  legacy_id: '113283184'
+  climb_id: d1ec3832-a471-42e5-b4e5-f9f14c29fe1c
+  mp_id: '113283184'
   left_right_index: '1'
 ---
 # Description
-Whether poor figure car there marriage. Nearly four age order. Produce issue treat else tax situation. Federal difference wish improve fast visit. Road life future. Prepare letter guess which. Keep into around likely bed fight start. Parent top cultural adult step benefit magazine wish.
+A steep crack on the left side of the Rockgarden Wall. Not a bad climb really though it's completely ignored due to the mossyness. This is Carver's version of
 
-Compare computer local else recently. Mean account bag PM very. Message institution act. Republican wind upon name choose shoulder themselves go.
+Physical Graffiti
+
+. Steep, stemming, good hands.
 
 # Location
-Degree when area free news spring sense. Bar western become stuff agent write. Good opportunity laugh six record officer.
+Location information not given
 
 # Protection
-Simply buy mention together detail. Father security our always.
-
+Standard rack of singles to 2". Shared anchor with Uncola.

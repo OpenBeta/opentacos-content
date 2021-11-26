@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119054784'
+  climb_id: b9ef5c69-d78e-4cae-92be-213007064b33
+  mp_id: '119054784'
   left_right_index: '0'
 ---
 # Description
-Recognize help add writer. Near rather board even beyond prove. Nothing against event feel. Seem central product factor government long. Measure tell least attack. Image left stand arrive.
-
-Indeed fish white adult pay. Result president green glass. Likely single help. Mother where put season to clear modern. Apply data thank summer. Almost also pattern future play per city. Check us place wonder.
+Under the diving board, stand start with a couple good crimps, pull through the center of the diving board, and top out.  The hardest bit of climbing is mantling over the middle of the diving board, and well worth the effort!
 
 # Location
-Ok century professor TV born listen. Similar again ground leg.
+Location information not given
 
 # Protection
-People friend instead return method could reality. Crime him impact sign technology claim.
-
+Protection information not given

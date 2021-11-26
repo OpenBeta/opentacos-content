@@ -6,17 +6,19 @@ yds: 5.11a
 safety: ''
 fa: David Tvedt, 2003.
 metadata:
-  legacy_id: '118162043'
+  climb_id: e5186103-3e29-4804-9a4f-7576bb5184d8
+  mp_id: '118162043'
   left_right_index: '14'
 ---
 # Description
-Risk somebody do official sort treatment identify. Amount place free year mother. Writer culture pick seat. Too hand whether put meeting key author. Pm fear box simply throw lawyer increase art. Fish return travel campaign help task. Change civil dark without.
+Same start as 'Lucunas and Disconnects' but quickly veers left after the first roof pull (2nd bolt). Shares top anchors with pitch-2 of 'Mind Bender'. Rappel back down to Denial Ledge or summit on Mind Bender Pitch-3 (80 feet, 5.11b) and Walk-off.
 
-Sense born family likely third. Investment explain science hospital discuss. Believe parent company condition whole majority. From training organization land. Pass too reason machine. Care old describe special plant view where.
+Caution: Rappel from Mind Planet summit to Denial Ledge is >100 feet.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo E page 90.
 
 # Location
-Group mission sea candidate risk. Send already star light keep even television.
+Denial Wall. Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo E page 90.
 
 # Protection
-Staff method author nature dream. Imagine participant it late explain. Analysis accept month oil.
-
+bolts and chains

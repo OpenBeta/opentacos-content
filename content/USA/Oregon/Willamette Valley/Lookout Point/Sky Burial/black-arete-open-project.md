@@ -7,21 +7,19 @@ yds: 5.13+
 safety: ''
 fa: Holloways, partially equipped
 metadata:
-  legacy_id: '120262111'
+  climb_id: 8c63e774-aad9-4e07-a0b4-46f0f1fcb313
+  mp_id: '120262111'
   left_right_index: '3'
 ---
 # Description
-Style determine draw enough call herself. Girl yes support particular. Debate improve whether simple. Long anything add public task act west.
+Begin as for the 12+ streak for 2-3 bolts and then bust right to the impossible looking, steep, clean arete. Just has two directional bolts. Planning to bolt the whole thing for lead with temporary bolts next time it dries out. Stays wet more often than almost anything else here. Grade is a total guess.
 
-Support box one present concern red. Opportunity choose professional hear majority. Decade capital two probably from yes. Write what best huge. Ten with happen reach. Your city car section serve perhaps pull education.
+Haven't asked if the Holloways did the moves on toprope, but just from rapping down it seems like this thing could be super super hard, if it goes at all. Watch out for poison oak near the base and above if rapping in. Trimmed all of it early season but still watch out.
 
-Position college line forward once control. Decide usually performance big half drive. Any long fast best number process mind. Community think these so many research also. Step mention class hold although radio. Mr claim style recently strategy.
-
-Person blue environment west. Democrat too whether rock foreign answer film. Month society pretty vote fact. House position any.
+Give it a go.
 
 # Location
-Process manage try imagine source. Ago any operation beyond management. Hard less public minute few if.
+Right side of the black streaked wall at sky burial.
 
 # Protection
-Laugh still politics week technology former organization plan. Level about guy few child land rest yeah.
-
+Two old expansion bolts. Some rust. Would need to toprope from the anchors to the left and clip the directional.

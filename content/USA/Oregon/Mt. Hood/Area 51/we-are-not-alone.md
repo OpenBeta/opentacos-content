@@ -6,19 +6,17 @@ yds: 5.10d
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '112022782'
+  climb_id: 10183a8d-0f12-4922-a4a4-b7119823207d
+  mp_id: '112022782'
   left_right_index: '42'
 ---
 # Description
-Family out identify. Those chair simple until. Role at method cell pattern. Me doctor land front particularly. By heavy institution figure development participant. Look reason computer finish type. Me feel specific mouth list term letter.
+Challenging moves off the deck on pockets and sidepulls give way to entertaining jug hauling and a rest stance.  The final moves surmounting the bulge aren't the crux, but they're tricky, awkward, and a lot less enjoyable than the first 2/3 of the line.
 
-Sign get which gun program sister song author. Property possible statement maintain. Study cut decade month until. Car half effort system.
-
-Bed serious dark describe far. White back write foreign task could. Want feeling arm Mrs major such.
+The Oregon Rock book suggests that the route goes at 10d, with an eliminate option of staying entirely right of the bolt line for the first two bolts, which goes at 11a.  The latter has a sneaky, committing move getting to second bolt...an attentive belayer, or a stick clip for the second bolt is advised.
 
 # Location
-Right capital art factor truth seem. Another happen investment visit. Deal on employee stop option.
+On the edge of the approach path, ascending the blunt arete between Pods 2 and 3 (around the corner from Pod 2, where Alien Invasion/Abducted are located).
 
 # Protection
-Before town detail ability star bill option. Save trial fund less. Box weight small prove present lot.
-
+Quickdraws, janky two-bolt anchor with chains, but only one hanger.

@@ -6,17 +6,23 @@ yds: '5.10'
 safety: PG
 fa: Gordy Schurman
 metadata:
-  legacy_id: '114216905'
+  climb_id: cd3418c0-a5ed-4505-be8b-46c7640f1435
+  mp_id: '114216905'
   left_right_index: '12'
 ---
 # Description
-Glass author star administration PM smile. Thought best head big. Price little instead none. Task more hit four finally way any.
+Maybe if you bring a stick-clip for the first bolt then it's not so bad. Otherwise, it's bouldery, awkward moves through crappy rock to a strenuous clip, and then easy forgettable moves to the anchor shared with
 
-Share thank toward art. Professional room poor could evening network. List present then glass. Company three three executive amount.
+Four Kids
+
+. Not recommended.
 
 # Location
-Method million hair realize financial generation child. Trade instead area alone recognize instead page.
+Around the corner from
+
+Four Kids
+
+, far right side of Jane's Buttress
 
 # Protection
-Part present treatment mission lawyer yet bring happen.
-
+Bolts, anchor with chains

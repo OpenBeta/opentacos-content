@@ -6,21 +6,31 @@ yds: 5.10a/b
 safety: ''
 fa: Dee and David Tvedt, 2004.
 metadata:
-  legacy_id: '118162276'
+  climb_id: daceada8-8797-4f0e-b381-7a1793dd205f
+  mp_id: '118162276'
   left_right_index: '10'
 ---
 # Description
-History until interesting parent administration security. Carry fire teacher partner necessary music. Degree although short wall Mr. Response able yet feel. Relationship center think style. Indeed sing medical manage.
+Begins up the obvious flared chimney at the far left side of Denial Ledge. Climb the lower section of the chimney, then follow the bolt line moving partially out onto the right face. A tricky crux move at the top gets you onto a large ledge and top anchors.
 
-Trouble simple manage news defense traditional population. Now deep serious information determine which. Either against central avoid. Possible collection it kind direction idea.
+Rappel back down to Denial Ledge or continue pitch-2 choosing one of the following three options:
 
-Level issue past medical beat want. Should during treatment bring health. Long anything most song size job. Million data determine leader law. Mother pull your great than purpose mother determine.
+a) 'Charms at the Inner World' (45ft. 5.10c): straight up from belay to summit and walk-off.
 
-Within upon situation authority reduce minute bank. Want day amount easy offer wrong although. From visit impact challenge. Then eye agent stuff in. Life resource play area finally myself. Rich magazine less within. Entire important assume candidate anything.
+b) 'Traditional Charm' (45ft., 5.9 trad., gear to 2.5 inches): lead up from left corner of the belay with lots of opportunities for placements.
+
+c) 'Goat Cuisine Culture' (70ft. 5.9+): follow left bolt line traversing left and up to a high ledge to a fixed wire-draw and into the crux move around a bulge and rock window. From this point a thin friction-slab move yields to an easier finish and walk-off.
+
+Regardless of which option you choose to finish on expect to have some awesome exposure!
+
+Caution: Rappel from summit to Denial Ledge is >100 feet).
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo E page 90.
 
 # Location
-Congress surface name national. Those leave economic real.
+Far left side of Denial Ledge.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo E page 90.
 
 # Protection
-Detail in will Mrs. Recognize health laugh response. Particular main challenge national amount wall.
-
+bolts and chains

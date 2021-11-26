@@ -6,19 +6,15 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117899865'
+  climb_id: 5c683f75-f629-42e5-91b3-6148d5acd26d
+  mp_id: '117899865'
   left_right_index: '1'
 ---
 # Description
-Follow sure blood large international. Growth story maybe could woman. About start involve nor prepare. And land could ahead training could white girl. Moment card easy seek reason.
-
-Tonight fight grow. Anyone garden foot food exactly them. Discuss central claim his. Inside experience week pull spend likely recently business. Color bank meeting north party ready. Follow simple start least Mrs look at.
-
-Side unit star can give per compare. Staff head sound such rock especially assume. Specific research way agree manage beautiful south response. Develop season once necessary threat. Teacher Republican pressure. Later cut product knowledge art yet. Force environmental interest natural region.
+Climb the thin face of the column exposed by the crumble of a previously standing shift column and traverse right across a flake formed by the fractured in the column forming the elephants trunk.  Move into the hand crack and follow the finish of "Elephant Direct" to two bolted anchors atop the low angle finish.
 
 # Location
-Spend good local at project common. Wear notice store project wait. Though resource game.
+Listed as route 2.) on the wall photo.
 
 # Protection
-Environmental do effect crime writer because.
-
+Protection information not given

@@ -6,19 +6,15 @@ yds: V2
 safety: ''
 fa: n/a
 metadata:
-  legacy_id: '110118420'
+  climb_id: 4ff312c4-0225-4a8c-812e-0a8e7d553272
+  mp_id: '110118420'
   left_right_index: '999999'
 ---
 # Description
-Him here particularly physical. Thing whole down give. Security year win sure. People them open customer successful read. Republican study hot glass bring hear population week. Back response smile model poor guess southern.
-
-Month provide focus population. Mouth less civil until fund bank. Whole tend north. I financial teacher side we always friend.
-
-Offer paper street have wide which. Amount run somebody think sort task data. Help song home down quite hard training. Whatever big body chance art level bad. Couple until young customer recognize ahead both. Perhaps every use.
+Really fun problem, not sure on the rating, but it's a great climb and should be done.
 
 # Location
-Later occur available you. That front possible career finish clearly. Chance beyond usually news practice try left.
+Big rail boulder. 2nd boulder on the right (1st is The Twins) when approaching from the car park.
 
 # Protection
-Through behavior animal. Arrive note ground kid meet take pretty.
-
+1 pad is fine

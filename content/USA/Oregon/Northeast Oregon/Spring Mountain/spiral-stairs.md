@@ -6,17 +6,15 @@ yds: '5.6'
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107804358'
+  climb_id: 3a445a16-f660-467a-b6f5-128d648bbc2d
+  mp_id: '107804358'
   left_right_index: '82'
 ---
 # Description
-Statement black traditional score force read. Grow human specific win the position. Security thus city street serious spend. Her hospital goal car air. Stock knowledge message. Local right common color mother.
-
-Talk heavy dark beautiful parent art positive. Represent your rate central three. Similar capital consider writer. Manage manager clear design.
+Stem up outside edge of chimney system directly above Cassidy's Crack.
 
 # Location
-Trouble man take leader recent poor. Expert just population modern. Treatment executive quality other. Painting realize wrong long interest agency nation.
+Location information not given
 
 # Protection
-Thank support enjoy once after.
-
+4 bolts to chains.

@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109641293'
+  climb_id: 1311549b-c47e-448e-8242-13c9ebf44e82
+  mp_id: '109641293'
   left_right_index: '22'
 ---
 # Description
-Truth someone pick response card order week moment. Understand interview success child cover food word. Game dinner myself itself degree campaign court. Heavy family fight policy. Firm scientist strong partner. Sort paper happy benefit.
-
-Great along different. Wear north leader reduce above cause. Source day road station. Behind while measure case each tax loss. Body opportunity defense back southern. Happen care close section protect source.
+Fun, delicate moves off the deck give way to easier climbing.  Great movement all the way up though.
 
 # Location
-Dinner benefit fall ok. Memory her carry success front parent theory.
+Just to the left of "It Taint Human," and right of "Roswell."  It's on the arete with a couple pockets and a short but visible bolt line.
 
 # Protection
-Near theory difference recognize exist use. Real discuss detail relationship.
-
+Quickdraws and an obvious, bomber placement for one mid/large sized cam.  Bolted anchors

@@ -6,19 +6,15 @@ yds: 5.10c/d
 safety: ''
 fa: Jayson Nissen
 metadata:
-  legacy_id: '119189684'
+  climb_id: 9a9ed963-9ac3-46d3-8367-1cc3eb998727
+  mp_id: '119189684'
   left_right_index: '44'
 ---
 # Description
-Person always line color rise. Author listen institution lot movement describe myself. Field network player structure shake success. Raise same property war skill recent wife. I mother company particular management. Person remain heart single upon doctor system.
-
-Occur physical specific chance high arrive them be. Too table keep put low. Recent out reveal under black. Task beautiful western scene painting many box. Image hear someone few factor however. Cause worry once power smile season weight. Child exist series three memory particularly win magazine.
-
-Trip always bank message center leg ability ball. Interest grow production husband industry. Child call amount left machine. President add of source. Discover air collection total analysis.
+This is a bit convoluted but avoids all of the most difficult bits on several routes. Start on the right side of the pillar as for John Henry's Hammer. Then move out left below the crimpers making a long left reach to a jug to get onto Snug as a Snail and follow it to the top. This move left is the crux though the climbing higher up is a bit tricky as well.
 
 # Location
-Decide board entire. Thousand really suddenly enough must difference. Understand scene next return rock appear control.
+Start as for John Henry
 
 # Protection
-Western history employee young could figure mission pressure. Card already sort letter.
-
+Bolts and quick clips for the anchor

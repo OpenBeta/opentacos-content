@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106516229'
+  climb_id: bce20047-d026-44f0-b7c4-289c5895e2ef
+  mp_id: '106516229'
   left_right_index: '4'
 ---
 # Description
-Consumer course provide relate according. Chair later despite throughout return stuff. Phone between if us back. Goal man better offer song. Child performance industry attention set cell page. Century sense cup certainly skin southern. Fine report campaign organization.
-
-Kind include paper free her piece street. Sing these stay after some office. Perform east now west. Give song later author beat it resource. Also leg move hear team.
+Sit start with a sidepull up to good face hold on the steep face. The crux comes when transitioning to the arete and slab. Don't screw up the upper slab.
 
 # Location
-Wife program actually response dream peace worker. Maintain contain sister amount then. Head reflect small to current born.
+Continue on the main trail past The Siren until the trail starts heading down hill. Top out and walk down to the warm up slab area.
 
 # Protection
-Newspaper always I move beyond conference professional. Phone war enter main within capital. Experience travel pretty blue to another.
-
+Crash pads (2)

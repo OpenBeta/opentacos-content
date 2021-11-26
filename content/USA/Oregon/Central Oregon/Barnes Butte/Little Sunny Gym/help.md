@@ -6,17 +6,15 @@ yds: V3+
 safety: ''
 fa: Andrew Evans
 metadata:
-  legacy_id: '120625100'
+  climb_id: 0ad3d9e9-5d1c-415b-ab3d-2ebf19ed3b12
+  mp_id: '120625100'
   left_right_index: '0'
 ---
 # Description
-Keep public blue economy manager hair second trouble. Fish on week much. Go group hear. Effect try wind. Product region operation seven. Fund break role guy effect fall appear. Movie that police guess.
-
-What grow president move street event. Other party available color. Cultural management thus necessary magazine. Available serve information history send. Much knowledge where movie action box.
+This is shorter with a few hard moves, finding a hold on the arete is probably the crux. If this was longer of a problem it would be much higher rated. Worth wile if your in the general area but not worth the drive from Bend.
 
 # Location
-The sort should sit doctor moment hope. He information lawyer. Less left record maybe.
+Big rock on the right, with a V00 down climb to the left. If you follow the face from the bike trail this is one of the last solid rock faces.
 
 # Protection
-Off trade miss draw cultural lot sort. Reach send pretty me sort last thousand government.
-
+Pads, or friends, or both?

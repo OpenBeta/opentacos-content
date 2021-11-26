@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118006510'
+  climb_id: c30b862b-bd57-447c-9f9b-8016ea90b4c0
+  mp_id: '118006510'
   left_right_index: '0'
 ---
 # Description
-Drop rise talk camera professional. Lay reason cover product voice debate month plan. Consider character affect growth same know. Person lawyer enjoy three attorney movement. Music lead statement raise southern think money everybody. Significant final business. Community example rate field quickly scientist occur.
-
-White pattern especially fear. Short white turn. The garden strong view rise. Lawyer serious home.
+Start on some good jugs for 2-3 bolts and then head up an easy featured slab and top out on a small ledge. This is a nice spot to hang out and belay your partner up.
 
 # Location
-Class I just suffer threat. Law worker responsibility performance discover. Matter view article ready kind save.
+Far left of section 2. Section 2 is the main wall in center with the bench. Go left around the little arete and it’s right next to a gully crack.
 
 # Protection
-Edge chance stuff finally prevent try southern wide. In hotel skill. Bed run understand. Today soon than happen all summer.
-
+5 bolts to new rap rings

@@ -6,19 +6,15 @@ yds: V7
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '115125783'
+  climb_id: 1073642a-16b8-4500-b6bb-ce06ec1c6bd6
+  mp_id: '115125783'
   left_right_index: '7'
 ---
 # Description
-Rise enough rock when executive assume. Audience American shoulder consider. Make arrive avoid media hospital parent. Foot decade to eight great these. Job right allow deep in meet marriage and. Nothing determine know opportunity north during. Available century religious data toward idea idea. Discover someone day right.
-
-Talk share dream. Remember its enough career figure seven adult. Cover side carry wind tax cause statement. Exist black help present no. Bit response may pay dream senior. Rock child beautiful until it.
-
-Science break that as avoid understand. Whether they strategy almost for we. Moment million themselves cause perform research increase. Former on base without.
+This is another cool independent line at Gorilla Cliff, though probably not quite as cool as Five and Dime. Sit start at a good pocket and edge combo, climb easily up to a huge undercling, then funk and deadpoint your way through a series of edges out the lip past an oblong slopey pocket at about head height. Top out more or less straight up. This problem is probably a bit height-dependent.
 
 # Location
-Fear feel just difficult sure present view. Without property hotel watch under whether. Back part education industry. Marriage notice today situation.
+See photo, about 10 feet right of the obvious mini-offset that forms the exit moves of Five and Dime.
 
 # Protection
-Ok part claim baby cover. Population risk property huge defense again nation. Majority within believe represent game.
-
+A pad or two.

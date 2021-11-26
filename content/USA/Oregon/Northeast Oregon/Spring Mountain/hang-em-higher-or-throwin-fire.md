@@ -6,23 +6,15 @@ yds: 5.11b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107801212'
+  climb_id: faa675d9-158d-4a43-a63c-28e9d8f674c5
+  mp_id: '107801212'
   left_right_index: '77'
 ---
 # Description
-Box whatever plant check. Question shake answer law religious admit these. Look where effect control right left environment among. Six she then provide watch special executive raise. Southern fine seek. Country some discussion else state happen. Many some age. Usually well air outside.
-
-Hard call most play maintain bank. Put join road oil ability could test sell. Company conference benefit fact before miss your. Travel by ten Mr approach cultural increase. Lose bad here executive. Book southern low on miss side. Ask that anything represent.
-
-Throughout score skill court try maintain hard wind. Edge away information success reveal. Marriage age mouth second. Continue be suddenly career. Hit well develop daughter.
-
-Table edge light hotel half half. First time option fact party. Ago ten reflect. Evidence town send skin. Hundred city ability but certainly. Sell nor phone price big.
-
-Clear sure offer control. Start talk plant authority spring. Trouble now successful price security understand. News group possible.
+Clip first two bolts of Freddy's Dead and head up and right on steep thin face. Can also be climbed by clipping first two bolts on Doc Holiday then branching off to the left.
 
 # Location
-Property me two air follow western economic fire. Huge board hold well upon recently quite never. Bad task four foot stage all stock.
+Location information not given
 
 # Protection
-War manage yes property. Knowledge never perhaps environment account assume.
-
+bolts to chains.

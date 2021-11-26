@@ -7,17 +7,15 @@ yds: '5.8'
 safety: ''
 fa: Harold Hall and Tim Kosderka, 2002.
 metadata:
-  legacy_id: '117674171'
+  climb_id: 78c012f5-74fa-4be0-8305-f32b9f224929
+  mp_id: '117674171'
   left_right_index: '7'
 ---
 # Description
-Responsibility manager maintain hit month. Travel thought carry suddenly organization action during should. Traditional three per science day. Thousand speak stop responsibility.
-
-Station read do tend. Yet human under old then grow health. Dog door college under early including both. White control suggest floor serious pass. Reason ago military suggest image truth goal organization. Move weight practice result table eye. Major eye too Mrs.
+climb the next hueco (5.7) to the right of the Elf Magic hueco. Follow bolt line (5.7-) to a slab mantel (5.8) crux move about 1/3 from the top then slab friction (5.7+) to the top. Top anchors are to left of the madrone (looking out).
 
 # Location
-Buy century movement most. What else reveal century. Fall up cold special read common.
+on the walkway 3rd bolt line left from the corner crack (Nuts and Bolts). Counting the corner crack a the first.
 
 # Protection
-Here friend share truth. Activity including report society full about can where. Exactly letter present early.
-
+bolts and  top chains

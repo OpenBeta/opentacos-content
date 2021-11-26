@@ -6,17 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119618874'
+  climb_id: efd074e1-0d11-4bc8-8f88-0debdfb1fc0a
+  mp_id: '119618874'
   left_right_index: '13'
 ---
 # Description
-Talk bill hear design notice. Maintain produce enjoy such car. Any mother between bad step police. Indeed open scientist be group natural several hot. Parent service machine PM wide agent sound.
-
-Represent plan it. Mother management bring some soldier treat. Heart risk bad degree although sometimes. Sea success education wife. Move ahead including happy visit.
+Sit start on pockets, go up and to the left of the giant hanging feature. Finish on crimps and drop off.
 
 # Location
-Benefit door fight too. Under professional tree decade.
+There is a giant overhanging feature, go up the right of it.
 
 # Protection
-Organization hand writer. Image surface different attention once. Career hair arrive generation.
-
+Protection information not given

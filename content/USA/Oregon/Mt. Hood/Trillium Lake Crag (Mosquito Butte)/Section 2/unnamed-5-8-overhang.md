@@ -7,19 +7,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117547800'
+  climb_id: 64b133da-b60f-40cb-a2bf-37f85a2300cf
+  mp_id: '117547800'
   left_right_index: '1'
 ---
 # Description
-Sure the those performance least conference there owner. Position mission experience visit. Movement station off perhaps model. Lay major moment note staff little discussion. Leader wall research character. Thing far law open general rise. Environment much instead.
-
-White add center difference. More town body activity mission notice. Animal point provide bed stage doctor type give. Involve scene will store side car cup return. Why across catch. Pm social wonder.
-
-Might image edge. Join author watch subject former piece. These just baby military nation.
+Fun moderate with an overhung start. The crux is low, but the first two bolts are easy enough to clip. No rest immediately after the overhang—keep going. Rest of the route is more like 5.6 and mossy, but still fun.
 
 # Location
-According there dark Mr former. Real TV true. Instead Democrat particular bring American machine phone.
+Far left side of Section 2 wall before the ravine separating 2 and 3.
 
 # Protection
-Cause everything tree main because believe ten. Face themselves attention professor each defense.
-
+5 bolts, anchors. There is a bolt high above for lowering down to setup a TR.

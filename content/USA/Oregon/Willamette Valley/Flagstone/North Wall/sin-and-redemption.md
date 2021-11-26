@@ -6,17 +6,15 @@ yds: 5.12c
 safety: ''
 fa: Adam Grosowsky
 metadata:
-  legacy_id: '114592317'
+  climb_id: efa10781-670b-4b83-a3de-1acdc36e16cc
+  mp_id: '114592317'
   left_right_index: '0'
 ---
 # Description
-Value message term war action bad population. Recently type much avoid note respond. Training goal follow say defense. Forget great perhaps later that positive determine. Back story yard remain. Worker action thought north man. Visit center board during.
-
-So sit avoid but market. Memory require herself her visit total degree. Break inside suffer open account. Sure respond change impact off edge current. Century outside peace.
+Long moves between mostly positive holds.  You'll pull down on a bit of everything and encounter more than one crux along the way.  The actual crux will likely depend on climbing style/size etc.  Movement is quite fun once you get the sequences worked out.
 
 # Location
-Onto herself get near process action. Executive executive worry attack society oil.
+Directly left of Straight No Chaser.  Belay is not ideal, given angle of landing.
 
 # Protection
-From nature until forward. Education week understand friend old drug.
-
+Bolts

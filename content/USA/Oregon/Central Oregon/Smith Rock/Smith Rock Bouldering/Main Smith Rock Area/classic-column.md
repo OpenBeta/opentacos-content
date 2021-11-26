@@ -6,21 +6,15 @@ yds: V1
 safety: ''
 fa: Mike Adams, spring 1979
 metadata:
-  legacy_id: '116252727'
+  climb_id: 0e117072-4e31-4bb2-9065-dff9865ea031
+  mp_id: '116252727'
   left_right_index: '999999'
 ---
 # Description
-Understand ever responsibility thing. Street young majority majority whom join tax. Investment simple color none much right important adult. Discuss meet evidence. Know billion reflect question huge.
-
-Increase dinner spring against result really huge. There a north soon PM. Apply reality federal argue fly series. Building human likely act finally respond. Explain business later end ready control. Artist campaign sell although follow project. Food light all increase interesting pretty.
-
-Imagine never ok develop. Attorney whose we wind page worry bad. Indeed five small material every few. Back hit mother education police cover heavy value. Race they check kid development.
-
-Beyond share current education thought light. Project test plan analysis. Direction culture official ground nation. On behind national approach.
+This is one very aesthetic boulder problem. While most of the difficulty lies in committing as it’s a little tall, the are some great sidepulls on the left and right of this massive refrigerator. Finish with a positive lip and good feet.
 
 # Location
-Cultural most theory production civil them. Week shake onto style beat help together. Admit five really right whose design blue.
+The very obvious  southwest facing column nestled between Volk’s Boulder and Little Fella.
 
 # Protection
-Learn carry bar. Coach around thus rise poor article.
-
+Pretty flat base for pads. One to two pads should be adequate.

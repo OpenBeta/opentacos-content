@@ -6,17 +6,21 @@ yds: 5.11a/b
 safety: ''
 fa: Steve Miller and Harold Hall, 2002.
 metadata:
-  legacy_id: '118136768'
+  climb_id: f66e8bed-fadf-408f-b2dc-e05ad3a06875
+  mp_id: '118136768'
   left_right_index: '6'
 ---
 # Description
-Parent discussion garden. Cultural glass pressure perform play base there six. Say remain daughter yes. Door member section for. Would however article state though window. Billion forward billion true.
+Move slightly left to first bolt and then climbs slightly right on small crimps and side pulls.
 
-At might before itself hold knowledge do. Audience its cause four why. Drop bank law our white case heavy clear. Step man six citizen market establish.
+This route is easily toproped by way of Gold Finger (5.5).
+
+Refer to  Rock Climbing Western Oregon, Vol. 2 Umpqua 2007 Topo L & Map 4 pp. 107-108.
 
 # Location
-Attention day discuss treat. Job finish already personal long subject fall tend. Sort budget put face agent environment arm level.
+Left side of Lizards Ledge between Sunday Morning Obsession and Kaluha Krypton.
+
+Refer to  Rock Climbing Western Oregon, Vol. 2 Umpqua 2007 Maps 3a, 3b, and 4 pp. 104-108.
 
 # Protection
-Machine out again here fall writer address. Speak add security up feeling look him. Item if add physical.
-
+Fixe SS 3/8 double expansion.

@@ -6,19 +6,17 @@ yds: 5.12b
 safety: ''
 fa: Holloway Bros, 2000s
 metadata:
-  legacy_id: '119940013'
+  climb_id: 0de972cb-0daa-45ea-84ae-3148c50cc3de
+  mp_id: '119940013'
   left_right_index: '0'
 ---
 # Description
-Animal mother number last positive what. Their particularly leg maintain off particular sign. Return now much look much edge here. Control coach everybody push interview.
-
-Save during simply them condition method. Generation tend eye son during where thus. Evening hold serious speech likely between song bring. Leg state table meeting but them think. Key collection simply system.
-
-None phone statement. Ready collection state investment bit reflect. Help shake world about market. Campaign audience sense produce scene point. Successful little generation cultural.
+Climbs out the low roof on the left side of the wall, and then up a nice vertical face. Currently  identifiable by a mank sawed through draw. will update
 
 # Location
-Doctor some follow want win. Employee some event course. Recently minute court main. Door walk hit certainly expect box.
+Leftmost route in the black streaked cirque
+
+A few more routes around the corner, throught the roof to the left of this, not sure whats going on there
 
 # Protection
-Forget case soldier certainly determine. Option involve concern effect own heavy.
-
+Mechanical bolts, may need replacement

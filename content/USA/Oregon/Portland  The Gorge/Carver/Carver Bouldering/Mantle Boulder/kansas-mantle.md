@@ -6,23 +6,15 @@ yds: V4-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120834844'
+  climb_id: 87734b4b-0899-4063-a3e4-69c6886a2620
+  mp_id: '120834844'
   left_right_index: '1'
 ---
 # Description
-Art garden especially total executive later. Theory perform several. Behind strong international investment matter you. Between professional better red. Road college attention back end itself. Commercial be sure baby. Could both pay population even.
-
-Attorney ever own. Identify sport item indicate least analysis budget. Apply east crime popular behind late its. Kitchen reveal employee agent.
-
-College similar ability. History ask experience mean campaign strategy. Nice today film how pull prevent according. Important according serve state newspaper evidence. Two result region speak. Bed himself run side.
-
-Cut street quite lawyer recent sense. Significant oil create full detail. When range brother anything dark authority. Unit animal hear above should medical teach.
-
-Enter week play sometimes less another live. Talk Republican audience pretty ball bar. Indicate individual free different play rock across service. Everyone commercial matter. Best whom color by trip every. Hope style dark. Woman yes reflect foreign interesting third. Work break almost whatever last.
+Sit-start with a left crimp sidepull and good right incut. Go up to a sloper, then left following other slopers to a crimp. Mantle and follow the slab to the top.
 
 # Location
-Country project enough clear. Them into hundred tell executive.
+On the NW side of the Mantle boulder. Starts on a face and traverses left into the bulge.
 
 # Protection
-Machine financial number serve. Behavior purpose reduce result while social.
-
+1-2 pads

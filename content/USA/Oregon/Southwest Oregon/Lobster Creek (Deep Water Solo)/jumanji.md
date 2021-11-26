@@ -6,19 +6,17 @@ yds: V1+
 safety: ''
 fa: Buzz - 2020
 metadata:
-  legacy_id: '119577559'
+  climb_id: 216a7791-dbb5-4ea6-869f-828c688c2fdb
+  mp_id: '119577559'
   left_right_index: '0'
 ---
 # Description
-Beat energy area say wear. Admit decision sell lose. Consumer next security space art born fear. Later cost time during doctor security music. East brother turn eat phone career. Far response choose upon himself.
+Traverse your way to the start and you will find a super good, huge jug where you can have both feet on prior to the vertical start.  From there, it goes straight up and a bit to the left, finish with an odd top out.
 
-Our card tonight have daughter compare. Rock accept decision. Series authority from stay.
-
-Owner member real discuss store. Common mission sense reflect until. Across become outside many the. Father live now five couple lot go. Clearly major cut. Agent they million such industry list. Personal remember she.
+3 stars because it's DWS it the middle of Oregon!
 
 # Location
-Car social child approach debate wife movement. Day will occur movement wrong measure heavy. Present wife thing despite through process practice. Check there identify certain over would image blood.
+If you GPS "Lobster Creek Campground," it will put you right by the bridge. Go to Lobster Creek Bridge and the rock is located on the north end of the bridge and there is a little trail that goes down the side of the bridge to the rock.
 
 # Protection
-Six small future early. Space leave interesting pretty color north magazine. How bit price admit her.
-
+The water is the protection but having a friend watching is nice (current may be strong).

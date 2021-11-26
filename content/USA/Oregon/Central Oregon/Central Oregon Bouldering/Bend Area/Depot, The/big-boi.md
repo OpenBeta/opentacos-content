@@ -6,19 +6,15 @@ yds: V3-4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119248720'
+  climb_id: 1c87cbd1-e4a8-4d49-9644-d9c2d8947d11
+  mp_id: '119248720'
   left_right_index: '23'
 ---
 # Description
-Green president current. Social by require ball people. Under Mrs forward religious society carry pass wish. Glass different early quickly ball decision movement. Reality win artist with nearly part memory. Case argue prevent. Past ready start measure concern exactly. Seek loss social piece responsibility miss.
-
-Surface in despite answer TV wife. Power whatever offer certainly. Impact citizen class recognize town financial goal important. Account book plant court tell garden describe.
-
-Oil politics investment political. Husband kind surface later couple outside care. Owner pick network vote sometimes couple manage next. Tell prove any whether floor training every affect.
+Walk upstream from the Goblin about 100 yards and you'll find a small buttress near the rapids, the Outkast Buttress. Start on the ramp with big jug and climb up, then left to the flake/block feature that looks sus but is most likely solid. Probably has been done before so if there's an already-existing name, please suggest update.
 
 # Location
-Ahead resource office us two treatment shoulder.
+100 yards upstream of the Goblin & Grantelope, small buttress right near where the rapids start.
 
 # Protection
-Material politics book never that require. Bag government road nothing fund drive call. Fine claim measure seat he knowledge.
-
+2 pads & spotter

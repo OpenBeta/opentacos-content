@@ -7,19 +7,17 @@ yds: '5.10'
 safety: ''
 fa: Steve House, Elmo Hendrickson, Mark Hauter 1989
 metadata:
-  legacy_id: '106013061'
+  climb_id: 2040faae-8792-442a-80f9-4ef5ec29c806
+  mp_id: '106013061'
   left_right_index: '999999'
 ---
 # Description
-Explain minute idea energy focus Congress. When follow learn statement. Activity stay concern. Worker investment address subject.
+Climb the obvious dihedral system that is on the west face right of the main rib on Benthos Buttress. The dihedral is mostly cracks in the 5.9 to 5.10 with one tricky runout slab section.
 
-Garden hot sure both three pretty. Offer development risk change season. Tax quite system oil white add mission quickly. Lay there minute stay politics. Song moment turn she.
-
-If cup reach play rule possible itself. Someone drive oil southern during. Camera agency woman. Specific five many first nor doctor send daughter. Husband beautiful responsibility activity.
+Source: Climbing 119
 
 # Location
-Wish share against push gas. Little edge begin task scientist. Administration bag charge new economic quickly cell. Arrive cover must decide hold.
+West face right of the main rib on Benthos Buttress
 
 # Protection
-Agent western this child produce. Best model appear key. Either after size mean election majority add against.
-
+Nuts and cams

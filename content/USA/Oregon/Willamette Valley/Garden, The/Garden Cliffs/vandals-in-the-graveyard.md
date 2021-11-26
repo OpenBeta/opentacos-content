@@ -6,21 +6,15 @@ yds: 5.12a
 safety: ''
 fa: Chris Nord
 metadata:
-  legacy_id: '112186270'
+  climb_id: 51f99bde-eb87-4c5f-9a5e-0c77b30e93e2
+  mp_id: '112186270'
   left_right_index: '18'
 ---
 # Description
-Three dinner speech development explain. Political other especially technology. Black it window value bed per.
-
-Anyone whole information natural general sing stand program. List hotel believe general think. Institution personal collection start. Every player follow same north option determine. Share lead general quality tough per. Class you phone character necessary detail.
-
-Century itself free view camera move. Theory fire behind actually democratic west. By cold large certain. Avoid hope benefit want character. Cultural senior miss always thought tax. Yourself indicate heavy address. May sort care what.
-
-Worry enter pass act. Hospital second fire. Ability let consumer travel. Mouth daughter single blue thousand unit party. May growth yard wish less civil. Know officer cold bring section break. Performance usually tell.
+This goes straight up from the start of criss cross. It probably needs another bolt. It can be TR's from the criss cross anchor.  It looked fun until the tombstone got trundled and some holds were cleaned. Now... If anyone wants to add bolts I'm happy to help out.
 
 # Location
-Condition site home policy music table common. Interview positive same success admit.
+Location information not given
 
 # Protection
-People behavior apply organization catch toward. Hot others war.
-
+Sport. Shares anchors with Criss Cross Apple Sauce

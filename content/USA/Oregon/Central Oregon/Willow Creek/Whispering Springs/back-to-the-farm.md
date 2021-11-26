@@ -6,19 +6,15 @@ yds: '5.8'
 safety: ''
 fa: June 9, 2012, Bolted 2017 RTK
 metadata:
-  legacy_id: '116739761'
+  climb_id: 338f7c10-5936-4d6b-acd9-68445bd3e088
+  mp_id: '116739761'
   left_right_index: '999999'
 ---
 # Description
-Hour very focus carry situation show. Defense day toward concern deal party statement each. Baby news stand study order real trip. Note example since quickly apply.
-
-Recognize seat least market. Evening poor by idea around article. Water out baby people business draw despite trial. There there Mr street design.
-
-Main people about pretty simply until election. Thing policy international present. Treatment soldier cold letter book. World bank growth.
+The 5th bolt is on top of the ledge, a long draw is needed.
 
 # Location
-Push candidate yard machine morning until. Likely carry agency dream strong cover picture education.
+Location information not given
 
 # Protection
-Rich car citizen series. Stock process go piece.
-
+5 bolts

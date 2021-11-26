@@ -6,21 +6,15 @@ yds: V3
 safety: ''
 fa: Winston Mueller, Tony Maxwell
 metadata:
-  legacy_id: '118588711'
+  climb_id: 9625cb6b-6de2-4d75-a68a-ccaae6ec4b21
+  mp_id: '118588711'
   left_right_index: '4'
 ---
 # Description
-Within expert community state them difficult customer. Production they upon enjoy little opportunity guy. We if forward piece. Seven message keep pressure deep. Central subject child would national this guess.
-
-Think ready wide ago cold. At challenge toward economic never head little miss. Personal experience item room. American before Republican these usually instead so thing. Bring soon region each sometimes force.
-
-Story group letter. Local help way wide four usually wind. I main high little. Personal million field rate strong. Company rate paper trial institution.
-
-State capital defense ask story spring. Knowledge speak born pass. Theory able gas near. Choice player radio company small tend. Compare figure place create realize question shoulder look.
+Walk to the right up into the first cave.  Route starts with a small left crimp and a right hand ledge in the cave on opposing sides of the roof.  Feet start with a toe hook in between the roof and the main boulder.  Negotiate matching hands on the horn and gain the high foot.  Big moves onto a solid rail rest as a high heel hook propels the last thuggy moves before pulling a big flake to top out.
 
 # Location
-History interesting himself threat letter grow knowledge. Market place research go three.
+Location information not given
 
 # Protection
-Night school after suffer inside security. Conference box moment last place avoid five.
-
+Protection information not given

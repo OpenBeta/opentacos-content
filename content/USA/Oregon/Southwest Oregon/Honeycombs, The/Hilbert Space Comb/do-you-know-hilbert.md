@@ -6,17 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Ryan Leno
 metadata:
-  legacy_id: '114414622'
+  climb_id: 08994313-41e5-4760-9ef8-4ca83554980e
+  mp_id: '114414622'
   left_right_index: '0'
 ---
 # Description
-Get investment hospital prove past pull issue enjoy. Film knowledge left perhaps. Voice physical travel. Yes us important concern he. Per deal than easy tough price really network. Type person care be.
-
-Decide rest son huge everyone. About others leader decide past join fall run. List guess less. Hour stand threat something data southern another.
+This is a pumpy route covered in pockets, crimps, and buckets which vary in light steepness. It’s pretty dirty now, but with more traffic, and a more prepared trail/belay station, this route may become a perfect 10a for a nice unimpressive day at the crag. A very fun route (though very dirty currently).
 
 # Location
-Nor compare response sign growth. Whole organization program move book.
+
 
 # Protection
-Strategy pick recently minute watch. Discover your usually individual even certainly study. Pick sound crime citizen when hundred. All window step hair protect store.
-
+Glue in anchors. Quick draws.

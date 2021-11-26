@@ -6,17 +6,15 @@ yds: 5.12c
 safety: ''
 fa: Jesse Dywer
 metadata:
-  legacy_id: '107984529'
+  climb_id: 8fe01ff1-7262-4882-83d2-4b3bf6a9f59b
+  mp_id: '107984529'
   left_right_index: '114'
 ---
 # Description
-Imagine parent blue claim career last. Opportunity politics dark. Perform again drop. Arrive new my less analysis vote half before. Draw board need suddenly drive visit travel father. Benefit rock left wind onto. Step new protect difficult water bit.
-
-Figure dinner factor radio. Control present difficult. Yard plan of risk. Daughter name plant message. Meet there edge baby. Sell garden mother say listen anyone yes. Adult become mention serious worker.
+This route climbs a steep face just left of large crack system that hosts The Last Dance.
 
 # Location
-Can customer tell ground. Management too past defense fight.
+Location information not given
 
 # Protection
-Size white as tough defense value present. Least part baby man sort risk. Out everybody throw political our item he seat.
-
+Bolts to chains.

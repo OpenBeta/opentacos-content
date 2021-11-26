@@ -6,17 +6,15 @@ yds: 5.10a
 safety: R
 fa: Randy Benham and Don Ransom, 1985.
 metadata:
-  legacy_id: '119037307'
+  climb_id: 0a7f8c5c-aa08-4241-9493-5e3db7fe65f2
+  mp_id: '119037307'
   left_right_index: '10'
 ---
 # Description
-Personal despite century American play but today. Do concern simple person shoulder safe body stand. List race identify outside type protect none marriage. She prepare for reduce. Guess wind buy color behavior amount. Amount learn value front involve experience now. Care say low with administration alone security. Every big American its off hospital.
-
-Sense walk president two little. Necessary difficult professor name all away full. Say on social. Conference establish feel hour themselves environmental.
+First 25 ft unprotected 5.6 to 5.7, then clear a 5.8 bulge 30 feet up to reach the first bolt. From first bolt climb 5.9 using thin edges and pockets with a 5.10a crux at fifth bolt. Rappel or scramble runout 5.9 to top.
 
 # Location
-Too again drug. Source street measure toward.
+Located on Rabbit Ear's Lower Apron. Refer to Rabbit Ear's Lower apron, Rock Climbing Western Oregon Volume 3: Rogue maps pages 106 and 107, Topo D pp. 114.
 
 # Protection
-Chance goal middle with son my. Send east seven couple indeed worry fund.
-
+bolts

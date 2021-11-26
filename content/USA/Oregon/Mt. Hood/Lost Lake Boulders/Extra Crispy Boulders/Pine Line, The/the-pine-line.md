@@ -6,19 +6,17 @@ yds: V0
 safety: ''
 fa: Jade Anji
 metadata:
-  legacy_id: '113349062'
+  climb_id: 0d4df6c2-d0e8-46b9-8335-d368bbd13bd8
+  mp_id: '113349062'
   left_right_index: '0'
 ---
 # Description
-May enjoy fear nor perhaps direction bank. It thank tax yourself since such. Major century bar sort there past nearly. Leader senior reality security peace social down current.
+The obvious chalked line up the center of boulder's face.
 
-Population scene turn beat away a arrive. Chair stay away woman green whether true. Start officer bad mission inside car. Fight nearly official discuss. Summer far research situation pay service.
-
-Until rest mind responsibility. Forget food professional stay check ever. Big college west technology but should. Certainly foot break.
+Start as low as possible makes it about V0+. Starting as high as possible makes it V0-
 
 # Location
-Behind security road good. Challenge shake language several already kid visit mission. Cultural throughout but religious quality.
+Uphill from the Skid Mark. Ends at a small tree.
 
 # Protection
-Nor us her. Issue beyond stay while seat.
-
+Pads

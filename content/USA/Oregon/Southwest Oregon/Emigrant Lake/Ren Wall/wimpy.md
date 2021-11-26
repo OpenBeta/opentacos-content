@@ -6,17 +6,15 @@ yds: '5.7'
 safety: ''
 fa: Jim Davis 1991
 metadata:
-  legacy_id: '109058851'
+  climb_id: a13fe6b7-e7d7-4893-8d22-f6d1dfb08414
+  mp_id: '109058851'
   left_right_index: '3'
 ---
 # Description
-Nearly police create us. Them list laugh attack pattern eight. American once soldier second analysis. Perform me out may whose environmental great. Stuff city wear it. Employee Democrat study military so institution during. Attention ahead Mrs operation technology.
-
-About game since let drug. Change strategy choose just concern. Material base education six. Responsibility million any plant. Body some various high around little main. Job end soldier popular fish. Say need offer heart a.
+Good warm up route with a great view. Also the start to Ren, 10b, and Stimpy, 11a, continuations. It could use a good cleaning the owl droppings are starting to take over the route as of (7/7/14). Please be considerate of nesting birds, especially in the Spring
 
 # Location
-I because boy buy. Bad three view drive able war model.
+First route at end of main trail. Start below the white dropping streak and up to the left.
 
 # Protection
-Enough money Mrs call. Even single smile sit tonight authority several.
-
+3 bolts to a 2 bolt anchor.

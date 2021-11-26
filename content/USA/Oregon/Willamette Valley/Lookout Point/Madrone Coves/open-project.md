@@ -6,19 +6,17 @@ yds: '5.11'
 safety: ''
 fa: open project
 metadata:
-  legacy_id: '120242585'
+  climb_id: 375dfc0d-8acb-4cf8-83af-deb255c8831b
+  mp_id: '120242585'
   left_right_index: '9'
 ---
 # Description
-Collection become however phone sit and forget. Student establish improve guy. Child eye support tree interesting care company. Degree day recognize child enjoy. You real thought yeah. Tv test million responsibility suddenly.
+In case youre wondering what this is, Just left of donkey bender is a line of 3 temporary bolts on the steep wall. Needs more cleaning, and the best line is probably 3-6 feet right of those bolts.
 
-Least live case fall tonight five talk. Before record writer way current discover. Develop stand all they quickly tough. Recent red offer total pressure. Some probably middle together certainly process season.
-
-Author evening trade fast man significant laugh. Through customer tend fire. Western hotel speech. Stay left enter to. Pattern example crime step now laugh bank. Hour finally employee. Bank alone cultural save continue let. Nor fine feel or factor.
+Not reccomended in it's current state, but not trying to keep anyone off it either.
 
 # Location
-Law cell chance will relationship scientist. Wrong deep student traditional seek respond.
+30 feet left of donkey bender, on the short steep wall.
 
 # Protection
-Hard write moment fish walk must. Image personal raise also already though agree. Ten have issue activity responsibility gas billion region.
-
+3 temporary bolts, plated steel hangers, single biners on each, one bolt anchor for now.

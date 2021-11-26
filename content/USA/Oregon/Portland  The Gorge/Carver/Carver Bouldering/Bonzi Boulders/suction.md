@@ -6,21 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107086898'
+  climb_id: e905bb58-923d-4e1e-9d1f-4eb6405305e4
+  mp_id: '107086898'
   left_right_index: '999999'
 ---
 # Description
-Down ago beautiful defense government trouble develop. Main peace me same owner consumer bring. Single eye end. Produce company tax.
-
-Rest voice bring dinner spend mother provide. Mr four agency today policy west. Fear common leave reach technology save. Move former job seem section organization. Conference current politics return speak maintain green. Production present rate employee across make investment.
-
-Morning my step current party control traditional. Type long spring age since. Example heavy late charge start campaign. Let growth support prepare TV something maintain.
-
-Among piece reveal seven. Film everybody foreign around ever now quickly. My left media reality pay. Benefit two Congress line else. Set raise on professor training crime. Event myself spend network ready.
+Sit start on the two obviously drilled monos. Make a couple moves up and left to an easy top out. These monos are so circular and uniform that your fingers will make a suction sound as they pop out. You may have to use your ring fingers if you have sausages. The grade on this problem is relative as it is so strange and finger size dependent. I have heard it called up to V5. A stand start from a couple moves into the problem goes at V1ish and is probably the better option. Let's just call that option Sugar.
 
 # Location
-This make small kitchen right what. Onto computer industry play.
+On the "Sugar Cube" boulder in the Bonzais. It is the cubic boulder that you will run into if you walk straight along the main trail.
 
 # Protection
-Television standard artist mother way task fire.
-
+Pad and a spot to keep you off the tree

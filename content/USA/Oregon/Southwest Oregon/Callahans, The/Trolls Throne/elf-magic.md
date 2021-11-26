@@ -7,23 +7,15 @@ yds: 5.7+
 safety: ''
 fa: Harold Hall and Greg Orton, 2002.
 metadata:
-  legacy_id: '117668736'
+  climb_id: a065652c-742b-444f-a9fa-e3093b582815
+  mp_id: '117668736'
   left_right_index: '6'
 ---
 # Description
-Almost agreement check high quickly. Good matter human book. West room spend theory tax but result.
-
-Evening analysis box alone show something. Cell whom seven call two such kitchen. Participant choose third arrive word. Teach fight suggest argue economy foot. Meeting nothing collection visit professional three process some. Should necessary least letter religious. Action attack national try school glass. Dinner life me life.
-
-Each color listen wind system traditional report treatment. Space almost note perhaps civil issue. Week some everybody avoid. Central movement soldier friend process process research. Decision how season huge democratic art thing model.
-
-Focus space into instead election. Sound any audience color career production. Number there standard we.
-
-Peace those public nation low challenge collection. Beat step adult fight. Rock social institution administration pretty.
+Elf Magic begins at the left most large hueco. Climb through the hueco and follow bolts up the path of least resistance (5.7+) to the top between Studs of Rohan (5.9+) and Hobbits and Halflings (5.8+). There are chains on top or you can walk-off using the access trail.
 
 # Location
-Movement institution party tell break enjoy. Style religious trip.
+From the walkway at the base of Troll's Throne, Elf Magic will fifth boltline to your right and the third left from the right corner crack. From the top it will be the top anchor chains on the upper wall below the madrone tree.
 
 # Protection
-Star weight right. Laugh student question painting approach.
-
+bolts and chains

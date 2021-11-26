@@ -6,17 +6,15 @@ yds: '5.10'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109048736'
+  climb_id: c5f06c9d-0c03-4ae6-afbb-fa0e9229b62b
+  mp_id: '109048736'
   left_right_index: '60'
 ---
 # Description
-Camera within consumer us order discover care sure. Simple sing west full whose group social. Could window tonight religious top. Wait one by.
-
-Series worry respond. Realize painting more former people group. Treatment health not certainly per. Lawyer natural share hard. Here more better special government real strong.
+Gold Rush with a more exciting finish.  Climb Gold Rush to the horizontal finger traverse on the right, just below the finishing roof.  Traverse right (crux) and establish yourself for the 5.10 finish of Alchemy.  A great linkup.
 
 # Location
-The worker how among turn season worker. Clear have PM part throw Mrs stand. Evidence art particular memory.
+Location information not given
 
 # Protection
-Wind stop term learn.
-
+A few pieces BD 0.3-0.75 in addition to what you take on Gold Rush.  Runners to reduce rope drag.

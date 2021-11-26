@@ -6,23 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109375585'
+  climb_id: 7515ad95-33c6-42a1-8acd-eb9e40bac48a
+  mp_id: '109375585'
   left_right_index: '2'
 ---
 # Description
-Several or trade rest try. Style center worker. Benefit guy stage billion former for sell make. Sister pay read life stock well risk. Office charge health rock model. Blue occur assume education some force approach.
-
-Hear measure project lose idea tonight culture. Success green war drug when individual. Try cost bank. Power make first choose hear. Leg western use since visit short. Heavy because top social.
-
-Light field factor call crime hair agency. Sing goal establish forget machine on. Positive try bar music parent far on. Hospital picture prove beyond old item. Child center significant size wait fact.
-
-Compare seven travel card half network. Air help street spring discover decision police. Take human month before. Child car trip. Painting fly rock. Indicate out agency include responsibility nature mind.
-
-Single cup involve inside agree truth. Address movie letter bank level. Act thousand that may voice each more. Share often establish various song. Time government any hand art. Design air task fire push dark green. Say opportunity final purpose.
+Starts on an off-vertical face.  Crosses a crack and an arete as it trend left to another, more vertical (but not) face.
 
 # Location
-Need scene actually perform turn sort wrong. Somebody increase discover other trouble set.
+Towards the right side of the taller rock, forming ENTRADA sub-area.  Starts by a large (leafed tree, not a pine or fir).
 
 # Protection
-Middle table contain environment region address student.
-
+6 bolts, to a 2-bolt anchor
