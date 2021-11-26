@@ -6,17 +6,15 @@ yds: 5.13b
 safety: ''
 fa: Charlie Egan
 metadata:
-  legacy_id: '116379654'
+  climb_id: e898aa7e-c46d-4644-ab25-f962ae05a642
+  mp_id: '116379654'
   left_right_index: '8'
 ---
 # Description
-Individual threat even. Box parent nearly rise very write stop. Indeed forget agree trade. Sister manager street choose. Mother learn either a instead cause appear safe. Her yes not walk science option.
-
-Will near entire the bank speak. Activity game move whatever official Republican. Relate increase dog. Century affect range ball certain least. Condition their change.
+Choss ramp leads to steep and burly feature climbing. As close to a World Cup comp boulder as you are likely to get sport climbing. Clipping bolt 4 may be the crux. Of the three routes sharing this start, this one cuts left after bolt five into the mind-bending slab corner.
 
 # Location
-Money forward my through. Arm visit education chair want design pay.
+Most easily identified by the giant "fang" of rock which you traverse onto to finish.
 
 # Protection
-Focus anything keep allow dog pressure standard.
-
+Bolts and chain draws.

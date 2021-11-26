@@ -6,17 +6,15 @@ yds: V10
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110818946'
+  climb_id: d187ce32-cadf-4256-b4fe-e6ebd6c3557d
+  mp_id: '110818946'
   left_right_index: '2'
 ---
 # Description
-Imagine up school strategy none charge time. Answer move avoid there. A although every until buy respond. Red both exactly represent. Space look red. Reflect quickly girl.
-
-Fire eight matter how artist. Run determine likely possible western light responsibility. Sort everyone ok loss fight ability need. Price occur director deal tell service effect.
+Start on a good ledge and move up with hands on both sides of the large flake, avoiding the top lip of the boulder. Crux is different for different body types, depending on where you get stretched out from the starting heel hook.
 
 # Location
-Order degree economy only. Last science floor enter current. Cultural else whole marriage quality.
+Location information not given
 
 # Protection
-Quite because pretty food. Rich general reflect staff will.
-
+One crash pad

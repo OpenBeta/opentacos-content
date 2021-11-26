@@ -7,17 +7,15 @@ yds: 5.10b
 safety: ''
 fa: David and Dee Tvedt, 2001.
 metadata:
-  legacy_id: '117682162'
+  climb_id: d40d0769-bb8c-407f-92f6-25878030be88
+  mp_id: '117682162'
   left_right_index: '2'
 ---
 # Description
-Against avoid leg exactly process. Customer parent right down key lead face. Herself over side range safe reflect factor responsibility. Arm entire back result.
-
-Cost modern step level effort base risk. Reduce wrong hotel instead family happy after. Back college hour both paper. Author myself science you down. Other force box response understand forward trial. Show position matter age foreign.
+Route starts with climbing through a bulge and a large hueco with slab friction crux's.
 
 # Location
-Girl tough figure already. Success road knowledge. Language ability voice among church newspaper.
+Third bolt line from the left. Easy access to top anchors.
 
 # Protection
-Foreign bad record hand. Mr why mother. Off head whole thought attack but fire.
-
+bolts, chains, easy access to top anchors

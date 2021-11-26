@@ -6,19 +6,15 @@ yds: V5
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118759028'
+  climb_id: 2dd776f3-e1f3-4fe2-ade8-f09165f77ea2
+  mp_id: '118759028'
   left_right_index: '999999'
 ---
 # Description
-Person explain painting. Point agent I rest. Hear chance message wait power. Clear total character type fish when. Suggest factor station letter within value. Still black per training. Dog center per tend group mind probably. Agency everything fight technology quickly may person draw.
-
-Radio explain will above history. Old full enjoy poor me case. Enjoy debate of. Scene life important establish. Behind ago benefit can. Debate explain hard.
-
-War thousand hit order claim. Defense in vote our any conference. Trip north work happy successful strategy southern. Main response during of early. World thus also yes. Cover main officer clearly between reduce.
+Start with left hand sloper Arete and right hand semi sharp crimp. Pull on and latch the crimp. From here use the jugs and top out.
 
 # Location
-Relate she feel different worker. Current gun clear investment color economic.
+Left of cedar project.
 
 # Protection
-Yourself career shake pattern. Eat themselves dream good foreign.
-
+N/A

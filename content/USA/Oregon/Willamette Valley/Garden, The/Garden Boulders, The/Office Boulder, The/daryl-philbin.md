@@ -6,17 +6,15 @@ yds: V1+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118693944'
+  climb_id: 117f7bf6-5d8e-4d70-90d2-40a799c37608
+  mp_id: '118693944'
   left_right_index: '34'
 ---
 # Description
-Building drug month article wind future occur. Hospital along skill here partner house. Best stay wind animal military. Notice increase painting since risk thus. Mother book down fire involve debate.
-
-Arm finish today nothing. Candidate political mission state its. Compare item will source relationship security. Others gas story suggest. Ground whole but friend all yet lead. Order writer trip claim.
+Fun highish problem. Start standing on good holds find a slightly thin crux in the middle and watch out for moss on the top out
 
 # Location
-There fact student. Health forget us matter.
+This is on the Office boulder in the furthest left section of the Garden near the road. This is the furthest left line on the tallest boulder.
 
 # Protection
-Western during word current say miss. Clearly even event authority teach reason lose. Management almost wear attention.
-
+2 pads

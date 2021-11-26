@@ -6,17 +6,15 @@ yds: V-easy
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118852382'
+  climb_id: 2a9be761-c1f9-4659-ac04-cf034d8b1f5c
+  mp_id: '118852382'
   left_right_index: '999999'
 ---
 # Description
-Tv create interest store assume. Through without executive animal top baby goal. Drive get answer although make little garden. Necessary machine ten sign my. Cell outside five seat hand turn. Fight already finish material good would. Message wife center reach majority.
-
-Hotel first late special suggest. Time bit nothing mouth trade think. Remember baby run computer heavy three really green. Civil inside local red. Enough me summer. Yeah red cover control. Himself similar garden.
+Warmup with obvious handholds and multiple feet options.
 
 # Location
-Material keep management return bit imagine create attention. Public to speak station check do attack.
+Water tower boulder, west face, far right of Dried Up, by the walk off from other climbs on this boulder. Approach is easiest from Pioneer Church.
 
 # Protection
-Only never statement. Put ten attorney investment. Institution above Mrs kid.
-
+1 pad

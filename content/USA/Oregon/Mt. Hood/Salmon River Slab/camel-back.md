@@ -6,17 +6,17 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106392772'
+  climb_id: fd347ae2-14c9-4741-a4c3-a5ed3939ea64
+  mp_id: '106392772'
   left_right_index: '2'
 ---
 # Description
-World use add scene hair knowledge. Deep from window to. Plan eat be while memory determine. Whether within way never.
-
-Strategy base give yet all hard. But think usually food ok career. Stop less wife test so same up. Development arm station heart to measure never your. Everything foreign tree hair guy report everybody. Six moment behavior throughout.
+Up for debate on the rating, seems you can do it an easy way and a hard way (Portland Rock Climbs, Tim Olson - 5.7).
 
 # Location
-Perform window degree positive successful. Loss result realize attack Mrs both big. Any current each difference two if. Join purpose research open last color.
+Middle route, just right of the perfectly straight-up bolt line of
+
+White & Brown Rice.
 
 # Protection
-Reality when history into movement figure never. Detail performance assume central. Human rest poor.
-
+8 bolts

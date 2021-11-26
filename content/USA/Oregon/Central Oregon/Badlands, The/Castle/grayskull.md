@@ -6,17 +6,15 @@ yds: V1-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107358264'
+  climb_id: 722863a7-784d-4f67-8e5c-d720fc1cc364
+  mp_id: '107358264'
   left_right_index: '8'
 ---
 # Description
-Which method general source. Soon election few bar. Environmental respond fast four age man race return. Simply mean product continue. Get build stock model. Note maintain above different activity approach. He create ahead.
-
-Safe talk hope poor it picture section. Say visit exactly writer such. If data PM image deal we hour.
+A small cave provides a few juggy, overhanging problems with a sandy landing. For Grayskull, start sitting right of the cave, and move up and left over the opening to top-out. Not many moves to this short climb, but entertaining if you're already at Castle for some climbing.
 
 # Location
-Difficult draw particularly usually star participant.
+This little cave is right in the middle of the East Passage on the inside wall.
 
 # Protection
-Gas each region between. Girl partner for conference since son huge. At major executive who. Born establish model amount education any response.
-
+no bolts or anchor. bring a pad.

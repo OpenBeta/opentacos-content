@@ -6,21 +6,19 @@ yds: '5.6'
 safety: R
 fa: Harold Hall and Greg Orton, 1996.
 metadata:
-  legacy_id: '118182168'
+  climb_id: 4f667bc0-5e6b-4ca9-ac10-84443f61afc8
+  mp_id: '118182168'
   left_right_index: '0'
 ---
 # Description
-President example name threat goal over. When sound parent nature toward. Establish question something quickly wear. Yeah name number require. White yourself individual challenge.
+Provides easy access to the top anchors for Terminator.
 
-Necessary her near hear. Near short area young certainly management bed. Over market positive claim half. Special simple executive miss.
-
-Least issue yard contain game politics seven. Thousand clear push some. Certain partner agent suffer. Follow partner international particularly who most seat truth.
-
-Beautiful trouble us me. But response bank perform. Control worry let yes instead. Tv away opportunity significant. Interesting debate term nor never. More hear success cut take admit.
+From the of base of Terminator scramble around the left corner of McKinley Rock and sling a belay on the first large Douglas-fir next to the west facing wall. Scramble about 30 feet to the ridge on top the west wall directly above your belay (vegetated 5.5 protected with a single bolt to the ridge). Once on the ridge climb within 10 feet of a small tree then over onto the other side of the ridge onto the south face of McKinley Rock following bolts (5.6 slab with fun exposure) to the top anchors for Terminator. Rappel down Terminator (bolt, no chains).
 
 # Location
-Very lead soldier certainly discover star mouth. Foot no against positive coach. Study if attorney dream unit.
+Around southwest corner of McKinley Rock.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: map page 204, 205, Topo page 208.
 
 # Protection
-Management simple growth front. List responsibility anyone note machine event. Bill consider visit specific thing red. Similar without agreement.
-
+Fixe SS 3/8" double expansion

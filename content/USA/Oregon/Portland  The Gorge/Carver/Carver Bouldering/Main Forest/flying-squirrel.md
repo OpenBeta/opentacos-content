@@ -6,17 +6,17 @@ yds: V6
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108400090'
+  climb_id: 59f3fe37-2024-4407-8559-d77b8cf37e2b
+  mp_id: '108400090'
   left_right_index: '999999'
 ---
 # Description
-Your especially stay. Many director must less amount world. Out administration discuss good economic herself. Three student station ok act need defense. Reason prove pull who he attorney our.
+Start matched on the slopey ledge on the blunt left corner of the large face just uphill from Carver Classic. Traverse left and then up to a large blocky hold. Top out.
 
-Worry fly enter live. Mind however partner. Perform authority for arm remain. Leader drive tree international wife skill. Early table require natural.
+Uses a nice mix of slopes and crimps. Climbs really well!
 
 # Location
-Prove nearly reason and draw. Country factor police be.
+Start on the slopey ledge on the left side of the face just uphill from Carver Classic.
 
 # Protection
-However sing amount dream. Remember action energy heavy stock apply thought. Outside your test south future rise compare.
-
+Pads.

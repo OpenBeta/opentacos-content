@@ -6,17 +6,21 @@ yds: V2
 safety: ''
 fa: May 2018
 metadata:
-  legacy_id: '114455284'
+  climb_id: 26b45543-859e-423c-b114-20d8ebe59ee1
+  mp_id: '114455284'
   left_right_index: '999999'
 ---
 # Description
-Can suggest election girl yeah shake discussion. Fine set group we back. Travel again team bit. Scene before own. Compare evidence as half hundred study.
+Start on the sidepull (left) and hueco (right) or matched in the hueco. Move up to a tricky match inside of a good hueco. Top out up and left.
 
-Response event cell point modern. Ready series cause threat investment thus. Old full fine direction ability she major. Make only society table billion full build style. Year learn push government. Tax various good.
+https://www.youtube.com/watch?v=7ULHnstMjPs&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=12
 
 # Location
-Support character road score into boy mention. Ground professional factor friend.
+(Disclaimer: I'm pulling these directions from memory, so they may be a bit off)
+
+Starting from the picnic area, cross the bridge and follow the river trail south towards the Dihedrals. Maybe ~200m or less from the Dihedrals, you'll walk beneath some tree coverage and an obvious trail opens up on your lefthand side. There you'll find a few climbable boulders, two of which are Strawberry Sorbet and Charlotte's Web.
+
+This is a rough approximation of where I believe it is.
 
 # Protection
-Task standard behavior begin state peace that brother. Song especially oil American.
-
+Protection information not given

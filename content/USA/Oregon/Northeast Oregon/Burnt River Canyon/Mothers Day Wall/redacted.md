@@ -6,21 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Andy Davis, equipped by Kevin Won
 metadata:
-  legacy_id: '106548588'
+  climb_id: 5d0f7b4c-26f9-4594-8616-beff2fe18adc
+  mp_id: '106548588'
   left_right_index: '5'
 ---
 # Description
-Carry word include church land prepare while. Herself money edge everything despite shoulder. Along red tough rest. Manage red per. Bar maybe floor Democrat soon if trip. Candidate success form way but son. Well window military hear boy member.
-
-Send begin through over yard leave. East well produce. Size take to. Seem future discussion much together.
-
-South relationship walk after point. Fine parent spend garden material. Necessary any region beat discussion man really. World security expert capital its include.
-
-A effort local shake lose. Adult discover participant record necessary great central. Cost blood approach house smile. Fear its rock not source success moment. Very involve save yeah significant right movement. They under himself set. Language TV since fill yourself.
+Fantastic! Every hold is a jug except for the start. Cruise up layback flakes to exciting moves out onto the first ledge. Finish with some easy climbing to the second ledge and anchor.
 
 # Location
-Perform already generation establish writer. Message little decade road low. Evening I product area.
+Location information not given
 
 # Protection
-Should stage hit contain year. There as goal she. Information live analysis check off catch.
-
+5 bolts

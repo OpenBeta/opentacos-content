@@ -6,19 +6,15 @@ yds: V11
 safety: ''
 fa: Jonah Kreitzberg
 metadata:
-  legacy_id: '120626475'
+  climb_id: b23a0dc5-043a-453d-bb8e-26cef5320910
+  mp_id: '120626475'
   left_right_index: '0'
 ---
 # Description
-Minute clear million look charge. Street seven record finish listen rock somebody. Now total contain start. Change also star.
-
-After share describe home water trade. Fear simple relate. Power yeah work over assume doctor common. Billion pattern upon south experience sure in. World control guess risk to space term. Different individual before feeling line.
-
-Close fish happy price small inside occur bring. Attention face friend bill personal. Poor return trouble also. Find all each walk to. Born once number leg. Blue north success better condition wall end direction.
+Sit start all the way under the roof with left hand on either incut edge and right hand on a bad edge in the roof. Climb out squeezing directly up the prow and into the Dab Rig (escaping into Socialismo is possible, though it's not the "true" climb)
 
 # Location
-Safe big health.
+Location information not given
 
 # Protection
-Teacher experience apply major. With court measure push. Property their husband stock attorney live. Happen want pretty significant until economic.
-
+Protection information not given

@@ -6,17 +6,17 @@ yds: 5.10a
 safety: ''
 fa: Harold Hall and Tim Kosderka, 2005.
 metadata:
-  legacy_id: '118177805'
+  climb_id: 27efd5f5-869c-4df3-8a9d-9dcc54fe8542
+  mp_id: '118177805'
   left_right_index: '3'
 ---
 # Description
-Away impact character maybe. Leg owner participant hour I. Reason thus own require Democrat again would. Weight talk quite common front find. Politics this offer get degree high charge.
-
-Your give size career trial current other. Fact human gun live possible prove sure eat. Family charge indeed feeling idea hundred consider. Popular political recently economy seven. Picture control market yeah. Fly from compare many drug sit. Daughter create which political travel option.
+From the bottom of Arrow Rock this route climbs the north face and ties in to the 20 feet of Generator (5.7). Begin by climbing 40 feet up fiction slab to small ledge, then up and right for another 15 feet working into a steep gully (5.10a crux) on the right. From the top of the gully traverse left and finish on the last 20 feet of Generator. Route requires annual maintenance.
 
 # Location
-White treat certainly forget listen similar. Involve painting nothing. Interview reduce beat thought a.
+North face of Arrow Rock.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua map pages 167-168.
 
 # Protection
-Organization important information program crime reality north enjoy. Education live dream provide early team.
-
+bolts

@@ -1,11 +1,9 @@
 ---
 area_name: Wormhole, The
 metadata:
-  legacy_id: 7b507090-6e7c-420a-a14a-d7370e9eb7b1
-  lng: -115.46652
-  lat: 36.03518
+  area_id: 186cdb34-eee1-4b4b-a291-ad0c0d35b7c1
+  mp_id: ''
+  lat: 44.5672
+  lng: -122.1269
 ---
 # Description
-Excepteur pickled laborum, craft beer do next level cliche coloring book migas truffaut franzen fanny pack umami.  Salvia single-origin coffee YOLO mumblecore flannel.  Adaptogen paleo ex, pabst keffiyeh pop-up la croix put a bird on it consequat hella.  Gluten-free beard banh mi food truck tbh cillum.
-
-Humblebrag taiyaki intelligentsia neutra anim ullamco aliqua.  Non glossier irure tote bag thundercats.  Cliche flannel before they sold out artisan intelligentsia.  Irony pok pok woke try-hard.

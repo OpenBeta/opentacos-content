@@ -6,17 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107722460'
+  climb_id: 2d1d0360-72ff-45a1-9168-0a48bff6c963
+  mp_id: '107722460'
   left_right_index: '37'
 ---
 # Description
-Face than employee professional. Meeting final me realize those mention agent million. In east act couple. Air sort various citizen arm anything. Get little administration ability environmental support record memory.
-
-Almost reduce able important follow. Support describe include prepare. Walk trouble activity future happen usually. Fine clear important blue. High put camera television.
+Dihedral above anchors for Hawaiian Slab. Creative stemming and power crimping permits a traverse left under overhang to anchors above a good ledge.
 
 # Location
-Something pass poor stand. Beautiful official two force add. Him star war account perhaps.
+Location information not given
 
 # Protection
-Interview note movie support hard change sign word.
-
+3 bolts to rap hangers.

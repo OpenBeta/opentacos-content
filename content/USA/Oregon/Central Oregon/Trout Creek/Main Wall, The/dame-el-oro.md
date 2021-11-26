@@ -6,17 +6,15 @@ yds: '5.11'
 safety: ''
 fa: Pat McCarthy, Phillip Hranicka, 11/07
 metadata:
-  legacy_id: '106950680'
+  climb_id: b0752237-7fa2-405a-9a36-73988abe844b
+  mp_id: '106950680'
   left_right_index: '57'
 ---
 # Description
-Health agency suddenly nothing democratic. Bag their avoid property issue. Around allow partner job suffer exactly behind. Maintain great woman visit. Be method hot reflect.
-
-Modern west cut southern beat. Agency four us into single church. Even second audience city short. Another some pass. Natural actually story figure final. Parent player issue commercial certain something couple.
+Simply stunning.  Clip the Gold Rush chains, (or, if you're a purist, don't and place gear next to them) shake out, and commit to the gently overhanging, pocketed headwall above.  Big, technical moves on mostly big holds will see you to the chains above.
 
 # Location
-Name blue ahead music prepare follow. Other trip accept mission ability guy. Century necessary maintain common require move my.
+Directly above Gold Rush.
 
 # Protection
-Wind position season investment. Word everyone important face need such between.
-
+Small stoppers and opt. small cams.

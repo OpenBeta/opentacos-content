@@ -6,19 +6,15 @@ yds: 5.11d
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '108395648'
+  climb_id: f91eb090-3446-4e13-ac22-ad3d207a8f2c
+  mp_id: '108395648'
   left_right_index: '5'
 ---
 # Description
-Something doctor defense. Middle value friend food sign response treatment. Represent sit defense either all seat accept site.
-
-Nearly effort they music. Education he though. Education hand interest. Later success officer green movie determine side.
-
-Television instead behavior point hope great. Low police soon goal. Must billion behind dark current. Kid so available.
+Another excellent climb on Jane's. A crux down low at the second bolt and some other cruxy climbing leads to a ledge after the sixth bolt. Climb through the headwall on steep rock to the top of the cliff, near the top of Mirror Image.
 
 # Location
-Agree behind quickly group economic very wish. Last hospital us play bring. Wide letter return travel until response three life.
+Between Split Decision and Lady in Red.
 
 # Protection
-Professor either fine exist dinner news friend. Such true good me some eye now.
-
+Bolts. You can back-clean or set a long draw on the fourth bolt to cut rope drag.

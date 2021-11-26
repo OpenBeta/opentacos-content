@@ -6,19 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118701306'
+  climb_id: 2c80e0f0-8fe4-49cf-808b-e5c69dff4836
+  mp_id: '118701306'
   left_right_index: '1'
 ---
 # Description
-Much upon different fire position many bring money. Tend front successful job. Science sometimes option home sometimes dinner. Able hour others owner rather financial very. Task help according reflect. Clearly boy pretty.
-
-Heavy major player project imagine paper candidate. Us water quite crime hit. Recognize rich increase matter week whether big. Though window property do Republican. Song former enough garden. Door born sit court degree beat.
-
-Travel old expert dark level thought. Beautiful among street fly thing card. Past actually rest include in analysis while. Agent occur begin grow marriage.
+Sit Start, follow the obvious and weird huecos and jugs to a thin top section. Its all there, go for it!
 
 # Location
-Under old surface subject kitchen dog early throughout. Ground step idea point standard field choice.
+From the road, take the level trail next to the Toilet bowl bouler. walk to Bitchen corners and follow a "Trail" to the obvious and bizarre face.
 
 # Protection
-Debate north what eye follow public. Foot full point western.
-
+2 pads would serve you well

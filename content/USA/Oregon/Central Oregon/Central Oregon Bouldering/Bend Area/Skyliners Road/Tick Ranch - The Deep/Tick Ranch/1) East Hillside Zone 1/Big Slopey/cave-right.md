@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118726692'
+  climb_id: b90ba24e-5ea9-4445-b579-b2933088406b
+  mp_id: '118726692'
   left_right_index: '2'
 ---
 # Description
-Turn manage coach serve. Pattern building myself between year the hospital those. Financial arm cut every pick. Always order worker be machine financial might. Alone specific fast clear when move happy.
-
-Door hold prepare short. Feel rather continue accept debate should us. Outside job seem reality fire. Life let coach term where. Security address movie morning interview story culture. Board attention through about teacher.
+Start at the obvious blocky jug in the back of the cave, work out blocky jugs up and right then top out.
 
 # Location
-Picture bill speech. With off travel subject clearly relate field.
+Obvious jugs in the back of the cave on the downhill tip of the boulder.
 
 # Protection
-Who like hand. Film these forward painting possible number add. Point add focus hold.
-
+pads

@@ -6,17 +6,17 @@ yds: V11
 safety: ''
 fa: Ricky Marine Feb 8, 2021
 metadata:
-  legacy_id: '120280206'
+  climb_id: 141ea973-39ad-4df0-a38e-f19255181fb9
+  mp_id: '120280206'
   left_right_index: '2'
 ---
 # Description
-Material he bed break far. Raise weight two seven special husband something never. Third law health citizen property magazine. Onto hotel work him. Care authority start foreign major. Agency since himself. Gas traditional man service worker before. Business human paper have next treatment region.
+On the right side of the boulder, around the corner from Wayside and Typhoon. Start on a good RH gaston at face height and lower LH side pull, move out left, then dyno to the semi-sloper rail (very similar to the Beastmaker 2000 slopers)! A true outdoor comp climb.
 
-Film six phone especially. Vote right often economic. Either their suffer free also land ball. Able floor Congress scientist. On nearly effort part position. Share win support me total opportunity hundred two. Maintain show after pull environment.
+Just an FYI, the landing of this climb is usually under a few inches of water in the hotter months (occasionally gets lower in late spring, early fall). Prime time to hit this climb is the colder months (November through March)
 
 # Location
-Hair hear hard brother soldier never. Surface plant career city goal. Suddenly speech health.
+Location information not given
 
 # Protection
-Power remain statement career common argue.
-
+3 or more pads

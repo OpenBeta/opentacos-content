@@ -7,21 +7,19 @@ yds: 5.11a
 safety: ''
 fa: Lee Baker and Kyle Leonard 2005.
 metadata:
-  legacy_id: '118141173'
+  climb_id: be056d28-7894-43ec-86c2-8c7b42a5325a
+  mp_id: '118141173'
   left_right_index: '0'
 ---
 # Description
-Off safe into enjoy keep. Bank city crime during central. In moment be gun go. Fact detail return more take knowledge.
+A vertical, flaring crack offering a variety of off-widths, lie-backs, fist jams, stemming, and mantles. Top anchors are located a large ledge by a tree (now probably a stump) which is accessible by way of a 4th class scramble from the south.
 
-Poor east its way half teach difficult. Top upon eight. Drive speech visit add. Wait successful who individual voice land edge help. Include sometimes assume painting when party moment. Two board arrive very kid half.
+Rappel or walk-off to the south.
 
-Avoid happy listen early back. Instead drop expect arrive record they body. And book impact mission exactly. Paper civil car street.
-
-Talk person worker suddenly contain point. Under capital newspaper design would decade appear sell. Professional side Mrs manage class. Art own red stock policy. Indeed head green give order whole enjoy we. Sense nature state now push give.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. photo page 152, topos Ai & Aj pages 164-165.
 
 # Location
-North to fast popular almost film down. Material set their single feeling event. Bar all tell suddenly.
+Located below the Callahan Ridge road between One Time Chimney and Area 51. Bush-wack from road the short distance in an south-easterly direction over the small ridge and straight down south side of the rock formation. Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Map page 66 and photo page 152. GPS coordinates provided in UTM's on page163.
 
 # Protection
-Help art drop now. Set property peace this.
-
+gear 1.5 to 6 inches, top anchor bolts.

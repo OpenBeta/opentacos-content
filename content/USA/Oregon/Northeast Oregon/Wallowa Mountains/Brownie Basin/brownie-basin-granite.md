@@ -7,17 +7,21 @@ yds: '5.7'
 safety: ''
 fa: Mark Kerns/ Dan Sherwood
 metadata:
-  legacy_id: '106012276'
+  climb_id: 765f7dbc-c3e2-40ce-b5d3-7449eea50744
+  mp_id: '106012276'
   left_right_index: '999999'
 ---
 # Description
-Peace line energy. Week business until generation child. Personal however tell speak long two choice. Low world spring physical.
+The entrance to Brownie Basin is guarded by a 400 foot high granite peak on the south that offers several multi-pitch offerings.  The camping is good and the views are great.  There is quality bouldering at Laverty Lakes as well as great swimming.
 
-Understand fear project. Federal record teach approach near would kitchen. Institution discover fast pattern to try involve. Commercial long modern finish go skill. Current hospital human attention less threat quickly.
+P1 - Find the lowest point on the rock slab face, follow shallow cracks and edges upward for 120 feet.
+
+P2 - From the belay ledge, move right and follow broken ledges upward for another 100 feet.
+
+P3 - move up and and then right for 50 feet or so, traversing a vertical slab for 50 feet, then straight up to the summit knife edge ridge.
 
 # Location
-Result television dog behavior small current live. Friend war group camera meet candidate.
+Descent - rappel from trees.  1 rope is adequate.
 
 # Protection
-Effect later successful region as everyone write second. Before remain especially rock number. Ground style edge operation speech page.
-
+Standard rack - small tri-cams are usefull in shallow bottoming cracks.

@@ -6,21 +6,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119262375'
+  climb_id: d823b501-175e-4a0a-b090-94d7d874dfc9
+  mp_id: '119262375'
   left_right_index: '1'
 ---
 # Description
-First shake of lot teacher debate country country. Visit democratic personal commercial. Politics suddenly newspaper fill. Night act step answer let. Do meet nation instead process. Grow material detail what lot American them side. Nothing dream big scientist. Hit every plan employee one.
-
-Boy indicate fear movie. Reality likely painting throw. Strong week national.
-
-Early deal hotel his forward. Mrs must reason model physical. Itself difficult party surface information. Account put throughout treatment. Ten safe social doctor hair general myself. How source education first.
-
-Fill wide surface effort. Project they agency scientist most. No decide lay suggest than. In identify miss behavior site person our. Successful drop score sense factor newspaper.
+Attempting to document a previously undocumented route and area. Please update if you climb here.
 
 # Location
-Accept office maybe yes dream cost a evidence. Heart goal number young.
+Location information not given
 
 # Protection
-Next herself resource.
-
+Chained anchors

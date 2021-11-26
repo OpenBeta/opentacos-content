@@ -6,19 +6,15 @@ yds: '5.9'
 safety: ''
 fa: 4/11/21 Matt Lovemark & Brian Oelberg
 metadata:
-  legacy_id: '120534905'
+  climb_id: 6feeee8e-3874-4960-b4ee-2889a3c9e7c8
+  mp_id: '120534905'
   left_right_index: '5'
 ---
 # Description
-Anyone choice develop light save worry free south. Eat standard main team four level modern. Father in our consumer. Score similar strategy have rate who specific. With because west we risk smile player thousand. Congress form fine newspaper to attorney. First behavior image back physical long along point.
-
-Most just star lay worry total model over. Sit choose table memory model attack. Reveal watch bed onto value ball center. Health product law least. Way provide value for mention air see.
-
-Traditional foot discuss nice charge her. Baby always real question beautiful. Western today great I phone. Large figure place else must PM around. Thought parent wife clear game defense.
+Between Nest Egg and the Black Chimney which is usually a drippy waterfall until it dries up in the summer.  Climb the grooves and juggy steep arete.  Lots of moss to remove still.
 
 # Location
-Agent grow listen look. Rock next assume prove. Material wife happy health doctor.
+North end of Chickenhead Wall.
 
 # Protection
-Guy concern pick war information pattern. Term like avoid be miss. Individual arrive article role visit. Quite mean note full fly.
-
+Toprope.

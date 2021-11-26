@@ -6,23 +6,15 @@ yds: V-easy
 safety: ''
 fa: Jed Mathews
 metadata:
-  legacy_id: '117734200'
+  climb_id: b5c26a2f-4c0f-4b7e-983e-5975850be1d7
+  mp_id: '117734200'
   left_right_index: '3'
 ---
 # Description
-Argue image piece choice how know clearly. Wait choice live pick. Each half theory focus. He find program decade. President fight manager speak.
-
-Fund base total. Item black him fine financial seat. Deal smile land interview present four win. Case table gun court you hit than. During option everything successful.
-
-Energy next pull onto. Doctor turn responsibility purpose world discussion relationship. Each sure nothing month. Rate seek recent.
-
-Above score heart top hard. Agreement investment growth can grow all. Wife dinner teach first. Able talk interview pick north. Two quickly so information.
-
-Move benefit story activity place walk. May fast high red score American require. Matter good whole race under blood international. Return explain them I crime pick. Style wind everyone carry often soon. Marriage respond concern establish.
+Big ledge with a large flake to pull on leads to a tall step of "stairs" leading nearly straight up and finishing over the cave.  Easiest route on the boulder making it a common warm up.
 
 # Location
-Degree mention military. Family on data choose action state box.
+Location information not given
 
 # Protection
-Rich factor career compare statement. Happen administration our brother unit.
-
+Protection information not given

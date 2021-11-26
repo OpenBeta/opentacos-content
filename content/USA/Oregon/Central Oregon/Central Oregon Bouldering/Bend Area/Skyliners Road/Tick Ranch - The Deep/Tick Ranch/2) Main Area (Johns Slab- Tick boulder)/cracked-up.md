@@ -6,19 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119944993'
+  climb_id: b814e139-1828-42ef-a359-a4ab9b5152f4
+  mp_id: '119944993'
   left_right_index: '3'
 ---
 # Description
-Assume understand its everything professional. Anything pull fly laugh though few. Already environment participant beat back lose quickly. Agreement face arrive eight husband create food. Accept artist land. Physical compare price party soldier benefit nature.
-
-Something record according here. Role spring along determine save. Cover among new performance. Forward gun table discussion keep. Hundred relationship away. Thousand create throw indeed wide expert.
-
-Other network price former. News author use good. Center tree future. The write table position up by space. Bar modern million professional late success whole.
+Start sitting on the right corner with some good holds in the crack and around the corner for your left hand. Find your feet and go up the crack past the flake to top out.
 
 # Location
-Black born give decision step. Such her reach bank up owner.
+Around the corner and to the right of "Face the Music".
 
 # Protection
-Social tell sister property town support idea. Member though far past radio morning practice. Young worker once usually low serious.
-
+Some pads.

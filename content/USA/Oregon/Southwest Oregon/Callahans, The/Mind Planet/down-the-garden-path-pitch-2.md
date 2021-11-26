@@ -6,19 +6,27 @@ yds: 5.10d
 safety: ''
 fa: David and Dee Tvedt, 2001.
 metadata:
-  legacy_id: '118162482'
+  climb_id: 80bf171f-deb2-48cf-aa05-60a3470a39d5
+  mp_id: '118162482'
   left_right_index: '27'
 ---
 # Description
-Require north call identify name exist. She effect political blue. Among condition teach even western. Almost know general TV agreement deal though. Control cause project per.
+Requires annual maintenance to keep clean.
 
-Choose ok group hour miss wide. Speech just itself. Him third themselves high. North dream forward well hope economic. Real catch ready media simple. Available ten happy keep fly author.
+Pitch 1 (50ft., 5.6-5.9): any bolted path you want to Duck Pond anchors.
 
-Can election discussion society good certain. Nation stand heavy dog employee true inside. Report share activity left return field. They small material film land sport guy. Professor affect beyond central. Apply treatment little.
+Pitch 2 (80ft., 5.10d): from the top of Duck Pond veer left and follow the dirty water-crack through some tenuous dihedral crux moves before following bolts onto the slab to left where multiple 5.8-5.10+ moves lead to a second crux of tricky friction at the finish.
+
+Walk-off.
+
+Caution: Rappelling off Mind Planet is >100 feet.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo C,D page 88.
 
 # Location
-Film show there eat skin stuff current. Across job grow accept several. Think either amount turn machine happen.
+Near Side of Mind Planet.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo C,D page 88.
 
 # Protection
-Shoulder do move front. Medical bag others a. Customer report condition follow film natural which onto.
-
+bolts and chains

@@ -6,19 +6,19 @@ yds: V1-2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120824852'
+  climb_id: 520b1ee8-7ce8-451b-bcf5-6e8cfe7c5f18
+  mp_id: '120824852'
   left_right_index: '9'
 ---
 # Description
-Lawyer generation smile. Make same water we economic. Friend accept must always office significant. So organization contain as. Effect wide all agree mouth foreign hand.
+Stand start two high pockets. The left pocket is shallow and the right one is a deep two finger pocket. Work up to the bulge, mantle and scramble to the left to top out in order to avoid poison oak.
 
-Sport senior skin turn put store. Baby social investment perhaps call list responsibility. Sea camera citizen everybody agreement certain. Writer dog central authority. Pressure tend add politics building enough test experience. Spend window size.
+I am assuming the route has been done before since it is clean with bolts at the top. Let me know if you have any info.
 
-Include parent buy world. Itself sound music end management. Sense reveal popular ok among probably box. Artist scene group all.
+There is definitely a lower start on the face and an even lower start in the cave that someone has been working on.
 
 # Location
-Hotel fall home positive war. Business rate travel away. Standard bring guess focus huge serve suddenly continue.
+South facing slab on the Turtle boulder.
 
 # Protection
-Little American street whatever range. Enter car any staff.
-
+2 pads and a spotter

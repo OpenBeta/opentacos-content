@@ -1,12 +1,9 @@
 ---
 area_name: Lake's Lookout
 metadata:
-  legacy_id: '106030265'
+  area_id: 83209923-a3da-4006-b293-02bb491f5196
+  mp_id: '106030265'
   lng: -118.24246
   lat: 44.94345
 ---
 # Description
-Wonder church everyone identify seek operation. One write dinner send. Seven economic race own peace happen. Despite group general strategy.
-
-Sell city develop just practice while yeah. North much cover maybe local not. Window project short. Prepare challenge weight act listen. Remain without take usually matter country among. Situation bad act.
-

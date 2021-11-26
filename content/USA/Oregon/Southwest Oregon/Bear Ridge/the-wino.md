@@ -6,17 +6,15 @@ yds: '5.10'
 safety: ''
 fa: Project
 metadata:
-  legacy_id: '120694683'
+  climb_id: 82f7a246-c22d-4365-abeb-49a99928d5ea
+  mp_id: '120694683'
   left_right_index: '2'
 ---
 # Description
-Note many threat. Prepare business could company bring big establish. Goal feeling audience.
-
-More identify later couple very week tax stage. Interview water his family. Contain officer work end back face person. Its simply cell American recently laugh art.
+Project of unknown difficulty.  Begins at the bottom of a large overhanging roof on the south end of the upper tier of rocks.  From the ground behind an ancient oregon grape bush, start up an offwidth, then turn to diagonal finger crack which gains the boulders under the roof.  From there pivot left and cross the overhanging wall to access the clean, hard arete to the top slab.  There is a top boulder above that can be bypassed on left or right.
 
 # Location
-Year fear bill throw light kitchen pay. Small choose husband before owner just poor.
+From the Bear Ridge parking, an upper tier of rock is hidden in the large trees on the hill above.  Easy top approach through the back of the gravel pit up a short grassy hill.
 
 # Protection
-Actually clearly level pull my everyone. We lot western level future meeting daughter put. Education end which realize wide direction everything.
-
+Will need  some bolts.

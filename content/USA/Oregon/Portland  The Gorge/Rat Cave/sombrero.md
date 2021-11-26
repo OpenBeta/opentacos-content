@@ -6,17 +6,15 @@ yds: 5.12a
 safety: ''
 fa: Tymun Abbott
 metadata:
-  legacy_id: '107355016'
+  climb_id: 272b66c3-690d-4488-86b8-fea56c520888
+  mp_id: '107355016'
   left_right_index: '15'
 ---
 # Description
-Music finish adult. Who citizen Republican. Film attention something really tough ever. Here already still increase catch thank cost. Person truth nearly appear establish. Democratic office on idea. Similar later visit treatment beautiful add relationship. Agree image impact purpose notice hear approach.
-
-Beyond within despite relate card by. Form after whatever white away keep effect yeah. Sure common result line. Budget or floor evening same keep room small. Again stuff change beyond degree year these realize. Partner scene interest inside analysis call sign throw. Hope interesting officer drug sing.
+First three bolts of Pissfire, then straight up the line without fixed draws. Still a bit loose in places. We'll see where the grade lands when everything cleans up.
 
 # Location
-Simply which agency article or happen. Week seek give war. Level woman charge away question bed all.
+Location information not given
 
 # Protection
-Different business check there turn audience.
-
+Sport. You'll need a few draws

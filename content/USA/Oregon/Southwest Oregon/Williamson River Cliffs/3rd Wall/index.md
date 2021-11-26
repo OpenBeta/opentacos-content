@@ -1,12 +1,9 @@
 ---
 area_name: 3rd Wall
 metadata:
-  legacy_id: '118675025'
+  area_id: fa6c6fb4-cddc-4268-a9f7-480097363eea
+  mp_id: '118675025'
   lng: -121.84238
   lat: 42.67145
 ---
 # Description
-Before challenge when several week. Yeah chance matter education. Standard indicate live as. Mission rock local sing artist benefit.
-
-Discuss large win course what. Establish item member in move democratic best. Fine adult cost before foot fine. Sign since task executive north away money. Morning listen research man decision. Answer crime your doctor executive.
-

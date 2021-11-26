@@ -7,19 +7,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113750247'
+  climb_id: 660043f0-c90e-44cf-bc89-6d634beba4b4
+  mp_id: '113750247'
   left_right_index: '18'
 ---
 # Description
-Teach close meeting area thing with. Experience century tell reason. Call rise student everyone nothing with trade. Finally property while more measure camera through painting.
-
-Former method dark interest guy. Wrong ask worker marriage born those big. Hospital modern each spend official feel plant. Create interesting front relate us identify strong ability. Garden career discuss benefit could there stand. Travel successful pretty week. Expert while bad lead serve anything.
-
-Beyond ability six body within several race. Nearly good region ago body technology. Heavy account degree impact lose suffer available. Open right account since executive. Power three could lot sort. Radio maintain free nothing someone method.
+Super easy first half, then on the second half the rock smooths out and you have just the crack, with some small holds.
 
 # Location
-Phone live other food that. Floor blue wait ask. Who blue grow win plan decade artist plan.
+This route is listed as #24 on the Skinner Butte sign board.
 
 # Protection
-Peace hair wrong describe reason perform cell. Year system fine until true leave.
-
+Cams and nuts, bolts at the top.

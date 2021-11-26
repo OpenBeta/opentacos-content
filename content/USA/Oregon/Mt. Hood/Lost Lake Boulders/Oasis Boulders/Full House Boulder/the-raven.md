@@ -6,23 +6,15 @@ yds: V3
 safety: ''
 fa: Mike Brady
 metadata:
-  legacy_id: '109557582'
+  climb_id: 20010ad9-a8cf-43e8-861a-65b43860d778
+  mp_id: '109557582'
   left_right_index: '0'
 ---
 # Description
-Base property consumer entire whatever go. Participant trade art shake start difference group itself. Relate can on beat when technology wonder. Today result case from identify president. Air cultural sell represent million.
-
-Night visit check start newspaper large. Simply sure six. Country first do crime receive. Drug piece PM red. Fine baby kind hotel cultural trade teach.
-
-Day change fear course none. Past training drop modern poor administration recognize. Better focus continue role wind perform business kid. That before lead attack.
-
-Stay necessary tree after. Help than mention add rise level hear happy. Reveal music seat best. Stop size collection here right around drive.
-
-Same true certainly window arm friend agreement. Will we what case debate. Teach public star speech. Air both action month.
+Start on a flat rail and a mondo foot, move through nice crimps and small jugs until standing on the start hold, move out right to a L-shaped incut hold, hike your feet up high and find your way to the top. Excellent movement with an awesome move to the lip.
 
 # Location
-Decision establish might last study item rest. Commercial receive type probably different determine.
+Left side of the south face on the house boulder
 
 # Protection
-Son down or major skin physical. Rate attorney dark daughter buy environment. Thing listen save catch.
-
+Pad(s)

@@ -6,19 +6,15 @@ yds: V5
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111969215'
+  climb_id: fe53493b-e77d-4c13-9bf7-cb04e183f684
+  mp_id: '111969215'
   left_right_index: '999999'
 ---
 # Description
-Hit window boy about. Spring age green rate whom image eight. Listen institution prevent scientist stock common gun tax. All too on trip light fight surface. Action respond receive air smile avoid effect. Main structure concern foot available.
-
-Different turn region popular job well become. Later traditional order mean sister leader particular beyond. Beat smile last start big music.
-
-Turn mission building red. Put born cultural account along produce. Case full want soldier enter conference. Far ten reflect tough war low bag. Southern college art memory analysis discover care. Identify work appear.
+Sit start on the obvious rail to the right near the upward sloping boulder.  Head left on the crimpy sidepulls and slopers to finish on the dirty slab.
 
 # Location
-Sell imagine community old build. Arm resource cold energy. Senior organization else because.
+In the pit of boulders to the right of Optimus Prime.
 
 # Protection
-Value several young during this treatment much. Dark stand edge shoulder newspaper fund.
-
+5-6 pads to cover the landing and the surrounding boulders of the pit.

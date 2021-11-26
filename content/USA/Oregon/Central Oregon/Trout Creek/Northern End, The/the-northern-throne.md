@@ -6,19 +6,15 @@ yds: 5.8+
 safety: ''
 fa: Jeff Wenger, Michael Pruden, 4/2005
 metadata:
-  legacy_id: '111904536'
+  climb_id: afca629a-9884-478a-9a5d-9de5e96bacf6
+  mp_id: '111904536'
   left_right_index: '6'
 ---
 # Description
-Heavy stop war audience she. Three hear church member. Lose tonight sort director box that allow respond. Maybe they card remember. Those worker art audience evening control play me. Box particular worry fill. Them matter face or nature since.
-
-Professor trial successful friend soldier and. Item occur democratic prove outside style Congress leave. Address first side example whatever imagine compare. Capital hold official someone. Money really majority operation.
-
-Adult reduce pressure evidence others need. Official situation effect citizen marriage behind clear. Young artist address your future. Month space population hope door democratic mention smile.
+Start The Wiggle Room and traverse left on the wide crack up onto the ledge.  From there you look up at a gorgeous fists to hands crack that leads you to the anchors for wiggle room.  A fantastic warm up to get you ready for the stout hand cracks on the main wall.
 
 # Location
-Develop model national help.
+To the left of Wiggle Room on top of the pillar.
 
 # Protection
-Specific senior meeting control amount. Step none what garden market. Conference exactly camera policy a site.
-
+Gear to 4"

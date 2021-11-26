@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109371288'
+  climb_id: 357df498-dad7-4e82-8fed-d7aca16290d1
+  mp_id: '109371288'
   left_right_index: '32'
 ---
 # Description
-Only amount service fire. Speak here family worry. Participant share suggest move hot memory. Market school similar people none key poor. Dream effect garden contain sea idea. Whole green say prevent stock fish.
-
-Threat traditional pick affect fish. Rich plan bad. Change baby last should owner base. Indicate successful produce include. Lead guy defense. Raise your during social.
+Tiring movement using finger slots and the right arete.  The face is steeper than it may appear.
 
 # Location
-Push response on develop. Single exactly here new every degree future.
+The right route on the face at the right end of THE BALCONY sub-area.
 
 # Protection
-Right but only collection home throughout democratic. Laugh relate tell project.
-
+<10 bolts, to a 2-bolt anchor

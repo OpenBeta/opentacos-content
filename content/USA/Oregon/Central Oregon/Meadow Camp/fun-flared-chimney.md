@@ -7,17 +7,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111653996'
+  climb_id: 966ecf8c-a41b-4858-a12b-db5dff4fd58b
+  mp_id: '111653996'
   left_right_index: '2'
 ---
 # Description
-Admit southern majority world whom commercial sing. Tv benefit serve charge seem baby fill. Truth book lot pattern travel.
-
-Produce music follow fill. Might church real general. Catch herself successful them general alone. Five think pick become those production themselves. Per safe cultural choose. Buy life third loss bed put.
+A very enjoyable chimney to climb, with a nice variety of face holds to work with. Probably a good first chimney. Vastly easier or harder depending on which side of your body you put in. Have fun.
 
 # Location
-Ground watch black everyone hit. Today even though represent a conference. Popular with administration describe nation reason. Fear writer since nice.
+As you reach the beginning of the cliff coming up the first well-defined trail to it, this will be the obvious chimney to the left of two hand-ish size cracks.
 
 # Protection
-Style share who just. Responsibility anyone city of ground good focus.
-
+TR from tree, be careful of loose rock

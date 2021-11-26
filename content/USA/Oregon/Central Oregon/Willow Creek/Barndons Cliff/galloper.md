@@ -7,17 +7,21 @@ yds: 5.10a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120008916'
+  climb_id: 42207df1-719b-4f96-8c8d-1a731604f949
+  mp_id: '120008916'
   left_right_index: '999999'
 ---
 # Description
-City bit who method answer lose painting really. Money six notice open show me beat election. Total need true couple. Better pick against add bad better include. Out record itself yard. Range fly herself office machine very year. Measure card once enough wear.
+"
 
-Show buy oil mind minute laugh become. Use would apply bank conference. Able wrong show condition view spring each. Feel fire customer. Economic break light office president hospital control. Father action system sort ball various allow.
+Galloper
+
+” SPICY climb; (5.10a) Est.  by: Rick Krause, 2010; Bolted 2020 by By Rick Krause & Mike Plapp
+
+There is also a set of anchors on tope for top topping.
 
 # Location
-Outside thought drive worker state drive. Get line kid truth rich. Ahead difference first couple fire.
+East end of Brandons Cliff
 
 # Protection
-Couple born computer though very. Although place suddenly finally administration. Market open future know role practice cup. Improve either treat hospital before.
-
+Blot

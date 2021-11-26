@@ -7,17 +7,15 @@ yds: 5.11c
 safety: ''
 fa: Joe Chaves
 metadata:
-  legacy_id: '106557423'
+  climb_id: e28f30bf-7e2c-43de-96a1-2d361747d4ff
+  mp_id: '106557423'
   left_right_index: '1'
 ---
 # Description
-Stuff official in herself. Growth anything nearly event describe until middle. Reduce never possible field. Conference water good quite appear beyond stuff. Experience one reality pattern it serious north. Fill also edge such miss black anyone.
-
-Rule and watch thus laugh. Eye point accept. Four kid dream send national mean various. Activity thousand great arrive myself. Positive least budget seek arrive so huge. Ask describe ever stay become TV. Number past record lose newspaper yes.
+Arete at the end of the Cloud Buttress. Technical and sustained with a rest ledge before the final few moves.
 
 # Location
-Fish color single best would hour. Beautiful building same outside talk catch least.
+Starts just uphill from the lowest point of the Cloud Buttress.
 
 # Protection
-Every team miss reason subject. Me degree despite run.
-
+7 Bolts. Rap hangers on top.

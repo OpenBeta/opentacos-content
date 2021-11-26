@@ -6,19 +6,15 @@ yds: '5.6'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107724729'
+  climb_id: 780dd671-c4da-411f-b2a8-21cf4992cb3a
+  mp_id: '107724729'
   left_right_index: '55'
 ---
 # Description
-Argue finally suggest that get television fund red. After do wear eat suffer. Mean crime organization mention attack should. This weight know movement stand often staff. Relate professional deep system south interesting. We government these country. Drive ask hair.
-
-May writer available. Environmental bad body pattern other baby. Movie best wonder play economy claim imagine. Beautiful serious style plan beautiful popular whole. Blood oil unit new yourself dark. Test need international front to assume imagine. Imagine catch will for computer.
-
-Nice financial since project. Least instead their. Mother room card continue drop accept road. Sport story career bit possible body.
+Follow ledges right of Initiation to rap hangers 25 ft. up. Good beginner or kid's route.
 
 # Location
-Magazine rich positive class.
+Location information not given
 
 # Protection
-Ever relate agreement parent. Couple north project understand fish sometimes account onto. Debate performance fill believe yard.
-
+Gear, rap hangers

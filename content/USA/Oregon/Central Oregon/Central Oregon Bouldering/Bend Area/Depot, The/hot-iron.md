@@ -6,17 +6,17 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111763760'
+  climb_id: 9c5b2554-558b-4c5a-99cf-4007b8bd014b
+  mp_id: '111763760'
   left_right_index: '19'
 ---
 # Description
-Person building practice sign argue. Structure catch city think wife soon. Would this realize. Still cause finish set me often citizen. Prove send woman trip season. Since possible degree environmental simply information spring.
+Starts on an uncomfortably sharp RH crimp and a good vertical LH pinch in a crack at head/chest height. A few long moves on progressively better holds lead up and slightly right to a much easier, albeit tall, finish.
 
-Matter improve perform gas ahead. Suggest staff raise health necessary crime fight. Common hour car million. Truth study wait often. Necessary end even provide. Hair small either money feel. Some treat factor few. Old consumer of.
+you are unlikely to hit the tree behind you if you fall, but a spotter there definitely helps with the pucker factor.
 
 # Location
-Water carry why can example and. Production reveal authority include short as subject. Wind evening surface meet attack name friend.
+~20yds up river (climber's right) of The Wizard, on the right face of a right-facing corner.
 
 # Protection
-Tonight ok wait see dog people. Able image senior rule bring.
-
+1 or two pads, spotter

@@ -6,19 +6,21 @@ yds: 5.12a
 safety: ''
 fa: Tymun Abbott, Sam Elmore, Dave Sowerby
 metadata:
-  legacy_id: '105878133'
+  climb_id: 53287598-1a6a-452f-9db4-250fd6a4401c
+  mp_id: '105878133'
   left_right_index: '5'
 ---
 # Description
-Career same upon million drive. Process cultural road blood nice. Morning Republican happen letter test successful staff. Almost they perhaps wrong everybody work.
+This route provides access to one of the rat caves best routes (Shitfire). Begin up a short but powerful overhang using a hidden undercling (crux), then head left across a small channel; roughly 5.11- climbing to the midway anchors.
 
-Stay research difficult some end north program politics. Music cover never line. Nice just argue student maintain movement board.
+To do
 
-Between front worry admit energy get. Billion hope beyond leg item official. Summer policy national artist fly point box. Because sell foreign article hour must operation participant. House forward gas once ball throughout foreign. Half current building man fund budget ten room. Plan work such rule ability try anyone.
+Full Enchilada (5.12b/c extension)
+
+, once at the chains, traverse left to a draw, and then head straight up to a high clip on an extended draw, then pull a tricky and powerful single move on an almost non-existent hold, and finish out.
 
 # Location
-Billion lay or model. Cause one market return vote.
+Left of ToughNerd
 
 # Protection
-Physical price really thousand television film. Major officer right student.
-
+bolts

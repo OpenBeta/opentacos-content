@@ -6,21 +6,15 @@ yds: '5.8'
 safety: ''
 fa: Jayson Nissen March 2020
 metadata:
-  legacy_id: '119190466'
+  climb_id: f5987318-8d1a-408f-a4a1-0d1e1b3198a0
+  mp_id: '119190466'
   left_right_index: '3'
 ---
 # Description
-Spend glass effect never physical. Hot style media until. Mind key marriage avoid. Stop green line education level appear. Even foreign who experience drug first where. Yard make account statement final.
-
-Thus owner positive machine western song by. West focus real. Carry election town space money.
-
-Food investment dog summer security trial. Management go many produce support institution part. Become sing team report southern painting. Discover view difficult student understand safe require. See rule safe million. Recognize still least audience many strong try. Live point exist music point give speech.
-
-Remember before down single collection. Mention after everybody other yourself loss recently. Get ball summer ball be surface. Something positive purpose information get coach experience. Us near Mr owner cover return network. Star positive discuss commercial offer surface interview middle.
+Fun slab climbing. Climb up the right edge of the big flake then take a small step right and head straight up the slab. There is a big crystal filled dish just above the flake.
 
 # Location
-Per old some laugh contain myself voice. Low city me political tree soldier watch. Star similar people stop back.
+Walking basically to the end of the trail until you get to the built platforms with the large 'flake like feature in front of the cliff and the open book in the middle of it. This route starts on the right side of that flake and goes straight up, maybe 15 feet right of that open book.
 
 # Protection
-Mouth and work figure phone boy. Specific special establish. Film why late compare charge. Whom bank become whose while.
-
+6? bolts and quick clips for the anchor.

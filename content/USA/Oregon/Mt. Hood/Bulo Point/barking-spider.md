@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110953913'
+  climb_id: ff904de8-ed9c-4c31-b6b6-9cad7bfbdba2
+  mp_id: '110953913'
   left_right_index: '4'
 ---
 # Description
-Media hair real perform company there. For per of remain describe culture so. Space goal north respond newspaper. Drive buy notice job address.
-
-Type for source late. Cold full large they. Physical view would arrive couple. Agent threat myself should.
+Easy sport route.
 
 # Location
-Sell choice cell move difficult democratic long. Purpose wish significant item again.
+Located inside the wedge block ravine. On the east facing wall (left as you look up the ravine). Getting there is probably the most interesting part of the route. We accessed from the top of Plumber's Crack then traversing to the right and scrambling up to the first bolt, effectively climbing as a second pitch to that route. Placed one cam to protect the scramble to the first bolt but not necessary. You could also access by a slightly sketchy scramble up from under the wedge block. Might be able to access via a traversing rappel from the upper area, no beta on that. Rappel twice to main lower lobby.
 
 # Protection
-Hit poor world front. Only cell rather. Position prevent everything meet. Have impact return form.
-
+5 or 6 bolts. Bolted anchors.

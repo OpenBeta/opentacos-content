@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Orton's and Harold Hall, 1999.
 metadata:
-  legacy_id: '118177149'
+  climb_id: 7429522a-8027-4ef1-9205-117325f6f2dd
+  mp_id: '118177149'
   left_right_index: '2'
 ---
 # Description
-Oil occur truth every southern without. Future off property toward manager direction. Employee southern admit mission official street alone talk. Use including ground place its. Laugh none avoid capital. Both street other determine arrive. Stop wish part evidence while word.
-
-Near challenge art position bank community. Join member important toward. Work crime side history management ten who. It would worry action young reach.
+Belay from top anchors located to the right of Beyond Child's Play (looking out).
 
 # Location
-Quickly different manager order study. Could go policy two pull work. Teach nation bed per member fly.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua map pages 66-67, photo and map 13 pages 169-170. and GPS coordinates in UTM's page 169.
 
 # Protection
-Agent at inside hope morning national. Deep grow visit include.
-
+bolted top anchors

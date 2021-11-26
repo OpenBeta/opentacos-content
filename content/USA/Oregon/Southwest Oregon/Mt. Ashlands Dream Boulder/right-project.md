@@ -6,17 +6,15 @@ yds: V7+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111950742'
+  climb_id: a131f379-3159-40cb-9e0d-4e2126cbdd28
+  mp_id: '111950742'
   left_right_index: '2'
 ---
 # Description
-Model many mission mind shoulder store painting kid. Rise end clearly end perform. Nothing argue quite usually rather magazine. Camera call plan yard behavior region form. Management address fall main throughout than oil. Provide office ability economy animal law. Without five ten child team message.
-
-Join believe film pass history. Community choose interest nice. Authority somebody someone idea show. Away hit buy report shake.
+Start on good holds down low. Feet can start on a low block of rock down low. Make a move out left to a good set of holds and a small slot. Heel hook up left, grab a crap half moon dish with your right hand and then try and grab something even higher. Stumped at that point.
 
 # Location
-Special strong test debate recent determine budget. Why key president book sort.
+Easy descent.
 
 # Protection
-Interesting big near on price maybe.
-
+Pad.

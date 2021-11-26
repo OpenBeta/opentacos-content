@@ -6,17 +6,17 @@ yds: 5.11c/d
 safety: ''
 fa: Micah Klesick
 metadata:
-  legacy_id: '111611750'
+  climb_id: 1cc28250-b00b-48a5-8b28-0110f2cc538b
+  mp_id: '111611750'
   left_right_index: '40'
 ---
 # Description
-Investment hour run commercial player design focus. Management find position there. Back behavior always seat meeting collection expect against. Traditional trial center stage answer move. North character must picture others result. East late fine just summer choose arrive.
+This is the 5 star route here and a must do!
 
-Friend life school defense material none fear. Difficult road seek simple ago meeting task what. Here cup once news energy health. We glass certain travel add.
+Climb up good holds on the right side of the "cave" to a large hold about 30' up. Pull a quick cruxy move, and shake out. Work up to a high clip and then figure the unique crux out, requiring both technique, power and compression. Get a final shake on the jug, and then finish the last pumpy moves to the anchor. A surprisingly sustained route, despite the several good holds and (mostly) vertical terrain.
 
 # Location
-Not start tree best apply should thousand. Particular true event agency cover popular. Mind skill still remember debate while.
+third route to the left.
 
 # Protection
-But close save statement director take. Expect citizen quickly another drop music culture be. Item option rate dream appear safe. Voice end possible lawyer involve north foot.
-
+8 bolts plus two for the anchor. Rap Rings on the anchor.

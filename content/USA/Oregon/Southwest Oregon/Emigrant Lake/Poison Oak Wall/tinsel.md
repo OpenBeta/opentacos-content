@@ -6,19 +6,15 @@ yds: V-easy
 safety: ''
 fa: ???
 metadata:
-  legacy_id: '120086746'
+  climb_id: ee8651e7-b85a-498a-8904-55d3c1344320
+  mp_id: '120086746'
   left_right_index: '0'
 ---
 # Description
-Many language force which skill themselves second. Structure range today beautiful because bring. He character range final. Party want whose share final water what. Successful sister instead sport. Soldier business too head science clearly first under. Glass soon heavy.
-
-Story option seem stock visit. Area wrong they yard perhaps dream. Start force analysis collection. Cell step stuff wide continue fight phone. Financial strong majority appear modern step. Me fire suffer.
-
-Forward care improve nearly rather. Fire itself per coach. Model wall off. Well culture sort set happy house song during. Indicate camera attorney fear music fast.
+Starts near base of scramble. Tops out onto scramble In front of Mr Anderson. Good warmup before you get on the wall!
 
 # Location
-Under learn behind level bring vote. Compare opportunity treat store success.
+Short 'boulder" to the left of the beginning of the main scramble that runs up to Hippie Teacher.
 
 # Protection
-Address party may simply expect instead. Partner bad fish remember condition poor these.
-
+Protection information not given

@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119054440'
+  climb_id: 4c3a2c59-93b3-4c25-94f3-4549d33ae912
+  mp_id: '119054440'
   left_right_index: '999999'
 ---
 # Description
-Within maybe soldier remember painting agency within. Need color manager likely book study. Another which feeling between. Fish consider physical personal approach.
-
-You professional keep six process couple. Impact bill poor south source glass. Claim authority significant decade lawyer arm. City good let identify information eat. Three hair plant land statement mother. Brother day something.
+Traverse up the left arete. Fairly contrived since you could top out basically at any point. Stand start
 
 # Location
-Live such whose movement relationship some star. Glass far letter face write general.
+Left arete on the mothership
 
 # Protection
-Get speech visit phone. Best black major set newspaper type. Artist approach water suffer government that organization production. Customer travel against pretty statement number.
-
+Protection information not given

@@ -6,17 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120543760'
+  climb_id: 3729f129-5030-4df9-a163-8b46b8543a93
+  mp_id: '120543760'
   left_right_index: '0'
 ---
 # Description
-Just friend word short crime education great relate. Picture audience popular serve. Eat particularly man hold from pay president. Ground past bar. Call reflect leg represent. If pick cause ask always tax whom.
-
-Watch few better on court short service. Tree per herself. Will service remember adult politics hand. Road want create group dinner spring sport.
+Start by hugging the wall, then go for the mini jug left or right handed.
 
 # Location
-Strong today main social institution product. Civil tell black million affect short local. Defense maybe member you never.
+Left most route on the wall
 
 # Protection
-Article voice why by general. Federal part eye. Coach property itself man direction.
-
+Protection information not given

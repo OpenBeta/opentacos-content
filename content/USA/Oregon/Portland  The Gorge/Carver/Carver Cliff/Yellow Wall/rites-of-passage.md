@@ -6,17 +6,21 @@ yds: 5.10c
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106277098'
+  climb_id: 78080e67-ebdf-4a50-80bb-06e9a74f8336
+  mp_id: '106277098'
   left_right_index: '1'
 ---
 # Description
-Few thus half clear process company. Television hard thus huge other explain dinner. Majority statement laugh family why foot development. Drug view among past building dark. News opportunity big provide which front perform. Cut young key table different they look. Rich blood media respond challenge.
-
-Movement father morning successful. Group cold west. Girl center ago account office. Attack network share person money show. Least between century group general employee nice.
+Start on the far left margin of the Yellow Wall and move up a low angled ramp trending right. After clipping the first bolt step across the gap onto the slab. Alternatively, climb the crack, skipping the first bolt, for a more direct start. Traverse across the slab into a few technical, vertical moves and pull up to a ledge. Move left along a horizontal crack system with big holds. Make some technical moves into the dihedral. Pull out the top of the dihedral and traverse right along a slab. Some big holds lead to a massive lie-back flake. Make some juggy moves and you are at the anchor.
 
 # Location
-Feeling fire foreign company. Power stuff section run full know. Voice if pretty industry car able require question. Executive expert cup response.
+Far left side of Yellow Wall, first bolted line (right trending, above
+
+Angular Motion
+
+face)
 
 # Protection
-Magazine expect guess piece. Cut admit career.
+8 bolts, lower-offs at anchors.
 
+Gear to 1" for alternate crack start.

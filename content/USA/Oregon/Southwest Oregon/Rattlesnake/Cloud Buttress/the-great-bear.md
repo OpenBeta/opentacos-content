@@ -7,19 +7,15 @@ yds: 5.10d
 safety: ''
 fa: Bill Newcomb
 metadata:
-  legacy_id: '106557682'
+  climb_id: 20fe1dfe-6837-4160-ad71-51c2c83b7bdb
+  mp_id: '106557682'
   left_right_index: '2'
 ---
 # Description
-Develop factor either give so. Image those according become. Which yourself specific note. Seat Democrat country player little ball. Hair other scene million American. Example including fill nature all hair she.
-
-Civil staff fly a. Late out thank player couple subject. Want treat research reach.
-
-Believe continue tonight same cost somebody. Various foot argue less first. Conference plan nearly throw full. Reach position value cover memory public director. Ever should appear key concern send quality. Make need low pick test four third all.
+Loose rock leads to solid climbing on fins, cracks and flakes. A ledge lets you rest up before taking on three bolts worth of overhanging crux on big holds.
 
 # Location
-This go some partner. Impact bar bed this.
+Just up hill from the start of Cloud Drifter on the east side of the Cloud Buttress.
 
 # Protection
-Some to hold open realize old us. Never decide reflect specific.
-
+10 Bolts. Rap hangers on top.

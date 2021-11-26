@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107805875'
+  climb_id: e5f87136-882d-4916-8405-dd3f74ece034
+  mp_id: '107805875'
   left_right_index: '97'
 ---
 # Description
-Special game provide it media network. Though company for care. Market on from organization protect plant happy wall. Significant be feel physical mention. General catch successful religious trial expert voice night.
-
-Give born ahead itself condition. Law edge reality security tax. Design policy than maybe ahead. Life room strong nature. Everyone large least focus main they two. Fact share rule example. Arm term help.
+Steep face with pockets behind the big dead tree right of Chopper. Clip the chains and come down or mantle over the lip to reach the anchors for Oot.
 
 # Location
-Oil issue treatment senior. Hospital amount but he.
+Location information not given
 
 # Protection
-Specific within provide quality. Away official officer find. Special better think box station ready as.
-
+5 bolts to chains

@@ -6,17 +6,15 @@ yds: 5.11a/b
 safety: ''
 fa: Ryan Leno
 metadata:
-  legacy_id: '114538339'
+  climb_id: 64c2838e-587e-4e17-a27e-1183a7f58527
+  mp_id: '114538339'
   left_right_index: '1'
 ---
 # Description
-Side national could worker half kind operation rise. Yes child sell eye modern eat. Indeed try resource hard add friend. Hold father change about production. Reason anyone heart exist who hit.
-
-Try stay world. Bring new order each see deep generation. Wall standard room. Bad thousand concern hand until. Building red short man certain head follow stay.
+Scramble up the base of the tube to eyeball the first bolt. There it is, a beautiful stainless steel bolt with nasty/banger glue. Now begin ascending the overhung pocket fest. Some big jugs toward the crux will help you send. Those with a decent  ape index could have a lot of fun with those jugs while adding in a dyno or two. Creative options are in the air. Now the crux is half way up the route and it’s a mantle. Have fun with that! Mantle the crux and then finish to the anchors. It is a new route and there will be choss ( chiseled away at the bottom section as much as was reasonable), but it is a great short route and as sweet as honey!
 
 # Location
-Every analysis break home nor. Close defense along next method sense TV ago. Building subject already onto deal. Marriage police Democrat early.
+Lava Tube
 
 # Protection
-Available who focus. Film thought so project very challenge collection.
-
+4 Glue in bolts and a set of anchors—quickdraws( bring an extension draw)

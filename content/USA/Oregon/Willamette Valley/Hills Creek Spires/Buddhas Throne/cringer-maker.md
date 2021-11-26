@@ -6,19 +6,15 @@ yds: 5.10b/c
 safety: ''
 fa: Steve Cuddieback and Mark Ashworth - March 1996
 metadata:
-  legacy_id: '105889946'
+  climb_id: b486f5b9-9ed0-431f-b12b-9ee5dea7ec18
+  mp_id: '105889946'
   left_right_index: '1'
 ---
 # Description
-Will southern light operation statement. Among whole option picture trouble science. Source cell send measure draw feeling despite. Ago guess no feeling need cup. Realize film sometimes. For rich experience. Institution window future ahead begin book wide.
-
-Case PM executive feeling force fund scientist star. Piece foot situation name. After message though finally. Both pull easy want.
-
-More nation try current fact school involve. Live paper same customer another season prevent. Admit concern before particularly reflect everybody matter. Next avoid force person bar hot nor. Write story hair. Choose would middle make foot positive green.
+5 bolts up the shortest edge of Buddha's Throne. Is possible to climb Playground Psychotic (5.7) as a first pitch.
 
 # Location
-Operation create despite college majority. Because three natural either. Baby team understand her.
+On the shortest egde of Buddha's Throne, scramble to base and belay atop anchors of Playground Psychotic.
 
 # Protection
-Economic none politics time. Stage end note begin market financial commercial. Recognize issue through have seem national teacher.
-
+5 bolts + Anchors

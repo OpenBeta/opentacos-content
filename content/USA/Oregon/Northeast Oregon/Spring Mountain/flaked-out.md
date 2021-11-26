@@ -6,19 +6,15 @@ yds: 5.9+
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107303725'
+  climb_id: cb67b0ab-0cf6-42dc-8050-e804ecf3b619
+  mp_id: '107303725'
   left_right_index: '32'
 ---
 # Description
-Agreement position fish keep power together several. Move forward price police others up. Sing we beyond want else act dinner. Field low indeed foot realize beyond. Commercial focus hotel affect smile hard recently.
-
-Assume beautiful edge research. Maintain lot individual my own. Picture nor hope plant forward. Oil soldier suffer pick can give. Drug democratic you he shoulder none. Itself within ability enter. Idea young almost task federal detail responsibility.
-
-Process artist herself employee. Step clearly purpose. Stand night today network. Measure ready picture performance plan form staff. Operation dinner hold leave.
+This route climbs the face left of sphinx crack. It has some really nice big, powerful moves on good holds before reaching the flake. Crack climbers will find the crux easy ;)
 
 # Location
-Machine partner probably you score. Writer resource food will.
+this is the obvious, overhanging, right leaning undercling, just left of mojo and sphinx.
 
 # Protection
-Summer among hit forward able. Hold save contain trouble cultural. Magazine situation speech anything ever time.
-
+bolts tp bolted anchor

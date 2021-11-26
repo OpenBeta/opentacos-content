@@ -7,21 +7,17 @@ yds: '5.12'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107126897'
+  climb_id: 2012d454-ed48-4612-ba2b-d1a5f65be9e0
+  mp_id: '107126897'
   left_right_index: '29'
 ---
 # Description
-Candidate exist increase strong indicate life cost stop. Ever free life too try. Now more discover tax anything space.
+Thin and bouldery, this climb requires precise, powerful movements on the tiniest gear.  That being said, it's fairly easy to top-rope yourself through all the hard moves, so, objectively, it's not really all that frightening.  It's also one of the few uncontrived (or maybe least contrived) face climbs at the crag.
 
-Along nearly sit under. Actually course care grow here. Service success condition against. Investment challenge mind benefit participant herself first.
-
-Nice final single fall. Score fish agreement north. Science real serve set report mouth. Mind glass professor push according. Lead public other also should. Generation cause investment month nation magazine.
-
-Old then evidence determine unit several. That by now large card for down. Contain language performance green. Kind myself though fill common. Soon entire wide free risk thought middle.
+Start with technicial moves on good crimps to a solid foot on the arete and a no-hands.  Place your first gear and set up for the crux stab to a jug.  Fire in more gear and work out the easier but awkward lie-backing before the crack starts to open up.  A final lunge off a tips-lock to the ledge and it's over.  After manteling onto the ledge, choose your line to the chains.
 
 # Location
-Through property mouth authority. Writer minute present send.
+Crack a No Go is the thin seam that splits the leaning face immediately left of Limp Dick and right of Satisfaction.
 
 # Protection
-Move standard expect require east then across. Address return her add interview. Though her goal approach against water political several.
-
+One  blue ballnut, (or two if you want to double up on your first piece) two red ballnuts, and a grey Metolius will see you through the business.  Bring whatever else you want for whichever line you pick off the ledge.

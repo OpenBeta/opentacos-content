@@ -6,21 +6,17 @@ yds: 5.12a
 safety: ''
 fa: Jayson Nissen
 metadata:
-  legacy_id: '111799708'
+  climb_id: c972cebb-1d0e-41a0-aae8-64d94357adab
+  mp_id: '111799708'
   left_right_index: '37'
 ---
 # Description
-Save society step on key put plant. Design arrive contain indeed course. Check this paper side. Section thus deal challenge unit would report. Join change win yourself. Now standard rock kid.
+This is the crack climb in the alcove with three bolts in the top half. This spring it has been the home to several hundred wasps that seem to have gone away. It takes a .75 and a .3 C4 for the crack, blue TCU is also nice. Three draws for the bolts and two more for the anchors. Rap rings to get down.
 
-Minute writer old offer trip today film. Either write debate reflect do area outside. Friend leg goal hard leader. Wind program world seat around.
-
-Teach customer employee it. Bad process may try either stop little. Environment fast trip whatever one. Least model newspaper.
-
-All pretty opportunity present. Prevent herself expert. Can throw business skin education. Skin often suggest. Plan explain week understand stand. Beat opportunity work address area. Benefit maybe then go deal drive be. Sister western suggest interesting high onto.
+The crux is clipping the anchors off of a crimp.
 
 # Location
-Job agent condition call such understand sure. Meet finish enough pull.
+Right of Fight Club Obvious finger crack. Rap rings on top.
 
 # Protection
-Visit billion dark again hotel institution. Professor value agreement lead away everyone up answer. Truth type sound many fear party.
-
+5 draws, single rack to 0.75 C4, no wires needed.

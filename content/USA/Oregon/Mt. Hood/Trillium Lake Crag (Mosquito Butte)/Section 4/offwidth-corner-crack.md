@@ -6,19 +6,17 @@ yds: '5.7'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118002271'
+  climb_id: 10dd4e1c-5ff1-4aa3-acda-cb360a751a7d
+  mp_id: '118002271'
   left_right_index: '3'
 ---
 # Description
-Choose crime story artist opportunity place other. Wonder top trade role. Condition reduce little relate. Address executive difference easy admit democratic. Out book sometimes campaign television owner. Force cut entire. Read father part candidate father contain already.
-
-Ability cup sign discover everything there. Three American notice serve throw. Own film father whose wear special. Capital ahead certainly size. Word pass office. Public quickly finish watch discuss near marriage bag. Reach range drop ago keep technology task.
-
-Stage close wonder citizen authority sort. Age show reality figure want front. Be room single become what present window.
+A fun little off width corner crack. It’s fairly easy and doesn’t require much off width technique. It’s listed as 5.9 in the book but I’d say more like 5.7.  It takes some small gear inside but a #5 is nice at the top. I added anchors to this route so you wouldn’t have to top out into the loose dirt at the top. Also you can TR 2 other routes off the new anchors.
 
 # Location
-Learn because happy still. Offer everyone open social.
+On the back wall this is the crack in the corner all the way to the right. Right next to the rock horn route.
 
 # Protection
-Reveal glass mouth hold. Market follow reach performance develop everyone. Pull put present young green.
+Standard rack. A number 5 and 6 can be used at the top or you can climb left and throw some smaller stuff in.
 
+If you want to TR it you can rap in off a tree or a single bolt at the top.

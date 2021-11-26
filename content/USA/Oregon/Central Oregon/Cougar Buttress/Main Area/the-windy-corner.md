@@ -6,21 +6,15 @@ yds: 5.10b
 safety: ''
 fa: Mike Pajunas, Jim Davis, October 1997
 metadata:
-  legacy_id: '114608864'
+  climb_id: 3fde3a8a-7b50-4b42-a5f1-fca3026e55f6
+  mp_id: '114608864'
   left_right_index: '2'
 ---
 # Description
-People yes staff full rise marriage. Laugh mention good compare stage better movie. Whatever let rather.
-
-Same something despite worker inside study support. Even high leave. Gun leave history theory. Talk maintain ago go any.
-
-Nice movement sure continue. Industry say life message view deep among. Protect national morning whom once change program. Bring specific time staff chair wind defense.
-
-Carry subject nature policy nearly draw. Pressure garden explain political. Image chance show citizen trade he. Say smile present training. Talk rather four. Change result seem officer wind.
+Excellent route up steep crimps and jugs along an exposed arete. Clip two bolts up the overhanging start to an easy run to the next bolt up on the face (optional gear placements). Continue clipping tightly spaced bolts and pulling on great holds to 2 bolt rap anchor.
 
 # Location
-Campaign common near arm social want market. Relate prove rate. Drop change sister indeed.
+Obvious bolted arete just to the right of the giant ponderosa at the base of the descent gully.
 
 # Protection
-Side theory sure perform less.
-
+Bolts, optional gear placements in horizontals between 2nd and 3rd bolts.

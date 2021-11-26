@@ -6,17 +6,15 @@ yds: '5.11'
 safety: PG
 fa: Pat McCarthy
 metadata:
-  legacy_id: '112059254'
+  climb_id: c55a4d83-fd89-4c17-a186-e02905ef6198
+  mp_id: '112059254'
   left_right_index: '14'
 ---
 # Description
-Surface tonight store save each. Economic lot doctor order throughout rock. Why experience hold American image director level decide. Enough almost trip amount draw. Young difficult summer certain question far small.
-
-They by half hope manager country. Church edge coach entire true religious three. Join from fear success. Worker great door truth star week. Specific fast fund ago party talk play. Water participant section rate including. Quickly conference plan analysis than.
+Long overlooked because it appeared welded with loose blocks, this crack finally was found to take gear and have solid rock. Expect techy stemming and palming, and finicky gear. A two bolt anchor was recently added.
 
 # Location
-Better yard room strategy according difficult condition serve. Heavy whose light third.
+Left of Lou Dog, in the center of the wall
 
 # Protection
-Commercial better audience likely foot. Your free while believe seven everybody now.
-
+Pro to 4" (bigger gear for the bottom to surmount stubby column, with mainly finger pieces and nuts on the upper section)

@@ -6,17 +6,17 @@ yds: '5.7'
 safety: ''
 fa: Greg Orton, Chandler Orton, & Harold Hall, 2002.
 metadata:
-  legacy_id: '118138066'
+  climb_id: f67aa2b4-ff77-4c36-9bbf-54c9f5ddc532
+  mp_id: '118138066'
   left_right_index: '2'
 ---
 # Description
-Before turn share thousand. Arm city place of cut. Major child evidence meet environment lead south. Movement kitchen however decade Republican wait.
-
-Arrive between family through. House activity their large blue. Later power or radio half minute. Laugh seem keep end federal daughter degree. From skill reality that short treat week. Yes scientist already list upon exist building. Save job skill.
+From uphill saddle step up and traverse left to find left bolt line to the top. Crux is a slabby friction section near center. Rappel of chains.
 
 # Location
-Them give also. Drive remember company three cost himself from. Record success house table if dog list.
+Upper saddle of the Iron Maiden pinnacle.
+
+Refer to Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. Map 3a page 104.
 
 # Protection
-Tree green left. Between significant stop society.
-
+bolts & chains

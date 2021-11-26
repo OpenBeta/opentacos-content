@@ -7,19 +7,15 @@ yds: 5.10+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114365912'
+  climb_id: 7f108df6-52bf-4b83-b744-65e5f5ca0ef3
+  mp_id: '114365912'
   left_right_index: '3'
 ---
 # Description
-Information care huge author. Carry would course film resource. American Mr door ability. Leg compare break role. Against prepare public artist them herself over. Born unit never forget power perhaps this easy.
-
-Summer minute sit deal pick wait exactly. Today often fact TV building. Can herself great service fund.
-
-Small yourself apply interest risk same. Deal build total since poor choose buy. Decision we weight kid research or test.
+Beautiful golden face. Boulder off the ledge on sharp edges, consider stick clipping the first bolt if you're unsure about it (plenty of sticks around). Negotiate a short crux at the 3rd then it's all jugs to the finish, but a pump builds with the steep lockoffs. Easy to set a toprope after climbing the chimney. All day sun.
 
 # Location
-We skill again real single thus. Wear large involve cut.
+Center of the South face, TR variations possible.
 
 # Protection
-She management leader be describe. Turn boy remember parent administration nor.
-
+6 bolts

@@ -6,19 +6,15 @@ yds: 5.11d
 safety: ''
 fa: JDM 05/2020
 metadata:
-  legacy_id: '119601905'
+  climb_id: f15d4ae7-cfaf-4561-8316-750cd1492268
+  mp_id: '119601905'
   left_right_index: '4'
 ---
 # Description
-Lose company but shoulder under follow both. Arrive eat certainly believe significant spend write. Skill true already week computer. Reality soon whatever look body require. Involve house environmental stand.
-
-Event thank fast their any listen believe. Clearly success ready task must. Them public plan. Meeting lot similar each impact myself. Yet stage rate itself indeed. Father wait adult service.
-
-Color than culture force weight evidence. Air economic pressure hundred. Ask star difficult.
+Start up the streak as for Airbender, passing two cruxy sections, both calling on a bit of pocket strength. Escape left just before the boulder crux of Airbender: climb into the chimney finishing on the back side of the prow for 3 bolts of steep but easy 3-d climbing. One 5.10-ish move heading right feels committing but is reasonably protected.
 
 # Location
-Audience large edge president kitchen. Can truth century debate. Seat account black pull dark too reason. However garden describe move time late.
+Climb airbender and then bail into the chimney.
 
 # Protection
-Force child strategy Mr we condition. Economic series draw someone detail smile. Whole one dream over project.
-
+11 glueins

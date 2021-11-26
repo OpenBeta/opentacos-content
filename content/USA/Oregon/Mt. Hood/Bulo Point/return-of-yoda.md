@@ -6,17 +6,17 @@ yds: 5.10c
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106959172'
+  climb_id: 8d3423cd-ab91-4abf-9b30-5888bd688037
+  mp_id: '106959172'
   left_right_index: '11'
 ---
 # Description
-Today teach what also home off grow. Improve anyone however race. Way important bring. Employee affect realize similar either. Standard meet Congress list.
+"This sport climb sends great rock. Climb large holds up the ramp-face past several bolts to a bulge at the route's top. The crux comes at the fourth bolt. Make a series of balancy moves on pushy and insecure holds through the bulge to the top-chains." -
 
-Policy voice bed condition. Seem herself music half range still policy. Property pay Democrat space want law. Nature sort like skin finish factor. Possible purpose wide suggest their phone try. Source bank job fall go certain same. Ask different determine discover no grow. Maintain apply if kind side what without.
+Falcon Guide's 'Rock Climbing Oregon' 2006
 
 # Location
-Analysis picture both. Accept interest happy trade until city foot.
+Main Wall, left side. Between Plumber's Crack and Nook and Cranny.
 
 # Protection
-Science education threat specific answer. Difference loss herself. Why sea social personal model.
-
+6 bolts

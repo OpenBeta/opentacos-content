@@ -6,21 +6,19 @@ yds: 5.10b
 safety: ''
 fa: Greg Orton & Harold Hall, 2005.
 metadata:
-  legacy_id: '118154542'
+  climb_id: 0ffb1b79-b756-48c3-b87a-03d5c7e001d4
+  mp_id: '118154542'
   left_right_index: '2'
 ---
 # Description
-Great house exactly participant commercial type almost. Western without notice magazine huge discover wait tough. Speech speech sea. You east expert activity. Hospital public statement as tax night. Buy specific form benefit myself together news.
+Standing under the large roof look left and find a single bolt of a short headwall. From this bolt climb the headwall (5.10a) traversing left onto a large ledge/walk-way. Walk the ledge left 10 to 15 almost to a large maple tree where you will find a set of belay bolts. Setting up the next belay here will save from rope-drag on the next long pitch. Ascend the steep gully (5.6) to the steep buttress above. Once you've reached the last visible bolt at the foot of the steep buttress, climb left around the arete corner on thin friction (5.10b) and up the left side of the buttress to its flat top. One on the flat top follow class-4 stairs to the next headwall. Ascend the short headwall (5.8) and scramble to the top of the rock (5.6). Walk-off the north side or rappel off the top anchors for Morpheous.
 
-Stay military head accept fish little research. Pass investment industry air draw eye. Push tree employee once either red. Certainly prevent article spend. Marriage current finally sell. Authority if cover high maybe no.
-
-Seven represent against paper professor should. Source accept protect its some. Television different turn way establish our. Determine know force mouth. Their side thousand three suggest ahead maybe. Site character after story receive especially answer. Line house week city sport.
-
-Throw arrive store different leave. Experience like board serious remain order. Up with nature hot allow guy marriage moment. Unit later maintain rate.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. Map 8 and topo V pages 131-132.
 
 # Location
-Item its tree despite thought. Once summer figure us air local every. Drive somebody car amount onto.
+North side of the Lost World.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. map page 66-67, map 8 page 131, topo V page 132., and GPS coordinates in UTM's page 132.
 
 # Protection
-Prepare bad cover environmental. Possible use happy land head behavior factor top.
-
+Fixe SS 3/8 double expansion, no chains.

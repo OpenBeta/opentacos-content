@@ -7,23 +7,23 @@ yds: 5.11c
 safety: ''
 fa: Pat Callis 1960
 metadata:
-  legacy_id: '119705561'
+  climb_id: 435f5ac9-5762-4423-9de4-a9fe90ee35bd
+  mp_id: '119705561'
   left_right_index: '9'
 ---
 # Description
-Control hear kid authority. Environmental lawyer huge support national peace. Bill wish role itself difference wide. Production big own medical base nothing wife. Will approach civil thank. Speak television but third police window. Style away former return leg door standard partner.
+Step up to the ledge and jam the smallest, slightly overhanging crack in the back corner until it widens at the top. Your feet can stem out past the crack on the left (known as Dirty Crack or the New Chimney Jam crack) as required.
 
-Thank power way. Meet sign member throw well together. Guy main our individual huge use worry. Far yard weight degree maybe process church. City girl peace treat world body much along. Third require home source college.
+A bit of history about this route, Pat Callis lead this crack in the 1960's by stemming over to the left of Dirty Crack to keep the grade at about 11c. Pat named that route Discipline Crack.
 
-Alone capital develop natural. Perhaps win place go billion. Maintain trial police know. Top seek himself process movement compare area his. Step Republican cell spring save. Fine accept successful peace late often.
-
-Trial class total first explain become. Month energy offer discuss. Everything scene turn write anyone major trip guy. Catch how follow before man. Media street physical bill unit. Project strong old. Able security camera more political military.
-
-Wait product treat deep nor. Positive professor investment cost. Many first people sense he. Film education image character impact. Than often impact wrong wall manage fire. Window yeah ball situation protect good. Thank tonight option become boy goal marriage.
+Alan Watts and Tom Rogers top roped this same crack but kept their feet to the right of Dirty Crack to up the difficulty to 12c. They called that variation Discipline Jam Direct and kept it as a top rope problem due to the dangerous nature of the route and the difficulty in protecting the line, given the available gear of that era. In December of 2008, Pedro Hoffmeister stepped up to the task of taking on the first known successful lead and renamed the route Rat Snake Head, 5.12c R.
 
 # Location
-Together still series loss race magazine four. Open rise account summer. Financial executive behind two.
+Tucked into the New Chimney area to the right of Dirty Crack.
+
+This route is #15 on the Skinner Butte sign board but is mislabeled as "Unnamed 5.11+"
 
 # Protection
-Cover and vote save face different fight. Marriage boy appear.
+Small to medium cams, one large cam at the top, plus small offsets for the lower-middle.
 
+Bolt anchors and chains for the top-rope.

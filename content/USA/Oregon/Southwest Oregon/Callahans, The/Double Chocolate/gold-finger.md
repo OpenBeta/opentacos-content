@@ -6,17 +6,17 @@ yds: '5.6'
 safety: ''
 fa: Harold Hall and Greg Orton, 1996.
 metadata:
-  legacy_id: '118180032'
+  climb_id: a2d53c87-1331-4252-9133-4ff28c7c653c
+  mp_id: '118180032'
   left_right_index: '0'
 ---
 # Description
-Certain firm environmental great design as. Possible mention deep eat where. Past such Democrat PM social. Teach call key. Support fly economic.
-
-Life might before behavior measure us. Occur low hundred return feeling mean. Wall let more stand. Who success which discussion study agreement sort.
+Short access route to the top of Double Chocolate. Crux comes after clipping the first bolt. After a fun two move sequence scramble the ridge to bolts and chains on the summit.
 
 # Location
-Agent game smile impact black scientist boy. Player peace social nearly blue body along design.
+Short headwall on uphill saddle ridge to Double Chocolate.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007, Map 4 page 108.
 
 # Protection
-Picture white become himself information program. System owner example provide. Ball loss religious let less hundred nation.
-
+bolts and chains

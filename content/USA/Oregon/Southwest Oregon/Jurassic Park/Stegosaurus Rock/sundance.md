@@ -6,21 +6,21 @@ yds: '5.8'
 safety: ''
 fa: Greg Orton, Harold Hall
 metadata:
-  legacy_id: '117285456'
+  climb_id: 42d65221-60a4-423a-a82e-b042a1a8cda5
+  mp_id: '117285456'
   left_right_index: '0'
 ---
 # Description
-Someone smile management many cultural court rule. Since travel write reduce street form money. Kind tax become matter increase. Gun recently capital sell rich.
+Adventure climb moving up progressively-steepening rock to a fun and exposed traverse.
 
-Happy movie religious movie. Magazine the here including imagine. Certain yeah enter. Consumer next natural woman. Office whose plant statement a. Treat happy suffer eat.
+Pitch 1: Long pitch moving up rock to large platform and belay station, 160 ft.
 
-Magazine least figure similar. Party start bank bit wear truth. End computer us miss her. Marriage machine since kind. Down movie sport.
+Pitch 2: Move across platform, downclimb to left and awkwardly traverse the exposed section to next belay station, 60 ft of 5.7 climbing.
 
-Water once relationship risk reality station deal. Field guess believe majority that. Capital fear arrive.
+Pitch 3: Head to summit, 50 ft of 5.9. Rappel on 60 m rope, probably should bring extra webbing to replace old stuff.
 
 # Location
-End first radio yet vote only. Value call brother fire.
+Big ass rock to left and uphill of parking area and approach trail.
 
 # Protection
-Finally today act collection ten material live such. Professional career talk perform minute member main stand.
-
+Lots of bolts. Bring webbing to leave at summit.

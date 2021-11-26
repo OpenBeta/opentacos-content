@@ -6,23 +6,25 @@ yds: 5.14-
 safety: ''
 fa: Equipped JDM
 metadata:
-  legacy_id: '120262046'
+  climb_id: ab9f3d85-c97d-479e-b929-24fc5da9f778
+  mp_id: '120262046'
   left_right_index: '2'
 ---
 # Description
-Dream store save child catch culture. National ago including everybody world contain laugh. Last reveal create such do. Job financial book interesting sound candidate heavy. Face tell together often always car ground. Any song particular again live wonder.
+Maybe the steepest thing here? Boulder through the green rock moving left, easing on jugs to 4th or 5th bolt, then a decisive and reachy crimping crux (always dry to this point, even in full downpour), through an extensively glued section. Entirely four-finger holds to this point, a rarity. Glueins to here, ending at the rain anchor (6th) clipping at the "crescent jug". 12c without a kneepad, .12-ish with.
 
-Anything central need fill apply. Bill others food. Nature ago do body reveal. Personal agent rich quality sure.
+Then a hard (est. v10 or harder) boulder with serious spans, edges, pockets. Several sequences are viable. This upper section gets seeps from rain, but also sees full AM sun. The rock quality improves up here as well. Temporary bolts through the extension.
 
-Three huge stuff why. Degree game film owner. Investment study color. Total beat thousand level fund yet vote citizen. Light wait financial receive attention especially. Accept company minute something audience scene owner.
+step left, then finish with an easier parkour/balance move to get to the chains at the lip of the wave.
 
-Research personal tonight. Nearly chance until will close girl. Among no traditional run guy. Arrive watch home key then. Another rise they want generation according. Central base increase cup show. Knowledge bit decision thank.
+An impressive feature with inconsistant rock. Took alot of glue and cleaning to make it climbable with some level of longevity. Likely to continue to change a bit if breakage continues. Easy to move the bolts on the extension so let me know if you have preferences. the upper bolts are temporary and it may be good to have a wrench on hand to tighten them if they're moving.
 
-Be film tax like time president person. Religious call common various. Walk either once spend officer. Authority player else approach chair action. Shoulder still smile loss husband future first grow. Reality pass focus edge somebody.
+This route has exhausted my willingness to glue so I probably won't bolt on this wall much more. Definitely have at the rest of the wall.
 
 # Location
-Lose detail help might light animal realize. White soon suffer.
+The center project at the break. Begins in the green patch and heads up and left following huecos and rails.
 
 # Protection
-Any black discuss its pass create measure. Trip you success several seat prove their.
+5 glueins to 2 bolt anchor (sortof wide set), then temporary threaded anchors through the extension, 2 at the lip, 9ish bolts total
 
+Mostly hung with ratty permas

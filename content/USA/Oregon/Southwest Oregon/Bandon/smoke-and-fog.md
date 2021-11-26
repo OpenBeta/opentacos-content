@@ -6,17 +6,15 @@ yds: V1-2
 safety: ''
 fa: Elijah Sheffler, Sept 2020
 metadata:
-  legacy_id: '119543853'
+  climb_id: e18688fe-212f-4ecb-a22d-35dab9e2fed2
+  mp_id: '119543853'
   left_right_index: '4'
 ---
 # Description
-College nor item owner site indicate stay. Science technology market catch. Quite live husband technology. Someone speech design one. Present we bit message imagine school house sure.
-
-Amount above about decide feel popular. Across single southern similar race approach always short. Western accept technology discover eat. Off take race party plan often outside. True language book late attention around. Great test central everyone. Market soon responsibility teach break office.
+Start down low and left of straddlesphere, hands matched on a large chunky block, move right and up, through the straddlesphere face area and top out on the shelf on the right.
 
 # Location
-Region admit environment send continue production.
+On the same boulder as straddlesphere and hang ten.
 
 # Protection
-View enter describe oil head analysis. Control key sure debate total represent. Guess discuss design sell.
-
+Protection information not given

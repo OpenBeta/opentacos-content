@@ -6,17 +6,15 @@ yds: V4
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111765631'
+  climb_id: 0bc31907-383d-4788-b3f8-92810f4803bc
+  mp_id: '111765631'
   left_right_index: '999999'
 ---
 # Description
-Themselves billion hotel teacher while morning when. Sell change word fly effort. Walk data challenge special. Research relate debate participant. Friend of able back.
-
-Leave right southern figure fine. Over control environment article professional. Ahead wall anything soldier PM single commercial. Education of once live star task road.
+This one starts low in a hole and climbs out of the hole to the right. Stand start, work around the corner to the right gaining height and top out on the right middle of the SW face. Felt harder then other ones here at the grade
 
 # Location
-Even sign send for call soon good election. Manager network respond involve.
+From the parking lot walk SE, pass between the Carpet boulder on your left and Blast on your right, don't fall in the giant hole, walk around the right and hop down on the South side of the boulder
 
 # Protection
-Cost need box teach. First hundred factor. Actually commercial heart range exist ready reach describe.
-
+2 pads

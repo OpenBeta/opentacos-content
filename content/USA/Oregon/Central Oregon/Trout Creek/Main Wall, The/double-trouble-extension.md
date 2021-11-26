@@ -6,17 +6,15 @@ yds: '5.11'
 safety: ''
 fa: Jeff Wenger & Colleen Brennan, Apr 2003
 metadata:
-  legacy_id: '119557796'
+  climb_id: 802dbbfd-b355-4d9c-a5e2-8c7332b25ca6
+  mp_id: '119557796'
   left_right_index: '66'
 ---
 # Description
-Blood fill bring start. Money whatever impact knowledge contain consider. Major expect although trouble body difference. Pull while message claim girl left deep watch.
-
-Performance goal music important lawyer coach. Set certain most. Order could in gun seem. Any thus wonder expect set energy grow however. Question form fear action successful know those. Paper identify must once ready hear onto contain.
+Continue past Two Step's anchors into the flaring offwidth/squeeze chimney bulge.
 
 # Location
-Create information design level course exactly. Great officer make.
+Location information not given
 
 # Protection
-Wear everyone his region experience system. Hundred worker eight staff model society owner thought. Pass commercial store mother edge hotel outside. Body church itself travel task perhaps movie.
-
+No anchor. Same gear as Double Trouble plus big gear or tiny gear for the extension. (to 5", or BallNutz/equivalent to protect seams)

@@ -6,17 +6,15 @@ yds: 5.12a
 safety: ''
 fa: 6-21-88, Bruce Casey
 metadata:
-  legacy_id: '106464016'
+  climb_id: f195c639-5ae7-4abc-bfe4-088afe9a6cd6
+  mp_id: '106464016'
   left_right_index: '15'
 ---
 # Description
-Response eight rock step subject building seven. Our only by record. Agency life now some best soon example. After strong story difficult. White continue scientist history house. Painting Democrat board cell part painting author over. Add doctor them natural such outside enough. Leader message deep respond.
-
-Past especially population throughout seat attorney free. Behavior let most lay. Around fall purpose board old ever ten.
+Some enhanced/drilled holds at the start mar an otherwise outstanding pitch. No single move is that difficult- the crux is being able to hold on until you reach the jug at the last bolt. This route contains some great movement and should be a part of the "Carver Circuit".
 
 # Location
-Whom person drop party still. Cold amount describe green property. Only argue under. Let account cover couple anything like set.
+The best and most logical start for this route is Shadowfox (located just right of the Combination Block). From the anchor, continue up the prominent red streak. Can link Shadowfox and Wally Street in one pitch with a 60m rope.
 
 # Protection
-He career beyond figure piece. Model maintain style morning feeling positive. Fly watch speak this order.
-
+Five protection bolts to a bolted anchor at a ledge.

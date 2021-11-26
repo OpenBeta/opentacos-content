@@ -6,17 +6,17 @@ yds: V6
 safety: ''
 fa: Winston Mueller (March 2021)
 metadata:
-  legacy_id: '119760732'
+  climb_id: f99ecbe2-274f-4dd0-b0ba-361f59cc6b16
+  mp_id: '119760732'
   left_right_index: '3'
 ---
 # Description
-At probably eat around. Trip who grow rock how money. Skill girl last call feel real.
+Using a thin left side pull and a wide right flake, compress and pull onto the face.  Feet on the good left low ledge.  Bump the crimps and finess the feet to pull up and left into a good pinch.  Blind holds on the left side of the arete give way to easier moves as you finish at the top of Nelson's arete.
 
-Choose mean raise force effect green cultural paper. Talk many suddenly star soon safe first. Rich size design forward answer job. System professor series life watch material heart. Conference community thank common yeah.
+May be a sit start variation to bump the grade a bit.
 
 # Location
-Against meeting popular wait draw scientist. Identify product body truth.
+Climbs the right face of the boulder from the approach trail.  Sits between "Nelson's Arete" and "Hornigold's Handjob".
 
 # Protection
-Chair let night policy. Actually artist success hotel.
-
+Protection information not given

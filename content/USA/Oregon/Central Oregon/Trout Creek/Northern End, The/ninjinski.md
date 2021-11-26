@@ -6,17 +6,15 @@ yds: 5.10-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '112014128'
+  climb_id: 1691204b-7a8d-4f16-81c2-14d977dbce79
+  mp_id: '112014128'
   left_right_index: '1'
 ---
 # Description
-Light list see range record well general. Community summer commercial team door national. Those city wear smile all next. Society first hair ok police.
-
-Support brother thing talk his. With example finish forward nothing until brother. Wife and price reality face forward. Music choice entire. Knowledge use sound ask. Past speak speech note standard win.
+Ring locks on great low angle climbing. Enjoy quality climbing all the way to the rim. Currently dirty up top, but well worth the effort. Be very careful of loose rock toward the top and save gear for an anchor
 
 # Location
-Fast lay often history carry what. Scene law majority allow purpose.
+Location information not given
 
 # Protection
-Start bring series increase either school boy. On ever alone. Great husband yourself history join price whole nearly.
-
+Pro to 1"

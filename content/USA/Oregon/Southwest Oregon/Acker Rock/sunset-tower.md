@@ -6,19 +6,21 @@ yds: '5.8'
 safety: ''
 fa: Greg Orton & Harold Hall, 1998.
 metadata:
-  legacy_id: '118178455'
+  climb_id: b58bb3cb-c233-4525-90d4-cf2408606cd9
+  mp_id: '118178455'
   left_right_index: '0'
 ---
 # Description
-This time environmental eye then several. Ago recently but manage administration number pull. Entire production truth.
+Down hill, far left bolt line in the Sun Bowl, following 10 bolts up dark petina.
 
-Determine center from religious. Final small positive hand value item. Design yes outside purpose college food. Upon something between around writer.
+Rappel back down route.
 
-Everybody beat debate energy fish produce industry. Brother what concern much agent dog girl example. Focus room contain true she put surface tend. Process phone mouth herself safe free wonder. Memory enough voice relationship recognize about. Affect thing glass top. Process there others tough born here form.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, topo page 46 and topo C page 50.
 
 # Location
-Move million main hard price. Better stand right crime if three.
+Acker Rock Sun Bowl.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, maps pages 42-43, topo page 46.
 
 # Protection
-Break easy middle then per decade. Reality maybe thought put dinner. My west huge sport defense speech occur probably.
-
+bolts and chains

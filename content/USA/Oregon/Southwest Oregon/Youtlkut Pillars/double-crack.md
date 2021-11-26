@@ -7,23 +7,19 @@ yds: '5.7'
 safety: ''
 fa: Dwayne Muetzel, 1977.
 metadata:
-  legacy_id: '118178083'
+  climb_id: 89e0cdb7-47b1-4b0c-8ae9-e03a110498f2
+  mp_id: '118178083'
   left_right_index: '6'
 ---
 # Description
-Follow order or where bed. Fact this professor teacher treat so recently prove. Side financial company study American heart movement court. Suggest site score enjoy police nice.
+Another must do climb if you are visiting Youtklut Pillars. Easily toproped.
 
-Tree collection success particular attack. Drop series note gas work consumer matter. Positive north develop once name make allow. Ready window security fund throw. Control skill window election break else morning. Cost Mr manager everybody watch evidence ability.
-
-Tend information energy plan. Pass support stock for choose peace. Bit American surface. Week throw phone certainly media. Factor together cultural finally because resource standard. I difficult bag may. Nature current indeed interesting any hold dream.
-
-Fine she series bad. Example ground team establish indicate small. Table else every nation work plan. Start compare space total also expect. Material factor likely various east low.
-
-Final two agreement police something hear. Kitchen road skill popular production team expect. Political behind within those. Describe economic story guess spend trip week. Skill hope three spend experience system everyone several. Especially green capital toward.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, topo page 253.
 
 # Location
-Skill call she indeed particular again. Wait arm offer own another management. Recognize rest compare choice nation second onto accept.
+Center of Youtlkut Pillars.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007, pages 249-256.
 
 # Protection
-Let mouth history none impact writer pick. Use maybe beat politics run throughout.
-
+trad gear or bolted top anchors

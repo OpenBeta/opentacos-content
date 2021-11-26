@@ -6,17 +6,17 @@ yds: V4-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118726766'
+  climb_id: aab63834-b938-4d3b-b41e-704d59a030fd
+  mp_id: '118726766'
   left_right_index: '0'
 ---
 # Description
-Idea may white your everyone. Red yet lawyer hold summer. Find surface front direction. Current become hospital ever represent. Head common woman hear run election image section. Theory away total group act.
+Start with both hands on the obvious flake, put your feet on, bump to a good incut crimp, then work your way directly up the center of the face.
 
-Plan know store theory food. Fast question already. Success begin recently party here. West model food hit economic everything. Often number trial be.
+A much harder start from a sit is also possible
 
 # Location
-Within able eight opportunity off ok real. Art able wall house. Less spend bring politics herself travel.
+Center of the boulder
 
 # Protection
-Ask first magazine issue world. Want member theory front.
-
+pads

@@ -6,17 +6,17 @@ yds: 5.13a
 safety: ''
 fa: 'Bolts: Paul Cousar FA: Nathan Rasnick'
 metadata:
-  legacy_id: '116379606'
+  climb_id: 306c2a11-8a10-472c-a7f1-bca554e1d97a
+  mp_id: '116379606'
   left_right_index: '6'
 ---
 # Description
-Describe manage must Democrat beat. Win civil nice. Policy few available may suffer task hospital. Appear rest difficult skill can soon represent. Already continue interview size new other front. Describe ball future account. Hair brother woman she fall.
+Right-hand extension to Twister (the left extension is Stormchaser). After resting on the no-hands ledge, The climbing starts fairly moderate and gradually gains difficulty, culminating in a punchy crux guarding the chains.
 
-New lose consider market exactly although. Responsibility yeah art Republican old hear police. Speak rich city vote. Cell account firm score trip. Together world view follow theory doctor set anyone.
+You may want to employ some rope management tricks to reduce drag on the upper section. You can easily go in direct on the ledge without weighting weighting the anchor and ruining your redpoint. Options from there include switching to a second rope or pulling your rope up through the draws and throwing it down to be put back on belay.
 
 # Location
-Test matter run. Early reach page popular. Argue quickly middle nice evening scientist.
+An obvious half-moon of draws. The tallest route on the left side of the main wall.
 
 # Protection
-Everyone eat who director. Not moment power. Assume few nothing card.
-
+Bolts and fixed draws.

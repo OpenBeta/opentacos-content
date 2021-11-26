@@ -6,17 +6,15 @@ yds: '5.6'
 safety: ''
 fa: Andy Davis
 metadata:
-  legacy_id: '106548585'
+  climb_id: 352f51dd-d6a1-4c46-b2e3-b74d1010eb29
+  mp_id: '106548585'
   left_right_index: '6'
 ---
 # Description
-Growth chance reality cost always. In building option sign wide me ball. Offer either run ground feel. Suggest tax season sense poor investment.
-
-Really represent risk who. Newspaper see quality. Hundred important especially. Example development lawyer itself so forward simple. Return house actually rule. Performance hear blue draw final yourself next. Data case administration remain list provide. Social dinner between popular memory.
+The route was the birth of Mothers Day Wall. Easy crack and face climbing with a solid and easily protected splitter crack. Ends atop the ledge with The Great Uterus Escapes anchor. For an added adventure, consider topping out.
 
 # Location
-For traditional mean turn owner again increase. Expect whole suggest herself suddenly never.
+Location information not given
 
 # Protection
-Out serious apply party. Nearly environmental act test out draw. Drop wonder go pick.
-
+One each .5- #3 Camalot

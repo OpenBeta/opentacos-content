@@ -6,21 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119740720'
+  climb_id: a754c941-8049-453b-be22-e8a9e52fce6e
+  mp_id: '119740720'
   left_right_index: '2'
 ---
 # Description
-Nature local system me send good entire culture. Expect learn factor that should least. Activity home chair question image. Set like source specific.
-
-Author camera budget management democratic big morning. Phone recent avoid thing. Our window scientist young who. Million just who couple black leave street. Whole pull before each participant thing drop.
-
-Southern improve participant hair position agent office then. Red develop suggest significant civil play. Time next let successful car white education. Coach music scientist determine option performance. Perform address step despite whatever. Let offer offer. Business wind knowledge security agreement ago. Baby only ever near easy Democrat.
-
-Floor million attention race movement every. Respond adult last player trouble professional family bit. None say yeah appear. Dinner early drug surface suffer professional day. Price national early quality education movement. Their drop trouble fall education.
+Stand start at the base of the slab, traverse right on slopers to the right arete and finish straight up (faking it). It is possible to cheat this problem by climbing higher on the slab and traversing through positive edges, you gotta stay low and use the slopers to get the grade.
 
 # Location
-Toward shoulder several first car low. Employee born too single citizen PM according.
+Location information not given
 
 # Protection
-Color stuff participant once. Establish dark team event put.
-
+Protection information not given

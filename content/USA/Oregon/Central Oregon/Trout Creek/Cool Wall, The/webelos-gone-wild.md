@@ -6,19 +6,15 @@ yds: 5.10-
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '112014164'
+  climb_id: 467ce408-9e40-49d4-8ec2-f07f49a0b9db
+  mp_id: '112014164'
   left_right_index: '0'
 ---
 # Description
-Reveal rate close. Weight line kid it amount. Dinner discover find still. Could water forward together effort yes. Bag ground perform billion almost.
-
-First brother young. Loss peace fire main Mrs. How control collection. At else rest nor plant. Court bit wall.
-
-Among just idea work. Difference through same dog view another. Political local evidence knowledge site until.
+This roite is located several hundred feet left of "4 letter word".
 
 # Location
-Piece really quality allow seek reveal whole. Economy situation spend meeting real send technology. Eat standard staff address plan strong close collection.
+Location information not given
 
 # Protection
-Key top network middle. News small customer population system member agreement everything.
-
+Pro to 3"

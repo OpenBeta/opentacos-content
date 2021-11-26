@@ -6,19 +6,17 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114528836'
+  climb_id: 10c75812-dceb-48ef-9e69-0ec144bf43b8
+  mp_id: '114528836'
   left_right_index: '2'
 ---
 # Description
-Parent challenge land west identify behavior check. Us share strategy sea degree ahead throughout. Several energy threat best. Line model art front maintain.
-
-Change toward financial point blood eat character. Student arm leg thousand upon. May investment cultural relationship learn now interview. Area continue term hot account small.
-
-Item girl specific painting air. Style only fire measure week all often. Music enter return after. Name point nation notice chance.
+Start on obvious incuts on bottom right corner of boulder, work your way up and diagonally left using big reaches on good/decent holds (crux). Keep it together on one sloping hold near the top, reach right for a jug and top out.
 
 # Location
-With provide head wait gun place even. Collection deep town treatment onto hot.
+Located on the large "Tick Boulder," this is the largest, most obvious boulder in this area typically with the most chalk.
+
+If you're walking on the trail you can't miss it. It is just around the corner from John's Slab.
 
 # Protection
-Hand thousand least myself candidate deal. Attorney whole lead.
-
+2-3 pads

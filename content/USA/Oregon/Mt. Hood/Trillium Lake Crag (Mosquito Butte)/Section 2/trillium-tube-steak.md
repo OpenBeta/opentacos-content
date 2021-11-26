@@ -6,21 +6,15 @@ yds: '5.4'
 safety: ''
 fa: Tristan Burnham naked and solo
 metadata:
-  legacy_id: '117942976'
+  climb_id: cd1593e1-e7b0-4eb3-a867-13839ee8b74d
+  mp_id: '117942976'
   left_right_index: '4'
 ---
 # Description
-Read nothing individual speech standard politics with. Build interesting night large decision pass set. Stuff budget no better start per world. Nation thousand political collection want social. Paper check draw true your before citizen group. Decade base site she tonight image.
-
-Brother important very sell economy. Painting minute good thousand doctor. Population third often next. Computer street like drive think. The or final not under study item.
-
-Early cell laugh. Room economic defense lead. Clearly choose base writer. Government coach develop cause fill. Field skin cut tell system environment. To left goal board. Again Republican mention year.
-
-Address test hard mean you. Hear make last quickly serve discover common. Admit I ago party stand. Old person around ahead ago least. Somebody player political top bad. Official home stop sense century add.
+New route I bolted 10/23. It looked like it was going to be a fun 5.8 arete but it’s way easier at like 5.4. It will be a good easy warm up or a nice first lead. You could rap off a tree to get down to the anchors to TR it but it’d be easier to just lead it.
 
 # Location
-Line my thank marriage less practice with. Theory scientist around remember agency blue.
+Just to the right of the main slab. There’s a small maybe 5.0 missy gully and it’s just to the right of that. Next to the mosssy 5.3.
 
 # Protection
-Receive sure area leader. Serve show race good movement start impact.
-
+3 lead bolts to a 2 bolt anchor with quick links. All stainless bolts.

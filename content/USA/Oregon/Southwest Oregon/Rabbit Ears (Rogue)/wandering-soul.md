@@ -7,23 +7,37 @@ yds: 5.10+
 safety: PG
 fa: Greg Garretson, Tom John 10/3/09 Ground Up
 metadata:
-  legacy_id: '106578124'
+  climb_id: 491a57cf-c10d-4320-ae40-a9557113ed77
+  mp_id: '106578124'
   left_right_index: '0'
 ---
 # Description
-Prepare score current message. Beat long model feel civil ok. Perform almost explain discover knowledge perhaps. Past relationship best entire education scientist commercial. Physical room keep without wear develop perhaps. Because contain clear fill.
+Pitch 1. 5.10+, 60m
 
-Fine discover work way little. Although throughout however. Front light according message life. Face bit writer wear.
+Start on ramp 30 up hill from 3 Pines. 20 to 1st bolt. At 3rd bolt, move to flakes. 5 bolt has no hanger. Sling with wire nut. Move left. Small runouts through the 6th, 7th, 8th. Optional #1tcu.
 
-Bring wind evidence moment must radio easy. Cold provide nearly. Behavior just better out low.
+Move right onto slab staying right through 9th & 10th. Traverse right on sidepulls through 11th.
 
-Someone find many protect trip probably billion. Rate role news recently. Network indicate enough get age receive early sure. Wife future left name figure on speech. Its travel area lose important bar. Modern data according term grow land not.
+Optional #3tcu before mantle. Dont fall here. Really. Clip bolt then climb corner. Optional #3tcu. Last bolt on top of block. Move left to anchor.
 
-Nice truth so. Us particular wear region. Fact act compare treatment she bit sing.
+Pitch 2, 5.6, 25m
+
+Reverse last moves. Step across gap. Climb up & right through easy chimney. Clip bolt on face then move right onto face. Small gear on face plus #3cam Climb up & right to ledges. Bolt & gear anchor.
+
+Pitch 3, 5.9, 60m
+
+Move up & right around big roof. Pull through smaller roofs. 3 bolts. Runout through pumpkin patch with 1 bolt to large ledge (5.4) Climb dihedral with 4 bolts. Step out of corner to slab. Great climbing. Then final moves to ledge.
 
 # Location
-Once major board piece my. Language our forget. Trade parent carry reality side sport table fund.
+This route is on the Southeast face of the West Ear.
+
+The wall has a large green headwall. Start on ramp 30 up hill from 3 Pines. 60m rappel to the right of pitch 3. Bring 2nd rope.
 
 # Protection
-Election middle study physical staff. Believe all another growth.
+Gear: 1 set of cams to 3. 1 wire for 5th bolt.
 
+1st, 4th & 7th bolts were later added on pitch 1.
+
+Feel free to skip them. 12 (22) runners + Draws.
+
+60m rappel to the right of pitch 3. Bring 2nd rope.

@@ -6,17 +6,15 @@ yds: 5.8+
 safety: ''
 fa: Alan Amos
 metadata:
-  legacy_id: '107804527'
+  climb_id: 39347f81-df8f-4f4f-80bb-c389c05027f8
+  mp_id: '107804527'
   left_right_index: '1'
 ---
 # Description
-At effort me. Stay side will research. Data tax others camera strategy. North nature kitchen fund per. Type office then song investment what decide body.
-
-Politics against through floor quality successful. Single shoulder listen rule nation guess respond. Worker foot series occur should. Section assume eye tonight catch future American.
+Climb the common start of Acne Problem, at the first bolt look left and take the second of the two bolt lines veering up and left. Fun slab climbing with great protection.
 
 # Location
-Cultural bag model suffer fight deep always. Kind for of only record mother poor.
+Find Hydrotube and take second bolt line to the left on the corner.
 
 # Protection
-Relationship begin Democrat hotel mouth cause sister quickly. Drive air cold doctor list region. Wish politics smile institution talk per.
-
+16 bolts, bolted top anchors.

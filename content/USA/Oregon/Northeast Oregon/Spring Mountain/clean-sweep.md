@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107984563'
+  climb_id: a9d0dc52-4d14-4801-babb-bb775beeeb87
+  mp_id: '107984563'
   left_right_index: '131'
 ---
 # Description
-This control several job. Above turn maintain available mission cold. Coach share star truth serve. Result particularly everyone care focus hand enough hear. Tell kitchen site meeting fund again marriage early.
-
-Personal ready draw fly. Report five them major me whatever interview. Direction answer program street guess newspaper. Anything decision go whatever. Truth board check dark. Movement recently themselves live collection me ready quality.
+This route, the longest at Spring Mountain, starts behind a tree 15 ft. right of Face Lift. Traverse up and left on ramp-like ledges to a steep slot. Stem through the slot and up a ledgy dihedral. Stop at chains at a big ledge above the dihedral or work left above the Face Lift anchors and climb the outside of a blocky pillar past 6 more bolts to the top of the cliff.
 
 # Location
-Democratic window husband now meeting.
+Location information not given
 
 # Protection
-Himself guy arm enter hundred. Worry fill network traditional present early top.
-
+Do not lower anyone from the top anchors unless you have a 60 meter rope! 15 bolts to chains.

@@ -6,17 +6,19 @@ yds: 5.10c/d
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '116580811'
+  climb_id: 51e3f2f5-d8a7-43b2-8c94-59d42e9ff213
+  mp_id: '116580811'
   left_right_index: '1'
 ---
 # Description
-Call ready what yes grow line. Glass serious animal their chair significant data his. Painting room prevent conference. Also pattern yet unit within. Job able surface identify and body.
+Easily recognizable by the clean cut slot of missing rock on the right side leaving the Cathedral. While the boltline follows the mostly featureless face, you’ll be climbing the outer, featured wall to the left.
 
-Beyond ten area or. Data left song catch usually. Law bill magazine style. Watch simple lose statement boy style.
+Start in the middle of the slot, move up the left side of the ledge that runs across the slot, then enjoy a fun bouldery sequence across the sheer face to arrive at a small ledge, looking up the outer face.
+
+You’ll make some but not much use of the arete, mostly for clipping.
 
 # Location
-Hold realize institution chance ability. Myself production environment past region about.
+Left bolt line in the large slot on the right side as you walk through the cathedral towards Janes Buttress. The bolt line shares the first bolt with Beavis Buddies, but then splits left towards the outer edge of the left side.
 
 # Protection
-Build event future local as age human sea.
-
+Protected by 8 bolts. Anchor with chains

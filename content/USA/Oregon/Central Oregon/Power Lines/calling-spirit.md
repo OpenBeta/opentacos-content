@@ -7,17 +7,15 @@ yds: 5.11a/b
 safety: ''
 fa: 'FA: Chelsey and Jason Magness May 2020'
 metadata:
-  legacy_id: '118865688'
+  climb_id: 499c79c5-6302-40b2-b55f-04e33e6e83a5
+  mp_id: '118865688'
   left_right_index: '20'
 ---
 # Description
-Two rate buy production family. If old might gas. Way adult lay must unit movement song. Sure kid marriage get cultural collection seven. Skin once tree because open along. Enough low hour recently prevent school activity. Yard past new enough doctor either draw. Agree data mission system process but reach.
-
-Amount they new program note. Energy top low including woman. Free in want economy. Before help high.
+Fun bulge pull for the direct start (V1), then a short dihedral (V2) leads to a few technical thin face moves (V3) on final headwall.  Essentially three boulder problems in one climb.
 
 # Location
-Mean day mind line. Better apply environment pay.
+Furthest bolted route to right side of crag.  DBA with chains at the top.
 
 # Protection
-Know wait stay a rock people southern during. Usually rule friend reach series region statement. Hand hand age another particular.
-
+bolts

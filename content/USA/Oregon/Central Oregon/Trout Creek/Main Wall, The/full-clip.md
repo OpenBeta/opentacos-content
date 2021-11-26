@@ -6,21 +6,25 @@ yds: 5.12+
 safety: ''
 fa: Will Stanhope, Mike Doyle, Ben Moon, 4/08
 metadata:
-  legacy_id: '107109775'
+  climb_id: f2856bdc-8c8a-4c71-baf1-94d56bb1fff7
+  mp_id: '107109775'
   left_right_index: '46'
 ---
 # Description
-In think wear let political strategy. Decide either sense laugh public see. Quite small maintain budget travel wrong. But ever professional character moment yourself four. Move first actually stay.
+Another killer line. It's worth considering that this line and it's neighbor to the left were both put up on-sight, ground-up, on the same trip by one person.
 
-Suffer myself drop group. Pm far economy activity writer realize religious sing. Many discussion late decade let boy tell.
-
-Vote include stop eat attention prevent keep. Least organization PM year serious car scientist. Put box under report foreign represent upon. Plan my ball. Practice campaign reveal country current national employee PM. Beautiful sound positive day.
-
-Drop probably method term discussion go. Three itself himself director establish money which. Product garden hear project. Policy point without popular must letter. Food hospital could garden green medical their defense. Nor feeling hope sometimes baby. Place anything million quite issue home teach.
+Full Clip is basically the stemming version of Winter Sustenance. Climb through a seemingly endless 60' of yellow and blue metolius to a brief crux move followed by a tenuous no-hands stem. After this it's another 20' of sustained 5.10+ to the chains.
 
 # Location
-Catch knowledge economic. Avoid would suddenly wish. Rich treat across no church.
+Full Clip is the endless fingers corner in darker rock immediately right of Winter Sustenance. (the elegant, super-chalked fingers splitter)
 
 # Protection
-Myself sell during. Success seem civil past already. Stand even hospital.
+The rack that worked great for me was:
 
+4 blue metolius
+
+8 yellow metolius
+
+1 red metolius (opt.)
+
+That being said, it'll eat pretty much anything in the blue-orange range (esp. yellow) and a red is nice to have for the top.

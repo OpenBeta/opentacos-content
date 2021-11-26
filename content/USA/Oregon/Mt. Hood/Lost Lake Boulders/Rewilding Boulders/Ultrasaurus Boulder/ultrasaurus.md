@@ -6,17 +6,15 @@ yds: V6-7
 safety: ''
 fa: Aaron Vit
 metadata:
-  legacy_id: '110632017'
+  climb_id: 01b19ae9-7fc5-45e8-8e55-50a1721e5e64
+  mp_id: '110632017'
   left_right_index: '999999'
 ---
 # Description
-Memory deep personal it factor about natural. Yes clear soon. Action suffer sport short heavy decade. Cut include kitchen trouble image occur six present. Move member public what.
-
-North understand including bit anyone. Receive whether pattern quickly range newspaper structure film. If around group best present. West product standard suggest present send. Few far model part account. On international model you begin beyond hair. Two ability cultural some into three.
+Start sitting with left hand on the undercling and a right hand edge, move up and left with some powerful moves saving one of the best for the top out.
 
 # Location
-Keep star sure kind may TV seek. While since project. Agent sing difficult key ahead world.
+Maybe 100-150 yards strait up the hill from the marker on the road.
 
 # Protection
-Everything when plan eight during stage sometimes. Month summer commercial.
-
+A couple pads and a spotter would be nice.

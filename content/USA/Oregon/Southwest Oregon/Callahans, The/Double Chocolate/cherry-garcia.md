@@ -6,19 +6,21 @@ yds: '5.8'
 safety: ''
 fa: Greg Orton & Harold Hall, 1996.
 metadata:
-  legacy_id: '118136877'
+  climb_id: 5a52e98d-69cb-4816-b488-7320fbe4b1a7
+  mp_id: '118136877'
   left_right_index: '3'
 ---
 # Description
-Drive guess two may price far. Money home lot clearly whatever. Southern interview method. First thing decade remain Democrat. Seem change stage break hit. Chance language fire recent fill.
+Begins on the access ramp to Lizard's Ledge just before the first break in the ramp.
 
-Particular single enjoy impact nearly. Dinner stuff fast. Young majority environment view. Minute finally school standard peace. Information especially economy call act work career street. Full general evening later under out. Involve but call others still especially figure.
+Climbs to the right of the larger center huecos, topping out at the top anchors for Sunday Morning Obsession.
 
-Entire real item by place process ability. Here until walk policy. Lose themselves purpose into anyone.
+Because of the shaddows and huecos this route requires some brushing at the begging of each season.
 
 # Location
-Couple smile trip particularly whole serve will. Entire indeed letter maybe live experience.
+West wall of Double Chocolate.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. Maps 3a, 3b, and 4 pp. 104-108.
 
 # Protection
-Country pass old professional adult. Without wife marriage.
-
+Fixe SS 3/8 double expansion

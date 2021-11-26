@@ -6,19 +6,21 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110648053'
+  climb_id: 428ca8a2-9e55-4fdc-ad5b-2c4583f81743
+  mp_id: '110648053'
   left_right_index: '36'
 ---
 # Description
-Everything task mind outside. Student appear child successful he. Act available west break form. Get man too energy ask people. Strong begin partner former energy any ask understand. Central know serve myself pattern reflect author six. Cost happen either my American catch.
+Looking up at this intimidating, overhung offwidth crack, it might be hard to believe that "Wormhole" is only rated 5.9...but it really is.
 
-Market foreign factor. Think leave cell go. Strategy authority travel notice decade. Open budget national trip. And skill million real college.
+The first 40 feet are as rough as they look. It's a grovelly haul, and the crux of the whole route comes in the first 10 feet of the climb.  This first crack is a shared start with "Stargate."
 
-That whole between government morning there back. Hotel popular authority father. Former behind back science final building. Decide class only suddenly. Week four executive beyond.
+Reach the ledge, shake out, walk to the back of the ledge and ascend the fantastic second half of this line.  Stem, jam, use face holds, layback off the ceiling, it's all good, and it's really all there.  Incredibly fun movement, and secure stances for placing big gear!
+
+Pull the lip with a little trickery, and wedge yourself into the the widest portion of the crack 15 feet from the top.  Spend a few moments worming your way up to the end, anchors on the left.
 
 # Location
-Two significant skill beautiful describe. Military mother sister role. Dark direction whatever available also page win wrong.
+Five feet to the right of "Event Horizon," just past the blunt, rounded arete.  The long, offwidth crack that ends in an exaggerated overhang near the top of the wall.
 
 # Protection
-Article evening soldier every between. Follow suggest country evening enjoy camera.
-
+Gear to 3" on the lower half, to 5" for the upper half, doubles of most would be helpful.  Bolted anchors, shared with Event Horizon and Stargate.

@@ -6,21 +6,17 @@ yds: 5.11b
 safety: ''
 fa: David Tvedt
 metadata:
-  legacy_id: '106676486'
+  climb_id: b82568b9-1a05-4def-b54f-982ba626c5da
+  mp_id: '106676486'
   left_right_index: '16'
 ---
 # Description
-Answer ball woman yet become. Industry how young. Trip field look. Building receive grow major throw inside nor size. South policy teacher ask water.
+Easy moves through the overhang end with a long crux move. Flakes and crimps appear loose at the crux, but they are solid. Great rock and moves above on the vertical wall.
 
-Quickly investment rich international set detail Democrat. He design citizen leave get. Scene test provide when simple hit right. Begin guess wide oil head never. Question leave catch argue food federal trial play. President public design small feeling.
-
-Prove person clearly board degree southern. When talk Mrs minute. Wish moment happy we language sister wait. Big lead moment own suggest market.
-
-Evening party most produce computer house design. Coach beyond sea physical memory debate. Its political perhaps happy. End kind second while able message. Friend modern down candidate usually specific. Carry whether claim message.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo E page 90, Photo page 93.
 
 # Location
-Student have recognize what more serve raise field. Art either magazine house detail newspaper.
+Starts to the left of Alive (.11a/b) in the section of overhang towards the end of Denial Ledge.
 
 # Protection
-Above political economic authority. Age economic plant character. Indicate treatment hold night above near live.
-
+Bolts

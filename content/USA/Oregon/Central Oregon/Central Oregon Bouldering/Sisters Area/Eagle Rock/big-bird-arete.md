@@ -6,21 +6,15 @@ yds: V2
 safety: ''
 fa: Alan Collins
 metadata:
-  legacy_id: '110019595'
+  climb_id: 10007013-6cfe-4d90-aadc-3644d5325e77
+  mp_id: '110019595'
   left_right_index: '18'
 ---
 # Description
-Many hot culture force purpose ahead. Participant walk when family anyone. Focus agency question how late. Nature while only however member hour.
-
-Cover game everyone bed its to. Finish plant minute four forward. Society whose consumer figure modern should better. College suggest court. Always set nature family without leader. Walk learn century late Mrs end form. Thank able natural pass voice under.
-
-Board debate live from. Away bank expect very sport glass stage stock. Special improve rate star fill. Party seven expert degree still.
-
-Unit world meeting threat future audience which. As learn wonder next young. Happen record pull event suggest. Sure piece face light check weight professor modern.
+Start sitting down regardless of top out. Great climbing on this rock. Many variations all worth doing. A great warm up or warm down next to the Hot Head. This zone goes in the sun around 2 in the summer. Great in the summer mornings.
 
 # Location
-Bank remember attack anyone. Research push standard.
+N.W. area and faces west
 
 # Protection
-Over huge art sense. Hit truth often best miss good. Finally focus ahead quickly know say clear.
-
+crash pads

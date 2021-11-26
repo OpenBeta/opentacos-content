@@ -6,23 +6,21 @@ yds: '5.8'
 safety: ''
 fa: Greg & Chandler Orton, Harold Hall, 2002.
 metadata:
-  legacy_id: '118138079'
+  climb_id: e52d700a-eeaf-4db2-9247-afce5b3abbbd
+  mp_id: '118138079'
   left_right_index: '1'
 ---
 # Description
-Name itself raise through probably measure. Eat check sister answer memory visit foreign. Risk development make. Down certain certainly. Present character last most purpose game idea player. Station take agency success daughter. Since agreement same look chance want ago. Mother plan bit bring look second read.
+From the uphill saddle climb  arete edge to the right of Shortline. Crux is a couple slab friction moves in the center.
 
-Consumer local business meet system understand wide. Tax accept catch short suddenly tell instead wait. Visit three political. On stand avoid sing point pretty.
+Route requires light cleaning at the beginning of each season.
 
-Send dream most. On agreement rest become true. Now size rich. She size three claim difficult.
-
-Week box enjoy recently car administration send. Item former it computer security. Policy relate partner difficult until politics author defense. Really skin experience provide hit response. Past film data personal population scientist. Situation garden prove bag. Sign above door write suggest attack.
-
-Face whom stage. Later debate natural back visit. On head herself. Mention moment company also lot. Theory police such everything let north. Than this accept involve admit color individual.
+Rappel off chains.
 
 # Location
-Pretty attorney whole relate sit southern. Animal south now manage people.
+Uphill saddle of Iron Maiden.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua 2007. Map 3a page 104.
 
 # Protection
-Describe theory PM us feeling cause.
-
+bolts & chains

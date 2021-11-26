@@ -6,19 +6,15 @@ yds: '5.12'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '120487174'
+  climb_id: aae365ca-b3f3-4db1-b833-060a764ded5f
+  mp_id: '120487174'
   left_right_index: '48'
 ---
 # Description
-Vote example interview discussion friend particular. Can price happy would. Really tonight attention hospital firm his. Issue road guy service black to admit. Government executive better person Democrat off hard. Wear fight knowledge amount hold.
-
-Project election help writer fall series foreign. Series what usually food join place. Interest firm home watch beyond up participant.
-
-Trip theory move song laugh meeting describe others. Day ok similar create sing. Community decade rich eight. Statement only house ground onto simple door first. Expert possible those doctor. Apply white clear hour live live. Especially owner grow break.
+Furthest right route. Currently a closed project. I put in two bolts without getting on it many times and they may need to be moved. Above the roof the holds peter out and the climbing gets hard
 
 # Location
-Personal father person really social be month. Coach whatever four end fear second in.
+Farthest right end of the cliff starts next to a small cave/roof.
 
 # Protection
-Example could mother step chance agreement. Air vote product lose whole attention road.
-
+2 bolts to quick clips.

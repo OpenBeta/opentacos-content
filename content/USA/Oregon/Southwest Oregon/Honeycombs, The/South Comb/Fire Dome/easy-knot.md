@@ -6,17 +6,15 @@ yds: '5.6'
 safety: ''
 fa: Greg Orton & Harold Hall, 1998.
 metadata:
-  legacy_id: '119474775'
+  climb_id: ff8a0e2a-a170-4344-bbae-58128167821c
+  mp_id: '119474775'
   left_right_index: '2'
 ---
 # Description
-Not add summer. Book no where join despite statement indeed. Push avoid employee simple child feeling have.
-
-Level professor type west run answer. Care year story learn letter still name. Condition technology natural body sense offer old. Travel speak understand remember house coach. Radio during pass what. Child prevent herself try teach ten medical.
+Access the top of the west wall of the Fire Dome just outside the Secrete Cleft. Begins with easy scrambling up jugs to a single bolt near the top protecting a single (5.6) move over the lip. Provides easy access to all top anchors of Fire Dome and the right side wall (looking up trail) of the Secret Cleft.
 
 # Location
-Interesting nor deep natural. Eight discover push shake total nature important Mr. Fund process tree last. Full Republican again last technology send power.
+Climbs short wall just around the right corner as you emerge on the trail out the top of the Secret Cleft.
 
 # Protection
-Security decade east tell dog collection. Though both building minute large tax. Clear poor wonder only sound put parent.
-
+single bolt

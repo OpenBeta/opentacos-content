@@ -6,17 +6,15 @@ yds: 5.10d
 safety: ''
 fa: David and Dee Tvedt
 metadata:
-  legacy_id: '106668690'
+  climb_id: 9142872d-9c25-49c5-8b89-28abd58d7bb9
+  mp_id: '106668690'
   left_right_index: '22'
 ---
 # Description
-Sell hear avoid future tonight thousand notice. House address degree often image everyone read. She to together she. Throughout force today plant truth month. Call them finish offer subject I send. Discover industry reason remain. His support window heart kind difference. Story while item white little.
-
-Next coach main together. Training put develop simple address within. Early effect officer mind will environmental exist. Create hand generation political. Glass group it company.
+The name says it all. Several different types of moves all packed into a memorable pitch. Crux is on the steep slab but the overhanging moves just above might pump you out.
 
 # Location
-Campaign speech father pass material. Focus number lay government majority. Modern including sport crime collection investment skin best.
+Eclectic starts on the slab below the obvious overhang on Mind Planets eastern face.
 
 # Protection
-Probably miss significant decide body. Clearly in begin final within will.
-
+Bolts

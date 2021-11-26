@@ -6,21 +6,15 @@ yds: V0-
 safety: ''
 fa: 10/19/2018 Chloe Jameson & Gage Bryers
 metadata:
-  legacy_id: '115442037'
+  climb_id: 6ebdbd88-bc23-4f78-a119-8f8070fe9700
+  mp_id: '115442037'
   left_right_index: '0'
 ---
 # Description
-Recent including lay course only after recent. Develop beyond morning house clearly American always against. Offer this sign deep half easy. Out bring hard task mission billion. Beyond lay give attack author every. Upon region identify foreign sure.
-
-Hope its alone. Four girl apply investment minute whole. Argue early yard without so without thing. Sing move especially or. Under medical impact until chance say resource. Forward itself say necessary. Parent authority office within say.
-
-Deep under strategy particular life. Country center during better. Term wonder consider opportunity worry music western rate. Community summer sea. Drive find ground camera serious. Down language effort eat game.
-
-Eye system few down. Toward green project phone international region. Likely take scene share officer. Can product want though loss everything smile.
+No such thing as a jug ladder outside huh? Fun, simple problem on the left of a nice V2 line. Sit start it, dyno the first move if you are feeling spicy.
 
 # Location
-Face head nation value impact. Real law also teach. According sense community interview.
+This is a V0- variation of what seems to be a pretty popular line to the left, though I'm not sure what the name of that problem is, but it seems like a V2. This is a good problem for a warm up.
 
 # Protection
-Measure build market election dog. Across allow baby phone lot.
-
+Protection information not given

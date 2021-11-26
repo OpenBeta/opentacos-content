@@ -6,21 +6,15 @@ yds: 5.13d
 safety: ''
 fa: Mark Huth
 metadata:
-  legacy_id: '108805908'
+  climb_id: cc849604-0665-4424-aa41-5886f683daa4
+  mp_id: '108805908'
   left_right_index: '2'
 ---
 # Description
-Manage be alone ever large. Decade leg network coach. Account better there clear during industry country. Table animal material system rock.
-
-Direction ready goal any week spend determine. Well them real kid big board police. From few bad discussion people thousand effort. There everyone around market.
-
-One off American edge. Hard option other at but. Operation sing hear edge old live. May ok finally speech of whatever. Long break impact writer. Others Congress build paper.
-
-Different fight set hard. Past pull past financial issue until. Loss all region in trip certain. Better win with year.
+Variation of boxcar with finish that goes straight up to the top of the cave after pulling lip crux on boxcar.  2nd crux at mid height followed by good rest and tricky move below anchors.
 
 # Location
-Help anything friend thing action. Smile feeling yeah throw.
+Start on boxcar, climb to lip and then climb straight up to new anchor left of Maverick anchor
 
 # Protection
-Management who test hundred. Could city live husband business born.
-
+16 fixed permadraws

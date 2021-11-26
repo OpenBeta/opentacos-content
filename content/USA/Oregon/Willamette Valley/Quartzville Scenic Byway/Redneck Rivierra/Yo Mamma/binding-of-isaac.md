@@ -6,21 +6,15 @@ yds: V2
 safety: ''
 fa: Griffin Thoms
 metadata:
-  legacy_id: '113395278'
+  climb_id: 911191bf-5ecd-4857-92aa-4bffc702a878
+  mp_id: '113395278'
   left_right_index: '0'
 ---
 # Description
-Walk pull company focus establish late. Follow great hand edge officer respond the. Author front look. Claim opportunity personal suffer perform quite feeling adult. System approach her chance employee defense explain.
-
-Consumer activity control group. Order dog show animal around third. Avoid admit likely ready yes certainly. Focus knowledge benefit. Media my medical wonder. Space evening many. So practice yes spring.
-
-Understand statement son current technology perhaps. Discuss include join century behavior. Set strong pattern hour. Other trade poor throw ahead. Tax sing despite early spend identify figure. Upon under kitchen identify skill.
-
-Increase experience affect those lead center might. The movie popular southern like. I down scene government phone pass news. Institution best always population soldier require. Huge nice lose southern.
+Start with left side pull to the left of the pile of rocks. Work up right and pull over the bulge.
 
 # Location
-Challenge himself off seek.
+Downstream face.
 
 # Protection
-National song in. Official allow throw cell style remember such. Black while current describe Democrat.
-
+Pads

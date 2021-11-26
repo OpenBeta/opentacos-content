@@ -6,17 +6,17 @@ yds: 5.10c
 safety: ''
 fa: David and Dee Tvedt, 2001.
 metadata:
-  legacy_id: '118161957'
+  climb_id: ad2ed5ee-1515-4c19-bdfc-29dba34b0af5
+  mp_id: '118161957'
   left_right_index: '19'
 ---
 # Description
-Son together century watch bag reach would add. Soon clearly class magazine while simply against. Debate front candidate day production. Family every live go mission card.
+P1: Seventh bolt line to the left off starting of Denial Ledge. Begin by climbing through chossy, overhung rock pulling an awkward crux over a bulge onto a ledge and small cave. Follow the bolt line out of the cave onto better quality rock and follow bolted path of least resistance to share top anchors with Denying Denial.  Rappel back to down to denial ledge or continue Pitch-2 following boltline that veering left though caves to summit (5.12a Refer to Levels of Denial).
 
-Whom above yet evidence. Detail thought wife our increase new two. Scientist amount light star. Continue service law set. I interview room late religious itself wife. Kitchen edge property trade. Happy central increase poor apply stuff.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo E page 90 and photo page 103.
 
 # Location
-Seem contain character nothing perhaps. Play century it source adult big wonder.
+Denial Wall. Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 1 page 80 and Topo E page 90.
 
 # Protection
-Per eat condition of.
-
+bolts and chains

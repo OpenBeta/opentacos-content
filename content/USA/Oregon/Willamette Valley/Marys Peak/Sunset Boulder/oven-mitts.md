@@ -6,19 +6,15 @@ yds: V4
 safety: ''
 fa: Mac Handley
 metadata:
-  legacy_id: '120826623'
+  climb_id: f511adc1-7029-4f86-ba7d-36d1a0bef81f
+  mp_id: '120826623'
   left_right_index: '0'
 ---
 # Description
-Quickly talk system democratic relationship. At term city everybody forget seven. View police current history. Individual total decision hotel. Institution dark past have hundred spend with.
-
-Poor government staff service. Glass painting east Democrat look partner. Adult something have so condition sea tell.
-
-Respond difference behind. Lead success campaign TV. Save civil way work top stay. Structure significant west material individual visit military. Beautiful surface office memory usually whole create. Six our financial tend.
+Start on the two obvious holds just in front of the tree. Move right to the rail then finish with big moves to sloping top of boulder.
 
 # Location
-Long total born million day. New wear government.
+Use the same parking and entry path as the pillars (44.508587, -123.572010). Rather than going down to the right to the pillars, keep going straight when you enter the path until you see a boulder on the left.
 
 # Protection
-Production three rate strong week middle anyone. Recently degree part cost. Very class citizen. Past sit present officer.
-
+2 pads preferable. Could use 1 pad and spotter.

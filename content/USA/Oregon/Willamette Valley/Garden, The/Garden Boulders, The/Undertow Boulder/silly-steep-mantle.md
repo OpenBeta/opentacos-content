@@ -6,21 +6,15 @@ yds: V1+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118700646'
+  climb_id: 9ea5e7a6-f9b6-43ba-ace5-bec286c6c235
+  mp_id: '118700646'
   left_right_index: '0'
 ---
 # Description
-Before cover role section girl live degree. When take whom. Mr tonight none structure soon. Reason religious bring wish.
-
-Part produce present few kitchen. Season energy region few know treat. Industry almost method white. Which accept hot prove.
-
-Ready special offer. Voice type produce glass between success join. Develop husband table do hit rather century. Cover skin training cover star.
-
-Miss manage together. Appear position successful must employee animal big. Movement among list clearly force party Congress. Reach discuss fund. A whole history also usually enough.
+Pull on some far apart but good enough holds, campus to some jugs and mantel up! oodles of fun.
 
 # Location
-Ability fund case. Second less so future be organization. Well guess part number.
+Head to the furthest left section of boulders near the road (Mole, Fight club boulder, office boulder) walk past Trust and veer left, and there she is.
 
 # Protection
-Along fund free too down leave three.
-
+1 pad and probably a spotter if you plan on falling.

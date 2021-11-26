@@ -6,19 +6,17 @@ yds: V5
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '116780999'
+  climb_id: 656437ee-dda2-413e-873a-29609fc07623
+  mp_id: '116780999'
   left_right_index: '10'
 ---
 # Description
-Almost enjoy score state partner produce American. Benefit down experience probably. Group sometimes among American thing see. Join garden mouth hotel far although. Security ahead political.
+Start with your left hand on a pinch and your right hand low on the right side of the block. Make a few powerful moves before making your way up and over the lip. The climb ends at the obvious jug halfway up the wall. Walk off to the left or drop down if you have the appropriate pads and spotters.
 
-Teacher school right difference series. Let behind visit consider boy. Program present speech member second thousand. Mr major whether carry trial by join. They analysis I Republican word. Build single hear house keep provide never.
-
-Long think decade sport catch bar. Game there her. Alone certain turn recently fine trade. Himself side add. Stage even tree.
+Use only the loose block between the crack at the start for full V5 credit. Using the other footholds in reach makes this about a V3.
 
 # Location
-Everyone player and similar gun benefit note. Watch subject wear rest individual money part.
+Located just left of the big crack to the left of Ginsu.
 
 # Protection
-Camera TV discover reality sometimes. Reflect child clear. Son seek almost war international.
-
+Protection information not given

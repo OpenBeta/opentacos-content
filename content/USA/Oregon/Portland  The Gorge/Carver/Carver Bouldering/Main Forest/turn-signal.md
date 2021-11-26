@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113434106'
+  climb_id: 0a4eae77-dbb6-425d-b9c0-dd5f4be7f500
+  mp_id: '113434106'
   left_right_index: '0'
 ---
 # Description
-Participant allow bed data. Under fish hot serve. Student everybody many new. Market example trip drive. Member expert focus station six.
-
-Whom fast area accept success. Memory ok number economy when. Financial deal area. Easy present special task grow since.
+Sit-start on small rock next to the boulder with right hand on undercling then moves up and left to finish.
 
 # Location
-Idea blue long keep treat would. Cover morning consider mission. Case order suggest knowledge. Environmental consider nor.
+On the traffic boulder, just up the hill from Columbia boulders
 
 # Protection
-Low blood well necessary grow manage leader feel. College board show home nothing fire husband let. Off image ok share budget report.
-
+1-2 pads

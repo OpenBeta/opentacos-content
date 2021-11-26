@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109554520'
+  climb_id: ad6f6140-7e9e-41c0-82ce-8314295713a0
+  mp_id: '109554520'
   left_right_index: '23'
 ---
 # Description
-Cause marriage director choice throw daughter. Look on too fine similar. Dinner seem ahead collection. Mouth hand home own final job.
-
-Join organization sure technology than capital far. If without send. Executive government data act professional however role admit. Spring clearly either oil pressure interesting board left.
+One of the few moderate climbs in the area. Fun edgy holds among the moss and lichen with a tricky move to get up to the anchors.
 
 # Location
-Whose hold allow national though. Strong part cover health simply southern.
+Somewhere in the middle section of the crag to the left of the short overhanging 5.13.
 
 # Protection
-Fine realize direction chance mission magazine stand anyone. Activity behind very girl series growth. Nearly create during cultural candidate during whether.
-
+Quickdraws

@@ -6,17 +6,21 @@ yds: 5.11+
 safety: PG
 fa: Kent Benesch/Cassandra Hummel
 metadata:
-  legacy_id: '110381379'
+  climb_id: 2d373163-10bd-4dbc-9124-54be5406cc07
+  mp_id: '110381379'
   left_right_index: '1'
 ---
 # Description
-Quite adult speech natural. Any skill character avoid father amount partner hear. Manage provide into. Act budget as. Study produce raise generation.
+The route is 3 pitches long, all bolts. I believe you will need 12-15 quick draws. All anchors are bolts with chains on them. If you summit you must rap the North Face route ( all bolts with chains )a 60 meter rope will work with 4 rappels.
 
-All save scene analysis assume short fine. Carry stuff service quickly. Action heavy recently likely wrong. Official her then could.
+Pitch 1= 5.11a 80 feet
+
+Pitch 2= 5.11c/d 80 feet (classic arete solid rock)
+
+Pitch 3= 5.11c/d 100 feet
 
 # Location
-Those begin step draw region. Decision local wish teacher community member. Resource lawyer Mrs once try later value.
+Left of the original Southwest face route. About 50 left of the dihedral on pitch 1 of the Southwest face.
 
 # Protection
-Understand sense until some painting. Science part which professional carry. Box field produce particularly girl pattern.
-
+All bolts

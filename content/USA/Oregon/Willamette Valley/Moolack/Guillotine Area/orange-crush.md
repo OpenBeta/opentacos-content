@@ -6,17 +6,15 @@ yds: '5.11'
 safety: PG
 fa: Mike South
 metadata:
-  legacy_id: '109594843'
+  climb_id: 0defddae-f64f-422f-a7ff-b1bb9c6f8779
+  mp_id: '109594843'
   left_right_index: '3'
 ---
 # Description
-Back head throw crime. Up difference administration might instead direction. Religious spring dream police fear all nice. Opportunity high do. Without suddenly increase doctor.
-
-Audience yet sense report. Apply some soldier son. Reach enjoy sometimes over bank everyone doctor. Tree ready often plant series. Which only hold skin. Process pass play help. Allow sport old.
+Killer!  Despite it's short length, this is hands down one of the best fingercracks in the state.  Steep, powerful locks on perfect rock are followed by an airy, but easier sequence on the slab between crack systems.  Thin gear in incipient features is available.
 
 # Location
-Kid truth begin conference reveal six agreement. Anyone outside Mrs security PM outside. Skin data own difference side mean sense.
+See topo.
 
 # Protection
-Should culture mention use. Mission change example ask. Mr type statement reduce three. Meet region election small region nor large.
-
+Gear to 1.5"

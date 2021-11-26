@@ -6,17 +6,15 @@ yds: '5.5'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107329711'
+  climb_id: 352c7b61-c20e-4b4c-9450-00de3a97d8d5
+  mp_id: '107329711'
   left_right_index: '10'
 ---
 # Description
-Area race herself point. Finally instead bank Mrs life together. High can role draw according. Central tough hand bill election get maybe money.
-
-Five seem finally data rest deal election. Produce close pattern station trial else own. Add increase performance option result. Significant form structure think pay really. How check argue believe. Plant right continue plan. Common movie on particular if record.
+A relativly tall, very fun 5.5 for The Drive In  nice position on this law-angle, airy arete.
 
 # Location
-Tonight new century family can station usually. These sound ago structure boy sense water. Compare drop performance time where.
+This arete is at the end of the left wall as your enter The Drive In. This could also be described as the NE corner of the Middle South Wall.
 
 # Protection
-Fish share question behind especially require too. Hospital police may base write unit prove sense.
-
+No bolts or anchors.

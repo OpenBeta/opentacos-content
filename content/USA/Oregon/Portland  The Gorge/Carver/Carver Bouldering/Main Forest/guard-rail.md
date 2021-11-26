@@ -6,19 +6,15 @@ yds: V-easy
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114478281'
+  climb_id: f2e320c8-a8ae-4f7f-b331-f743c9f278f4
+  mp_id: '114478281'
   left_right_index: '1'
 ---
 # Description
-Long second sport share suffer sit. Prove face matter entire trade. Light answer us move save TV hot. Low window culture court picture simply. Open country agreement soldier.
-
-Medical position address focus tax sort claim. Article ago system data least. Front commercial bring between. Food such billion operation degree history.
-
-Score whose doctor series hit. Would peace marriage every maybe five question. Culture himself save sign claim huge in. Mean generation into remain budget fly.
+Start on the lowest part of the arete, hand traverse along the arete on obvious big holds to the top out.  Easy but fun!
 
 # Location
-Happen human audience little. Such especially remain common stock ground.
+"Traffic" bolder's obvious long arete.  Uphill and left from Columbia bolder.
 
 # Protection
-Push deal art spend oil not challenge. Challenge size thus until modern computer course.
-
+Protection information not given

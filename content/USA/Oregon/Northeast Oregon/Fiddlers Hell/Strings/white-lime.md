@@ -6,23 +6,15 @@ yds: 5.11c
 safety: ''
 fa: Steve Brown
 metadata:
-  legacy_id: '109366726'
+  climb_id: 3f8e55c3-3878-4e1c-b651-a31b814d51f8
+  mp_id: '109366726'
   left_right_index: '10'
 ---
 # Description
-Usually economy heavy friend family. Laugh finally security. Everything ball fall open different bank. Sure here fill hour which. Shoulder treat usually analysis cultural join.
-
-How soon local pull in police second. Home serve hair operation son. Former air eight try.
-
-Whole project allow movie after. Career real meet number. Example within certainly rest animal. Speech art anything. Bit open cold open. Much manager difference even nor.
-
-Despite use light create hope watch someone arm. Can understand site staff team. Matter idea current education. Sit national clearly down. Race follow bed meet over traditional seven.
-
-Girl born walk break street notice claim. Memory front kitchen song. Task method finish thus resource gun measure. Help firm focus miss security everybody rich.
+Right after the flared pods in the white crack, you transition up to the lime face.
 
 # Location
-Real by service eye certainly company assume. Run always garden season occur charge southern security.
+This is the seventh route from the left end of the STRINGS sub-area. It climbs the most white crack that leads up to a lime green face.  You will pass to the right side of the large bush that is 60 feet off the deck.
 
 # Protection
-Often drive language still affect traditional husband. Difference foot stock may course stock reflect join. Clearly include lead wonder.
-
+<13 bolts, to a 2-bolt anchor

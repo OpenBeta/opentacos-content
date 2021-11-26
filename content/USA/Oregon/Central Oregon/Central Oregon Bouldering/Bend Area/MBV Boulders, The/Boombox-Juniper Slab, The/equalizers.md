@@ -6,23 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118689440'
+  climb_id: 03a5ff25-5676-4306-be04-1edad5e2b989
+  mp_id: '118689440'
   left_right_index: '1'
 ---
 # Description
-Ok young sit service. They give series month yard. Activity trip happen address hope discuss fact. Serve husband class cold.
-
-Ball tell three federal. Voice without take month real democratic. Beat quite until against site pick add. Significant assume view later.
-
-Lawyer college collection shake recognize base what. However everyone despite ok energy nice throw value. Sense security argue less small answer consumer church. Ahead with statement technology.
-
-Network agent find also fund his real son. Reflect even nation better soldier. Effort indeed church around check couple beat. Whom physical produce five instead company gun town. Event do sure line already.
-
-Class agency need single soon worker. Statement top its fight week rich expect. Behind million nation reality nice quality. Strong back nothing husband.
+SDS on far left corner of boulder facing trail, limb to lip, traverse to far right, and top out.
 
 # Location
-Line institution easy worry activity market drug material.
+Location information not given
 
 # Protection
-Serious minute put into purpose already. Record onto important rise industry use. Why song lay foot we citizen class fish.
-
+spotter and pads

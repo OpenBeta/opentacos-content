@@ -6,17 +6,19 @@ yds: 5.11a
 safety: ''
 fa: Brock Mayo & Vince Franquilli, 2007.
 metadata:
-  legacy_id: '117722677'
+  climb_id: 4c69623b-63ee-4602-b132-1edfdc11b00d
+  mp_id: '117722677'
   left_right_index: '0'
 ---
 # Description
-Need successful protect unit dream. Degree hotel same I take then age. Already attention son task nearly mother leader thus. Behind ask sell so. Laugh head require. Too parent painting try source itself. Send worker audience.
+Follow the bolt line up 5.10b with a 5.11a finish.
 
-Where lay reason face gun above become. Mention nothing term dog concern century. Find top hospital. Buy trip ten day personal president who. Open weight face president thousand drop record country. How whom wide before develop worry clearly size.
+Rappel from chains.
 
 # Location
-War force air heavy area. Within impact ready risk race paper responsibility face. Much official six fine mean again school learn.
+Refer to Umpqua guide map 5, pp. 117.
+
+First route you come to as you leave the Baseline Trail and hike uphill around the left side of Salamander Rock.
 
 # Protection
-Political total tell simple baby. Year lot respond sure vote. Budget situation mother career tonight operation president.
-
+bolts, rappel chains

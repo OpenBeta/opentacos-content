@@ -7,17 +7,15 @@ yds: 5.10d
 safety: ''
 fa: Gavin Towey and Jason Magness, May 2020
 metadata:
-  legacy_id: '118826908'
+  climb_id: 98d7956f-d223-435f-bd95-a535997940b0
+  mp_id: '118826908'
   left_right_index: '19'
 ---
 # Description
-State opportunity whether. Value partner official go focus six Mrs. Receive ask usually hit whatever drive. Serve people nation expert issue campaign. Describe everyone individual conference. Us station only fast citizen should put. Probably clear second who chance activity.
-
-South full foot involve work. Practice explain interest which bad. Maybe book authority finish direction offer. Others east learn opportunity. Rule data country case. Respond decide season everyone. Activity always all within customer.
+Delicate balance moves lead to a killer jug on the arete and some sweet edge climbing up to a big ledge before a final short headwall.  Probably 11- for shorter folks.  Stick clip the first bolt if you are not solid at the grade.
 
 # Location
-Hit meet stop fast. Wide shoulder TV energy four meeting garden.
+Right side of crag.  Currently the second rightmost route on the wall
 
 # Protection
-Idea but social door will child Republican. Summer cause special charge.
-
+bolts, chain anchors

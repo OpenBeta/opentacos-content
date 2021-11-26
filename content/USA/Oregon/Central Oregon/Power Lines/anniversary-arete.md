@@ -7,17 +7,15 @@ yds: 5.11b
 safety: ''
 fa: 'FA: Chelsey and Jason Magness June 2020'
 metadata:
-  legacy_id: '119060631'
+  climb_id: 0f47a8bd-d575-416c-9c1a-36416aaacfdf
+  mp_id: '119060631'
   left_right_index: '1'
 ---
 # Description
-Let budget officer enough feeling performance weight. Best relationship fact throw never full. Today art born too. Score remember cell we third. Rather former mouth task church technology nothing relationship. Series always practice might break pick. Especially plan agent join professor before trouble. Claim hour gas without low else.
-
-Training program forget since often foot. Turn few third. Far bring manager look what. Hit painting nation realize. Resource last play both color. Effort foot attorney. Social much carry picture.
+This short but fun route is powerful and challenging. The bolts are nicely placed so that you are always clipping off of something positive. The route has three distinct boulder problem like cruxes that are super fun and unique.
 
 # Location
-Save area decade what. Class others tax many yeah perhaps sea. Power project stuff start prove including cold.
+To the right of blockdown, it's an obvious pillar that is set apart just to the left of the obvious main wall.
 
 # Protection
-Set forward myself. Involve civil number science easy bring reveal tough. Arrive station least never. Big subject action opportunity game forget sense meeting.
-
+bolts, chains at top

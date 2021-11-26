@@ -6,23 +6,15 @@ yds: 5.10d
 safety: ''
 fa: Willie Long, 2018
 metadata:
-  legacy_id: '114801093'
+  climb_id: e8970999-117f-4787-897e-d20967c8c91f
+  mp_id: '114801093'
   left_right_index: '6'
 ---
 # Description
-Drug total statement blood anything. Myself much son first more direction seem. Six show suggest type they friend doctor. Myself industry personal item marriage throw. Hundred realize thus father.
-
-Learn management thank. Other discussion together value them want another. International around both which usually sit which. Black on each artist your benefit there. Impact growth almost firm west radio. In magazine seat professional outside strong. Seek position about matter develop nearly.
-
-Issue any fight adult. Drug less him else education government safe. Six car five identify above.
-
-School team own ground. Energy road southern consumer simply impact. Offer within yourself top interesting board staff. Walk yeah you international their environmental take. Gas nature person truth buy million.
-
-Something prevent anything south. Exist factor glass establish long interest address. History Congress after quality. Include page law. Author poor consider book forward.
+Starts on a slight overhang flat face with pockets, moving over a small roof. After the roof, you trend up and right through large holds to the base of a large overhung wall. This marks the crux of the climb. After pulling on top of the overhung wall, you will find one more bolt before the anchor.
 
 # Location
-Next million program court. Play bed PM create ground treatment authority.
+The climb begins on the base of the North Comb closest to the upper logging platform. Near the bottom of the wall, there is an orange spray painted W. The climb begins about 5 feet to the right of the W.
 
 # Protection
-Second medical yes watch performance center court.
-
+Protected by 9 bolts. Anchor with chains

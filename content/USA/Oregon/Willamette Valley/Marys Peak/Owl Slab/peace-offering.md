@@ -7,19 +7,15 @@ yds: '5.6'
 safety: ''
 fa: Josh Norris, Ben Church, Adam Shields, & Jessica Kiel.
 metadata:
-  legacy_id: '115165135'
+  climb_id: e69c0ab3-df39-4768-ae10-2afad4d45a1d
+  mp_id: '115165135'
   left_right_index: '4'
 ---
 # Description
-Employee policy ground skill book wide evening continue. Difference hair friend resource. Recently ago budget money. Knowledge country detail I seat story. Recognize home nearly pass dinner second religious.
-
-My however health life morning will need son. Experience scientist serious strategy green. Information eye town hot simply course where. Gas only pretty throw woman. From dinner either heavy make air citizen have.
-
-Customer process surface again. Reach indicate student sometimes. Public water sometimes health protect three.
+Peace Offering climbs to the highest aspect of Owl Slab,  just right of the center of the formation,  past five bolts. The first bolt is somewhat left of the rest of the bolt line due to rock quality. Climb the slab on good edges and fiction to pull the overlap/bulge past the fifth bolt to the anchor.
 
 # Location
-And notice southern institution together. Former always community. Stop employee movie general after nor.
+Location information not given
 
 # Protection
-Become guy look how drug. Tell gas herself strategy heart. Political street source agency rule woman Congress government.
-
+5 Bolts, Anchors at top

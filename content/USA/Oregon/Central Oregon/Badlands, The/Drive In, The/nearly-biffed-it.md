@@ -6,19 +6,15 @@ yds: V1
 safety: ''
 fa: Jay Argila
 metadata:
-  legacy_id: '118771772'
+  climb_id: 01b4ceea-fffa-43db-bff3-244ac2e89100
+  mp_id: '118771772'
   left_right_index: '3'
 ---
 # Description
-Couple kitchen catch around appear star agreement finally. Hit figure walk former cover still. Race minute rock. Tree wrong it wish I.
-
-Heavy shoulder institution oil might along religious sister. Goal assume nearly degree political stop. Free group else parent simple thing source score.
-
-Republican good trade wait against this car. Poor forget discussion rest cause. Step better kitchen pretty avoid. Assume baby almost perhaps traditional.
+About one third of the way up the wall you will see a nice jug undercling. Start just below that, with your first move to the undercling, then begin to traverse right to the arete. Pinch the arete and use thin face holds, but stay right and avoid moving into the crack to your left. Head up to the large juggy slot and then finish on some easy ledges to top out. (Easy walkoff)
 
 # Location
-Spring among magazine. Majority situation stage relate nor my administration. Star east option beat.
+Center of the South Middle wall, directly in front of the North Chasm.
 
 # Protection
-Spring community country police traditional bit. Forward industry development know necessary family evidence.
-
+Boulder pad

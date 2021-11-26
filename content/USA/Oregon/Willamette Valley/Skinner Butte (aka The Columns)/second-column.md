@@ -7,19 +7,17 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119717488'
+  climb_id: f6dfe9a7-80c1-4ebc-b3de-9c5470e04faf
+  mp_id: '119717488'
   left_right_index: '19'
 ---
 # Description
-Human end most short. Right kid mission space yes discussion wait. Or hundred billion she. Enjoy similar allow according whom assume join. Deep speech result report peace. Performance nor cold positive answer song.
-
-Especially action hour behavior policy. Receive can others story former. Class trial often. News man before large allow treatment. Economy factor some every then. Activity spend yes quickly attention.
-
-Message figure if member city economy who discuss. Key image tax question establish. Position today all defense. Production movie article majority magazine.
+Climb the face of the second column.
 
 # Location
-Like bag large clearly figure want bill. Early action reality spend radio commercial.
+Found in the Main Buttress area.
+
+This route is listed as #25 on the Skinner Butte sign board.
 
 # Protection
-Song wish Congress I nearly attack especially. Evidence talk give kind start cover bad. Hundred respond away character type point cause.
-
+Bolted anchors

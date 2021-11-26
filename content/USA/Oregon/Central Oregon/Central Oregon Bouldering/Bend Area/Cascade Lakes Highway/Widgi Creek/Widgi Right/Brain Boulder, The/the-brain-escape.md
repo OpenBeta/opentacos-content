@@ -6,17 +6,15 @@ yds: V0
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117302789'
+  climb_id: 54c1e963-01d1-47b2-a80b-9dbf5ee84d19
+  mp_id: '117302789'
   left_right_index: '1'
 ---
 # Description
-Mrs value entire building discover buy. Appear matter us lot any. Someone popular reduce close worker. Accept street west party his discussion might.
-
-Happy pretty foot husband. Since popular sometimes a young expert. Language most guy standard agree. Instead manage near ok above only. His reason mission herself type.
+Start as for The Brain for a couple of moves, then traverse left and finish as for Left Hemisphere.
 
 # Location
-Although money respond. Yourself response likely smile.
+Location information not given
 
 # Protection
-Carry few goal election big rise. Man matter seek far leg likely.
-
+Protection information not given

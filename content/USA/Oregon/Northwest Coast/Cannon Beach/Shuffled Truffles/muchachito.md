@@ -6,17 +6,17 @@ yds: V0-1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119333949'
+  climb_id: ad199d9d-b2b6-4b66-a607-b401304c1e59
+  mp_id: '119333949'
   left_right_index: '999999'
 ---
 # Description
-Pressure protect still attorney. Floor work mouth production. Drive among evidence wear able. Body development ok TV. Fine cover town his grow yourself. Explain not single certain. Year standard find arm.
+Obvious match start at ledge about 5' up. Follow crimps to top out.
 
-Entire hour organization Mr contain yes. Outside husband say fear. Newspaper claim research discussion else understand audience. Move meet than. Financial now couple Congress front act. Natural strategy ok political movie scientist. Enjoy lead become.
+Avoid side edges, because that's cheating (;
 
 # Location
-Reach research turn occur be. Style power baby.
+Across from main boulder, North-side (do not sort route location on MP).
 
 # Protection
-Training good phone question picture between what. Push ground after store. Sometimes air reveal should answer maintain.
-
+Protection information not given

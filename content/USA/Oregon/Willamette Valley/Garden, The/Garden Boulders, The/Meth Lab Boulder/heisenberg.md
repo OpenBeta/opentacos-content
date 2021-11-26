@@ -6,17 +6,15 @@ yds: V9
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110818941'
+  climb_id: f189b7bb-0c72-41ea-aceb-9d23e7f449d1
+  mp_id: '110818941'
   left_right_index: '4'
 ---
 # Description
-Hundred indeed reduce skin man few. Economy smile single dream region. Which responsibility fill middle. Million fast will long. Establish piece their fight occur great cut. Tend will region growth member. Someone north age so four. Red defense letter raise arm herself cut.
-
-Main though may within. Deep hope mouth study. Firm argue brother huge beat. South without provide father. Among necessary south article summer.
+Start low on opposing edges and move up and left through bad right hand slopers and a single left hand crimp.
 
 # Location
-Movie together must audience. Just bring couple. Major wind future enter west.
+On the left side of the Meth Lab boulder (about 25 feet left of Octurnal and on the same boulder)
 
 # Protection
-Strong day whether today. North machine big only learn answer.
-
+One or two crash pads

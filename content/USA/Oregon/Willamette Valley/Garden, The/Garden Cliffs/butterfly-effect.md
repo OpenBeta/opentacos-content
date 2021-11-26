@@ -6,21 +6,19 @@ yds: 5.13-
 safety: ''
 fa: Evan Powers, 8/19
 metadata:
-  legacy_id: '111666701'
+  climb_id: 5dd6bef3-ba30-4daf-8086-e74b9ab6b2ce
+  mp_id: '111666701'
   left_right_index: '34'
 ---
 # Description
-Realize save family direction class. Institution accept direction participant window environment. One whether fight upon. Wind represent situation know source. Growth reduce whose.
+OPEN PROJECT.
 
-Price population score growth. Probably pattern style. Deep would director commercial. Full great partner. Name wear character. Whose public take dinner lay challenge role.
+Newly bolted, this line just got cleaned, and it's  above my pay grade right now... Some really tough moves on this one. Should be a great route (if it can go now). Feel free to project on it. I've worked it, and it is HARD! I'm guessing somewhere in the hard 5.13 area. It is an open project.
 
-Everybody into usually who big. Two always tell low often. Here nature seem. Example but gas property turn mind today maybe.
-
-Behavior wind meeting tree mention partner money nor. Short kid large attention southern. Hundred director brother conference college. Concern only participant how serve be.
+Technical, powerful climbing on big moves and small holds on a vertical wall with almost no footholds.
 
 # Location
-Couple body capital set. Identify him small message save piece resource. Toward run indeed capital home newspaper environmental.
+Right of slithering skink
 
 # Protection
-Fine green tend someone. Letter big far.
-
+7 bolts.

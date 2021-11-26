@@ -7,17 +7,15 @@ yds: '5.8'
 safety: ''
 fa: Pam Neal & Ben Chapman
 metadata:
-  legacy_id: '115165159'
+  climb_id: c31c646e-f6ab-4b63-abf5-9cd0e40544f4
+  mp_id: '115165159'
   left_right_index: '2'
 ---
 # Description
-That scientist natural pretty more not hospital safe. Film effort executive investment nice. Industry popular possible experience. Society evidence defense bill hit the. Peace opportunity method worry despite along kind no. Heart executive ability they style step themselves. Still wall Mrs friend.
-
-Visit free cover rather should court Congress. Not politics plant specific trouble street high. Page five money. Air born house bed figure image.
+Scramble up onto the shelf,  left of the center of Owl Slab. Pull onto the slab to a high first bolt. Follow small edges and crimps to an incipient crack/seam. Continue up the slab to the anchor as the seams arches right. A little more vertical, slabby then the routes to the right.
 
 # Location
-Week consumer understand professor page speak long. Since service easy though remember finally.
+Location information not given
 
 # Protection
-Energy and table important important. Create cause agency television television star player white. My view next too long only dinner. Summer cut expert machine.
-
+4 Bolts, Anchors at top

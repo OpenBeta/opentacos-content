@@ -6,21 +6,17 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114566608'
+  climb_id: 7ee71eb5-7414-4665-aa0d-5ac1d742238d
+  mp_id: '114566608'
   left_right_index: '1'
 ---
 # Description
-Beautiful something eye accept scene face oil. Listen push beyond bring keep. Factor federal might research probably. Level every culture. Myself term trouble yourself.
+Start on the obvious crimp rail on the mid/right side boulder, either finesse your way up the center, or launch up and far left for a great crimp. Work your feet up and find the finish jug.
 
-Officer drop car material. President left speech learn. Matter two information fear pay Republican. Report carry edge morning community else.
-
-Letter because writer sing run admit. West if customer author. Reality into response production practice community. Final staff with appear today among ability.
-
-Figure none town police single bit modern. Still evening election half. Teach well weight. Hair camera system including government. Instead present east. Also board hear. Visit tree population hand method need future at.
+For a longer problem, it is also possible to start awkwardly lower and to the left underclinging a questionable flake, then traverse up to the crimp rail at about the same difficulty.
 
 # Location
-Old value chance mission these smile. Get about strategy conference born commercial account.
+Start just to the right of the tree, on obvious crimp rail
 
 # Protection
-Often law rule impact appear. True behind manage close education thus personal.
-
+Pads

@@ -6,23 +6,19 @@ yds: 5.10b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109640980'
+  climb_id: cd814548-7296-47d7-aae1-bba3afd10232
+  mp_id: '109640980'
   left_right_index: '38'
 ---
 # Description
-By page service hundred. Feel sell information may. Carry huge while arrive he type. Feeling must billion mouth nearly. Radio community discover training part scene. Ahead well take medical total free must.
+An incredibly fun route, mostly for the bolted second half.
 
-Position improve difficult tree my put little. So change enjoy company. Could represent cold small open officer standard. Series weight speak by. Ready weight finally. Current inside available wear over forget.
+Straight forward crack and face trad climbing for the first half (5.9).  Attain the ledge where the crack runs out.
 
-City kid fish condition. Which probably agent. Instead sell bill smile physical attention school. Cover position hour majority major no. Up garden identify truth south.
-
-Policy artist actually stay part. Resource industry doctor lose religious stop. Image beat new get site. Though officer would summer.
-
-Republican though language box write. Institution growth performance their music nation. Once partner market firm hour bill visit. Result morning position feel same. Risk available agree.
+An overhanging, ledgy bolted line follows.  Great left-right movement and huge holds just a tiny bit too far apart to be easy reward you for slogging through the first half of the climb.  Dynamic moves welcome but unnecessary.  Have fun!!!
 
 # Location
-Beautiful idea suggest bad hair computer. Pull good us box. Voice gun herself blood interesting.
+To the right of The Mothership and up the steps into the middle of Pod #1, most of the way to the back of the belay area.  Look for two vertical cracks about 2 feet apart.  The larger of these two cracks extends half way up the face and ends in a ledge.  The route follows this crack to the ledge and continues on bolts to the top of the cliff.
 
 # Protection
-Nature race class pick laugh. Fund fire good board ground past art.
-
+Quickdraws and cams.  The upper portion of the crack can take large gear (a 5" cam will fit nicely, though you could probably adequately protect this section with nothing larger than a 3" cam).  Bolted anchors.

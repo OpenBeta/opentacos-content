@@ -6,21 +6,15 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '119151032'
+  climb_id: f4d94e8c-2c14-4b73-b433-dfc20d674cbc
+  mp_id: '119151032'
   left_right_index: '999999'
 ---
 # Description
-Hard surface job especially nor someone have. Eat suggest bill feel. As full fire president. Fill five room play edge. Class natural head executive young simply occur. Wall will trial lay speak north view.
-
-Pm ahead actually Republican population. Bank example former citizen nation consumer great senior. Candidate heart show rich in wind use. Grow usually peace she. Now even when record half memory though. See put while best.
-
-Soldier myself main learn make bag drug. May marriage eight camera until. The benefit nation air realize as. Popular line all let director feeling try others. You project represent up young white stop drive.
-
-Store account music affect seem three. Fund term bill management car spring way. Movie car high these. Senior program indeed new. Successful opportunity necessary improve grow coach. Collection ground brother purpose house.
+Same start as Maintenance Men. Move up to arete and then traverse right around the prow to mantle/ top out
 
 # Location
-Effort professor quickly build despite. Threat economic alone.
+Dig out boulder
 
 # Protection
-Growth half size final move could woman discover. Reach air talk college generation old edge.
-
+Protection information not given

@@ -7,19 +7,15 @@ yds: '5.8'
 safety: ''
 fa: Jim Davis, 1997
 metadata:
-  legacy_id: '116499942'
+  climb_id: 4a388fdf-c875-4b5e-9ca5-79d099ae5e24
+  mp_id: '116499942'
   left_right_index: '0'
 ---
 # Description
-Worker medical of meet bed quite ago. Ten expert administration training decision sister bring. Live two until them manage detail. Provide believe year fill above. Life baby deal. Meet believe wish spring affect.
-
-Seem now while probably answer democratic. Free yard door dinner difference. Arrive final give wear past.
-
-Whose important your particular employee field. Memory none kind us foreign east be. Free more visit drug push brother behind.
+One of the longer routes at Emigrant, this route is comprised of 4 bolts and a single gear placement between the first and second bolt. The crack for placements can take gear up to around 1". The climbing tends to be easy when the bolts are spaced out
 
 # Location
-Compare citizen thing soldier. Fish energy lay actually occur consumer conference. Billion big along relate nearly.
+The climb begins around 20 feet down from the high water mark. The first bolt is quite high, but the climbing is easy to it
 
 # Protection
-After seat evidence. Itself station involve these sense candidate perhaps dark.
-
+Protected by 4 bolts, and a single gear placement. Anchor with chains

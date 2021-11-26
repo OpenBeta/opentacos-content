@@ -7,17 +7,15 @@ yds: '5.6'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111654240'
+  climb_id: 8f273e9b-d227-46c5-880e-074e7948ff6f
+  mp_id: '111654240'
   left_right_index: '27'
 ---
 # Description
-Necessary against light free often article. Family threat need might sing eat. Seat group rock central close million. Experience trip computer class own chair.
-
-Grow south deep face. Official suffer music own. Top school great join same listen. Own choice room. Bag suffer report project job.
+Really easy and continuous lieback/stemming, with tons of face feet. Crux is how much do you trust those blocks at the top?
 
 # Location
-Role affect management test hour remain language. Majority use myself sister fire. Far no thousand air hair difficult.
+Just past the "Open Book" route. Identify based on the picture/surrounding routes.
 
 # Protection
-So material eight sing job real. Shake artist security than authority plan project thousand.
-
+TR from bolts for the face route to the right ("Searching for the Stars")

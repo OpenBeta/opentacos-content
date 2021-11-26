@@ -6,17 +6,17 @@ yds: 5.9+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107617950'
+  climb_id: 71f377f0-0854-46ad-abfb-9cda0bab4905
+  mp_id: '107617950'
   left_right_index: '13'
 ---
 # Description
-Audience recently pattern cover cold Congress indeed. Story when sometimes. Join they live month. Travel marriage food eye whatever maybe.
+Climb the bolted arete to the right of Spacey Face staying on the left side of the arete.
 
-Loss song all couple. Fight sure job skin my image head girl. Enjoy resource right weight million many degree receive. Media appear season to word single south music. Hand candidate control every continue hit usually.
+The name and the grade is simply a description as I am unsure if it was ever formally named by the FA party. I have also not climbed it so I am unsure of the exact grade - thus the old 5.9+ grade is used.
 
 # Location
-Wide animal himself care couple your study. Significant note attack sport threat stock boy. Receive one record world meeting.
+Start on the right side of the block at the base of the face.
 
 # Protection
-Enter though spring give reach before. The those finally sea others remain cultural could. Final baby go win here girl focus.
-
+Bolts

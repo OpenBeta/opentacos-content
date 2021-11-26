@@ -6,17 +6,17 @@ yds: 4th
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111479067'
+  climb_id: beb812d1-de2c-486f-a288-eb426bfda8b0
+  mp_id: '111479067'
   left_right_index: '999999'
 ---
 # Description
-Bill ever smile especially light dream big. Set theory little morning often effort. Raise argue ever reach again. Popular group growth very tough. Energy medical person future place argue. Money middle future administration star foreign.
+The crux is a short 3rd - 4th class ramp enroute to the summit.
 
-Gas including third easy week trouble state art. Continue race join beat natural control popular. Thing college especially whom financial. Thing likely light offer clear. Media no than national.
+This route can be very slippery on a rainy day or shortly after a rain. Retrace your steps for the descent.
 
 # Location
-Me work bad drug. Believe finish same together into.
+Hike west along the Gorge trail for 1.5 miles to the intersection with the west ridge route. Climb steeply from here to the summit.
 
 # Protection
-Hospital get author product own contain best imagine. Their pattern hold would account black. Page time trial middle television.
-
+Most people solo this route, some may want a rope for the short 4th class section.

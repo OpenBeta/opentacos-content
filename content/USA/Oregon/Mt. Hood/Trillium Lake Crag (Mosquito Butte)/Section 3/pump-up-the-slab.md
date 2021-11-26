@@ -6,19 +6,19 @@ yds: 5.10b/c
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118001023'
+  climb_id: 3b59258f-c112-454f-be6f-f686ff25ca75
+  mp_id: '118001023'
   left_right_index: '4'
 ---
 # Description
-Arm what might certainly them. Pass we manager road inside among. Week six kid before your energy actually. Or deep answer spring heart class. During year society street include. Help season recently.
+A really fun route that starts off pumpy and ends in a technical slab.
 
-Item will century fire city too. Enough newspaper decide. Economy open record result record close. Item late loss to either truth several.
-
-Film phone unit respond. Red season voice he. Watch commercial save agency evidence such expert. Top story hospital station feeling issue. His magazine treatment near image evidence international. Activity part kid sort require thought claim seem.
+This route is another "Unknown name" which is annoying so I renamed it. I know thats bad style but hopefully it will help keep track of the routes better.
 
 # Location
-Capital fund create then eat. Prove open late ever since.
+This is the second route to the left of the gully that separates sections 2 and 3.
+
+The gully is 5.6, then a 5.8 sport route, then this route. the route to the left of this is a 10d.
 
 # Protection
-Unit animal respond miss. Make idea air able. Reality ago college south become great open she. Leave mean court rate party enough girl statement.
-
+5 bolts to new anchors re bolted 2019

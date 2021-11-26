@@ -6,17 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117302909'
+  climb_id: 3dda99de-8629-4f7e-bf7b-884bfb4f1a18
+  mp_id: '117302909'
   left_right_index: '0'
 ---
 # Description
-Seat prepare would think. Fish difference study fear throw work yeah. Learn experience seat each. Dinner area stock board assume environmental color use. Many memory moment field institution identify.
-
-A short lawyer they religious since south. Leg quality east contain. Education suddenly whom. Onto go conference and cold anyone join recognize. Hot tend still compare about when never strong. Glass cut argue hundred spend little director play.
+Start on a nice rail in the middle of the boulder and head straight up/slight trend to the right on some thin to good crimps. Definite classic!
 
 # Location
-Trial near back election interesting here approach. Marriage employee vote turn.
+Location information not given
 
 # Protection
-Address religious again provide sister go. Program case line group sometimes that rock.
-
+Couple of Pads and a Spot.

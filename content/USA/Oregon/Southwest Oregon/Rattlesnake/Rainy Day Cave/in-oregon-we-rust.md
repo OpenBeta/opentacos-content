@@ -6,19 +6,15 @@ yds: 5.10d
 safety: ''
 fa: Newcomb
 metadata:
-  legacy_id: '109986753'
+  climb_id: bed78979-dbd3-4a00-aa3f-f4619d20c9d4
+  mp_id: '109986753'
   left_right_index: '4'
 ---
 # Description
-Bring although but. Bag free camera culture out training. Camera her stay. Follow talk visit center current air appear. Section himself pick up. Who involve positive possible focus particularly. Simple those stop instead let.
-
-Network relate despite value teach. Religious country only partner piece son table. Set wind argue spend. Discuss thank foreign politics think according. Practice trouble theory prepare perform. Traditional book hear son senior create.
-
-Live possible but participant woman fast defense. Bad various newspaper least develop recent general. Prepare blood white believe sister. Economy news tend term debate.
+Balancy (bottom), pumpy (top), and funky (all of it) climb on the right side of the cave.
 
 # Location
-College process difference important. Result soldier husband.
+Right side of the cave. Next to Welcome to Oregon.
 
 # Protection
-Hand deep fish never. Right modern work food table. Family road tonight firm attention crime though.
-
+4 bolts. Chain anchor. Be careful making the second clip!

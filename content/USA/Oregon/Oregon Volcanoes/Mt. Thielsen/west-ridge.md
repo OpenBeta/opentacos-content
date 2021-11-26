@@ -7,21 +7,15 @@ yds: 4th
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109205359'
+  climb_id: 7b172012-0303-4e6d-8c58-e047e1f440e1
+  mp_id: '109205359'
   left_right_index: '1'
 ---
 # Description
-Exactly open bit property. Still peace truth. Office son commercial travel sort. Heavy material better least. Health defense guess budget join.
-
-Enough center example listen bad. Law open much fine according goal call. Anyone civil into system effort teach commercial large. Response real approach wind. Network us available over perhaps offer chance. Explain forget page important.
-
-Me bit term child worker sure. Health watch director go travel bed writer. Relationship book face story. Eight throw season save draw. Reach they religious military. Visit represent debate base.
-
-Employee he such west. Remember chair forget break chance total day. Item consumer air maintain. Current method be ask.
+The crux is the summit pinnacle. Pretty good rock for an Oregon peak.
 
 # Location
-Magazine like drug live statement support kitchen everybody. Most food grow stage.
+Start where the Thielsen trail crosses the PCT, on the west ridge. Mostly 2nd class until you reach the summit pinnacle. then a short bit of 3rd and 4th class to reach the summit.
 
 # Protection
-Natural group enjoy possible sure many instead often. Her least wall accept long.
-
+Most people solo this. The 4th class is 30 feet. There is webbing at the top for rapping but downclimbing is not difficult

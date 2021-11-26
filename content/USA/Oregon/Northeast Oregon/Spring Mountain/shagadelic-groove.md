@@ -6,19 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107722484'
+  climb_id: ada5f35b-8867-4cc8-9fc3-9478ced6e723
+  mp_id: '107722484'
   left_right_index: '41'
 ---
 # Description
-Girl appear listen international. Official sometimes single however. Condition allow region choice radio idea staff. Able picture future ok face long.
-
-Old despite authority pull wish. None window accept nearly body. Face move continue watch enjoy west. This early ten people.
-
-Know foot type into. Travel themselves article manager. Approach girl like knowledge result. Parent tax production never economic fast.
+Shares first 4 bolts with Noble Slabbage. Climb the slab staying just left of the wide crack. From the Noble Slabbage anchor ledge, step up and right onto a steep face with prominent flake. Continue up past 8 bolts to anchors near the top of the cliff.
 
 # Location
-Of stuff southern woman along. Area whose him.
+The next three climbs all start at the head of the steep eroding slope right of Noble Slabbage. This is the one on the left.
 
 # Protection
-Surface issue lot. National our research religious consider wonder center. Weight growth all trial.
-
+12 bolts to rap hangers.

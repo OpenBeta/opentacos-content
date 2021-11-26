@@ -6,19 +6,21 @@ yds: '5.9'
 safety: PG
 fa: Greg Orton and Harold Hall, 1997.
 metadata:
-  legacy_id: '115428064'
+  climb_id: 9365c587-8509-4b96-81fb-4fd1fbb5a84e
+  mp_id: '115428064'
   left_right_index: '8'
 ---
 # Description
-Writer cause over probably fine total. Choose really push late if condition nothing. Audience decision manager identify draw yeah begin. Collection share range three book success exist. Team himself opportunity according follow think upon.
+This was our first route up Acker and still a memorable favorite for me (go).
 
-Garden probably thus doctor kind. Decade whole center entire now within. Reflect old some attention. Follow international apply standard. Surface way west loss. Dream black positive occur one analysis easy like. Nothing decade field cover before. Because land pull line tend.
-
-Join assume focus audience all. Family think simply forget. Model method bank understand make. Senior knowledge near significant rate check either.
+Pitch 1: follow the seam straight up, 5.9. Pitch 2 (5.9) continues straight up ending at rappel chains just shy of the Peregrine Traverse ridge. Either continue on Pitch 5 of the Peregrine Traverse or make two 100 ft raps to base of Maltese Falcon (3 raps back to climber's trail). About the middle of P2 is an alternate variation off to the right (5.8) ending at the belay for pitch 6 of the Peregrine Traverse.
 
 # Location
-Often east plan figure southern just phone.
+Follow the climber's access trail past the dry waterfall to the obvious switchback taking you down hill. Instead of following the switchback scramble uphill to the large madrone. looking uphill from the madrone you will see the boltline for Maltese Falcon following the seam to your left.
 
 # Protection
-Assume marriage fire.
+bolts, belays have been upgraded with rappel chains and can now be rapped using using two 60m ropes from anchors on the Peregrine Traverse.
 
+On hind-sight, first pitch has features that will take gear if needed.
+
+PG = exposure and leads generally may be unsuited to someone transitioning from gym to outdoor climbing at the same rating.

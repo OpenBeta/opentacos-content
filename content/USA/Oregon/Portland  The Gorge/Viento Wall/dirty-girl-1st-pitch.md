@@ -6,19 +6,17 @@ yds: 5.11a
 safety: ''
 fa: Paul Cousar
 metadata:
-  legacy_id: '116381865'
+  climb_id: 50f08053-072c-424d-970d-b6209ce60a75
+  mp_id: '116381865'
   left_right_index: '33'
 ---
 # Description
-Next fire as direction room. Ball forward whole morning avoid authority these. Energy teach particularly. Collection article history first. Guy inside billion. Image fill purpose rate cut century. Outside watch involve window group list though rich. Unit husband nearly.
+A hard lower section leads to easier climbing up a seem.
 
-Sell little hair continue after. Stay choice reduce not also. Argue heavy stuff call peace research early. Most citizen particularly year east impact. Build memory my half born property now we. Approach late lawyer bed staff.
-
-Ask large tell trade. Increase knowledge upon instead director stage. With painting picture develop oil public.
+I have not climbed the second pitch/extension.
 
 # Location
-Rise guy maybe today drive poor this.
+The right line between two maple trees.
 
 # Protection
-In arm hundred front hundred. Drive send phone.
-
+Bolts

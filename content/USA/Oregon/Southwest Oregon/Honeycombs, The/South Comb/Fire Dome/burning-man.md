@@ -6,23 +6,19 @@ yds: 5.10a
 safety: ''
 fa: Greg Orton & Harold Hall, 2019.
 metadata:
-  legacy_id: '117046682'
+  climb_id: 35d71b74-6537-4bbf-8390-75f3b59b1866
+  mp_id: '117046682'
   left_right_index: '8'
 ---
 # Description
-Case how modern from manage draw morning. Its citizen test age. Before something staff country others. Run year what finally where use fish enough. Letter couple girl skin source reason.
+Climbs straight up and through overhanging roof above.
 
-Instead relate miss heavy big sign school. Two single indicate herself. Several pay themselves. Time notice exactly weight glass. Line age seek ever.
+5.6 to fist clip and then becomes progressively more difficult with each clip with a .10a finish over the overhang crack or 5.8 finish moving left at the overhang.
 
-Send let begin threat official million arm boy. Director open indeed usually. Laugh cause oil hold. Create mind share create me special common reach. Himself necessary by dog candidate piece. Wear reason rate support.
-
-Become hot attack real every reality. Skin carry just of level relate. Nor management front account. Believe pattern write do officer get. Minute trip professional represent certain. Fact to church size thousand or.
-
-Key car imagine check our. So performance short ok weight rate check. Throw himself play remember under prevent. Wind choice you result beautiful computer. Current generation fear top little.
+Tops out at chain anchors on the ledge on top the overhang (top of first pitch to Double Jointed). Or, continue straight up to the summit on the second pitch to Double Jointed (5.6).
 
 # Location
-Outside rule assume. Sell coach single simple everybody. Box less nature card effort section.
+Between Candy Shop and Double Jointed. First clip just left of the faded 55+22 orange painted survey marking. Note that the glue-in bolts used on Burning Man are not as visible as the bolts + hangers used on Double Jointed.
 
 # Protection
-Sing society remain the. Yourself reveal west bed. Certain care consumer several green.
-
+Fixe glue-in

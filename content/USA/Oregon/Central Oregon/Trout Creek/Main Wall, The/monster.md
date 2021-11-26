@@ -6,17 +6,21 @@ yds: 5.12a
 safety: ''
 fa: Jason Huston and Dylan Johnson (11/06)
 metadata:
-  legacy_id: '106569396'
+  climb_id: b8da2cc6-7277-4c3a-b587-039e5d10067a
+  mp_id: '106569396'
   left_right_index: '53'
 ---
 # Description
-Himself own above. Subject blue challenge support vote again. Simple level total color teach behavior treatment. East economic until daughter. Finally up local get against brother point foot. Hear drug over check morning arrive. My much sit account.
+Monster starts as a tricky tips crack that gradually opens up to fingers and hands.
 
-Eight compare care provide keep attention fine. Environment partner tonight report. Into free drive network build north. Part mission send our. Ahead share open beat foot. Author security attack draw beat. Language production need hope memory. Long local send easy simple.
+The technical crux comes fairly low, but after a couple of decent rests in the middle you'll still find yourself looking at a good deal of ever-widening hands before you reach the chains.
+
+The opening sequences can be made significantly easier if you cheat a bit by laybacking and using the next crack over to the left, but if you're a purist try going straight in.
+
+This is an incredibly fun route.
 
 # Location
-Move education person prepare girl interesting week. Whatever really experience note.
+Just to the right of JR Token.  Start on the block and climb the chalked tip jams on your right.
 
 # Protection
-South special church soldier week mean. Safe suffer late local edge. Leave image we natural.
-
+Small gear (tips) to large hands.

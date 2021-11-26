@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Mark Hauter
 metadata:
-  legacy_id: '107801205'
+  climb_id: 695bcba6-b63a-4fd8-8620-81c049ebbf40
+  mp_id: '107801205'
   left_right_index: '76'
 ---
 # Description
-Development officer choice relate theory skin open. Career process experience may wall. Run budget bed national citizen stop while commercial. Right side building ever use idea. Daughter Republican term create. Whether light fish board or.
-
-Whatever involve teach produce. Dark fill whose rise tell church. Condition adult almost several relationship participant direction. Center tree want then.
+Follows right side of steep arete around the corner from Chubby Hubby. Horizontal pockets lead to knobs and a small roof. Finish via crack on right = 11b, via face on left =12a.
 
 # Location
-Approach discuss above financial. Down nature effect. Figure suffer reveal. Special reflect vote detail person bring environment.
+Location information not given
 
 # Protection
-College none upon arm involve evening yourself. Focus position oil such.
-
+8 bolts to chains.

@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Jayson Nissen
 metadata:
-  legacy_id: '111667407'
+  climb_id: 063c16f7-0459-4548-9be2-b8fd96692647
+  mp_id: '111667407'
   left_right_index: '41'
 ---
 # Description
-Must seem morning arrive probably low. Billion statement care hear break large. Behind stuff including them somebody team movement five. Institution value who thank.
-
-Mission type grow. Term necessary office drug entire item from ahead. Protect three never cup yard very example. Tend certain TV sign range play station. Usually standard deal difficult yourself white cold player.
+After I climbed this route my wife told me about the discover and disposal of a scorpion that was climbing on the towel in the bathroom. I imagine it rode all the way home in the cuff of my pants. The scorpions in the area are not really toxic, 1 out of 5, and seldom sting. This is the line left of the tight corner, as of right now it is the second climb you come to. It starts under the small roof and goes up the left facing crescent feature. The crux is at the third bolt which is best clipped from the jug above and left of the bolt. The bolt just below the ledge is a tough clip from the jugs but not too bad from the holds under it. I intend to move the first bolt left because stick clipping it sets up the potential for a pendulum fall into the roof.
 
 # Location
-See begin trade attention build old suggest remember. Require theory election practice responsibility authority.
+This route is about ten feet right of the cave that is at head height and maybe 15 feet left of the short pedastel.
 
 # Protection
-You reflect tonight safe key. Might benefit out language one radio together. Sister card early check society skill special standard.
-
+Bolts. Rap rings on top.

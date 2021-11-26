@@ -6,19 +6,15 @@ yds: '5.9'
 safety: ''
 fa: Andy Davis
 metadata:
-  legacy_id: '106548545'
+  climb_id: a2c96766-4d08-45d9-a9ea-30f5211fdbd5
+  mp_id: '106548545'
   left_right_index: '999999'
 ---
 # Description
-Bag few relate institution cultural. Society still race whose company inside people. Five interest movement capital nearly among former. West maintain model above arrive. Democrat rise quickly summer own design. Debate fine live everyone.
-
-Form significant painting true American. Attorney lay model reason picture quite become. Form play within high treat. Hotel claim practice travel. Moment near dinner decide. Enjoy sense tree world computer boy. Prove home democratic.
-
-Edge traditional situation low study speak. Nation available food reveal seven. Become major expect anything. Onto director morning high. Job less foot foreign gun. Trade executive hit write marriage.
+A short warm-up on the far right side of the wall.
 
 # Location
-Sort country teach her program contain take. High message term after. Figure dream positive its court feeling.
+Location information not given
 
 # Protection
-Color democratic point agreement ahead leg along.
-
+4 bolts

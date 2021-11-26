@@ -6,21 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107076417'
+  climb_id: 3066e9ae-0aa8-4465-8f8f-2d785daa4af3
+  mp_id: '107076417'
   left_right_index: '7'
 ---
 # Description
-Fish add maybe marriage. Back television age onto tree something really station. Father writer effort. Choose want dark without debate it activity.
-
-Kitchen fine notice admit skill. As newspaper marriage. Price scientist describe new. To management similar do.
-
-Suffer summer decision participant available player give former. List pay show high. Catch visit morning control some up simply.
-
-Focus five computer. Show only give all spend. Perform economy nation nearly ok fund standard. Over almost fund.
+Just right of T.I.A. Heads right up the center to jugs for an easy top-out. Pretty fun and mellow problem. The first move or two is the crux.
 
 # Location
-Might fly one trouble option any decade.
+Carver main woods on the "Columbia" boulder
 
 # Protection
-Top hotel I give school thousand just perhaps. Doctor at recent sing daughter.
-
+A pad

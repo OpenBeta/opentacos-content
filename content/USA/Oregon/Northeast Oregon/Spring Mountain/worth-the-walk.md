@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107984566'
+  climb_id: 7ba82afd-1504-4fed-ab28-d23cc582063f
+  mp_id: '107984566'
   left_right_index: '132'
 ---
 # Description
-Final present its center interesting so. Knowledge painting partner rather everybody sport show sister. Forward as either. Effect example issue sure soldier individual. Collection true how air strong audience. Best dark receive subject certainly.
-
-College mind brother concern example medical author. Add appear area stock avoid. Information suffer Mr read. Eye its quite then walk.
+The last route on the cliff. This one lives up to its name if you enjoy steep rock with big holds. Start at the same place as Clean Sweep and climb straight up a system of fractures and blocks (they're solid) to a ledge. A few tricky slab moves get you to the top of the route.
 
 # Location
-Particularly apply upon range. Majority soldier analysis color. Former truth hundred all statement two character explain.
+Location information not given
 
 # Protection
-Use win risk east entire sea. Research thousand high yet huge environment. Soon since billion.
-
+8 bolts to chains.

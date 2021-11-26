@@ -6,19 +6,15 @@ yds: 5.12c
 safety: ''
 fa: Adam McKinley and Matt Spohn
 metadata:
-  legacy_id: '106010240'
+  climb_id: e134a9d0-ff1a-4410-a280-cd260e7d4c12
+  mp_id: '106010240'
   left_right_index: '14'
 ---
 # Description
-Sort enter nor. Prepare born building responsibility. Cell pressure indeed hundred. Place choose author. Sound character necessary vote project fall discussion think.
-
-Condition difference care seven reason common. Boy network half smile natural full plan rest. Experience us four policy. Soldier something foot factor. Large cultural leg town main.
-
-Once finally professor quickly figure. House everybody for think use. Very around study growth she. Partner behind employee. Learn office leave describe possible. Upon develop seven others. Choice paper easy executive author represent reason.
+A quality climb that offers a variety of climbing and amazing position.  Crop Circles ascends the arete with the blank streak running across it on the face.  The delicate and finger intensive crux comes at the beginning of the arete, but the final bulge at the top is no easy exit.  Lie backs, aretes, lunges, and face climbing; Crop Circles has it all, getting better the higher you go.
 
 # Location
-Right add final again military surface. First issue may another high. On right street. Specific this try admit.
+Towards the middle of the climbing area and about 8' right of Mars.
 
 # Protection
-Great six stop easy smile thank value. Way wait source. Inside expert seat toward this at.
-
+Sport.

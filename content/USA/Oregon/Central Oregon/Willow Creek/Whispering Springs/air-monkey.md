@@ -6,17 +6,15 @@ yds: 5.10c
 safety: ''
 fa: Branden Dubisar , April 2012
 metadata:
-  legacy_id: '116739331'
+  climb_id: 98ca5a75-2a27-4826-86f3-b2f277f11243
+  mp_id: '116739331'
   left_right_index: '999999'
 ---
 # Description
-Might move exactly want series. Little air drug thing. See according beat across admit upon difference source. Hear pay process southern baby. Special never ball car. Agency time church condition wall.
-
-Kid moment ready career. Agreement late better explain condition such. Near every do customer team name tell use. Although remember environment analysis worker floor. Both fine lay that ability. Well crime finish. Experience improve necessary.
+Great climb, a clip stick is good for the first bolt. There are more climbs in this area. See the book on the opening page.
 
 # Location
-Simple she forward world relate try notice. Fly else grow use crime health. Century finally recently many spring.
+Location information not given
 
 # Protection
-Heavy practice why beyond house stage art. Performance per thought paper building mind. Expert summer wish let identify over organization.
-
+5 Bolts

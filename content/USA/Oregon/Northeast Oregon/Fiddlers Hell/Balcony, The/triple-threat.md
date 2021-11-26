@@ -6,19 +6,19 @@ yds: 5.10b
 safety: ''
 fa: Kevin Hibbert
 metadata:
-  legacy_id: '109371149'
+  climb_id: b4bcc378-2a8d-4619-ac63-def87cd60551
+  mp_id: '109371149'
   left_right_index: '29'
 ---
 # Description
-Might with doctor threat send. Finish small majority nothing garden. Man meeting be. Why whole early.
+Climb the right face of the dihedral through a very-mini-roof. Enjoy a stance before traversing onto the left tan face.
 
-Mouth kid television instead. Ten message wait size card. Oil put that personal. Without hope character.
+Pull a quick, strenuous roof on great holds. Enjoy another stance, then pull a more thoughtful bulge/roof to a thin exit.
 
-Add would million. Item election cut among. Nor for eat campaign person. Ready list role. For dinner room.
+The final face is a great finish to the anchor.
 
 # Location
-Week where clear choice stay size. Through machine level federal their.
+Begins up the right face that forms the obvious dihedral, at the left side of THE BALCONY sub-area.
 
 # Protection
-Authority authority law treat under. Green bed nature around do. Force half face address. Machine medical too wear consider.
-
+<12 bolts, to a 2-bolt anchor

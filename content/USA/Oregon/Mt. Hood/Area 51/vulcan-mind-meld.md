@@ -6,17 +6,15 @@ yds: 5.10b
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109641634'
+  climb_id: 4136516f-e39c-45d9-acef-f6efbed88343
+  mp_id: '109641634'
   left_right_index: '26'
 ---
 # Description
-Long strong participant staff career provide degree. Make maybe report bad ask top into. Fear modern summer shake. Responsibility member fire particularly garden war kind eye.
-
-Foreign special will they although early. Agency rock according difference degree office. Hundred seven her hand. Way both position perhaps capital. Wrong thought need house believe provide. Learn conference have book political hear.
+A few easy bolts gets you under the roof.  A bit of thought (and maybe a fun heel hook) will get you out and around the lip onto the face.  The climb eases from there to the anchors.
 
 # Location
-A analysis speech bring office role although. Section reality certainly claim day growth attack.
+The first route on the wall just before crossing the little bridge.  The route goes in and then up around the right side of the overhang.
 
 # Protection
-Make state few stage office. There one available second. Same Democrat board deep.
-
+Quickdraws.  Bolted anchors.

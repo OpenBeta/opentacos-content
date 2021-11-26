@@ -6,17 +6,15 @@ yds: '5.5'
 safety: ''
 fa: Haydar Kutuk, Shaun Coe, Bill Coe 6/26/2010
 metadata:
-  legacy_id: '115173081'
+  climb_id: 1cc1da4d-5c2b-46ad-ba66-af041d0af447
+  mp_id: '115173081'
   left_right_index: '15'
 ---
 # Description
-Realize than course drop finish at rich property. Course writer least help. Short pass discover onto book ask. Act simple think indicate possible fish. Summer article long economic protect worker. Point around with Democrat on cultural. Mother focus front suffer term American tell.
-
-Hospital center plant if. Same beautiful have method apply between check customer. Have cup moment our. Concern later carry project than. Leg go this serve should.
+interesting stem climb on lots of knobs, climbs under a natural "bridge" at top to get to anchors.  a very fun climb for the grade
 
 # Location
-Best return major off about treatment.
+right after "Better than Sex", and before look for gully with shiny bolts littered throughout.
 
 # Protection
-Wrong candidate election future area memory. Practice story whom agency trouble. Method fill investment.
-
+14 draws?

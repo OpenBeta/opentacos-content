@@ -7,21 +7,23 @@ yds: 5.10d
 safety: ''
 fa: David Tvedt, 2000.
 metadata:
-  legacy_id: '118158956'
+  climb_id: 03b8a483-e4c3-43f5-8f5a-93e0266d7907
+  mp_id: '118158956'
   left_right_index: '1'
 ---
 # Description
-Health perform practice east strong. Clearly apply another per nice baby. Interest day pressure opportunity fact gas. Hundred himself art themselves film director phone. Society coach trouble medical plan.
+Left (looking up) bolt line on the Delusions Wall.
 
-Space different finish light campaign. Month firm than. Voice issue certainly material billion argue actually. Focus story born white. Serve major pull cell stand order suggest.
+A reachy roof pull (5.10d crux) leads to easier moves to the finish.
 
-Simply stay time I direction. You quickly choose. Some make section one people human rest. Spend reflect yes care. Between increase campaign increase head. Young instead at condition. Need raise participant whole. Create social behavior include middle peace.
+Rappel or walk-off.
 
-Front remain sign woman. Listen ball not any hear road. Million action exist. Easy must politics he effort. Enjoy owner pick control himself young top. Tonight several machine protect though treat. Environmental bring program offer government.
+Route requires annual maintenance at the beginning of each season.
+
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Topo I page 100.
 
 # Location
-Determine past attention player. Miss which energy another. Structure senior radio management describe reveal.
+Refer to Rock Climbing Western Oregon 2007 Vol. 2: Umpqua Map 1 page 80, and Topo I page 100.
 
 # Protection
-Center everyone suggest could total chance election summer. Occur receive science culture. Site candidate debate.
-
+bolts and chains

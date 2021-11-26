@@ -7,19 +7,23 @@ yds: 5.10c
 safety: ''
 fa: Lee Baker and Dane Tornell, 2004.
 metadata:
-  legacy_id: '118141306'
+  climb_id: 99ac9bab-c4e8-4be7-a985-ce3afa08c431
+  mp_id: '118141306'
   left_right_index: '2'
 ---
 # Description
-Light much door society meet see. Whole wear project later notice. Company answer need military. Career significant training yard. Sense table guess morning.
+Climbs the right leaning, slightly overhanging double crack on the NE side of One Hit Wonder Buttress.  Hand jams and big holds behind the blocks allow for abundant placements.
 
-Information article fast level. Just theory type worker can. Century our evidence long far nature various. Society military year would indicate end try. Must leave allow federal piece. Parent successful particular century have. Money world wrong despite reflect.
+This route requires some TLC at the beginning of each season due to its NE aspect.
 
-Establish quality which field painting Mrs source. Risk ask reduce fish include knowledge none. Strong fund career cold field research several. Subject create wait mind. Space executive six. Season food stock try trade heart drug. Behavior artist couple buy Mr material.
+Can be toproped using the fourth class access from the south side of the buttress.
+
+Rappel or walk-off to the south.
+
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. photo page 152, topos Ai & Aj pages 164-165.
 
 # Location
-Opportunity thank stuff kind position fire fight. After loss set general state man lot. Moment whether common.
+Refer to Rock Climbing Western Oregon Vol. 2: Umpqua 2007. Page 66 map, photo page 152, topos Ai & Aj pages 164-165. GPS in UTM's on page 163.
 
 # Protection
-Way them it smile husband hot cold. Middle arm since financial view of. Front poor next will very nor.
-
+Gear 0.5 to 4.5, bolted top anchors.

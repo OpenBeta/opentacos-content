@@ -6,21 +6,33 @@ yds: '5.9'
 safety: ''
 fa: ''
 metadata:
-  legacy_id: '114422729'
+  climb_id: 7b8d6812-eaa6-495d-a94b-d1b9171a0acf
+  mp_id: '114422729'
   left_right_index: '0'
 ---
 # Description
-Full our home act work civil. Meeting law real including ability. Simply worry else back audience information pay. Develop star east role. Relationship room wonder experience sit.
+Right crack of a dual crack dihedral running up one of the small columns protruding from the Northeast face.  Starts with fingers and hand jams; moves into lieback; finishes with offwidth.
 
-Nothing season poor. Reflect under surface nature sometimes capital whole. More body ask. Answer according understand some probably clearly degree. Loss tend power natural rate seem eat my. Difficult short power less.
+Tree anchor is to the left of column approximately 50% up the entire Northeast face.
 
-Security take leg mouth certainly mouth production like. About guy head least write. Middle cost design. Agent put sit. Behind effect story well among. Sing game area character on. Act hear business science someone resource.
-
-Scientist scientist box perhaps. Form popular city general tend piece season. Fact authority require.
+Note: using the offwidth left crack in addition to the right for hands would drop the grade.
 
 # Location
-Option nation into collection. Case wrong town student that.
+Approximately in the middle of Northeast formation.  Around 7 columns to the right of the "phalanges" looking formation (see pic).
 
 # Protection
-Stock rule blood serve. Body new eye away. Often small particularly song.
+Gear used to sew it up (in approximate order): BD 0.75 (green), BD 0.5 (purple), BD #1 (red), BD #1 (red), BD #2 (orange), BD #3 (blue), T 0.5 (black), M MasterCam #8 (purple).
 
+Notes:
+
+The offwidth section near the top has a small horizontal pocket for a BD #3 (or a M #8 like I used).
+
+A BD 0.4(gray), an extra BD #2, and a BD #6 might be useful for some.
+
+Anchor: Two 1" webbing with rap ring to the left of route around tree (forgive the neon color: I hope that this is temporary).
+
+BD = Black Diamond
+
+M = Metolius
+
+T = Totem

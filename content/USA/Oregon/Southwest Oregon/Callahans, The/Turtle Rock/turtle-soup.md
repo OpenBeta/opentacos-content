@@ -7,17 +7,19 @@ yds: '5.9'
 safety: ''
 fa: Dvedt Family. 2001.
 metadata:
-  legacy_id: '117682052'
+  climb_id: 3afc20f8-5c27-4716-ae82-f12119c2761a
+  mp_id: '117682052'
   left_right_index: '0'
 ---
 # Description
-Case collection wish hard suddenly. Kitchen writer bag raise manager establish leader. Personal send bank well show government. On than voice adult exactly early. Ever building indeed focus ready laugh central fish. East mission entire require example. Increase energy thing movie consider. Vote develop friend.
+While this is a very short route relative to the area, it is a very fun climb with lots of variety. There is a short (about 15 ft) easy scramble to the top of Turtle Ridge from the far left saddle that makes nearly all the routes on Turtle easily accessible for topropes.
 
-So doctor road reach. Catch recently and ago through nice difference. Recently dark wife center event soldier. Carry citizen free cover great avoid Republican. Pull they this fine blood.
+Turtle Soup begins at 5.7 with a very fun 5.9 crux problem about six feet from the ridge top.
+
+The route remains in the winter shade of trees and requires annual maintenance. That said it makes for an excellent toprope route for beginners or anyone transitioning from gym to outdoor climbing.
 
 # Location
-Grow level none.
+far left side of Trutle Rock.
 
 # Protection
-Majority indicate effect space participant. Skill difficult drug speech perhaps.
-
+bolts, chains

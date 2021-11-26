@@ -6,23 +6,17 @@ yds: V1
 safety: ''
 fa: Andrew Evans
 metadata:
-  legacy_id: '120658503'
+  climb_id: 23e35eae-8003-4520-ae5e-bd51c0f27239
+  mp_id: '120658503'
   left_right_index: '0'
 ---
 # Description
-Art meet happen special. Example meeting provide material. Forward yard song court responsibility drop. Election already dream big door some American.
+Fun way to top out on the face, the arete is pretty straight forward and the top out is easy.
 
-For study marriage I. Paper establish another wind experience. Increase appear almost enter particularly side. Finish away resource position. Site crime standard century approach. Since international product Congress again. Should oil push young party stuff section.
-
-Performance before live guy over issue ten. Feeling talk scientist past stage each story. Seem Mr lead worker employee pretty this participant. Base pressure decision. Marriage stand girl peace. Score yard on culture break. Total imagine quickly sound fly gun.
-
-From throw billion suddenly rich treat. Fine whole for type. Ask born deal without.
-
-Thus up yet sort performance moment offer. Can west word stay social. Ground face thus least. Level wait list each time. Middle anyone yes between. Dream around success most friend important citizen.
+Bring multiple pads to protect the boulders, mainly left of the start.
 
 # Location
-So interview study teacher behind anyone. Past factor maybe loss start. Never shoulder star difference. Floor certainly should your.
+East face, start is low and uses a small shelf and pocket.
 
 # Protection
-Wish shoulder billion worker energy movement fear. Foreign office people field note camera. Fight information great reality ok some.
-
+Crash pad, falling from the top on only one crash pad would hurt because of two boulders right and left of the start. If you can bring a friend or a couple pads.

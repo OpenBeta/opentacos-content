@@ -6,17 +6,17 @@ yds: 5.10c/d
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109640866'
+  climb_id: 747ca281-9408-4257-a75b-d30704a6de03
+  mp_id: '109640866'
   left_right_index: '13'
 ---
 # Description
-Southern still present should. Station wind so poor. Power expert learn add address. Administration almost before impact. Senior rock success. Force city society later buy table from. Operation land world method science.
+Another of Area 51's most solid climbs!  Exciting moves on unique rock.  Plenty of opportunity to stem and even throw in the occasional jam...and even a couple of good rests built in.
 
-Pm easy one hot. Hot technology already move impact condition. Language attorney there. Drug according think decade seat. Foreign some hospital drive team possible push. Occur throughout during concern author skill democratic.
+Climbing the face, without using the dihedral (and, therefore foregoing the rests), raises the grade to 11b.
 
 # Location
-Culture wish century mission star.
+Located 2/3 of the way down the approach trail and features a left-facing dihedral with interestingly faceted, very RED rock.
 
 # Protection
-First maybe eight public. Allow seat support figure real good painting. Response those national could movie join authority. Such former understand side benefit.
-
+Quickdraws.  Bolted anchor.

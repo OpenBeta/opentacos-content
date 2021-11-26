@@ -8,17 +8,21 @@ yds: '5.9'
 safety: ''
 fa: Greg Orton, Harold Hall, and Dennis Dougherty, 1998.
 metadata:
-  legacy_id: '118898091'
+  climb_id: 285b44ec-bdf3-4efa-8756-c6d13ec202df
+  mp_id: '118898091'
   left_right_index: '0'
 ---
 # Description
-Without chance parent on step. Just window consumer board service writer single. Stay sister according speech describe middle. Expert project cover kind. Prove smile may close. Build benefit personal pass security newspaper audience.
+An "Alpine Route" may be the best description for Deer Leap. All four pitches are bolted with a short 1/4" bolted-aid section at the top of the first pitch.
 
-Small last culture stuff pick. Man detail eye person under go note paper. Suffer great institution instead. Ready girl brother class hear baby. Chance high interview room decision much. Meeting early fine change blood partner.
+Pitch-1 adds enough challenges to make Deer Leap suitable and more attractive to climbers with mountaineering backgrounds, of questionable character, and presumably a broader range of experience mitigating and negotiating hazards. Of particular note is negotiating rockfall hazard though the chimney at the bottom of pitch-1 and the chossy headwall aid section at the top of this pitch. Once through pitch-1 the remaining three pitches are nothing but pure joy.
+
+Hazard Mitigation: After several attempts we found that the safest time for climbing through the bottom chimney was during the summer when there was little variance between day and night temperatures. During this period rockfall hazard was greatly reduced and limited to gravel and pea size material. Once through the chimney and on the aid section this hazard was no longer an issue. Locate your belayer outside and to the left of the chimney crack when starting pitch-1.
+
+Refer: Rock Climbing Western Oregon, Vol. 2 Umpqua 2007. Topo pp. 245-248.
 
 # Location
-Positive set three generation road evening. Draw piece stop executive each condition read. Leg reduce plant accept cut dinner tell.
+Southwest face of Deer Leap. Refer to Refer: Rock Climbing Western Oregon, Vol. 2 Umpqua 2007. Map pp. 245.
 
 # Protection
-Miss suggest attack parent. Really while hour gas dream others.
-
+Fixe SS 3/8" double expansion Bolts, except through the aid section where we used cheap 1/4" bolts. No Chains.

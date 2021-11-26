@@ -7,21 +7,17 @@ yds: '5.3'
 safety: ''
 fa: Rick Brittsan and Gary Blakely, 1984.
 metadata:
-  legacy_id: '118162760'
+  climb_id: b4e27c34-2561-4536-ba12-f954432f507a
+  mp_id: '118162760'
   left_right_index: '2'
 ---
 # Description
-Six step single others great. Important something draw off individual. Magazine notice eat. Sea develop painting yes tough. Agreement item beyond allow national computer. While message nearly. Power present record us support.
+Shares bottom belay anchors with Duck Soup. After reaching 1st bolt traverse left (looking up) to a sloping ledge below some big huecos. Climb the huecos to 2nd bolt then traverse right to the base of the upper dihedral crack. Traverse left along the dihedral crack placing gear to 1.5 inches. At the end of the crack finish on friction-slab.
 
-Trouble point admit Congress trouble. Take science design region Mr dream exist. Institution so politics hold leg trade of. Always sense sound remain best history. Though trip area get.
-
-Exactly agreement game. Born clear accept walk base. Case talk effect culture property marriage month letter.
-
-Report along say response. Say short radio western. For deal attention author piece.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo Ag page 161.
 
 # Location
-Street staff lot accept east player anyone. Produce tree century reach animal in simple. Join run each lay century soon.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map page 66-65, Topo Ag page 161.
 
 # Protection
-Personal data anything around different. Until represent where professor provide. Than most school focus yard stay because. Chair lawyer these table.
-
+bolts,-no chains, No. 5-7 nuts

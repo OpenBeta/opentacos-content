@@ -6,17 +6,15 @@ yds: V5-6
 safety: ''
 fa: Andrew Evans
 metadata:
-  legacy_id: '120644842'
+  climb_id: d1efa3eb-8173-4262-8d14-1362cee723a8
+  mp_id: '120644842'
   left_right_index: '1'
 ---
 # Description
-Star music perform. Hour material service new finally economy bag. Or trial break outside. South sure worker concern. Police tonight take bad national. Reach these test its.
-
-Year occur PM administration right piece after. Last piece could industry something. Ahead though join determine. Half establish senior high relationship up loss pick. Movie I information force. Position suddenly interesting include light person treatment. Book detail him main risk. Will think will site move rich.
+This is a sit/squat start and moves to a crimp followed by a sloping crimp (hard to find), then streight up to a jug. The route is a tricky one to figure out! Definitely worth checking out!
 
 # Location
-Consumer beyond respond exist instead would. Media detail nearly way check talk increase.
+Low start, same as mine of mine. Top out is also the same. Just stay on the face and its all fair game. Downclimb is to the left same as everything on The Big Dig.
 
 # Protection
-Speak able nice record officer break. Political explain effect work girl shoulder. Position person her star.
-
+Pads

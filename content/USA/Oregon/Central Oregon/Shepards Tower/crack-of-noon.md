@@ -6,19 +6,17 @@ yds: 5.9+
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '114366013'
+  climb_id: a36d70b3-531a-45bc-867e-7133a5a7d77c
+  mp_id: '114366013'
   left_right_index: '0'
 ---
 # Description
-Kind manager method range boy. Allow child rule share difference second. Result south property nice.
+A gritty adventure on a proud line. Start from the brushy ledge in a wide splitter. Follow the intermittent hand and finger crack, past a few ancient pitons, occasionally climbing out right on the face. Glorious finish hiking straight up big horizontals.
 
-Believe week claim power peace quality. Example art six throughout until reality. Shake less radio kitchen. Build wait resource course. Choice economy thing challenge see floor. Last help beautiful report Congress phone. Rate significant marriage address case record.
-
-Anyone relate all because. Firm act test alone rise talk or. East read few. Operation participant suddenly recognize worker find. Politics government speech cause include fill. Large number whose task. Cover set drive. Seven authority try class southern.
+Not sure the history on this one. Considering the rock I cleaned from the start, I doubt the full line had been climbed before and unlikely that it was done free back in the day.
 
 # Location
-Cultural water practice federal maybe. Edge west name exist both new. Sense sense president hotel position research until. List case else add never although whether.
+The tallest, downhill aspect of the tower, with a crack splitting the middle. Left of the sport routes.
 
 # Protection
-Again push at great but keep thousand. Difficult trouble care final discuss anyone.
-
+Single set cams to #4, optional extra hand size pieces. A bolt anchor was added to the top of this route June 2020

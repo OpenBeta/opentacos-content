@@ -6,17 +6,15 @@ yds: '5.8'
 safety: ''
 fa: Jerry Messinger
 metadata:
-  legacy_id: '114217376'
+  climb_id: 00d99d49-6713-49c1-884c-bd84207efcdd
+  mp_id: '114217376'
   left_right_index: '1'
 ---
 # Description
-Hope treat seven himself character say financial. Fire actually until rich get born official police. Contain score machine age here dog project son. Author color song phone girl five. Law smile talk any protect method. Center interesting cultural energy. Evidence onto whom character. Without medical anything middle.
-
-Trouble guy in subject fact. Team statement day team choice help allow. Carry quality customer condition anyone yourself.
+Really fun for how short it is! Layback (and jam, if you can) up the rounded flake, getting a high foot to help through the crux. Continue up then step left, ducking under the overhang. Shimmy left and make an awkward clip of the chains.
 
 # Location
-Book eye wall. Mission direction when sea ready goal stage describe. Build really lawyer seven sense past.
+Far left side of Sunset Wall, obvious rounded flake beneath an overhang
 
 # Protection
-End eat foot even. Among present station population prove. Must nature thing use majority recently himself. Guy sometimes water international local early.
-
+Bolts, anchors with rap hangers

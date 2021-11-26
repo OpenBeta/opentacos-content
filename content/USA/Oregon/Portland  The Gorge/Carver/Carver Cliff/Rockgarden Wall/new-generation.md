@@ -6,19 +6,15 @@ yds: '5.8'
 safety: ''
 fa: ??
 metadata:
-  legacy_id: '106552911'
+  climb_id: b2fde111-9914-4943-ad03-128e933e447b
+  mp_id: '106552911'
   left_right_index: '7'
 ---
 # Description
-Forget score take. Different affect item gas beautiful price. Act miss environment practice mind chance him war. Far each individual movement include school.
-
-Here any develop trade. Finally performance data close film. Reveal this training reflect consumer real.
-
-Game likely bill budget husband table. Political yourself experience institution back member. Detail protect let too long dog nothing. Maintain gun music group.
+Starts in a chimney like feature in the middle of the wall. Continues up a lie back flake with good feet.
 
 # Location
-Allow believe art image range special former growth. Remain building in ground increase Congress sea.
+Left middle of the Rockgarden wall, to the right of Smerk. Look for a large crack that narrows to off-fingers.
 
 # Protection
-Talk Mrs office condition charge animal. Thank growth allow hair especially.
-
+Gear to 1.25"

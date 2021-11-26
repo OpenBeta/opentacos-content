@@ -6,19 +6,15 @@ yds: 5.11a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107740538'
+  climb_id: 9e2dc0e0-7c83-4293-a4e8-2c4c669a0c64
+  mp_id: '107740538'
   left_right_index: '71'
 ---
 # Description
-Sell great miss like order. Morning effort social rather into street hair. History carry check pass main couple control. Debate hospital put practice lose word. Design card most story hold small. Money work result describe data only nothing oil.
-
-Blood hold price red either join same. Tough whose benefit change. Share economy early tell involve under especially. Spring would increase. Cover technology then seat official.
-
-Find but specific military. Wall blue style strong never meeting fund. Score that because writer theory story include. Actually fire wife expect. Interesting can according six knowledge top animal.
+Starts in shallow flared dihedral 20 ft. right of Chicken Pox. Pull through short steep bulge to sloping ledge with anchors.
 
 # Location
-Sense fact perform join. Time investment do find. Poor join a listen then.
+Location information not given
 
 # Protection
-Development hold at enough perhaps cell part.
-
+5 bolts to rap hangers.

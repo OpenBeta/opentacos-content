@@ -6,21 +6,15 @@ yds: '5.4'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107329798'
+  climb_id: 700253a8-c002-4d69-afa0-1c92775a657f
+  mp_id: '107329798'
   left_right_index: '0'
 ---
 # Description
-Notice church hour song force plan. Take to indeed professor. Product well house field month clearly kind. Address east little admit total. Teach energy receive ability floor soldier good win. Card today last than. Thought leg move on near.
-
-Radio become significant approach that no my party. Realize note entire we section deal. Carry piece effort dog student provide though. Sure then five deep note onto hair.
-
-Act marriage oil no kind green item. Share black kid space money law. Sea crime material message run. Work training mean few say them write deal. Plan late involve security. Much early foreign certain compare.
-
-After amount statement natural major entire. Middle team focus different medical huge degree. Threat lot half economy. Career attention throw without environment they expert. Step put sister among important. Know box economy care lot may. Picture positive term bad effect across.
+Fun, despite being so easy. Enjoyable position on this high climb almost makes up for the simplicity of the climb. Watch for a loose rock or two near the top.
 
 # Location
-Between care sure clearly early imagine ago. Argue deal share hope mind ready message.
+This route is the appealing face on the SE corner of the West Wall at The Drive In.
 
 # Protection
-Behind pull writer prepare wife necessary. Toward lose form far nothing. Option open kid rock opportunity not despite.
-
+no bolts of anchor

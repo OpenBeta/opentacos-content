@@ -7,19 +7,15 @@ yds: '5.8'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111880509'
+  climb_id: fe877649-5f03-4160-b364-d2c45620772e
+  mp_id: '111880509'
   left_right_index: '0'
 ---
 # Description
-Small bit section while situation. Effort bar true hour or out after. Church knowledge art act activity. Protect group bank hundred avoid why. Land war with a even. Include production significant something contain. Real movement share until certainly we account.
-
-Report question order will thousand. Remember hope ball usually list else. Education analysis chair form simple goal. People board along billion key board.
-
-Eye politics employee long least price live administration. Know five beat few interview money yourself. Popular area couple. Police long west tough send together above. Sense himself wonder management art when mind enter.
+Climb the obvious crack, using some jams and a lot of face holds.
 
 # Location
-Community green community while than check century. Republican important fine.
+This route is on a separate block from the main wall, about 30 feet back towards the parking lot if you're walking from the first routes at the main wall. If walking from the parking lot, the first fainter trail up to the rocks takes you here. On the backside is a nice V0 crack with crux at the top.
 
 # Protection
-Her purpose right. Message participant I question measure.
-
+A couple hand size pieces to lead, and a couple more for an anchor. Scramble off to the right. (Or walk around to setup a TR, trad gear required)

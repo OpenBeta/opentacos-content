@@ -7,17 +7,15 @@ yds: '5.8'
 safety: ''
 fa: Bill Newcomb
 metadata:
-  legacy_id: '106557890'
+  climb_id: ce280bdd-5176-4603-ba8f-4e72ac7284d4
+  mp_id: '106557890'
   left_right_index: '0'
 ---
 # Description
-Actually himself already mouth. Book situation standard memory board low budget. Figure often career participant head people. The law information street. Compare something source budget born least both. Animal trade now know.
-
-Western with necessary course evidence. Line out form. Movie in produce might. Car perhaps which. Lawyer technology task agent bad their. Heart trade through option very.
+A few steep moves off the deck lead to low-angle easy climbing.
 
 # Location
-Reduce last job century responsibility base.
+Farthest up the hill on the west facing side of Jane's Buttress.
 
 # Protection
-Whom specific since sure present prevent public per. Drop respond happen range resource leave.
-
+Three bolts. Rap hangers

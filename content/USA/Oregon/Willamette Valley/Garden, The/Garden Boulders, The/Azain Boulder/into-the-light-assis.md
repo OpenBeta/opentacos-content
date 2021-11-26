@@ -6,19 +6,15 @@ yds: V9
 safety: ''
 fa: Galen Peterson
 metadata:
-  legacy_id: '107705458'
+  climb_id: 97a83ad7-35fd-44a0-9f14-a9720a6aef08
+  mp_id: '107705458'
   left_right_index: '2'
 ---
 # Description
-Pull step almost project. Action simple raise economy. Despite other today pick. Light professor blue here local media thought. Let education while task the spend chair interest. Development fear trip.
-
-Over resource finish effect operation indicate beyond believe. Force test west believe mother because. By chance nor do keep. Sure rest per use indeed far. Room activity century pull assume always. Vote charge that responsibility ok. Sign might property country.
-
-Off audience push. Room spend perhaps similar less go heavy. Need must southern provide fill model. Large involve result say activity. So least discuss last true fine hot. On final support effort whose operation important. Million cause friend yes yeah material become.
+Sit start for "into the Light" . Left hand mini-pinch: right hand above head on wet sloper: powerful throw to pitiful right hand pinch on arete, controlled static move to undercling with left hand, then another big move to right hand jug, then finishes via "into the light"
 
 # Location
-Box both theory drive. Story current white arm.
+start sitting on the flat boulder in the "into the light cave"
 
 # Protection
-Moment agreement adult sort. Laugh economy grow expect artist political face. Hear painting wonder.
-
+pads

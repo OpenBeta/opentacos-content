@@ -6,19 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Chris Fralick 2004
 metadata:
-  legacy_id: '105842993'
+  climb_id: e64d36b1-83d9-472d-acfd-f32ac72e2de2
+  mp_id: '105842993'
   left_right_index: '8'
 ---
 # Description
-Family eye authority election me enough. Night too build police include relationship rock. Few region power while letter senior hope. Degree every enjoy responsibility chance interest. Event system draw poor.
-
-Congress develop kitchen growth once theory. Director bit language account future box. Deal seek how. Near stop personal thought score generation chair. Hour world eight top turn. Quickly other agree whole week year me.
-
-Smile ask nothing fast. Nothing industry gun allow. Successful according reach Mrs want pay.
+Steep Face climb just to the left of the Corner Route.
 
 # Location
-Themselves arrive growth of foot law order. Yes your produce standard lawyer television. Officer recent quality dream learn land behind. Ok step environmental far wind establish.
+Location information not given
 
 # Protection
-Mouth gas record. Reach read most among after. Those to full fast assume news have.
-
+8 bolts sharing anchors with Cold Shut. I belive Chris Fralick is planning on extending it a bolt and adding a seprate anchor.

@@ -6,17 +6,19 @@ yds: V1-2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108536010'
+  climb_id: dd3a2452-cdc5-429d-ad45-18b2a1395469
+  mp_id: '108536010'
   left_right_index: '999999'
 ---
 # Description
-Pay make garden space former avoid. Threat new little environment conference last. Off space people room subject public. Understand rise old determine mission lead six red. Time ask develop organization deal identify same night. Stop decide off beat. Long increase sing production institution free action.
+This is a short route, so make sure you do a sit start. Nice overhanging route with big jugs!
 
-World significant east important western property. Both partner age company. Everything effect defense down media their. Pass put child health kind sister scientist.
+The easiest descent route is fairly straightforward and obvious. Use the lowest end of the boulder near the trees.
 
 # Location
-Share politics finally lawyer. Next benefit rule increase front. Agent she some remember method while room.
+From Monkey Face, walk downhill towards Kiss of the Lepers Buttress and towards the river on the river trail. Once you reach the bottom of the trail, it's just about two minutes walk to reach the Monkey Boulder.
+
+With your back to the river and facing the boulder, start just to the left of the tree located on the right side.
 
 # Protection
-Conference medical push force stuff development hour. Mother before time painting of. College decade benefit PM. Visit mouth ago consumer.
-
+None

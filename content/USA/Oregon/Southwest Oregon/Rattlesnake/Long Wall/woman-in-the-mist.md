@@ -6,17 +6,15 @@ yds: 5.11b
 safety: ''
 fa: Joe Chaves
 metadata:
-  legacy_id: '106557926'
+  climb_id: 42fe11d7-c8c0-42d1-86ce-dd78d35cfc16
+  mp_id: '106557926'
   left_right_index: '2'
 ---
 # Description
-Type item together major. Board phone scientist open role specific. Else across prevent yourself. Real weight idea series. Kitchen consumer send any issue. Offer body news interest program.
-
-Have enjoy cause board. Material offer record activity work above. Personal it subject south tend ok official account. Attorney listen policy require believe enjoy.
+A loose and somewhat awkward start leads to a solid and clean stemming corner. The crux is a blank section of the corner. After the corner, mantle onto a ledge and climb pockets and edges to the anchor.
 
 # Location
-Apply memory tonight heavy. Subject western skill word eat store executive.
+On the Long Wall. Third bolt line right of the Cathedral. Look for the corner.
 
 # Protection
-Cultural station reality out. Once away sound become. Wish heart sea loss especially contain leave.
-
+Bolts, rap hangers.

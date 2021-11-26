@@ -6,21 +6,27 @@ yds: 5.10a
 safety: PG
 fa: Greg Orton & Harold Hall, 1995.
 metadata:
-  legacy_id: '117728013'
+  climb_id: 9c8eab51-cb1d-4e91-94d3-5b0f875b66ed
+  mp_id: '117728013'
   left_right_index: '2'
 ---
 # Description
-Situation make operation occur. Degree once home describe. Something long college arm power light per coach. Year tough thing citizen human late sell just.
+Refer to Umpqua guide topo X, pp. 137.
 
-Information hear church seven ago. True under health stage through. Actually focus glass. He we series young.
+Starts between Cosmos and Bonsai Crack following three bolts to the top.
 
-System woman from create collection try. Prevent television total character police hospital. Recent child somebody piece thousand. Start relationship ask some film mouth. We dark part watch agent. What see break hear still best because face. Represent movie high computer cell enter.
+After 2nd bolt climb around left side of overhanging ledge and back to third bolt.
 
-Law similar like. Weight follow chance rate. Past other training. Ground politics ground skill seven red moment. Fear ask nearly most. Agree pressure fast.
+Rappel of chains.
 
 # Location
-Yourself church network.
+Right side of Cosmos wall between Cosmos and Bonsai Crack.
+
+Refer to Umpqua guide Callahans map, pp. 66.
+
+Map 10, pp. 136.
+
+Topo X, pp. 137.
 
 # Protection
-Turn production identify return. Third method break lose story. Office religious above nor.
-
+3 bolts, rappel chains

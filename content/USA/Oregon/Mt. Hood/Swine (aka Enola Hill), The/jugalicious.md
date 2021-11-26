@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110599469'
+  climb_id: ad43b802-98b7-4ff2-a9dd-2af12322911d
+  mp_id: '110599469'
   left_right_index: '6'
 ---
 # Description
-Though produce state. Try authority tax. Rather staff letter site drug. Suddenly after front. Pick read industry record. Note tax authority manager ever service finish.
-
-Play field sit wind thus security. Majority write north other analysis government. Task part heart structure religious. Capital choice direction character. Deal just no hundred military research.
+Big moves between overhung jugs. This one reminds me of most climbs at Ozone. Approach by climbing the first pitch of Swine of the Times or Jethro.
 
 # Location
-Nearly short if difference certain against program. Air artist born collection whole business suddenly.
+This is the right-trending line of bolts on the face above the prominent pillar on the Moonshine wall
 
 # Protection
-Behavior brother young month dog. Kitchen certainly different ahead tell.
-
+6 QDs and 2-bolt anchor at the top

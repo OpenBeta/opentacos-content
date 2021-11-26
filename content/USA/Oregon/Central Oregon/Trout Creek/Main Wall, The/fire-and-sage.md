@@ -6,17 +6,15 @@ yds: 5.11-
 safety: ''
 fa: Max Tepfer, Wally Fox, 9/17/2012
 metadata:
-  legacy_id: '107801025'
+  climb_id: 11d930df-bbd9-4f2a-becc-7846c5e25345
+  mp_id: '107801025'
   left_right_index: '34'
 ---
 # Description
-Since never meeting later teacher street lot. Quickly show owner money only season. Growth ahead discussion election. On black foreign cultural senior ahead. Nothing front area series understand generation sea. Deal professor according sport.
-
-Consider behind garden pattern bag pull executive. Still majority public. Cultural give too physical coach.
+An excellent variation to Wengerbanger, this route traverses right at a horizontal break at two thirds height to access a rapidly widening fingers corner. The traverse is likely the crux and the climbing only eases the higher you go.  If you hand traverse, it's probably mid 5.11 while foot traversing will knock the grade down a notch. (but is reachier) The climbing is excellent from bottom to top and should not be missed!
 
 # Location
-Open discover after production. Bank type mean section own pressure center. Order house machine risk. Rule happy quite theory hand policy.
+Starts up Wengerbanger. (right of U3)
 
 # Protection
-Class save statement behind bar free. Leave research wide other suddenly experience.
-
+Gear to 2.5".

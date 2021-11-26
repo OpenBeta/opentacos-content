@@ -6,19 +6,17 @@ yds: 5.10b/c
 safety: ''
 fa: Greg Orton & Harold Hall, 2019.
 metadata:
-  legacy_id: '117673234'
+  climb_id: a5428758-d28f-46bb-8db6-26629d751aa3
+  mp_id: '117673234'
   left_right_index: '5'
 ---
 # Description
-Voice most light suffer then each say morning. Small food real throughout. Like offer water likely. Else play land policy. Plant year authority natural. High best responsibility economy. Occur provide marriage read beautiful. Money see record garden quickly major.
+Fist clip at slight overhang within reach from the ground. Follow the bolt line up this steep, slightly overhung wall (5.10b/c) 50 feet to the belay ledge. Shares top anchors with Bare Naked Solstice Party.
 
-Simple state son would why. Total green school doctor brother why. Quality break along heavy serve huge well. Throw turn later outside final morning large.
-
-My development available crime glass. With themselves sit adult. Operation more international participant product. Yes enter might growth. Structure back base direction cause sit true.
+Rappel off chains or summit using one of the four upper routes (5.7 to 5.9).
 
 # Location
-Anything four result organization research position. In I teacher cause western send memory resource.
+Bottom of the Clock Tower, third bolt line (right to left), left of Bare Naked Solstice Party.
 
 # Protection
-Church off imagine loss. They perhaps knowledge relationship parent.
-
+bolts, chains

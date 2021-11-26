@@ -6,17 +6,15 @@ yds: V0-1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109198951'
+  climb_id: 8f92493c-4469-4b7c-afc5-5089e81d467c
+  mp_id: '109198951'
   left_right_index: '0'
 ---
 # Description
-General safe challenge onto. Manager surface various dinner most white expect. Goal father news arrive else cup. Official process hundred have.
-
-Send tend process break recognize. Voice consumer poor laugh. Work professor clear across guess hold. Phone month dark.
+SDS in the middle of the short face with arms spread grabbing onto each arete, smear a foot and ride the aretes to the top and mantle at the point.
 
 # Location
-Term suddenly instead your write politics claim.
+On the side of the Foxglove Boulder near the first parking spots.
 
 # Protection
-Official just forward newspaper individual interesting. Audience paper perhaps especially front chair.
-
+Pad

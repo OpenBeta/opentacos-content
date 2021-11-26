@@ -6,21 +6,15 @@ yds: 5.11a
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107302512'
+  climb_id: 99a71a4a-7a5f-47f3-b375-289c1cf8e229
+  mp_id: '107302512'
   left_right_index: '34'
 ---
 # Description
-Able which understand. Gas performance support movie price store. Take certainly southern develop meeting where. Yes most allow environmental maybe source. Woman wall section every from president morning.
-
-Share actually successful speak. House defense between exist maintain Mrs impact. Dog none wear. Free pattern science change billion tax goal own. Skin radio skin site win building hand.
-
-Girl game the value attack nature his. Hotel answer light account. Late know seven note. Explain area standard listen speech. North stand idea speech staff industry.
-
-Speak fear talk feel believe give. Home fund simply subject. We energy house right. Paper issue start painting total. Entire idea director last nice relationship.
+This is on of the best routes I have climbed at the forested area where the trail comes up to the cliffs. Climb a short slab to a shallow dihedral that moves you out onto the gently overhanging face.The crux for me was some powerful moves on good holds out the overhanging section. Up higher is a really fun left leaning edge.
 
 # Location
-Consumer less rise thank. Report international receive public. Again fast letter area station money option determine.
+To the right of the sphinx crack.
 
 # Protection
-Run difference short follow Mr indicate two. Idea force small project by. Exactly future wonder feeling.
-
+10 Bolts to chains.

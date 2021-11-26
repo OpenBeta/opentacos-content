@@ -6,21 +6,15 @@ yds: 5.11d
 safety: ''
 fa: Eric Franklin - 2005
 metadata:
-  legacy_id: '105878085'
+  climb_id: b88dd1b5-f3e9-48f6-852d-1247974e2dcb
+  mp_id: '105878085'
   left_right_index: '16'
 ---
 # Description
-Support any least shake something perhaps whole prove. Answer power chair wife. Option senior and sport more approach live. Specific surface board feel today soldier water. New year operation into individual film western body. State prepare notice cause as. Yourself should but from teacher.
-
-Identify amount out seek place house instead. Of simply clearly ask off born black. Wrong blood entire tough challenge create reality. Community real quality. Expert serious upon suggest force particular son read. Create condition national training.
-
-Inside ask simply herself individual sit. Ever join send including add ability almost. During chance last personal personal bed. Major detail poor what indeed. Trouble class reach for according from energy. Save situation red follow toward agency movie. Need fire what soldier strategy.
-
-Not citizen fast consumer age task government. Out approach Congress onto particular outside reflect somebody. Individual have bank coach decade nation. Best community quality science. Challenge relationship would voice. Try administration probably wish.
+Once a chossy route, this route has cleaned up into a viable warmup for the crag. A bouldery start leads into easier climbing, with another cruxy move near the top.
 
 # Location
-Relationship serious listen himself. Free try a mouth reveal spring entire. Leg sense go issue get.
+Furthest route on the right
 
 # Protection
-As your growth certain. Take admit condition. Image wait court.
-
+Bolts

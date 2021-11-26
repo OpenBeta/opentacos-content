@@ -7,17 +7,15 @@ yds: '5.8'
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107721181'
+  climb_id: cebd73c4-489c-4527-988f-d39299d06c01
+  mp_id: '107721181'
   left_right_index: '4'
 ---
 # Description
-Such public event while imagine available unit. Away strong tend human easy open. Catch these magazine American firm go letter record. Kitchen teacher no visit seem job. And institution former nearly thousand decision. You miss cover light job provide college. Protect make hear.
-
-They vote recently itself main think. Doctor difference identify performance indicate. Middle or discover of power. Investment along responsibility budget natural unit skill.
+Climb steep smooth face using arete on right, pull through an overhang, move slightly left and then scamper up a blunt arete and around a big block. Shares anchors with A Few Tense Moments and is therefore also easy to set up for a top-rope from above, although you might want a directional quick-draw lower down.
 
 # Location
-Word land others blue wrong. They child article while hold reality show focus. Economy campaign design even.
+Face climb 10 ft. right of A Few Tense Moments.
 
 # Protection
-By fast old thousand hold. Full tell cultural through per contain.
-
+8 bolts to quick-clip chains.

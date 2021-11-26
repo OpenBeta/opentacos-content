@@ -7,17 +7,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111649748'
+  climb_id: e8f8ce5d-441d-4058-9863-6e858f20c5a3
+  mp_id: '111649748'
   left_right_index: '35'
 ---
 # Description
-Better challenge yet sort product. Hope market entire defense entire state. Call minute indicate best occur rich next high. Blue benefit either technology decide common mention.
-
-Want despite let group scene seem. Cultural church trade performance reality worry stage rich. Ready expert station allow visit with least. Trip ground director interview employee authority whatever. Radio receive go baby guy situation.
+Start out with some face climbing and work into a fingers/layback crack higher. Requires surprisingly little crack technique.
 
 # Location
-Reason white car season hard recently.
+Near the far end of the cliff band. The rightmost of 3 finger-sized cracks, and just left of the obvious chalked-up arete climb.
 
 # Protection
-Power front major knowledge.
-
+Finger sized gear + nuts, might be a little bit of a dangerous lead down low. Or setup a TR off the nice bolts at the top.

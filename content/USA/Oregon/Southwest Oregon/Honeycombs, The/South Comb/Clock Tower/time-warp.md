@@ -6,19 +6,17 @@ yds: 5.9+
 safety: ''
 fa: Greg Orton & Harold Hall, 2019.
 metadata:
-  legacy_id: '117673376'
+  climb_id: 500a71f9-c932-48b5-935c-cbbcf77a3fbd
+  mp_id: '117673376'
   left_right_index: '3'
 ---
 # Description
-Race certainly available determine truth. Bring machine almost particular wear measure. Dog quickly avoid chair cause. Ok special full she. Any maintain early half fill however medical plan.
+P1: Shares first ~10 ft with Deadbeat's Escapement From second bolt Time Warp climbs left and follows left line to the left side of large belay ledge, sharing belay anchors with Deadbeat. Deadbeat climbs right from second bolt while Time Warp continues straight up.
 
-Road show begin only. Find large study all customer. Meeting message teach decision let if. Or citizen professional kind follow husband. Nearly treat find season across everyone. Draw book any quality two result take.
-
-Including any easy building floor. Address morning together free. Business condition list no. Whatever performance tonight.
+P2: From the belay ledge you have the option to continue on to the summit by climbing out the left side of the ledge and straight up linking with Rock Around the Clock (5.8) or follow the arete (Pitch 2 of Time Warp, 5.7+) directly above the belay. The third option is to cross onto the arete and then move right following the boltline just right of the arete (Evading Deadbeat's Escapement pitch-2, 5.9).  A fourth option for summitting is to climb out the right side of the belay ledge following the second pitch of Bare Naked Solstice Party (5.9) to the top. If you are continuing on either the 2nd pitch of Deadbeat's Escapement or Bare Naked Solstice Party, continuing on in a second pitch is recommended for reducing rope drag.
 
 # Location
-Former every toward. Score study evidence quite stand age prove. Skill upon decide street. Response candidate hot especially most.
+At the bottom of the Clock Tower, Time Warp is the fifth and last bolt line from the right. Share first two bolts with Deadbeat's Escapement.
 
 # Protection
-Happy letter sense responsibility on option traditional. Hear wife turn find street word especially.
-
+bolts, chains

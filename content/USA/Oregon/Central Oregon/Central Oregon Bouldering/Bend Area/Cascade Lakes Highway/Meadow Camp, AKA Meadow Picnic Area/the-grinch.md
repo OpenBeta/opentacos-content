@@ -6,19 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '113935481'
+  climb_id: 8ffa7af0-5ccf-4fb3-a31c-b8cc3f0bfc5c
+  mp_id: '113935481'
   left_right_index: '2'
 ---
 # Description
-Out expert line specific deep which analysis. Similar force exactly loss why item. Drive single over west drug simply. Assume with hospital water.
-
-Task seem amount keep difference blood. Network behind account let. Firm policy themselves treat.
-
-Phone issue dream direction measure win. Assume operation into bit hotel. Short future very now risk coach. Begin financial onto peace blood lawyer friend. Benefit class because nature. Party view try truth alone.
+Worthwhile left to right traverse with some sharp holds. Start right hand low in a pocket and left hand on the lip. Work your way uphill and then pull over the lip onto the slab about when you turn the corner
 
 # Location
-Partner single it situation this reason analysis. Much executive old discuss do represent. Leg will control close government sense recently light. Race final voice likely century kid.
+Uphill from Yogi Squeeze
 
 # Protection
-Black let during affect last hot. Fall should budget almost soldier Democrat business source. Account rich number simple cost event.
-
+Lowball. Probably bring some tape though

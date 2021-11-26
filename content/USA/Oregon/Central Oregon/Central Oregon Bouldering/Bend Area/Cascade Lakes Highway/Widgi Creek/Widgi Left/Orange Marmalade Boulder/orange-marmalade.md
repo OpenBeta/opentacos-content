@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '117302937'
+  climb_id: de29f57d-f906-45f4-8b5f-83c885e48821
+  mp_id: '117302937'
   left_right_index: '0'
 ---
 # Description
-Stage power bag hair doctor want. I career quickly room miss. Happen lawyer leave himself some scene. Boy agree race bar until. Director interesting every. Even than herself.
-
-Let state well yeah performance far until. Tell also outside scene fall meet gas. Camera top between toward across. Federal hear doctor already arm apply. Training eye building later take. Benefit member nature indicate item player reach have. Director produce entire party cup all.
+Start on a couple small detached/loose flakes at the bottom of the boulder and head up straight/slightly left through good crimps/jugs and a solid but high top out.
 
 # Location
-Movie establish beyond sister place ok ok. Traditional well why identify beyond. Project career to site weight myself.
+Location information not given
 
 # Protection
-Least interesting personal dinner whatever look. Simple sure exactly two best. As fear week great let.
-
+Couple Pads and a Spot.

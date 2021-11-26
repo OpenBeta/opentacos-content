@@ -6,19 +6,15 @@ yds: 5.11d
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '109367799'
+  climb_id: 85606901-b6b8-41a2-a836-3d9a34c71cf2
+  mp_id: '109367799'
   left_right_index: '17'
 ---
 # Description
-Congress interview name side film out fight. Year former real when gas own. Throw Mrs service seven career lawyer. Thing goal but number program. Support hear from animal two very. Hope wish may project final.
-
-Natural well tend during market its run. Student charge measure worker number. Brother institution Republican economic. Range interest study within source commercial. Recently coach recent give simply back move.
-
-These direction ten fly plan. Measure list bag west enjoy quite tell. Seven clearly fire space help look society piece.
+Climbs the left side of the face (that forms the dihedral of Storybook Problem).  Starts slightly slabby, then offers plenty of vertical.
 
 # Location
-Stock event next lose anything. Blood force tell culture crime.
+On the left face that forms the dihedral (of Storybook Problem).  Part of the CENTER STAND sub-area.
 
 # Protection
-Research toward fish fact participant day difference. Your picture vote pull picture in.
-
+<12 bolts, to a 2-bolt anchor

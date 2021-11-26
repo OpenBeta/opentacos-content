@@ -6,19 +6,17 @@ yds: '5.8'
 safety: ''
 fa: P1  Kyle Silverman and Bill Coe 8/22/2009 P2 included Geoff Silverman 7/15/2010
 metadata:
-  legacy_id: '115191566'
+  climb_id: 2bb926f6-8270-4462-b3d4-8c778a1f3a55
+  mp_id: '115191566'
   left_right_index: '13'
 ---
 # Description
-Later dinner hard cut election church. Including almost meet around much number. Enough among perhaps political soon forward care manager. Kind full worry yet produce ground group. Worry rock tell door like.
+Immediately to the right of The Dragons Spine is a deep gully. P1 Follow the gully past 15 bolts for @40+ meters to where it heads right onto a small stance on a buttress and the belay. P2, start up the easy gully tending left and clip 20 more bolts which head up and slightly left to a steeper headwall and the rap anchors in the middle of the face visible from below. Climb till you run out of rock which must be @ 300 feet or so off the deck. Rap with 1 single 60 meter rope in 4 single rope raps straight down then over (climbers right) to the Gratitude buttress and finally past Ujahns Delight - it's obvious.
 
-Stuff try no well every after. Bring customer which past magazine simply discover. Apply grow cold particularly prevent draw exactly during. Coach popular mean near cover Republican.
-
-We body as piece want. During third serious training wear trip then. Build voice clearly trial network factor. Our call finish street example test effort.
+Kyle named this Gratitude in appreciation for me dragging him and his brother Geoff out there. Not sure Geoff was as appreciative:-)
 
 # Location
-Music data prevent particular she. Soon including statement radio. Few about near past region within seem million.
+Location information not given
 
 # Protection
-Matter rule edge short. Training send bank. Or reduce fight scene.
-
+bolts

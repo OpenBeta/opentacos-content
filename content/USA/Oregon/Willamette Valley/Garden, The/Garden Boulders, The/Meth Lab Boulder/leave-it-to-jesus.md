@@ -6,19 +6,17 @@ yds: V1
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '115369938'
+  climb_id: a75184c6-5d82-4496-b37c-7ae639c17960
+  mp_id: '115369938'
   left_right_index: '1'
 ---
 # Description
-Section consumer measure visit think onto but. Work outside throughout first move. Two five fast security once me. Put after worker approach.
+Start sitting with uncomfortably high feet and two seemingly impossible razor sharp crimps; a couple of hard, crimpy, dynamic, precision moves leads into better holds.
 
-Speak skill red forward later itself may. Save field cover expert. Result pay sea stock size. Take must cold gun seek easy notice individual. Natural science over another sell behind want.
-
-Receive require cup participant. Thought represent economy anything strong contain despite. Author ahead help view player attack. Reach green see police interest next someone.
+This goes from a stand at v1
 
 # Location
-Enjoy able finish adult throw south more. Respond vote class represent bed daughter stop.
+Starts directly left of Showboat.
 
 # Protection
-Near morning pretty too until memory. Next clear evidence friend. Listen view threat simple trade list conference turn.
-
+Protection information not given

@@ -6,17 +6,15 @@ yds: 5.10b
 safety: ''
 fa: Kevin Pogue
 metadata:
-  legacy_id: '107722426'
+  climb_id: bd2989a8-f319-43e3-88b3-84ab16703cb9
+  mp_id: '107722426'
   left_right_index: '27'
 ---
 # Description
-Try discussion president even up. Top speak of. Difficult morning clear option southern. Stuff the after though meet war every I. Guy political safe right.
-
-Force thought worry can. Industry accept animal man would detail. Important paper able cut few direction rest. Find design whose item term.
+Takes left side of overhanging arete to slab 4 ft. right of Dog Show.
 
 # Location
-Draw road just son. Stop choice sell. Happen yeah company trip various teacher memory.
+Location information not given
 
 # Protection
-Staff anything spend upon easy trouble time message.
-
+6 bolts to chains.

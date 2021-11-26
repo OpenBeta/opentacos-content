@@ -7,17 +7,15 @@ yds: '5.9'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '111654332'
+  climb_id: 30e0c770-d0c5-41d1-a588-3747a1f4d51b
+  mp_id: '111654332'
   left_right_index: '30'
 ---
 # Description
-Point Democrat than community can environmental still. Common year receive thing put. Side shoulder marriage. Social police brother pressure. End ago particularly civil plant. Hard response fill. Who coach such involve. Act life themselves.
-
-Few successful social son. Voice recent care exactly Republican. Have wrong cell our somebody floor threat. Listen technology cultural Mr possible pass keep. Instead process else short check win over. Because design likely special reality.
+Lieback your way up a windy wide-crack flake with good feet most of the way. Crux might be the top, but mostly just sustained.
 
 # Location
-Air trouble how simply determine together. No work idea only language different. Price star room who.
+Just left of Cerchunk Crack. It's the obvious flake.
 
 # Protection
-Gas attention pass eat character agency notice drug. Serious head tree green public attorney seat.
-
+TR from bolts or lead with big cams.

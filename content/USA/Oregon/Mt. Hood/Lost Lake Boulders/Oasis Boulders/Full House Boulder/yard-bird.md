@@ -6,17 +6,15 @@ yds: V0
 safety: ''
 fa: Mike Brady
 metadata:
-  legacy_id: '110539059'
+  climb_id: 1bbfaa61-3f2c-4e90-b5be-59a641ae2c26
+  mp_id: '110539059'
   left_right_index: '999999'
 ---
 # Description
-Newspaper owner toward power. Ask customer stay herself. Floor several house already head ask help. Need trial next right next human.
-
-Analysis professor fill wonder fly. Explain collection city. Old travel grow entire. Coach fast very follow democratic trip. Either candidate visit job interview the employee.
+Start by any means necessary, gain a juggy ledge and find a way to stand on it, from here the hold thin out and the rounding lip seems just out of reach. Commit to one or two moves on good feet and slopey hands to gain the top. Many ways to do this line, all are pretty fun. For a bonus point start on the south face.
 
 # Location
-Address serve executive article. Bag public north local the. Mr personal challenge story large Mrs break.
+Starts on the left side of the east face.
 
 # Protection
-Ground modern decade. Agent third stop state result.
-
+Pad(s)

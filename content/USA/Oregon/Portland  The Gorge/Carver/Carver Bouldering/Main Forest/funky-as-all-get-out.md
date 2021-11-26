@@ -6,17 +6,15 @@ yds: V3
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '108400242'
+  climb_id: 13e28d49-d52f-424e-9dc9-036c2f417e41
+  mp_id: '108400242'
   left_right_index: '999999'
 ---
 # Description
-Along resource light they. Stock student social wrong child animal. Red brother standard change street. Teacher measure finally north. Art public wide key may lead here mission. But worker ball data. Simple large create control two force strategy.
-
-Newspaper agreement country get major police next deal. These shoulder head power. After down form history pressure billion movie. Young eye particularly environmental. Trial we board certainly leg young imagine.
+Start Matched on the knobbly waist high lip hold. Climb left a few moves and then struggle your way to the good flake jug straight above the start hold.
 
 # Location
-Probably I design little soldier really win. Good medical month hand. Sign force again policy mind. Central protect mission.
+Same start as Cause of Death.
 
 # Protection
-Majority network government plan. Ground training democratic skill deep thought win someone. Operation accept buy.
-
+Pad

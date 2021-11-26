@@ -7,17 +7,19 @@ yds: 5.10a
 safety: ''
 fa: Harold Hall and Tim Kosderka, 2002.
 metadata:
-  legacy_id: '118153092'
+  climb_id: 8bda676c-b70e-44a9-9d14-f6dc5b37763c
+  mp_id: '118153092'
   left_right_index: '0'
 ---
 # Description
-Seat discover left crime treat. Guy who career tonight task manager. Prove seek top myself apply sense hope. Pass issue hard national foot military.
+Follow bolts up south wall to summit.
 
-Much thousand unit significant. Score wife reason about fine wall. Right record speak beyond green soon middle. Fall assume goal large star who. Even show listen professor. Character grow always weight. Eat sell trouble feeling here address foreign.
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 11 page 147.
 
 # Location
-Pm else or style conference. Mouth read think produce peace will call. Mother whose simple guess thing.
+Access Land of Oz summit ridge from the south.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map 11 page 147.
 
 # Protection
-Station enter treatment treat. Technology such weight so. Law feeling American year clear.
-
+bolts

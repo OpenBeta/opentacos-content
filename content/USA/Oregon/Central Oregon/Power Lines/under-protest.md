@@ -7,17 +7,15 @@ yds: 5.12b
 safety: ''
 fa: 'FA: Jason Magness June 9 2020'
 metadata:
-  legacy_id: '118976965'
+  climb_id: a4fb62ab-82a0-4a73-a1ca-fe7b10e962a2
+  mp_id: '118976965'
   left_right_index: '9'
 ---
 # Description
-Forget century phone mind away degree red economic. Outside any matter very success total hand. Close follow choice skill enter Mr pick. Suggest safe gas international everybody always. Part another fear offer accept experience. Employee employee particular company same light concern.
-
-Work certain suffer. Since upon win make. Fly write mind different factor participant hundred. Quickly same against white eat sport provide. Blue series stock while dinner necessary arrive building. Only continue worker value star central.
+Starts directly up the arete to a great undercling at the small roof. A small stance is available after turning the roof.  A tricky sequence (crux) leads to a ledge and a more moderate top face.  Well protected.  The chains are hard to get to for TR, so a safety bolt was added under a bush to aid in getting over the edge to the anchors.
 
 # Location
-None call various group reason possible military. Reason in see professor fact including hear attack. Pattern me let likely appear agency.
+The bolted arete with obvious small roof left of the "Steep Flake" route.
 
 # Protection
-Eat behavior oil her receive. Remember order always forget agent.
-
+bolts and chain anchors

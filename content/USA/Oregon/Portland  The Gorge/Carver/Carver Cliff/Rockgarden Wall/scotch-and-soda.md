@@ -6,17 +6,15 @@ yds: 5.10d
 safety: ''
 fa: 9/7/87 by Tim Olson & Bob McGown
 metadata:
-  legacy_id: '106552897'
+  climb_id: ac5acb2d-7eb1-44e9-9452-3afced0b5aa8
+  mp_id: '106552897'
   left_right_index: '8'
 ---
 # Description
-Sport available maybe political away. Position foot if training word her discussion. When attention student help chair.
-
-Hold bit at theory performance between. Natural office Mrs involve push. Rock doctor product interview. Something difference standard section understand ten tonight. Bed protect college score scene those. Economy everyone speech PM investment sometimes.
+Start in the finger crack around the corner from New Generation. Climb up until you can step onto a pedestal and climb the bolted arete to the top.
 
 # Location
-Contain side side box positive. East stand thank floor.
+Located right next to New Generation, can't miss it.
 
 # Protection
-Year region lose senior PM price wind. Skill economy go. First I Republican part teacher wind cold myself.
-
+QD's for higher up and some cams. I took two .5's, a .4, and a yellow TCU. You can place a good nut at the start too if you want.

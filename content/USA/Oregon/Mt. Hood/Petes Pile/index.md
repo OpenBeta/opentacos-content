@@ -1,9 +1,10 @@
 ---
 area_name: Pete's Pile
 metadata:
-  legacy_id: 4903b4d9-09e8-4dbb-8569-7606e36526e5
-  lng: -115.46652
-  lat: 36.03518
+  area_id: 42b54940-96a5-4d29-adbf-5d2aabc42b56
+  mp_id: ''
+  lat: 44.5672
+  lng: -122.1269
 ---
 # Description
 Large basalt/rhyolite wall located on the East side of Mount Hood with 35+ traditional routes ranging from 5.6 to 5.11+.

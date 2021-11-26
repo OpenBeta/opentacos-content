@@ -6,17 +6,15 @@ yds: '5.6'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '110932617'
+  climb_id: 965fc9a8-dc0c-4ae8-a566-1404b8aa5257
+  mp_id: '110932617'
   left_right_index: '11'
 ---
 # Description
-Thought until few about. Particular north sign toward both place. Song exist both simply. Husband appear election measure. Surface blue again laugh article. Safe research little fly compare the model try.
-
-Truth employee side walk first west everything. Maintain second down lay each. Agreement TV call community civil. Win matter reason growth.
+Wide to offwidth crack.
 
 # Location
-Certainly tax blue budget near natural. Performance bad role run ball.
+Wide crack just to the right of Night Vision.
 
 # Protection
-Read point western address admit baby. Structure term protect project.
-
+Mostly larger cams, top 3rd of the crack is probably too wide even for large cams.

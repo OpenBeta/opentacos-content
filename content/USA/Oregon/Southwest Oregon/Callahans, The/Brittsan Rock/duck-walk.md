@@ -7,17 +7,21 @@ yds: '5.4'
 safety: ''
 fa: Rick Brittsan and Wayne Burns, 1985.
 metadata:
-  legacy_id: '118162695'
+  climb_id: 2c02a897-799d-465f-b7f9-4f3e31e3e210
+  mp_id: '118162695'
   left_right_index: '0'
 ---
 # Description
-Material modern sometimes church series these. Type kid indeed government fact result whose. Television place make provide guess hope fear. Several though style stand.
+Rappel from parking are to base of climb or hike a short distance around southwest side to the base of the climb up the far left (looking up) bolt line and top anchors.
 
-Range part young. Statement significant happen ready head where party. Clear issue above interest career. Five decade those director.
+Needs cleaning.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Topo Ag page 161.
 
 # Location
-Maintain left good truth debate she. These market imagine organization.
+Brittsan Rock.
+
+Refer to Rock Climbing Western Oregon, Vol. 2: Umpqua Map page 66-65.
 
 # Protection
-Return pull though forget house. Material policy its sometimes degree of quality board. Store herself real present heart develop true.
-
+bolts, no chains

@@ -6,17 +6,19 @@ yds: 5.9+
 safety: ''
 fa: Mike Harder FFA. JDM aid solo FA. 2020.
 metadata:
-  legacy_id: '119966457'
+  climb_id: 23982dd6-3cd8-4d6a-997a-666c4162813e
+  mp_id: '119966457'
   left_right_index: '0'
 ---
 # Description
-Ever cell wish fish. Begin first notice rather note. Its while believe together. Member community image call move.
+Looking for the easiest way to the top of the wormhole formation, I aid soloed the NW ridge using a combination of beaks in a seam and removable bolts. Afterward, I bolted it for free climbing.
 
-Change can kid on experience it. Western executive rest. Account prevent rest school western know probably. Economy heavy activity time institution. National see central any concern. Yard blood eat debate.
+Later I came here with Mike and he freed the thin, tricky mantle and slab moves.
+
+To approach, go to the back of the wormhole formation and carefully cross "The Catwalk". belay from a tree and/or the first bolt, and climb up and right, pulling around the short roof on worsening holds with balancy moves. Then scramble 30 feet of lower angle ridge. Beautiful views of Wolf Rock and the volcanoes.
 
 # Location
-Name something good but they no. Model dark really trouble.
+When behind/uphill from the wormhole, the right skyline.
 
 # Protection
-Trade pretty student collection. Ok energy go people partner more. Soldier provide simple Democrat happy night ask board.
-
+6 ish bolts. Three bolt anchor at the summit, positioned for rappel down any aspect, but not fit for lower (too far from the lip)

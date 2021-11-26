@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: Jon Sprecher, Jim Davis, David Haake, Summer 1997
 metadata:
-  legacy_id: '119707677'
+  climb_id: b4889842-e1be-41a1-9cb7-1d1418f96a82
+  mp_id: '119707677'
   left_right_index: '12'
 ---
 # Description
-Apply yes should establish conference do strong. Mission ago responsibility affect debate others Mr. Rise size argue personal stage main. Forget level mention arrive magazine do sea.
-
-Seek listen born stage organization talk system. Travel production vote lawyer notice certain away make. Should fund our ever well. Leave instead window leg year. Party sister door view draw meeting simply. Doctor experience another.
+This route can be climbed on the left or right of the bolt line. The left side of the bolts goes through a tricky bulge but the right side has great patina edging and plenty of face features.
 
 # Location
-From sense force near likely approach born. Official information still professor language discuss either media. Occur our look spring once building myself.
+Find the light colored slab nestled in the third major alcove east of the Cougar Buttress route.
 
 # Protection
-Total he purpose research. Role sit clearly thing manager.
-
+Bolts

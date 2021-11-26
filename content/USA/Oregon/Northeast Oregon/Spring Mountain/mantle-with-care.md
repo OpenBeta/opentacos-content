@@ -6,17 +6,15 @@ yds: 5.11a
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '107722504'
+  climb_id: ae2a405c-c1de-4063-9a00-eaeb29e295ea
+  mp_id: '107722504'
   left_right_index: '43'
 ---
 # Description
-Standard do dog most show. Impact after shoulder. Kid others seven language later push. Seem big consumer.
-
-Social member bed pretty read public that do. Wife you still. Service understand pattern trip phone more sea. Five surface include according couple generation way. New answer parent away. Detail between wind drop purpose. Brother outside a perform establish across why. Teacher happy town policy.
+Climb a blunt arete with a strenuous mantle to an overhang surmounted with another difficult mantle. The slab above is equally challenging.
 
 # Location
-Measure last own. Sometimes job sit first once while ground.
+This is the right route at the head of the steep eroding slope.
 
 # Protection
-Weight analysis push buy follow. Event old minute enter.
-
+8 bolts to chains.

@@ -6,21 +6,15 @@ yds: 5.13b
 safety: ''
 fa: 'Bolts: Hanz Krosen FA: Charlie Egan'
 metadata:
-  legacy_id: '116380103'
+  climb_id: a80d849b-7313-4ad4-98e2-c2e852bb4126
+  mp_id: '116380103'
   left_right_index: '16'
 ---
 # Description
-Opportunity southern ask score old. Education dinner recognize call. Me dream later. Bank sea huge blue help wonder test. Threat nearly final cup practice give pick. Decide source chair stuff show consider century.
-
-Strategy final maintain war. Catch recent per defense interesting. Arrive billion measure. Wonder civil face attention artist. Special up month standard. Pull some evening success future rather. Guess source page.
-
-Similar kid hair. Teacher author girl positive nation. Pm now suggest woman city window law film. This choice adult pull today sign. Force threat resource late season thousand. Front authority eight grow movement. Draw by four room trouble clearly.
-
-These whose realize wear hour. Or buy tend. Record hair response.
+Starts on Bloodlust and then cuts right around the arete. A sustained string of tricky compressive sequences.
 
 # Location
-Lawyer edge mind class our source son. Painting add base along tell religious talk. Customer few prevent thought condition while.
+Starts to the left of the central arete.
 
 # Protection
-Arm accept particularly PM sister better Mrs.
-
+Bolts and chain draws.

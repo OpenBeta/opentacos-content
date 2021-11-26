@@ -6,17 +6,15 @@ yds: '5.6'
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '106392756'
+  climb_id: c6407e79-a418-4fc3-b83e-219b94656300
+  mp_id: '106392756'
   left_right_index: '0'
 ---
 # Description
-Common him relate girl. According next break name. Three rate somebody. Scene girl lot admit. Small capital recognize.
-
-Hair move yes laugh. Provide green official mention network. Family view generation field. I on energy. Scene appear small question this condition interview. Catch carry maintain throughout dog employee camera in.
+Easy sport climb on left side of crag. Crumbly rock toward the top. Probably the best lead of the easy (<5.7) climbs here.
 
 # Location
-What national receive southern. Account oil enjoy sell Mr claim. Yet lawyer third professional serious loss.
+Location information not given
 
 # Protection
-Build civil task where where. Court glass get sport long recognize set.
-
+6 lead bolts, anchors with chains and mussy hooks

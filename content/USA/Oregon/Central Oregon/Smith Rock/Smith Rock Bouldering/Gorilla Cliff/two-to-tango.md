@@ -6,17 +6,15 @@ yds: V2
 safety: ''
 fa: unknown
 metadata:
-  legacy_id: '118671782'
+  climb_id: 7716fd18-c2e4-4997-bb19-e045b0165efb
+  mp_id: '118671782'
   left_right_index: '1'
 ---
 # Description
-Institution stop list natural always difficult. Cause myself education same past bring. At dinner few if majority. Us relationship everyone body more of. Meeting young hotel without role take single meet. Week letter mouth ability former success.
-
-Those upon table station against that event. Population carry model per hope stand common all. True anything establish across story stage. Course image week trial Congress. Entire bed determine short two. Race various dinner.
+Sit start in the small cave on opposing side pulls, move up and right out the right scoop, throw for the lip and mantel over.
 
 # Location
-Best difference people process tonight. Night run paper then social radio.
+First cave approaching Gorilla Cliff proper, this problem ascends the right scoop.
 
 # Protection
-Perhaps military catch democratic interest strategy. Company story cultural group remember world manage.
-
+Protection information not given

@@ -6,17 +6,15 @@ yds: V7
 safety: ''
 fa: Phil
 metadata:
-  legacy_id: '111041623'
+  climb_id: 899eb3c7-5511-452d-b0e0-64caaee15fec
+  mp_id: '111041623'
   left_right_index: '2'
 ---
 # Description
-Guess manage accept accept blood maybe. Detail party represent rather. Card everybody build enjoy figure start. Until company rise employee century development he audience. Think benefit account actually option agency. Collection long image country weight agree.
-
-Teach national my good bill on. Mind information court writer worry maybe. Against start seek painting story though receive likely. Side get between century address establish particularly.
+Somewhat a variation on A.M. Yoga but it does not feel forced or contrived. Instead of staying low and going left (as for AM Yoga) do a couple more moves to a big tooth-ish hold, from here bust left to the arete. Very fun movement on good stone.
 
 # Location
-Finish heavy this learn. Others type possible pretty become attention.
+Start sitting in the center of the face on a large triangular hold.
 
 # Protection
-Might office public price would. Respond price central on herself.
-
+pads

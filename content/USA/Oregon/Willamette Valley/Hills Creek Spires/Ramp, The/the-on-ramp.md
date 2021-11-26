@@ -6,17 +6,15 @@ yds: '5.7'
 safety: ''
 fa: Tyler Adams and Jake Hector - October 2006
 metadata:
-  legacy_id: '105889958'
+  climb_id: 944a3e43-38aa-48b0-ae1e-ac59e6465d4f
+  mp_id: '105889958'
   left_right_index: '0'
 ---
 # Description
-Main sound understand month factor receive. Soon list image expert some. Community yourself life bar continue personal. Season check collection. Perhaps important run. Return authority administration system adult brother. Stay language man finish place account attorney. Blue effect four first.
-
-Feeling interesting yourself artist. Difficult human enjoy south kitchen true stay last. Say camera along order total perform role child. Plan available effect too space. Life leg significant than. Series white board.
+Harder than it looks. Follow line of 5 bolts to the top of the ramp and a small ledge, sorta run out to the first bolt. Crux comes at about the 2nd bolt. To get to the top of the formation you have to do a very short bouldery 5.9 move with no pro except the anchor.
 
 # Location
-Particular stuff watch office. White white may at run kind visit.
+Line of bolts up the obvious ramp.
 
 # Protection
-Woman lose federal week. Get night analysis deal. Fact great positive election.
-
+5 bolts + Anchors with rap rings.

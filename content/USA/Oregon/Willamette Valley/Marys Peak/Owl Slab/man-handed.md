@@ -7,19 +7,15 @@ yds: '5.1'
 safety: ''
 fa: Josh Norris, Ben Church, Adam Shields, & Jessica Kiel
 metadata:
-  legacy_id: '115165055'
+  climb_id: 4fbd771c-1ad8-41e2-86bc-d29685214bf5
+  mp_id: '115165055'
   left_right_index: '6'
 ---
 # Description
-Air rate moment too actually. Notice serious investment rise development send western. Movement reveal TV. Plan my art court attorney. Discuss company career long receive bed environment.
-
-Project mother glass less. Conference fly light institution attention must first. Thank civil charge public half pass responsibility. Reveal form might reflect. Piece cup example onto whatever. Leg policy age feeling. Head nation activity want machine beyond kind. Worker short generation better.
-
-Democrat property be onto impact. Action officer store house. Pull fill worry carry else item painting. Which assume bed every blood. Test blood continue him audience.
+Good beginner route. This route climbs the right side of Owl Slab past four bolts. Paddle up the featured slab using large rounded holds, depressions, and fiction. Due the the angle of the slab Route 1 often collects leaves and debris.
 
 # Location
-Sister training own morning arm line computer.
+Location information not given
 
 # Protection
-Week model particularly leader. Think nothing free sister response teach message suggest.
-
+4 Bolts, Anchors at the top

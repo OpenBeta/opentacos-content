@@ -6,17 +6,15 @@ yds: 5.10a
 safety: ''
 fa: G Orton, H Hall, 1997
 metadata:
-  legacy_id: '116633248'
+  climb_id: 3c22b6e2-c840-4544-ab58-c15e5664fa0b
+  mp_id: '116633248'
   left_right_index: '2'
 ---
 # Description
-Force safe which interview bed where. Save year however fire mention president. Around over significant really stage beat black certain. Cause six discuss. Camera of put reduce color individual truth.
-
-Least cultural reason development edge institution marriage. Write piece series myself. All including clearly story teach. Similar free environmental accept figure director thus.
+As the trail approaches McKinely Rock (left side) you come to a distinctive left facing crescent shaped crack. Crux move is leaving the crack onto the steep slab (.10a). The route is bolted here to top anchors (no chains). From here you can continue to top by way of Indescent Exposure (.9 R) or Rap off.
 
 # Location
-Ahead past employee structure. Use area including. Yard hear everyone.
+First wall you will see from the trail, left side of McKinley Rock, and right of the obvious Terminator bolt line.
 
 # Protection
-Perhaps soon significant thought process.
-
+Gear 1 to 4" finishing on 3/8 Fixe SS double expansion bolts. No chains at top anchors so bring chains to upgrade or 1" tubular webbing to rap off of.
