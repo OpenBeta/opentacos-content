@@ -90,7 +90,10 @@ deploy:
   tags:
     - docker
 
-  needs: [docker-build]
+  needs: 
+  - job: docker-build
+    artifacts: true
+
 
   image:
     name: bitnami/git:latest
@@ -115,8 +118,8 @@ deploy:
   - ~/.bin/kustomize edit set image $IMAGE_CURRENT
   - git status
   - echo $IMAGE_CURRENT
-  #- if [[ ! -z $(git status --untracked-files=no --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
+  - if [[ ! -z $(git status --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
   - git config --global user.name $GITLAB_USER_NAME
   - git config --global user.email $GITLAB_USER_EMAIL
-  - git commit -am "Update version to $CI_COMMIT_SHORT_SHA"
-  #- git push
+  - git commit -am "Update deployment. Code=${CODE_SHA}, Content=${CI_COMMIT_SHORT_SHA}"
+  - git push
