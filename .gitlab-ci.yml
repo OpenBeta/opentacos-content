@@ -83,6 +83,10 @@ docker-build:
   - docker push $IMAGE_CURRENT
   - docker push $IMAGE_LATEST
 
+  artifacts:
+    reports:
+      dotenv: build.env
+
 deploy:
 
   stage: deploy
@@ -93,7 +97,6 @@ deploy:
   needs: 
   - job: docker-build
     artifacts: true
-
 
   image:
     name: bitnami/git:latest
@@ -116,9 +119,8 @@ deploy:
   - git clone git@gitlab.com:openbeta/devops/opentacos-k8s.git
   - cd opentacos-k8s
   - ~/.bin/kustomize edit set image $IMAGE_CURRENT
-  - git status
-  - echo $IMAGE_CURRENT
-  - if [[ ! -z $(git status --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
+  - git diff
+  - if [[ ! -n $(git status --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
   - git config --global user.name $GITLAB_USER_NAME
   - git config --global user.email $GITLAB_USER_EMAIL
   - git commit -am "Update deployment. Code=${CODE_SHA}, Content=${CI_COMMIT_SHORT_SHA}"
