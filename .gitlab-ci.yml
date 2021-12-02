@@ -12,8 +12,7 @@ variables:
   DOCKER_DRIVER: overlay2
   DOCKER_TLS_CERTDIR: ""
   DOCKER_HOST: tcp://docker:2375
-  IMAGE_CURRENT: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
-  IMAGE_LATEST:  $CI_REGISTRY_IMAGE:latest
+  IMAGE_LATEST:  $CI_REGISTRY_IMAGE:latest 
 
 # Job name must be 'pages' in order for GitLab to deploy build to static site
 gatsby-build:
@@ -37,6 +36,8 @@ gatsby-build:
   - git pull --depth $GIT_DEPTH origin develop
   - git checkout develop
   - git show --summary
+  # Record SHA of code
+  - echo "CODE_SHA=$(git rev-parse --short HEAD)" >> build.env
   - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
   - if [ "$FORCE_CLEAN" == "true" ]; then ./node_modules/.bin/gatsby clean; fi;
@@ -44,6 +45,10 @@ gatsby-build:
   script:
   - ./node_modules/.bin/gatsby build
   - mv public $CI_PROJECT_DIR
+
+  artifacts:
+    reports:
+      dotenv: build.env
 
 docker-build:
   only: # Only run for these branches
@@ -56,21 +61,27 @@ docker-build:
   tags:
     - docker
 
-  needs: [gatsby-build]
+  needs: 
+     - job: gatsby-build
+       artifacts: true
 
   image: docker:20.10.10
 
   services:
      - docker:20.10.10-dind
+  
+  variables:
+    # Form image tag with most recent code SHA and content SHA
+    IMAGE_CURRENT: $CI_REGISTRY_IMAGE:${CODE_SHA}-$CI_COMMIT_SHORT_SHA
 
   before_script:
-     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
 
   script:
-     - docker pull $IMAGE_LATEST || true
-     - docker build --cache-from $IMAGE_LATEST --tag $IMAGE_CURRENT --tag $IMAGE_LATEST .
-     - docker push $IMAGE_CURRENT
-     - docker push $IMAGE_LATEST
+  - docker pull $IMAGE_LATEST || true
+  - docker build --cache-from $IMAGE_LATEST --tag $IMAGE_CURRENT --tag $IMAGE_LATEST .
+  - docker push $IMAGE_CURRENT
+  - docker push $IMAGE_LATEST
 
 deploy:
 
@@ -84,6 +95,10 @@ deploy:
   image:
     name: bitnami/git:latest
 
+  variables:
+    # Form image tag with most recent code SHA and content SHA
+    IMAGE_CURRENT: $CI_REGISTRY_IMAGE:${CODE_SHA}-$CI_COMMIT_SHORT_SHA
+
   before_script:
   - mkdir -p ~/.bin
   - curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash -s -- ~/.bin
@@ -93,10 +108,12 @@ deploy:
   - mkdir -p ~/.ssh
   - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
   - chmod 644 ~/.ssh/known_hosts
+
   script:
   - git clone git@gitlab.com:openbeta/devops/opentacos-k8s.git
   - cd opentacos-k8s
   - ~/.bin/kustomize edit set image $IMAGE_CURRENT
+  - if [[ ! -z $(git status --untracked-files=no --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
   - git config --global user.name $GITLAB_USER_NAME
   - git config --global user.email $GITLAB_USER_EMAIL
   - git commit -am "Update version to $CI_COMMIT_SHORT_SHA"
