@@ -37,7 +37,7 @@ gatsby-build:
   - git checkout develop
   - git show --summary
   # Record SHA of code
-  - echo "CODE_SHA=$(git rev-parse --short HEAD)" >> build.env
+  - echo "CODE_SHA=$(git rev-parse --short HEAD)" >> ../build.env
   - if [ "$FORCE_CLEAN" == "true" ]; then rm -rf node_modules; fi;
   - yarn install --no-progress
   - if [ "$FORCE_CLEAN" == "true" ]; then ./node_modules/.bin/gatsby clean; fi;
