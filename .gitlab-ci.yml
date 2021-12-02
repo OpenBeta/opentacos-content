@@ -113,8 +113,10 @@ deploy:
   - git clone git@gitlab.com:openbeta/devops/opentacos-k8s.git
   - cd opentacos-k8s
   - ~/.bin/kustomize edit set image $IMAGE_CURRENT
-  - if [[ ! -z $(git status --untracked-files=no --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
+  - git status
+  - echo $IMAGE_CURRENT
+  #- if [[ ! -z $(git status --untracked-files=no --porcelain) ]]; then echo "No new changes. Skipping deployment.";  exit 0; fi
   - git config --global user.name $GITLAB_USER_NAME
   - git config --global user.email $GITLAB_USER_EMAIL
   - git commit -am "Update version to $CI_COMMIT_SHORT_SHA"
-  - git push
+  #- git push
