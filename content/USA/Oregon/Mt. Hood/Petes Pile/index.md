@@ -15,3 +15,6 @@ When climbing at Pete&#39;s Pile, you can enjoy a stunning view of Mt Hood.
 ![Mt Hood from the top of the climbs](https://res.cloudinary.com/openbeta-prod/image/upload/v1636991993/open-tacos/syuftt30yxhfdcixvjya.jpg)
 
 Park on the East side of the road in between Klinger Springs and Tamanawas Falls trailhead (45.401957, -121.569402).
+
+# Photos
+

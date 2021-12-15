@@ -7,3 +7,6 @@ metadata:
   lat: 43.2469
 ---
 # Description
+
+# Photos
+
