@@ -97,6 +97,10 @@ deploy:
   tags:
     - docker
 
+  only: # Only run for these branches
+  - develop
+  - main
+
   needs: 
   - job: docker-build
     artifacts: true
