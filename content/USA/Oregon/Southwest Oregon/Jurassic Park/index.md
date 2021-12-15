@@ -7,3 +7,6 @@ metadata:
   lng: -122.1269
 ---
 # Description
+
+# Photos
+
