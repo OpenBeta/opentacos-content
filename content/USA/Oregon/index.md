@@ -6,11 +6,9 @@ metadata:
   lat: 44.5672
   lng: -122.1269
 ---
+
 # Description
 
 # Photos
 
 ![Smith Rock state park (c) Jeff Finley](https://res.cloudinary.com/openbeta-prod/image/upload/v1639562113/open-tacos/nc9dsf6aoitrnehe1cwo.jpg)
-
-<br>
-

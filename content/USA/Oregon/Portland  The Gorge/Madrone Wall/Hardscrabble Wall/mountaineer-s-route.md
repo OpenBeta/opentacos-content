@@ -10,15 +10,17 @@ metadata:
   mp_id: '119816034'
   left_right_index: '11'
 ---
+
 # Description
-Easy climbing over dirty, blocky ledges to the right of Winds of War.  Clip the last bolt of WoW before moving up to the shared anchor.
 
-Fairly unremarkable, but good practice for a new leader, or to set up TR for other climbs on the wall.
-
-*Beware the bush growing out of the rock at the first ledge is poison oak*
+Easy climbing over dirty, blocky ledges to the right of Winds of War.  Clip the last bolt of WoW before moving up to the shared anchor. \
+Fairly unremarkable, but good practice for a new leader, or to set up TR for other climbs on the wall. \
+_Beware the bush growing out of the rock at the first ledge is poison oak_
 
 # Location
+
 Start about 10' to the right of the boltline for Winds of War.
 
 # Protection
+
 Small rack to #3, 1 bolt.

@@ -13,7 +13,7 @@ metadata:
 # Description
 Start on the mushroom jug. Go left on crimps and slopers to the concretion. Give it a bug hug and move up.
 
-https://www.youtube.com/watch?v=oxZOfS9EAbY
+<https://www.youtube.com/watch?v=oxZOfS9EAbY>
 
 # Location
 South side of Main Cliff.
