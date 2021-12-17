@@ -19,7 +19,7 @@ on:
     branches-ignore: [main]
     # Remove the line above to run when pushing to master
   pull_request:
-    branches: [ main, develop]
+    branches: [main, develop]
 
 ###############
 # Set the Job #
@@ -50,7 +50,9 @@ jobs:
       - name: Lint Code Base
         uses: github/super-linter@v4
         env:
+          VALIDATE_ALL_CODEBASE: false
           VALIDATE_MARKDOWN: true
           DEFAULT_BRANCH: develop
-          MARKDOWN_CONFIG_FILE: ".markdownlint.yml"
+          LINTER_RULES_PATH: /
+          MARKDOWN_CONFIG_FILE: '.markdownlint.yml'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
