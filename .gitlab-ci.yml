@@ -19,6 +19,7 @@ gatsby-build:
   only: # Only run for these branches
   - develop
   - main
+  - merge_requests
   - gitlab-debug
 
   stage: build

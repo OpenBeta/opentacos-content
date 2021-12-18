@@ -13,7 +13,7 @@ metadata:
 # Description
 Solid warmup along Charlotte Web's right arete.
 
-<https://www.youtube.com/watch?v=MemL3i9XD-w&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=7>
+https://www.youtube.com/watch?v=MemL3i9XD-w&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=7
 
 # Location
 (Disclaimer: I'm pulling these directions from memory, so they may be a bit off)

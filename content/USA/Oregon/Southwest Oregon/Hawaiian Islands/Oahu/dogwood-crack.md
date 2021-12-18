@@ -13,7 +13,7 @@ metadata:
 # Description
 Project.  Hard start up solid gray chickenheads, slightly overhanging.  Crack starts near top up a mossy ramp and finishes with easy moss to the top.
 
-<https://youtu.be/6TYAzKdgX9s>
+https://youtu.be/6TYAzKdgX9s
 
 # Location
 Obvious gray streak up climber's right starting at bottom of crag.

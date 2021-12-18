@@ -19,7 +19,7 @@ The crux felt hard for the grade, definitely old school 11d. Felt like 12a to me
 
 You could TR off the first anchor, but a better ledge awaits you 50 ft higher if you're continuing up Astro Monkey. Its 5.8ish to the next belay, and some sketch rock, so you may want a .5 or .75 piece, and you should probably bring a piece to back up the belay. There is one good bolt, but the other two are questionable:
 
-<https://www.mountainproject.com/photo/111123032>
+https://www.mountainproject.com/photo/111123032
 
 # Location
 Astro Monkey is left by about 15 feet, and has 3 bolts below a tips crack. Moving in Stereo is solidly bolted the whole way. Both routes start literally right off the trail below the west face of the Monkey Face.

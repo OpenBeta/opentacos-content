@@ -21,7 +21,7 @@ Charlotte's Web
 
 . Top out rightward around the boulder.
 
-<https://www.youtube.com/watch?v=a7pnqu9hQVk&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=11>
+https://www.youtube.com/watch?v=a7pnqu9hQVk&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=11
 
 # Location
 (Disclaimer: I'm pulling these directions from memory, so they may be a bit off)
