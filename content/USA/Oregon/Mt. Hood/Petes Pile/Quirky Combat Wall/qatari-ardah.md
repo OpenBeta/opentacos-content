@@ -12,7 +12,6 @@ metadata:
   climb_id: c89d1225-e8ee-4592-829c-e814d7b803b3
   mp_id: ''
 ---
-
 # Description
 
 Sustained thin finger crack sequence followed by a full pitch of glorious hand jams.
@@ -36,3 +35,6 @@ Doubles from Black Totem to C4 #2, singles of C4 #3 and #4, single Metolius #0, 
 ![Pitch #1](https://res.cloudinary.com/openbeta-prod/image/upload/v1637751258/open-tacos/cvr7yepdtwtbmuwqomy0.jpg)
 
 ![Pitch #2](https://res.cloudinary.com/openbeta-prod/image/upload/v1637751484/open-tacos/xwmp21verzemgljodpeo.jpg)
+
+<br>
+

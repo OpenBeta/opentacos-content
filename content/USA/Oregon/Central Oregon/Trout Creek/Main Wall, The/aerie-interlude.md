@@ -25,7 +25,7 @@ Black Alien
 
 Blue Alien
 
-# 2 Camalot
+#2 Camalot
 
 Black Alien
 

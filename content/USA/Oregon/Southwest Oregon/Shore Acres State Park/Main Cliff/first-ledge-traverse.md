@@ -13,7 +13,7 @@ metadata:
 # Description
 Start on an undercling, go to two pockets, and traverse right to the first big ledge you see. Good warm up.
 
-<https://www.youtube.com/watch?v=YcD7HSyAnOs>
+https://www.youtube.com/watch?v=YcD7HSyAnOs
 
 # Location
 North-most end of main cliff.

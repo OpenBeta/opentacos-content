@@ -13,7 +13,7 @@ metadata:
 # Description
 Start low on a left sidepull and right pinch. Move up to a crimp with your right and bump your left up to one of the many good holds. Make a heel assisted reachy move around the right of the boulder and top out a little off to the right.
 
-<https://www.youtube.com/watch?v=f-YIc1Ln_9g&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=10>
+https://www.youtube.com/watch?v=f-YIc1Ln_9g&list=PLjJ8XYZXIxuLQd7DJOGNlv9CHPnXc0B_0&index=10
 
 # Location
 (Disclaimer: I'm pulling these directions from memory, so they may be a bit off)

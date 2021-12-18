@@ -14,7 +14,7 @@ metadata:
 # Description
 The obvious North West gulley that the trail dead ends to. BLM Oregon has a complete spray down of the beta
 
-<https://www.youtube.com/watch?v=38VZuffSGo0>
+https://www.youtube.com/watch?v=38VZuffSGo0
 
 Amazing views of Shasta and the surrounding area.
 

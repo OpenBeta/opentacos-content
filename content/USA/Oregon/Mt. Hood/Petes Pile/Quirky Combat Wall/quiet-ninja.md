@@ -24,7 +24,7 @@ p3: 5.10a, 17m, up the v-slot, turn right at the bush, get on top of the column,
 Since p3 is not as good at the first two pitches, you might elect to rap from there.  If you top out after p3, there is another set of rap anchors on the ledge 10 meters right from where you top out that will merge with the route after two raps.  You can rap both options with a single 60m rope.
 
 # Location
-First route on of the Quirky Combat wall.
+First route on of the Quirky Combat wall. 
 
 # Protection
 Doubles to #2, single #3 and #4, triples in thin fingers very useful.
