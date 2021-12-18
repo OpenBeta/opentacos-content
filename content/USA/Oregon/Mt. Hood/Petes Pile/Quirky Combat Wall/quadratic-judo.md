@@ -17,7 +17,7 @@ This cracks offers plenty of wide jamming and some decent mandatory offwidth.
 
 Start on the right edge of the mossy platform, straight up to get your first piece, then traverse left to the hand crack.  Keep going straight up passed the roof where the wide climbing starts.  Save everything bigger than #.75 for after the roof.  Long sleeves are helpful.
 
-A 60m will get you down IF the belayer stands on the narrow platform close to the wall.  Tie a stopper knot at the end of the rope. 
+A 60m will get you down IF the belayer stands on the narrow platform close to the wall.  Tie a stopper knot at the end of the rope.
 
 # Location
 Enter the woods by following the trail left of Qatari Ardah. The huge pillar forming a roof should be obvious enough.

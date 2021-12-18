@@ -17,7 +17,7 @@ This route is dedicated to the memory of Tete Gulley, a black trans woman who wa
 
 More information about the murder can be found here:
 
-https://www.portlandmercury.com/blogtown/2019/06/10/26621949/a-black-queer-homeless-portlander-was-found-hanging-from-a-tree-police-say-its-suicide-her-family-disagrees
+<https://www.portlandmercury.com/blogtown/2019/06/10/26621949/a-black-queer-homeless-portlander-was-found-hanging-from-a-tree-police-say-its-suicide-her-family-disagrees>
 
 And as of 2021 there is still a
 
