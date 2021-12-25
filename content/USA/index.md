@@ -1,7 +1,8 @@
 ---
 area_name: "United States"
 metadata:
-  legacy_id: f7c26be6-edee-462c-bf43-c36d81c0f1b1
+  area_id: f7c26be6-edee-462c-bf43-c36d81c0f1b1
+  mp_id: ''
   lng: -115.46652
   lat: 36.03518
 ---
