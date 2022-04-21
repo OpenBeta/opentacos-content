@@ -30,6 +30,6 @@ First route on of the Quirky Combat wall.
 Doubles to #2, single #3 and #4, triples in thin fingers very useful.
 
 # Pictures
-![Quiet Ninja P1](quiet-ninja-p1.jpg)
-![Quiet Ninja P2](quiet-ninja-p2.jpg)
-![Quiet Ninja P3](quiet-ninja-p3.jpg)
+![Quiet Ninja P1](http://files.ygingras.net/quirky-combat-wall/quiet-ninja-p1.jpeg)
+![Quiet Ninja P2](http://files.ygingras.net/quirky-combat-wall/quiet-ninja-p2.jpeg)
+![Quiet Ninja P3](http://files.ygingras.net/quirky-combat-wall/quiet-ninja-p3.jpeg)

@@ -22,4 +22,4 @@ The very end of the Quirky Combat wall, just before the trail turns the corner a
 Doubles from fingers to C4 #3, 1x C4 #4. A C4 #5 is useful, but perfectly optional. Offset nuts are useful.
 
 # Pictures
-![Quixotic Karate](quixotic-karate.jpg)
+![Quixotic Karate](http://files.ygingras.net/quirky-combat-wall/quixotic-karate.jpeg)

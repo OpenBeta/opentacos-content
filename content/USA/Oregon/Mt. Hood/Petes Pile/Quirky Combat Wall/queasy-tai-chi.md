@@ -24,4 +24,4 @@ About 30 yards left of Quadratic Judo.
 Doubles from Black Totem to C4 #2, 1x Metolium #00, offset nuts, brass offsets. Climbable withtout the brassies, but you have to make a long run that would be a clean fall (PG-13). Very PG-13 without offset nuts.
 
 # Pictures
-![Queasy Tai Chi](queasy-tai-chi.jpeg)
+![Queasy Tai Chi](http://files.ygingras.net/quirky-combat-wall/queasy-tai-chi.jpeg)
