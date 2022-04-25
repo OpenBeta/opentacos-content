@@ -24,4 +24,4 @@ About 30 yards left of Queasy Tai Chi, start where a big tree offers a solid pla
 Doubles from thin fingers to C4 #2. Singles of Black Totem and C4 #3.
 
 # Pictures
-![Questionable Savate](questionable-savate.jpeg)
+![Questionable Savate](http://files.ygingras.net/quirky-combat-wall/questionable-savate.jpeg)

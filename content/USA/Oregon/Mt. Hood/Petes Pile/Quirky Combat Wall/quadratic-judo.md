@@ -26,5 +26,5 @@ Enter the woods by following the trail left of Qatari Ardah. The huge pillar for
 Singles to C4 #5, double of #.75, triple of #4, one tiny 10mm cam for the first move (Blue Alien or Green C3). A fourth #4 would be useful, but you don't need if you place conservatively. Bolted anchor.
 
 # Pictures
-![Start of the route](judo-kung-fu-start.jpg)
-![Stay left at the roof](quadratic-judo-1.jpeg)
+![Start of the route](http://files.ygingras.net/quirky-combat-wall/judo-kung-fu-start.jpeg)
+![Stay left at the roof](http://files.ygingras.net/quirky-combat-wall/quadratic-judo-1.jpeg)
